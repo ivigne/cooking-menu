@@ -23,8 +23,8 @@
 -
 -
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './deyangFoodScriptContent/lampshadedBeef';
+export const deyangFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

@@ -3,8 +3,8 @@
  * 特产：
  * 美食：眉山传统美食、特产有：糖油果子、辣汁泥肠、川味炸春卷、东坡豆腐肘、石磨豆花、东坡墨鱼、东坡香肠、苕丝糖、眉山跷脚牛肉、雅妹子风酱肉、仁寿黑龙滩全鱼席、芝麻糕、汪洋镇干巴牛肉、回锅羊肉、回锅鱼、文宫枇杷、曹家梨；东坡松花蛋；东坡区的东坡肘子、东坡肉、东坡鱼、龙眼稣、眉山脐橙和国优三苏酒；彭山的彭祖酒、甜皮鸭、漂汤；洪雅的雅鱼、藤椒油、瓦山春酒、钵钵鸡、道泉高山绿茶和各种野餐；青神的江团、汉阳鸡、中岩烤全羊、青神椪柑；丹棱的冻粑、不知火、曹八嬢米豆腐、刘鸡肉、大雅枇杷、棒棒鸡、彭祖黄金酒、黄丰柑橘、彭祖八百寿酒、雅连、洪雅藤椒油、高庙白酒、洪雅绿茶
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './meishanFoodScriptContent/lampshadedBeef';
+export const meishanFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

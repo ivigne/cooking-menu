@@ -48,8 +48,8 @@
 牛华麻辣烫
 牛华麻辣烫起源于岷江之滨乐山市五通桥区牛华镇。最初是船工和纤夫创造了麻辣烫这种简便易行而又独特的吃法，万物皆可烫。
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './leshanFoodScriptContent/lampshadedBeef';
+export const leshanFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

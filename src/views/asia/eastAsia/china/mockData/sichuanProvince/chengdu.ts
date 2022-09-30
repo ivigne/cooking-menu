@@ -5,8 +5,8 @@
 成都菜品：麻婆豆腐、回锅肉、鱼香肉丝、宫保鸡丁、口水鸡、青城山老腊肉、咸烧白、香水鱼、樟茶鸭、九尺板鸭、简阳羊肉汤、冒菜等。
 成都火锅：皇城老妈、川西坝子、海底捞、蜀九香、大龙燚等。
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './chengduFoodScriptContent/lampshadedBeef';
+export const chengduFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

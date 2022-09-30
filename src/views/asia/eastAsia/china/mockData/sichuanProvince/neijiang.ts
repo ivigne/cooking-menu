@@ -25,8 +25,8 @@
 黄老五花生酥 [16] 
 -
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './neijiangFoodScriptContent/lampshadedBeef';
+export const neijiangFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

@@ -28,8 +28,8 @@
 观音月母鸡汤
 泸州烤鱼
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './luzhouFoodScriptContent/lampshadedBeef';
+export const luzhouFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

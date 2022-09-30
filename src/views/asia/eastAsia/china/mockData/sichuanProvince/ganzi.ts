@@ -14,8 +14,8 @@
 霍尔古藏茶
 雪域俄色茶产于青藏高原东南缘的四川省甘孜藏族自治州炉霍县霍尔章谷地区，俄色树属于在无任何污染环境中生长的野生树，为雪域高原地区独特的稀有树种。在霍尔章谷地区，许多树龄已达百年甚至数百年。长期以来，俄色“霍尔古藏茶”在藏区仅作为接待贵宾、节庆活动和专供土司、活佛以及贵族阶层的奢侈饮品。 [28] 
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './ganziFoodScriptContent/lampshadedBeef';
+export const ganziFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

@@ -3,8 +3,8 @@
  * 特产：
  * 美食：遂宁市境内有射洪麦地纳牛肉、大英白柠檬、船山豆腐皮、安居黄金梨、卓筒井盐、大安舒牛肉、赤城湖鱼席、射洪野香猪、安居524红苕、蓬溪青花椒、蓬溪仙桃、俏观英系列、竹编、观音绣、魁山牌菜籽油、中国名酒·沱牌曲酒、‘香叶尖’系列茶、射洪麦加牛肉、省优名果牵牛山柚、安居泥脚杆花生、遂宁白芷等。
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './suiningFoodScriptContent/lampshadedBeef';
+export const suiningFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

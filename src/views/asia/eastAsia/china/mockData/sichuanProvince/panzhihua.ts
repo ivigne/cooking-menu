@@ -32,8 +32,8 @@
 没有更多词条了~
 
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './panzhihuaFoodScriptContent/lampshadedBeef';
+export const panzhihuaFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

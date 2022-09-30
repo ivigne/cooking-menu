@@ -13,8 +13,8 @@
 伍隍猪
 “伍隍猪”文字国家工商总局已受理注册，属于国家畜禽遗传资源，位于四川省资阳市雁江区伍隍镇。瘦肉率达50%，是中国地方品种中瘦肉率最高的品种。
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './ziyangFoodScriptContent/lampshadedBeef';
+export const ziyangFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

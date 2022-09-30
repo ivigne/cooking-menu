@@ -27,6 +27,7 @@
   // import { reactive } from 'vue'
   // import { downloadTemplate, getCustomerList, updateStatus, uploadCustomers } from './api'
   import { formConfig, tableColumnsConfig } from './config';
+  import { tableData } from './data';
   // import { formConfig, tableColumnsConfig } from './data';
   import { BasicTable, useTable } from '/@/components/Table';
   import { useMessage } from '/@/hooks/web/useMessage';
@@ -41,11 +42,11 @@
    */
 
   const { t } = useI18n();
-
+  console.log('tableData', tableData);
   const { createConfirm, createMessage } = useMessage();
 
   const [registerTable, { reload }] = useTable({
-    dataSource: [],
+    dataSource: tableData,
     columns: tableColumnsConfig,
     formConfig: formConfig,
     isTreeTable: true,

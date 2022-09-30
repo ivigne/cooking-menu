@@ -21,8 +21,8 @@
 巴中十大碗
 -
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './bazhongFoodScriptContent/lampshadedBeef';
+export const bazhongFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

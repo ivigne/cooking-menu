@@ -18,8 +18,8 @@
 油芍、酸菜豆花稀饭
 
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './guangyuanFoodScriptContent/lampshadedBeef';
+export const guangyuanFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

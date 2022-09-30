@@ -36,8 +36,8 @@
 凉热串串
 南充米粉 
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './nanchongFoodScriptContent/lampshadedBeef';
+export const nanchongFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

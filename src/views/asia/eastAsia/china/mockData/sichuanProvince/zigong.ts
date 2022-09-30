@@ -4,8 +4,8 @@
  * 美食：冷吃兔、火边子牛肉、富顺豆花
  *
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './zigongFoodScriptContent/lampshadedBeef';
+export const zigongFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

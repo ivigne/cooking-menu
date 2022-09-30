@@ -12,8 +12,8 @@
 山椒脆肠
 香辣可口家常小炒，主要的配料有脆肠、清油、泡椒、小青椒、小红椒、加上小酌特制秘汁。脆肠过水后，加油放脆肠爆炒加配料混炒再放秘汁起锅即可。
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './yaanFoodScriptContent/lampshadedBeef';
+export const yaanFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

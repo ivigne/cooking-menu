@@ -16,8 +16,8 @@
 梓潼酥饼
 俗称“薄脆子”。其发源地是梓潼许州，故又称许州酥饼，历史悠久，始创于唐代天宝年间。据传唐玄宗李隆基入蜀时，途经梓潼上亭铺，地方官员以酥饼贡奉，玄宗尝之赞不绝口，后上贡朝廷，逐成为“贡饼”从而扬名蜀中，成为传统糕点。梓潼酥饼主要以小麦精粉，化猪油，一级白糖，芝麻等为原料，采用传统工艺和独特配方制作。旧时用木炭火，现采用红外线炉烘烤而成，具有形如满月，色泽浅黄，光泽明亮，酥纹均匀清晰，香而酥脆，入口化渣，余味回香淡雅等特点。 [24] 
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './mianyangFoodScriptContent/lampshadedBeef';
+export const mianyangFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

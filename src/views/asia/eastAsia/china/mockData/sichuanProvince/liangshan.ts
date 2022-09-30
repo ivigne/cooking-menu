@@ -8,8 +8,8 @@
  * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、凉山彝族自治州脆李、达川安仁柚、龙会红桔、安仁甜柚、
  * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './liangshanFoodScriptContent/lampshadedBeef';
+export const liangshanFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

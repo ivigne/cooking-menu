@@ -41,8 +41,8 @@
 宜宾兰香斋熏肉
 兰香斋熏肉早在二十世纪二三十年代就以其独特的美味，闻名于省内外，曾在成都花会上展销时，荣获奖状和奖牌，远销成都重庆宁波上海和东南亚等地。
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './yibinFoodScriptContent/lampshadedBeef';
+export const yibinFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省

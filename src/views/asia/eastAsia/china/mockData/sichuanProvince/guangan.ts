@@ -19,8 +19,8 @@
 顾县豆干
 山苍子油
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+import { lampshadedBeefScriptsList } from './guanganFoodScriptContent/lampshadedBeef';
+export const guanganFoodsList = [
   // 灯影牛肉
   {
     province: '四川省', // 省
