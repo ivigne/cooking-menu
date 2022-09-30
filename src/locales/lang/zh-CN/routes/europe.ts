@@ -1,0 +1,58 @@
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2022-08-24 09:49:24
+ * @LastEditors: vigne 1186963387@qq.com
+ * @LastEditTime: 2022-08-24 17:49:48
+ * @FilePath: /cooking-menu/src/locales/lang/zh-CN/routes/asia.ts
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
+export default {
+  europe: '欧洲',
+  northernEurope: '北欧',
+  finland: '芬兰',
+  sweden: '瑞典',
+  norway: '挪威',
+  iceland: '冰岛',
+  denmarkFaroeIslands: '丹麦法罗群岛',
+  easternEurope: '东欧',
+  estonia: '爱沙尼亚',
+  latvia: '拉脱维亚',
+  lithuania: '立陶宛',
+  belarus: '白俄罗斯',
+  russia: '俄罗斯',
+  ukraine: '乌克兰',
+  moldova: '摩尔多瓦',
+  centralEurope: '中欧',
+  poland: '波兰',
+  czechRepublic: '捷克',
+  slovakia: '斯洛伐克',
+  hungary: '匈牙利',
+  germany: '德国',
+  austria: '奥地利',
+  switzerland: '瑞士',
+  liechtenstein: '列支敦士登',
+  westernEurope: '西欧',
+  uK: '英国',
+  ireland: '爱尔兰',
+  netherlands: '荷兰',
+  belgium: '比利时',
+  luxembourg: '卢森堡',
+  france: '法国',
+  monaco: '摩纳哥',
+  southernEurope: '南欧',
+  romania: '罗马尼亚',
+  bulgaria: '保加利亚',
+  serbia: '塞尔维亚',
+  macedonia: '马其顿',
+  albania: '阿尔巴尼亚',
+  greece: '希腊',
+  slovenia: '斯洛文尼亚',
+  croatia: '克罗地亚',
+  italy: '意大利',
+  vatican: '梵蒂冈',
+  sanMarino: '圣马力诺',
+  malta: '马耳他',
+  spain: '西班牙',
+  portugal: '葡萄牙',
+  andorra: '安道尔',
+};
