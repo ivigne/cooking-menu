@@ -27,26 +27,20 @@
   // import { reactive } from 'vue'
   // import { downloadTemplate, getCustomerList, updateStatus, uploadCustomers } from './api'
   import { formConfig, tableColumnsConfig } from './config';
-  import { tableData } from './data';
+  import { chinaTableData } from './data';
   // import { formConfig, tableColumnsConfig } from './data';
   import { BasicTable, useTable } from '/@/components/Table';
   import { useMessage } from '/@/hooks/web/useMessage';
   import { useModal } from '/@/components/Modal';
   // import { Upload } from 'ant-design-vue'
   import { useI18n } from '/@/hooks/web/useI18n';
-  /**
-   * 货主信息-列表页
-   *
-   * @author 李青
-   * @date 2022.07.08
-   */
 
   const { t } = useI18n();
   console.log('tableData', tableData);
   const { createConfirm, createMessage } = useMessage();
 
   const [registerTable, { reload }] = useTable({
-    dataSource: tableData,
+    dataSource: chinaTableData['siChuan'],
     columns: tableColumnsConfig,
     formConfig: formConfig,
     isTreeTable: true,

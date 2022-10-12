@@ -16,7 +16,7 @@
 |630100|xining|
 |630200|haidong|
 |632200|haibei Tibetan Autonomous Prefecture|
-|632300|huanganzangzuzizhiqu
+|632300|huangnanzangzuzizhiqu
 |632500|hainan Tibetan Autonomous Prefecture
 |632600|guoluo Tibetan Autonomous Prefecture
 |632700|yushu Tibetan Autonomous Prefecture

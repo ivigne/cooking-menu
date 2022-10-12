@@ -1,3 +1,11 @@
+<!--
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2022-09-27 12:08:10
+ * @LastEditors: vigne 1186963387@qq.com
+ * @LastEditTime: 2022-10-12 14:37:20
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/guangxi/readme.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ### 面积491718平方千米，人口9129万人。广西壮族自治区人民政府驻成都市锦江区督院街30号。
 <!-- ||||| -->
 |名称|区划代码|人口（万人）|面积（平方千米）|政府驻地|
@@ -22,8 +30,8 @@
 |450200|liuzhou|
 |450300|guilin|
 |450400|wuzhou|
-|450500|behai|
-|450600|fengchenggang|
+|450500|beihai|
+|450600|fangchenggang|
 |450700|qinzhou|
 |450800|guigang|
 |450900|yulin

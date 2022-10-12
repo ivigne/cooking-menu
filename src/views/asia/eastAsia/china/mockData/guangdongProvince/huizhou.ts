@@ -1,5 +1,5 @@
 /**
- * 广东省-广州市-特产美食
+ * 广东省-惠州市-特产美食
  * 特产：
  * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
  * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
@@ -9,7 +9,7 @@
  * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+export const huizhouFoodsList = [
   // 灯影牛肉
   {
     province: '广东省', // 省

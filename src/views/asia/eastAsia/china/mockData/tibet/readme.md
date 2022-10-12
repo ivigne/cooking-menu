@@ -11,12 +11,12 @@
 |542500|阿里地区|
 
 |540000|tibet Autonomous Region|
-|540100|lhasa|
-|540200|ricaze|
-|540300|chandu|
+|540100|lasa|
+|540200|rikaze|
+|540300|changdu|
 |540400|linzhi|
 |540500|shannan|
-|540600|nagqu
+|540600|naqu
 |542500|ali region
 
 

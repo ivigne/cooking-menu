@@ -1,3 +1,11 @@
+<!--
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2022-09-27 12:11:37
+ * @LastEditors: vigne 1186963387@qq.com
+ * @LastEditTime: 2022-10-12 11:43:58
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/xinjiang/readme.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ### 面积491718平方千米，人口9129万人。新疆维吾尔自治区人民政府驻成都市锦江区督院街30号。
 <!-- ||||| -->
 |名称|区划代码|人口（万人）|面积（平方千米）|政府驻地|
@@ -19,18 +27,18 @@
 |659000|自治区直辖县级行政区划|
 
 |650000|xinjiang Uygur Autonomous Region|
-|650100|urumqi|
-|650200|karamay|
-|650400|turpan|
+|650100|wulumuqi|
+|650200|kelamayi|
+|650400|tulufan|
 |650500|hami|
 |652300|changji Hui Autonomous Prefecture
-|652700|bortala Mongol Autonomous Prefecture
-|652800|bayin Goleng Mongol Autonomous Prefecture
-|652900|aksu Region|
-|653000|kizilsu Kirgiz Autonomous Prefecture|
-|653100|kashgar Region|
+|652700|boertala Mongol Autonomous Prefecture
+|652800|bayinguoleng Mongol Autonomous Prefecture
+|652900|akesu Region|
+|653000|kezilesukeerkezi  Autonomous Prefecture|
+|653100|kashi Region|
 |653200|hetian Region|
-|654000|ili Kazakh Autonomous Prefecture|
+|654000|yili Kazakh Autonomous Prefecture|
 |654200|tacheng Region|
 |654300|aletai Region
 |659000|administration of autonomous counties|

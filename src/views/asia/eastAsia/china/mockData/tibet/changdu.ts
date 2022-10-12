@@ -1,19 +1,27 @@
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2022-09-27 12:08:26
+ * @LastEditors: vigne 1186963387@qq.com
+ * @LastEditTime: 2022-10-12 11:37:47
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/tibet/chandu.ts
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
 /**
- * 内蒙古自治区-乌兰察布市-特产美食
+ * 西藏自治区-昌都市-特产美食
  * 特产：
  * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
  * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
  * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、乌兰察布橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、乌兰察布脆李、达川安仁柚、龙会红桔、安仁甜柚、
+ * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、昌都橄榄油、
+ * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、昌都脆李、达川安仁柚、龙会红桔、安仁甜柚、
  * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+export const changduFoodsList = [
   // 灯影牛肉
   {
-    province: '内蒙古自治区', // 省
-    city: '乌兰察布市', // 市
+    province: '西藏自治区', // 省
+    city: '昌都市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
@@ -66,8 +74,8 @@ export const dazhouFoodsList = [
   },
   // 尖椒肥肠
   {
-    province: '内蒙古自治区', // 省
-    city: '乌兰察布市', // 市
+    province: '西藏自治区', // 省
+    city: '昌都市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片

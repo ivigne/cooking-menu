@@ -1,3 +1,11 @@
+<!--
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2022-09-27 12:01:23
+ * @LastEditors: vigne 1186963387@qq.com
+ * @LastEditTime: 2022-10-11 16:54:10
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/innerMongolia/readme.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ### 面积491718平方千米，人口9129万人。内蒙古自治区人民政府驻成都市锦江区督院街30号。
 <!-- ||||| -->
 |名称|区划代码|人口（万人）|面积（平方千米）|政府驻地|
@@ -16,16 +24,16 @@
 |152900|阿拉善盟|
 
 |150000|nei Mongol Autonomous Region |
-|150100|hohhot|
+|150100|huhehaote|
 |150200|baotou|
 |150300|wuhai|
 |150400|chifeng
 |150500|tongliao
-|150600|erdos
+|150600|eerduosi
 |150700|hulunbeier
-|150800|bayannur
-|150900|ulaanchab
-|152200|xing'an Meng
+|150800|bayannaoer
+|150900|wulanchabu
+|152200|xingAnMeng
 |152500|xilinguolemeng
 |152900|alashan league
 饮食文化

@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:06:16
  * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-09-27 20:40:10
+ * @LastEditTime: 2022-10-12 15:02:26
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/components/jiangxiProvince/readme.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -27,13 +27,13 @@
 |360200|jingdezhen|
 |360300|pingxiang|
 |360400|jiujiang|
-|360500|xingyu|
+|360500|xinyu|
 |360600|yingtan|
 |360700|ganzhou|
 |360800|jiAn|
 |360900|yichun|
 |361000|fuzhou|
-|361100|shanrao|
+|361100|shangrao|
 
 
 

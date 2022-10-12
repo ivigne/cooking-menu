@@ -9,7 +9,7 @@
  * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
-export const dazhouFoodsList = [
+export const wenzhouFoodsList = [
   // 灯影牛肉
   {
     province: '浙江省', // 省
