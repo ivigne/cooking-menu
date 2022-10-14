@@ -2,10 +2,11 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:06:16
  * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-10-12 19:38:34
+ * @LastEditTime: 2022-10-13 14:54:16
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/fujianProvince/index.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
+
 import { anHuiFoodsList } from './mockData/anhuiProvince/index';
 import { aoMenFoodsList } from './mockData/aomen/index';
 import { beiJingFoodsList } from './mockData/beijing/index';
@@ -40,6 +41,7 @@ import { tibetFoodsList } from './mockData/tibet/index';
 import { xinJiangFoodsList } from './mockData/xinjiang/index';
 import { yunNanFoodsList } from './mockData/yunnanProvince/index';
 import { zheJiangFoodsList } from './mockData/zhejiangProvince/index';
+
 export const chinaTableData = {
   anHui: anHuiFoodsList,
   aoMen: aoMenFoodsList,

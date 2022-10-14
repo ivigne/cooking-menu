@@ -2,10 +2,11 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-08-25 11:46:22
  * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-10-12 20:07:49
+ * @LastEditTime: 2022-10-13 14:54:46
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/data.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
+
 import { BasicColumn, FormProps } from '/@/components/Table';
 // 食材类别-集合
 const foodCategoryList = [

@@ -1,18 +1,23 @@
+<!--
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2022-08-24 09:46:17
+ * @LastEditors: vigne 1186963387@qq.com
+ * @LastEditTime: 2022-10-13 15:40:11
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/index.vue
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <template>
   <div>
-    <BasicTable @register="registerTable" @row-db-click="onViewDetail">
+    <BasicTable @register="registerTable">
       <template #bodyCell="{ column, record }">
         <template v-if="column.key === 'action'">
-          <a-button type="link" @click="(e) => onUpdateStatus(e, record)">{{
-            record.statusCode == 1 ? t('common.disableText') : t('common.enableText')
+          <a-button type="link" @click="(e) => routerPage(e, '', record)">{{
+            t('routes.basic.foodsDetail')
           }}</a-button>
-          <a-button type="link" @click="(e) => onUpdateRecord(e, record)">{{
-            t('common.editText')
+          <a-button type="link" @click="(e) => routerPage(e, '', record)">{{
+            t('routes.basic.foodsScripts')
           }}</a-button>
         </template>
-      </template>
-      <template #toolbar>
-        <a-button type="primary" @click="(e) => onAdd(e)">{{ t('common.addText') }}</a-button>
       </template>
     </BasicTable>
     <!-- 省市区/县 菜名 配料  方法 技术总结 -->
@@ -24,22 +29,18 @@
   };
 </script>
 <script lang="ts" setup>
-  // import { reactive } from 'vue'
-  // import { downloadTemplate, getCustomerList, updateStatus, uploadCustomers } from './api'
   import { formConfig, tableColumnsConfig } from './config';
   import { chinaTableData } from './data';
-  // import { formConfig, tableColumnsConfig } from './data';
   import { BasicTable, useTable } from '/@/components/Table';
-  import { useMessage } from '/@/hooks/web/useMessage';
-  import { useModal } from '/@/components/Modal';
-  // import { Upload } from 'ant-design-vue'
+  // import { useMessage } from '/@/hooks/web/useMessage';
   import { useI18n } from '/@/hooks/web/useI18n';
+  import { router } from '/@/router';
 
   const { t } = useI18n();
-  console.log('tableData', tableData);
-  const { createConfirm, createMessage } = useMessage();
+  console.log('tableData', chinaTableData['siChuan']);
+  // const { createConfirm, createMessage } = useMessage();
 
-  const [registerTable, { reload }] = useTable({
+  const [registerTable] = useTable({
     dataSource: chinaTableData['siChuan'],
     columns: tableColumnsConfig,
     formConfig: formConfig,
@@ -57,78 +58,9 @@
       dataIndex: 'action',
     },
   });
-
-  /**
-   * 编辑货主状态
-   * @param e
-   * @param record
-   */
-  const onUpdateStatus = (e, record) => {
+  const routerPage = (e, url, record) => {
+    console.log(router, record);
     e.stopPropagation();
-
-    const { id, statusCode } = record;
-    const preStatus = ~~statusCode === 1 ? 0 : 1;
-    createConfirm({
-      iconType: 'warning',
-      title: t('common.tipsText'),
-      content: `${t('common.okText')}${
-        ~~preStatus === 0 ? t('common.disableText') : t('common.enableText')
-      } ${t('routes.basicData.customerText')}`,
-      onOk: async () => {
-        updateStatus(id).then(() => {
-          reload();
-          createMessage.success(t('routes.basicData.successfulStatusText'));
-        });
-      },
-    });
+    router.push(url);
   };
-
-  /**
-   * 新增编辑
-   */
-
-  const [registerOwnerEdit, { openModal: openOwnerEditorModal }] = useModal();
-  //编辑
-  const onUpdateRecord = (e, record) => {
-    e.stopPropagation();
-    openOwnerEditorModal(true, { row: record, type: 1 });
-  };
-  // 查看详情
-  const onViewDetail = (row) => {
-    openOwnerEditorModal(true, { row, type: 2 });
-  };
-  //新增
-  const onAdd = (e) => {
-    e.stopPropagation();
-    openOwnerEditorModal(true, { row: {}, type: 0 });
-  };
-
-  /**
-   * 下载导入
-   */
-  // 导入文件
-  // const fileList = reactive([])
-  // const onDownloadTemplate = (e) => {
-  //   e.stopPropagation()
-  //   downloadTemplate()
-  // }
-  // const onBeforeUpload = (file) => {
-  //   uploadCustomers({ name: 'multipartFile', file })
-  //     .then((res) => {
-  //       if (res) {
-  //         createMessage.success(t('common.importText') + t('common.successText'))
-  //         reload()
-
-  //         return
-  //       }
-  //       createMessage.error(t('common.importText') + t('common.failText'))
-  //     })
-  //     .catch((err) => {
-  //       createMessage.error(
-  //         err?.message || t('common.importText') + t('common.templateText') + t('common.failText')
-  //       )
-  //     })
-
-  //   return false
-  // }
 </script>
