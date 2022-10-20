@@ -1,114 +1,88 @@
+<!--
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2022-10-13 12:03:22
+ * @LastEditors: vigne 1186963387@qq.com
+ * @LastEditTime: 2022-10-20 14:50:25
+ * @FilePath: /cooking-menu/src/views/foods/details/index.vue
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <template>
-  <BasicModal @register="register" :title="title" @ok="onOk">
-    <BasicForm @register="registerForm" />
-    <CollapseContainer class="consigner-form">
-      <Row type="flex" justify="space-between">
-        <Col :span="20">
-          <!-- <Card :tab-list="tabListTitle" :bordered="false"> </Card> -->
-        </Col>
-      </Row>
-    </CollapseContainer>
-  </BasicModal>
+  <PageWrapper title="基础详情页" contentBackground>
+    <!-- <Description
+      size="middle"
+      title="用户信息"
+      :bordered="false"
+      :column="3"
+      :data="personData"
+      :schema="personSchema"
+    /> -->
+    <a-divider />
+    <div class="pt-4 m-4 desc-wrap">
+      <a-card title="用户信息" :bordered="false" class="mt-5">
+        <a-descriptions title="信息组" :column="3">
+          <a-descriptions-item label="简介">{{ personData.introduction }}</a-descriptions-item>
+          <a-descriptions-item label="故事背景">
+            {{ personData.storyBackground }}
+          </a-descriptions-item>
+          <a-descriptions-item label="原料"> {{ personData.ingredients }} </a-descriptions-item>
+        </a-descriptions>
+
+        <a-card title="多层级信息组">
+          <a-descriptions title="制作过程" :column="3">
+            <a-descriptions-item
+              v-for="(item, index) in personData.productionProcess"
+              :key="index"
+              :label="'' + stepArr[index]"
+            >
+              {{ item.stepDesc }}
+            </a-descriptions-item>
+          </a-descriptions>
+          <a-divider />
+          <a-descriptions title="营养价值" :column="1">
+            <a-descriptions-item
+              v-for="(item, index) in personData.nutritionalValue"
+              :key="index"
+              :label="'' + stepArr[index]"
+            >
+              {{ item.stepDesc }}
+            </a-descriptions-item>
+          </a-descriptions>
+          <a-divider />
+          <a-descriptions title="食用功效" :column="1">
+            <a-descriptions-item
+              v-for="(item, index) in personData.edibleEffects"
+              :key="index"
+              :label="'' + stepArr[index]"
+            >
+              {{ item.stepDesc }}
+            </a-descriptions-item>
+          </a-descriptions>
+          <a-descriptions title="做法" :column="1">
+            <a-descriptions-item
+              v-for="(item, index) in personData.practiceList"
+              :key="index"
+              :label="'' + stepArr[index]"
+            >
+              {{ item.stepDesc }}
+            </a-descriptions-item>
+          </a-descriptions>
+        </a-card>
+      </a-card>
+    </div>
+  </PageWrapper>
 </template>
 <script lang="ts" setup>
-  import { Row, Col, Card, Divider } from 'ant-design-vue';
-  import { CollapseContainer } from '/@/components/Container';
-  import { BasicForm, useForm } from '/@/components/Form/index';
-  import { computed, ref } from 'vue';
-  import { formSchemas } from './config';
-
-  import { useMessage } from '/@/hooks/web/useMessage';
-  import { insertCustomer, updateCustomer, warehouseSelect } from '../api';
-  import { useI18n } from '/@/hooks/web/useI18n';
-  /**
-   * 货主信息-新增/编辑页
-   *
-   * @author 李青
-   * @date 2022.07.08
-   */
-  const { t } = useI18n();
-
-  const activeTabKey = ref('1');
-  const tabListTitle = [
-    {
-      key: '1',
-      tab: t('routes.basicData.specialSettingIn'),
-    },
-    {
-      key: '2',
-      tab: t('routes.basicData.specialSettingOut'),
-    },
-  ];
-  const emit = defineEmits(['success', 'register']);
-
-  const { createMessage } = useMessage();
-
-  /**
-   * 弹框控制
-   */
-  const currentData = ref<{ id?: number; consignerRuleVo?: object }>({});
-
-  /**
-   * 表单
-   */
-  const [registerForm, { setFieldsValue, getFieldsValue, resetFields, clearValidate, validate }] =
-    useForm({
-      layout: 'inline',
-      labelWidth: 120,
-      schemas: formSchemas(),
-      showResetButton: false,
-      showSubmitButton: false,
-      actionColOptions: { span: 24 },
-    });
-
-  /** --------------新增/编辑 表单初始化-------------- */
-  async function onReciveData(data) {
-    const { row, type } = data;
-
-    if (type !== undefined && type !== null) {
-      editType.value = type;
-      currentData.value = row;
-      resetFields();
-      resetFieldsWarehouse();
-      resetFieldsIn();
-      resetFieldsOut();
-      resetSchema(formSchemasConsigner());
-      // console.log(data, row,getFieldsValueWarehouse())
-      if (row && row.consignerRuleVo) {
-        n.value = 1;
-        const { transportSetting, warehouseResourceSetting, specialSetting } =
-          (row && row.consignerRuleVo) || {};
-        const setting = {};
-        (await warehouseResourceSetting) &&
-          warehouseResourceSetting.settings.map((item, i) => {
-            i > 0 && add();
-            setting['settings[' + i + '].statusCode'] = item.statusCode;
-            setting['settings[' + i + '].warehouseCode'] = item.warehouseCode;
-          });
-        // console.log('resetFieldsWarehouse',warehouseResourceSetting,setting,{ ...transportSetting, ...setting })
-        await setFieldsValue(currentData.value);
-        await setFieldsValueWarehouse({ ...transportSetting, ...setting });
-        await setFieldsValueIn(specialSetting.in);
-        await setFieldsValueOut(specialSetting.out);
-        clearValidate();
-        clearValidateWarehouse();
-        clearValidateIn();
-        clearValidateOut();
-      }
-    } else {
-      useMessage().createMessage.error(t('routes.basicData.missPopupBoxType'));
-    }
-  }
+  import { ref } from 'vue';
+  import { Description } from '/@/components/Description/index';
+  import { PageWrapper } from '/@/components/Page';
+  const personSchema = ref({});
+  const personData = ref({});
+  const stepArr = ref([]);
+  stepArr.value = ['一', '二', '三', '四', '五', '六', '七', '八', '九', '十'];
 </script>
-<style lang="less">
-  .consigner-form {
-    .ant-col-20 {
-      margin: 0 auto;
-    }
-
-    .ant-divider-plain.ant-divider-with-text {
-      font-size: 16px;
-      font-weight: 500;
-    }
+<style lang="less" scoped>
+  .desc-wrap {
+    padding: 16px;
+    background-color: @component-background;
   }
 </style>

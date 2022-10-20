@@ -68,7 +68,7 @@ export const bazhongFoodsList = [
       practiceList: [
         {
           way: '1', // 步骤名称
-          practiceName: '1', // 做法详情介绍
+          practiceDesc: '1', // 做法详情介绍
         },
       ],
     },
@@ -122,7 +122,7 @@ export const bazhongFoodsList = [
       practiceList: [
         {
           way: '1', // 步骤名称
-          practiceName: '1', // 做法详情介绍
+          practiceDesc: '1', // 做法详情介绍
         },
       ],
     },

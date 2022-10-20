@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-08-24 09:46:17
  * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-10-13 15:40:11
+ * @LastEditTime: 2022-10-20 11:10:21
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/index.vue
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -54,7 +54,7 @@
     pagination: { pageSize: 10 },
     actionColumn: {
       title: t('common.operationText'),
-      width: 180,
+      width: 280,
       dataIndex: 'action',
     },
   });

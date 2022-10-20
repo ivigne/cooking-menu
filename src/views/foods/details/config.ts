@@ -2,12 +2,41 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-08-25 11:46:22
  * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-10-13 19:38:20
+ * @LastEditTime: 2022-10-20 14:38:25
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/data.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 import { FormSchema } from '/@/components/Form';
-
+// detail: {
+//       introduction: '', // 简介
+//       storyBackground: '', // 故事背景
+//       ingredients: '', // 原料
+//       // 制作过程
+//       productionProcess: [
+//         {
+//           stepDesc: '', // 步骤描述
+//         },
+//       ],
+//       // 营养价值
+//       nutritionalValue: [
+//         {
+//           stepDesc: '', // 步骤描述
+//         },
+//       ],
+//       // 食用功效
+//       edibleEffects: [
+//         {
+//           stepDesc: '', // 步骤描述
+//         },
+//       ],
+//       // 做法
+//       practiceList: [
+//         {
+//           way: '1', // 步骤名称
+//           practiceDesc: '1', // 做法详情介绍
+//         },
+//       ],
+//     },
 // 美食详情页
 export const formSchemas: () => FormSchema[] = () => [
   {
