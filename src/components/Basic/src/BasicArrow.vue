@@ -1,5 +1,5 @@
 <!--
- * @Author: Vben
+ * @Author: CookingMenu
  * @Description: Arrow component with animation
 -->
 <template>

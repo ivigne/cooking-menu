@@ -1,5 +1,5 @@
 <!--
- * @Author: Vben
+ * @Author: CookingMenu
  * @Description: Multi-language switching component
 -->
 <template>

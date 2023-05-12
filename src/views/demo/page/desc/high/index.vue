@@ -28,7 +28,7 @@
         <a-steps :current="1" progress-dot size="small">
           <a-step title="创建项目">
             <template #description>
-              <div>Vben</div>
+              <div>CookingMenu</div>
               <p>2016-12-12 12:32</p>
             </template>
           </a-step>

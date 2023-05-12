@@ -9,7 +9,7 @@
 
 ## 简介
 
-Vue Vben Admin 是一个免费开源的中后台模版。使用了最新的`vue3`,`vite2`,`TypeScript`等主流技术开发，开箱即用的中后台前端解决方案，也可用于学习参考。
+Vue Cooking Menu 是一个免费开源的中后台模版。使用了最新的`vue3`,`vite2`,`TypeScript`等主流技术开发，开箱即用的中后台前端解决方案，也可用于学习参考。
 
 ## 特性
 
@@ -154,7 +154,7 @@ pnpm build
 
 ## 维护者
 
-[@Vben]()
+[@CookingMenu]()
 
 ## 捐赠
 
@@ -172,4 +172,4 @@ pnpm build
 
 ## License
 
-[MIT © Vben-2020](./LICENSE)
+[MIT © CookingMenu-2020](./LICENSE)

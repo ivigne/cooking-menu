@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Vue Vben Admin is a free and open source middle and back-end template. Using the latest `vue3`, `vite2`, `TypeScript` and other mainstream technology development, the out-of-the-box middle and back-end front-end solutions can also be used for learning reference.
+Vue Cooking Menu is a free and open source middle and back-end template. Using the latest `vue3`, `vite2`, `TypeScript` and other mainstream technology development, the out-of-the-box middle and back-end front-end solutions can also be used for learning reference.
 
 ## Feature
 
@@ -157,7 +157,7 @@ Support modern browsers, not IE
 
 ## Maintainer
 
-[@Vben]()
+[@CookingMenu]()
 
 ## Donate
 
@@ -174,4 +174,4 @@ If you think this project is helpful to you, you can help the author buy a cup o
 
 ## License
 
-[MIT © Vben-2020](./LICENSE)
+[MIT © CookingMenu-2020](./LICENSE)

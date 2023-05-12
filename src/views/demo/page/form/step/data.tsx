@@ -41,7 +41,7 @@ export const step1Schemas: FormSchema[] = [
     field: 'payeeName',
     component: 'Input',
     label: '收款人姓名',
-    defaultValue: 'Vben',
+    defaultValue: 'CookingMenu',
     required: true,
     colProps: {
       span: 24,
