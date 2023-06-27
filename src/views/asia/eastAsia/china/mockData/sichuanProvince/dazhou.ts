@@ -118,4 +118,10 @@ export const dazhouFoodsList = [
     remark: '', // 备注
     tags: null, // 标签
   },
+  // 尖椒肥肠
+  // 粉蒸鲶鱼
+  // 江阳酸辣鸡
+  // 大风羊肉
+  // 羊肉格格
+  // 石梯蒸鱼
 ];

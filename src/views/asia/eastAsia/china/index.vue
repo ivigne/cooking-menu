@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-08-24 09:46:17
  * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-10-20 14:55:53
+ * @LastEditTime: 2023-06-26 19:27:59
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/index.vue
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -29,6 +29,7 @@
   };
 </script>
 <script lang="ts" setup>
+  // import { unref } from 'vue';
   import { formConfig, tableColumnsConfig } from './config';
   import { chinaTableData } from './data';
   import { BasicTable, useTable } from '/@/components/Table';
@@ -59,9 +60,10 @@
     },
   });
   const routerPage = (e, url, record) => {
-    console.log(router, record);
+    console.log(router, record, record?.scripts);
     e.stopPropagation();
     console.log('qing', url);
+    localStorage.setItem('prevRecordData', JSON.stringify(record?.scripts));
     router.push(url);
   };
 </script>
