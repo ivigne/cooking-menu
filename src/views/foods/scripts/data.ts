@@ -2,18 +2,18 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-08-25 11:46:22
  * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-10-20 10:54:11
- * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/data.ts
+ * @LastEditTime: 2023-06-28 18:28:38
+ * @FilePath: /cooking-menu/src/views/foods/scripts/data.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 import { BasicColumn } from '/@/components/Table';
-// 食材类别-集合
-const foodCategoryList = [
-  {
-    label: '牛肉',
-    value: 'beef',
-  },
-];
+// // 食材类别-集合
+// const foodCategoryList = [
+//   {
+//     label: '牛肉',
+//     value: 'beef',
+//   },
+// ];
 // 	拍摄手法				画面表达			后期剪辑				备注
 export const tableColumnsConfig: BasicColumn[] = [
   {
