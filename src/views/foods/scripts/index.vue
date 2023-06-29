@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-10-13 12:04:32
  * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2023-06-28 14:03:54
+ * @LastEditTime: 2023-06-29 18:54:10
  * @FilePath: /cooking-menu/src/views/foods/scripts/index.vue
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -42,7 +42,8 @@
   import printJS from 'print-js';
   import { aoaToSheetXlsx } from '/@/components/Excel/src/Export2Excel';
   import { isFunction } from '/@/utils/is';
-
+  // import { openDB } from '/@/views/utils.js';
+  // openDB()
   const { createMessage } = useMessage();
 
   const { t } = useI18n();
