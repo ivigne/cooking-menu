@@ -1,3 +1,16 @@
+<!--
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-09-07 10:48:11
+ * @LastEditors: vigne 1186963387@qq.com
+ * @LastEditTime: 2023-09-26 15:38:30
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/japan/readme.md
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+-->
+
+地方菜系列:国家-城市
+
 ## 华北地区
 
 ### 北京市（京）、天津市（津）、河北省（冀）、山西省（晋）、内蒙古自治区（内蒙古）
