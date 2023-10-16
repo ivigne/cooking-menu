@@ -12,7 +12,7 @@ export const chongqingFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
@@ -66,7 +66,7 @@ export const chongqingFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
@@ -120,7 +120,7 @@ export const chongqingFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
@@ -174,7 +174,7 @@ export const chongqingFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
@@ -228,7 +228,7 @@ export const chongqingFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
@@ -282,7 +282,7 @@ export const chongqingFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
@@ -336,7 +336,7 @@ export const chongqingFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
@@ -390,7 +390,7 @@ export const chongqingFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码

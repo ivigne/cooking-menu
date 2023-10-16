@@ -8,52 +8,7 @@
  * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、达州脆李、达川安仁柚、龙会红桔、安仁甜柚、
  * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
  */
-const othersCounty = [
-  {
-    code: '710600',
-    value: '南投县',
-  },
-  {
-    code: '711200',
-    value: '宜兰县',
-  },
-  {
-    code: '711300',
-    value: '新竹县',
-  },
-  {
-    code: '711500',
-    value: '苗栗县',
-  },
-  {
-    code: '711700',
-    value: '彰化县',
-  },
-  {
-    code: '711900',
-    value: '嘉义县',
-  },
-  {
-    code: '712100',
-    value: '云林县',
-  },
-  {
-    code: '712400',
-    value: '屏东县',
-  },
-  {
-    code: '712500',
-    value: '台东县',
-  },
-  {
-    code: '712600',
-    value: '花莲县',
-  },
-  {
-    code: '712700',
-    value: '澎湖县',
-  },
-];
+
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const othersCountyFoodsList = [
   // 灯影牛肉
@@ -64,7 +19,7 @@ export const othersCountyFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
@@ -118,7 +73,7 @@ export const othersCountyFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码

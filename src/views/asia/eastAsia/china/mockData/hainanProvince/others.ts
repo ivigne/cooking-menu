@@ -8,68 +8,7 @@
  * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、达州脆李、达川安仁柚、龙会红桔、安仁甜柚、
  * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
  */
-const othersCounty = [
-  {
-    code: '469001',
-    value: '五指山市',
-  },
-  {
-    code: '469002',
-    value: '琼海市',
-  },
-  {
-    code: '469005',
-    value: '文昌市',
-  },
-  {
-    code: '469006',
-    value: '万宁市',
-  },
-  {
-    code: '469007',
-    value: '东方市',
-  },
-  {
-    code: '469021',
-    value: '定安县',
-  },
-  {
-    code: '469022',
-    value: '屯昌县',
-  },
-  {
-    code: '469023',
-    value: '澄迈县',
-  },
-  {
-    code: '469024',
-    value: '临高县',
-  },
-  {
-    code: '469025',
-    value: '白沙黎族自治县',
-  },
-  {
-    code: '469026',
-    value: '昌江黎族自治县',
-  },
-  {
-    code: '469027',
-    value: '乐东黎族自治县',
-  },
-  {
-    code: '469028',
-    value: '陵水黎族自治县',
-  },
-  {
-    code: '469029',
-    value: '保亭黎族苗族自治县',
-  },
-  {
-    code: '469030',
-    value: '琼中黎族苗族自治县',
-  },
-];
+
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const othersFoodsList = [
   // 灯影牛肉
@@ -80,7 +19,7 @@ export const othersFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
@@ -134,7 +73,7 @@ export const othersFoodsList = [
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '灯影牛肉', // 美食名称
-    foodName_en: 'lampshadedBeef', // 美食英文名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
