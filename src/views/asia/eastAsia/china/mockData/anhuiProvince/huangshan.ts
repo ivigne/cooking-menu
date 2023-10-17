@@ -17,7 +17,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -72,7 +72,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -127,7 +127,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -182,7 +182,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -237,7 +237,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -292,7 +292,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -347,7 +347,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -402,7 +402,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -457,7 +457,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -512,7 +512,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -567,7 +567,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -622,7 +622,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -677,7 +677,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -732,7 +732,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -787,7 +787,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -842,7 +842,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -897,7 +897,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -951,7 +951,7 @@ export const huangshanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
     cuisineCategoryName: '徽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称

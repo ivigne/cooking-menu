@@ -1,22 +1,30 @@
-/**
- * 安徽省-马鞍山市-特产美食
- * 当涂酱菜
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-10-17 14:17:43
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/fujianProvince/pingtan.ts
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
-import { lampshadedBeefScriptsList } from './maanshanFoodScriptContent/lampshadedBeef';
-export const maanshanFoodsList = [
-  // 当涂酱菜
+/**
+ * 福建-平潭-特产美食
+ * 生鱼面
+ */
+import { lampshadedBeefScriptsList } from './pingtanFoodScriptContent/lampshadedBeef';
+export const pingtanFoodsList = [
+  // 生鱼面
   {
-    province: '安徽省', // 省
-    city: '马鞍山市', // 市
+    province: '福建省', // 省
+    city: '莆田市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '当涂酱菜', // 美食名称
+    foodName: '生鱼面', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
-    cuisineCategoryName: '徽菜', // 所属菜系
+    cuisineCategoryCode: 'fujianCuisine', // 菜系编码
+    cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

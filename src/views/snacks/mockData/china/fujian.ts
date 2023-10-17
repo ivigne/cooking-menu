@@ -3,7 +3,7 @@
  * 蛎饼、手抓面、五香捆蹄、鼎边糊、捞化、佛跳墙、福州鱼丸、五香卷、卤面、沙茶面、土笋冻、泉州肉粽、光饼、洪濑鸡爪、玉饺、春卷、盒面、拌面、
  * 牛肉滑、平湖鱼汤、扁肉、扁食、莆田炝肉、莆仙山里炝粉、莆田泗粉、兴化炒米粉、漳州烤鸭粉、酸菜面、清汤面、福鼎肉片、芋头面、青草炖兔肉、
  * 特色鸭草滋补汤、闽西八大干、海蛎煎、三明熏味、糍粑、兜汤、永安粿条、卤肉、千层糕（又称九层粿，早起粿）、麦煎、方糕、地瓜饼（番薯起）、
- * 焖豆腐、蛏溜、荔枝肉、煎包、拌面、豌豆饼、豆浆炒米粉、海蛎饼、莆仙红团、石室岩煎粿等。
+ * 焖豆腐、蛏溜、荔枝肉、煎包、拌面、豌豆饼、豆浆炒米粉、海蛎饼、莆仙红团、石室岩煎粿、葱肉饼、春卷、燕皮芋泥等。
  */
 import { lampshadedBeefScriptsList } from './fujianFoodScriptContent/lampshadedBeef';
 export const fujianFoodsList = [
@@ -2878,6 +2878,168 @@ export const fujianFoodsList = [
     foodAvatar: '', // 美食图片
     foodName: '石室岩煎粿', // 美食名称
     foodName_en: 'shiluyanFriedRiceCake', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 葱肉饼
+  {
+    province: '福建省', // 省
+    city: '', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '葱肉饼', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 春卷
+  {
+    province: '福建省', // 省
+    city: '', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '春卷', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 燕皮芋泥
+  {
+    province: '福建省', // 省
+    city: '', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '燕皮芋泥', // 美食名称
+    foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码

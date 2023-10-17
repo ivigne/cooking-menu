@@ -1,28 +1,22 @@
 /**
  * 重庆-重庆市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、重庆橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、重庆脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+ * 重庆火锅、川菜、渝菜（重庆菜、渝派川菜）、水煮鱼、回锅肉、酸菜鱼、辣子鸡、泉水鸡、水煮肉片、老鸭汤、酸辣粉、鱼香肉丝、泡椒肥肠、粉蒸肉、烧白、重庆小面、重庆小吃等。
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+import { lampshadedBeefScriptsList } from './chongqingFoodScriptContent/lampshadedBeef';
 export const chongQingFoodsList = [
-  // 灯影牛肉
+  // 重庆火锅
   {
     province: '重庆市', // 省
     city: '重庆市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '重庆火锅', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -64,19 +58,667 @@ export const chongQingFoodsList = [
     remark: '', // 备注
     tags: null, // 标签
   },
-  // 尖椒肥肠
+  // 水煮鱼
   {
     province: '重庆市', // 省
     city: '重庆市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '水煮鱼', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
     cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 回锅肉
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '回锅肉', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 酸菜鱼
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '酸菜鱼', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 辣子鸡
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '辣子鸡', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 泉水鸡
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '泉水鸡', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 水煮肉片
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '水煮肉片', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 老鸭汤
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '老鸭汤', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 酸辣粉
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '酸辣粉', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 鱼香肉丝
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '鱼香肉丝', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 泡椒肥肠
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '泡椒肥肠', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 粉蒸肉
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '粉蒸肉', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 烧白
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '烧白', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
+    tasteCode: 'spicy', // 口味编码
+    tasteName: '麻辣', // 口味名称
+    cookingTypeCode: 'multiple', // 烹饪类型编码
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
+    // 美食详情
+    detail: {
+      introduction: '', // 简介
+      storyBackground: '', // 故事背景
+      ingredients: '', // 原料
+      // 制作过程
+      productionProcess: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 营养价值
+      nutritionalValue: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 食用功效
+      edibleEffects: [
+        {
+          stepDesc: '', // 步骤描述
+        },
+      ],
+      // 做法
+      practiceList: [
+        {
+          way: '1', // 步骤名称
+          practiceDesc: '1', // 做法详情介绍
+        },
+      ],
+    },
+    shootingStatus: 0, // 拍摄状态
+    scripts: lampshadedBeefScriptsList,
+    remark: '', // 备注
+    tags: null, // 标签
+  },
+  // 重庆小面
+  {
+    province: '重庆市', // 省
+    city: '重庆市', // 市
+    district: '', // 区
+    address: '', // 地方名称
+    foodAvatar: '', // 美食图片
+    foodName: '重庆小面', // 美食名称
+    foodName_en: '', // 美食英文名称
+    foodCategoryCode: 'beef', // 食材类别编码
+    foodCategoryName: '牛肉', // 食材类别名称
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

@@ -1,14 +1,24 @@
 /**
  * 福建-泉州市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、泉州橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、泉州脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
- */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+永春老醋、源和堂蜜饯 
+
+类别
+特产
+特色主食
+咸饭、萝卜饭、芥菜饭、花菜饭、卤肉饭，芋仔饭、壶仔饭、泉州炒饭、鱼仔粥、鸭仔粥、卤面、面线糊、湖头米粉、豆签、浮果、粉团、豆粽、甜粽、肉粽、番薯粉粿条、澳茄粿、酸菜鸡丝面、浮粿。
+特色汤类
+贡丸、鱼丸（深沪水丸）、元宵丸、永春白鸭汤、黑豆龙骨汤、苦菜大肠汤、马鲛羹、墨鱼羹、香菇豆猪舌汤、灌肠仔汤、石狮牛肉羹、藕段排骨汤、萝卜排骨汤、玉米排骨汤、水豆腐汤、七彩干贝汤、肉燕汤、猪血汤。
+特色包子
+水晶包、肉夹包、东方包、菜包、水煎包。
+特色素菜
+安溪水瓮菜、润饼菜、窖菜、德化淮山、凉拌苦瓜、辣油笋菜、蒜泥茄子、香油拌海带。
+特色荤菜
+洪濑鸡爪、崇武鱼卷、西街田螺、姜母鸭、鳗鱼干炖猪脚、焖猪肘、烘猪脚、牛排（有别于西餐牛排）、水门巷炖羊肉、猪血小肠、蚝（东石蚝）（浔埔蚝）、清蒸金枪鱼、文蛤蒸蛋、酱香花蛤、蒸油蛤、炒泥蚶、蒸苦螺、炒竹蛏、炒大头螺、沙鱼冻、芥菜炒虾皮、十香全鸭、香芋焖鸭。
+特色甜品
+石花膏、茜草粿（仙草密）、桔红糕、绿豆饼、粕丸、麻糍（麻吉）、榜舍龟、碗糕、花生汤、豆沙饼、石狮塘头甜粿、石狮芋圆、芋饼、芋蓉（芋泥）、土笋冻、柿饼、菜头酸、糖醋莲藕片、贡糖、椰子饼、雪拉膏、四果汤等。
+
+*/
+import { lampshadedBeefScriptsList } from './quanzhouFoodScriptContent/lampshadedBeef';
 export const quanzhouFoodsList = [
   // 灯影牛肉
   {
@@ -21,8 +31,8 @@ export const quanzhouFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'fujianCuisine', // 菜系编码
+    cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +85,8 @@ export const quanzhouFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'fujianCuisine', // 菜系编码
+    cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
