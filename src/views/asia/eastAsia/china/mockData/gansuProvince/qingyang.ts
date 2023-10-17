@@ -1,12 +1,15 @@
 /**
  * 甘肃-庆阳市-特产美食
  * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、庆阳橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、庆阳脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+臊子面、羊羔肉、荞剁面、灌肠、饸饹面
+鳌跳崖
+鳌跳崖是甘肃省镇原县是一种传统特色小吃。是农民在农忙时的一种简易充饥的吃法。将麦面或其它杂面用水调和成稠糊状，用筷子直接夹糊块投入开水锅中煮熟，配上简易的青菜，加入盐、醋、辣子，谓鳌跳崖，或叫圪塔饭。
+镇原烧鸡
+镇原县特色的烧鸡。以鸡肉为主料的菜品。
+镇原糖油饼
+镇原糖油饼的生产和制作可以追溯到清朝中期，已有上百年的历史，镇原糖油饼是以酵母面、干面粉、食用植物油、白砂糖、蜂糖为原料，加入一定量的小苏打和水，经炸制而成的风味食品，其外观呈金黄色，皮薄酥脆，味道香甜，驰名陇原各地，是省内知名的风味食品。镇原糖油饼曾多次在庆阳市烹任大赛中获奖 。
+富贵飘香卷
+富贵飘香卷是镇原一道传统小吃，用料简单，外脆内嫩，酥香可口。它是把面包切成四方块，一边加香蕉一边加豆沙馅，用鸡蛋糊裹面包，然后放入五成油温中炸成蛋黄色即成。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const qingyangFoodsList = [
@@ -21,8 +24,8 @@ export const qingyangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
+    cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +78,8 @@ export const qingyangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
+    cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

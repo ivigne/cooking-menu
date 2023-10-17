@@ -1,12 +1,15 @@
 /**
  * 甘肃-武威市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、武威橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、武威脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+凉州三套车
+凉州三套车，是指凉州行面、腊肉、冰糖圆枣茯茶，为大众化的美食，被称为凉州快餐。 [54]
+凉州凉面
+凉州凉面的制作用精粉兑蓬灰（一种绿色食用碱），掺入少量的清油，反复揉揣，揉好后要“饧”三四个小时，然后根据需要拉成各种形状，或细、或粗、或宽等。煮好，放进凉水激两遍，然后用清油“拌”两遍。
+凉州大月饼
+凉州大月饼，除拥有千层饼变形的色泽花纹十分漂亮的特点外，最大的特点就是“大”。蒸制这种月饼最短需要一个半小时，多则需要近三个小时。这种纯粹手工制作的月饼看起来夸张，吃起来喷香。一个月饼，就足以让一家人吃上一个中秋节。同时，凉州大月饼也是武威人在节日期间馈赠亲友的家常礼品。 [55]
+米汤油馓子
+米汤油馓子是凉州特色小吃之一。米汤用凉州特产黄米和少许扁豆调入砂锅用旺火熬成，再将少许面粉或玉米淀粉打成糊状兑入。这是一种经济实惠的风味食品。
+武威面皮子
+武威面皮子是面粉制的食品，色泽晶莹黄亮，半透明如玉，切成筷子粗细的长条状食品，再加上酱油、香醋、蒜汁、辣椒油、精盐等调料即可食用。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const wuweiFoodsList = [
@@ -21,8 +24,8 @@ export const wuweiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
+    cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +78,8 @@ export const wuweiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
+    cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

@@ -1,12 +1,15 @@
 /**
  * 甘肃-金昌市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、金昌橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、金昌脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+香豆卜拉子
+采选香豆叶、艾叶、榆钱等天然植物花叶，掺优质精细面粉蒸制而成。色香味俱佳，为永昌传统的地方美食。
+-
+永昌水饺
+永昌水饺为永昌县地方小吃，以洋芋、麻腐、精选大肉、羊肉为主，皮薄馅多，香味淳厚，营养丰富，食而不腻。
+-
+羊肉垫卷子
+羊羔肉垫卷子是河西地区几百年来风行的一种风味名吃，金昌的风味纯正地道。由于羊只主食北山咸草，肉质细嫩，瘦而不柴，营养丰富，无膳味。金昌羊羔肉垫卷子讲究用料，工艺精良。制作时选择1—2年龄羔羊，经过独特烹饪，在肉汤中加入面卷同时加工。
+永昌面皮
+永昌面皮筋斗、柔软、凉香、酸辣可口、四季皆宜，属西北较有民族风味的食品，在永昌大街小巷总能看到，是永昌人民最喜欢的街边小吃之一。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const jinchangFoodsList = [
@@ -21,8 +24,8 @@ export const jinchangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
+    cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +78,8 @@ export const jinchangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
+    cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

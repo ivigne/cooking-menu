@@ -1,12 +1,11 @@
 /**
  * 甘肃-临夏回族自治州-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、临夏回族自治州橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、临夏回族自治州脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+河州包子
+河州包子是临夏特产，面皮好、馅子考究，有包子、合子、角馍之分。以牛羊肉和韭菜或胡萝卜或白萝卜混合剁碎搅匀为馅，装笼蒸熟，盛入盘中，淋以椒油，看上去晶莹剔透。 [16]
+河州面片
+河州面片，按制作工艺可分清汤面片、酸汤面片、河沿面片、炒面片等。先将面粉用水调和、揉搓、捏团，捏成粗条状，之后掐成小团，蘸油搓成小条，稍发片刻，压扁之后在沸水中揪入面片。待熟后用笊打入碗中，放入清汤或臊子，撒上蒜苗丝、香菜即可食用。
+油炸馃馃
+油炸馃馃是临夏回族的面点之一。以面粉为主料，辅以糖、食用颜料，捏成型后，经食用油烹炸而成。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const linxiaFoodsList = [
@@ -21,8 +20,8 @@ export const linxiaFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
+    cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +74,8 @@ export const linxiaFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
+    cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
