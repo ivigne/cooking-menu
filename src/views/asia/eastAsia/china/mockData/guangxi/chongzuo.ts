@@ -1,12 +1,50 @@
 /**
  * 广西-崇左市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、崇左橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、崇左脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+五色糯米饭
+五色糯米饭是壮族地区的传统风味小吃，因糯米饭呈黑、红、黄、白、紫5种色彩而得名，又称“乌饭”。有吉祥如意、五谷丰登的象征。 [23]
+桄榔粉
+桄榔粉又名“桄榔面”。用桄榔树的髓芯制成的食用淀粉。历史悠久的风味食品。崇左特产，主产于龙州县。 [23]
+酸粥
+崇左壮族传统食品佐料，壮族人的创造。又称酸糟。制作方法：将一个密封性能好的新陶瓷罐子，用热水洗净消毒擦干，倒入一碗酸粥做菌种，再倒入两碗冷米盖好。一周后即变为酸粥。 [23]
+特色饮食
+蕉叶糍粑
+艾叶糍粑
+米花糖
+红薯糍粑
+龙州桄榔粉
+扶绥脆皮烤猪
+扶绥壮族酸粥
+扶绥东门姑辽茶
+竹筒饭
+宁明沙糕
+凭祥水果捞
+龙州鸡肉粉
+把荷鱼丸
+龙州金龙镇角粽
+枫叶饭
+清明菜包饭
+艾糍
+黄金粥
+猪肠糕
+天等灌肠
+及酪
+烤鱼
+嘎老蚂蚁夹
+半只鸭头
+油炸面饼
+扶绥渠黎炸鱼米粉
+龙州下冻烧鸭粉
+龙州凉拌木瓜粉
+扶绥东门鸡
+扶绥那白土鸭
+江州腊鸭
+龙州野蕉汤
+宁明八角香鸡
+天等马喽狗
+天等吉劳
+凭祥烤面包
+凭祥屈头蛋
+凭祥春卷
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const chongzuoFoodsList = [
@@ -21,8 +59,8 @@ export const chongzuoFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'guiCuisine', // 菜系编码
+    cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +113,8 @@ export const chongzuoFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'guiCuisine', // 菜系编码
+    cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

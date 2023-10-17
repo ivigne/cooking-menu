@@ -1,12 +1,6 @@
 /**
  * 广西-柳州市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、柳州橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、柳州脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+螺蛳粉、螺蛳鸭脚煲、酸笋炒螺、煮螺、炒螺蛳粉、干捞螺蛳粉、冰渣豆花、露水汤圆（榨菜鲜肉陷）、柳州酸、滤粉、三江侗族打油茶、三江粽、辣椒酿、豆腐酿、马打滚、豆粉膜、沙堆、油堆、水油堆、蒸叶糕、柳州汤粉、柳州吊烧粉、凉拌粉、柳州烤鱼、刘乐仙凉茶、刮盆粉（卷粉）、铜瓢粑、柳城牛腊八、柳城云片糕、柳城蜜桔、融安金桔、融水醋血鸭、牛瘪汤、烧蔗、酸鱼、酸肉、酸鸭、酸排骨、紫血、双季玉藕、大红柑、甜竹笋、八婆豆腐、辣椒骨、茶叶饭、鸡丝柚皮、侗乡肉串、竹串虾、糟香肥肠、小洲头菜，丹洲柚。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const liuzhouFoodsList = [
@@ -21,8 +15,8 @@ export const liuzhouFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'guiCuisine', // 菜系编码
+    cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +69,8 @@ export const liuzhouFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'guiCuisine', // 菜系编码
+    cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
