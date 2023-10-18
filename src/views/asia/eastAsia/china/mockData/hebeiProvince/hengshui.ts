@@ -1,12 +1,14 @@
 /**
  * 河北-衡水市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、衡水橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、衡水脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+饶阳豆腐脑
+饶阳豆腐脑的创始人韩玉，原在饶阳城关以卖豆腐脑为生。韩玉的操作方法是用鸡和猪肉熬汤，然后放入桂皮、丁香、茴香、大料，再加入炸酱。一直煮到鸡肉酥烂，汤味醇厚不腻为度。食用时碗内盛上鲜嫩的豆腐脑之后再浇上熬好的卤汤，加上点辣椒油、香油、芫荽。 [35]
+武邑扣碗
+从宋代开始，武邑农村就有了用扣碗设宴的习俗，每逢结婚生子、老人丧葬、朋友聚会等大事，都用扣碗招待宾朋。至明清两代武邑扣碗已负盛名，康熙三十九年（1700年），成为为宫廷膳食之一。 [49]
+特色饮食
+饶阳金丝杂面
+故城龙凤贡面
+衡水湖烤鸭蛋
+巨鹿香肠
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const hengshuiFoodsList = [
@@ -21,8 +23,8 @@ export const hengshuiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hebeiCuisine', // 菜系编码
+    cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +77,8 @@ export const hengshuiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hebeiCuisine', // 菜系编码
+    cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

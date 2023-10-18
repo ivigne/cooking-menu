@@ -1,12 +1,8 @@
 /**
  * 黑龙江-鸡西市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、鸡西橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、鸡西脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+鸡西冷面：鸡西冷面是“中朝合壁”的产物。冷面本是朝鲜族的传统食品，是用荞麦面或小麦面加淀粉加水拌匀，压成圆面条，煮熟后浸以冷水，再去冷水伴牛肉片、辣椒、泡菜、梨或苹果片、酱醋、香油等佐料，加入牛肉汤即成。以前汉族人看到压制冷面的器具是木合子，便称为“盒勒面”。 [19]
+鸡西辣菜：由于吃冷面离不开辣菜，又被称为冷面菜，是由传统朝鲜族辣菜发展来的。朝鲜族原只有白菜等几种辣泡菜（也称京渍），而鸡西冷面菜以辣拌为主，有干豆腐，桔梗，豆腐泡，豆圈、海带丝、海桔梗、黄花菜、干鱼丝、蕨菜、牛肉、猪耳朵，岘子等五十多余种。凡常见的蔬菜、肉类和海鲜均可入菜。
+鸡西刀削面：鸡西刀削面是黑龙江省鸡西市特色小吃，刀削面在大家的印象当中应该属于山西的面食，山西人来黑龙江鸡西开的第一家刀削面馆在位于鸡西园林路与东风路之间的四街，所以鸡西人也称这家面馆为四街刀削面·四街刀削面最早只是在早晚市场的路边小摊，经营者很有投其所好的经营思想，老板抓住鸡西人喜爱吃辣口味的特点，把山西刀削面原本使用的老汤改换为；以辣椒；麻椒；牛肉所炖制成的"辣汤".这种刀削面风味独特，地道的山西削面师父削出的面条，配上独特的"辣汤",就形成了现 在鸡西的又一个地方小吃·。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const jiXiFoodsList = [
@@ -21,8 +17,8 @@ export const jiXiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'longjiangCuisine', // 菜系编码
+    cuisineCategoryName: '龙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +71,8 @@ export const jiXiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'longjiangCuisine', // 菜系编码
+    cuisineCategoryName: '龙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

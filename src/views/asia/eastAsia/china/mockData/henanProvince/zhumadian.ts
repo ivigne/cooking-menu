@@ -1,12 +1,11 @@
 /**
  * 河南-驻马店市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、驻马店橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、驻马店脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+马家灌汤包
+灌汤包是传统特色小吃。早在北宋市场上已有售卖，当时称灌浆馒头或灌汤包子。著名产地有开封，西安等地。薄馅大，汤汁鲜美、外表玲珑剔透、汤汁醇正浓郁、入口油而不腻。
+马家羊肉水饺
+马家羊肉水饺是由精羊肉、姜、味精、马家香料、葱、鸡蛋、面粉、小磨香油、鸡汤等主要食材制作的一种食品。
+明宫三茹鸭
+三菇炖鸭是一道河南省的传统名菜，属于豫菜系。相传为明代宰相徐达从宫中带回的秘方。河南驻马店市文明路中段天中伊园代表菜。汤味清香淡雅，肉细嫩爽口，营养丰富。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const zhumadianFoodsList = [
@@ -21,8 +20,8 @@ export const zhumadianFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'henanCuisine', // 菜系编码
+    cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +74,8 @@ export const zhumadianFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'henanCuisine', // 菜系编码
+    cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

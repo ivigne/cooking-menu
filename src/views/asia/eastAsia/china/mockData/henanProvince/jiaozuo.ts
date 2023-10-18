@@ -1,13 +1,11 @@
 /**
  * 河南-焦作市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、焦作橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、焦作脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
- */
+怀府闹汤驴肉
+怀府闹汤驴肉，河南省焦作市沁阳市特产，中国国家地理标志产品。相传明清时期，沁阳百姓对驴肉进行加工时，会定量在“老汤”内按比例加入深井水，再精心选择30余种调料经过特殊工艺加工，最后做出的驴肉
+博爱浆面条
+博爱浆面条是河南省焦作市（原怀庆府地区）的一道著名的传统小吃，属于豫菜系；该菜品的做法和吃法都很简单，而且可口、便宜、实惠，也有着独特的风味和文化内涵。浆面条面色很白，白中有青，青中有
+
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const jiaozuoFoodsList = [
   // 灯影牛肉
@@ -21,8 +19,8 @@ export const jiaozuoFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'henanCuisine', // 菜系编码
+    cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +73,8 @@ export const jiaozuoFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'henanCuisine', // 菜系编码
+    cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

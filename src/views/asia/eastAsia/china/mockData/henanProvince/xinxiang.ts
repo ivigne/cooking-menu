@@ -1,12 +1,24 @@
 /**
  * 河南-新乡市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、新乡橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、新乡脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+香酥鸡
+香酥鸡制作此菜需选用子鸡一只，去毛，消除内脏，放入盆里，加上精盐，味精拌匀后，腌两小时，在加桂皮、大茴香、葱、姜，上笼蒸烂后，把鸡捡出，晾凉。另将鸡蛋清加粉芡搅成糊，把鸡放入蘸匀，炸黄，捞入盆内，周围摆上炸虾片即成。 [10]
+新乡烧鸡
+新乡烧鸡由滑县道口镇传入。道口烧鸡是全国闻名的风味食品，1966年正式改名“新乡烧鸡”，成为新乡市特产之一。 [10]
+牛忠喜烧饼
+牛忠喜烧饼是著名国家烧饼大师牛忠喜积创造出来的具有独特风味的食品。该烧饼形似糕点1980年被河南省定为优质产品，并获得报1989年商业部系统优质产品金鼎奖。 [10-11]
+特色饮食
+原阳烩面
+原阳炖羊肉
+原阳凉粉
+辉县鸡肉焖饭
+获嘉饸饹条
+封丘卷尖
+封丘套肠
+延津火烧
+卫辉世魁牛肉
+罗锅酱肉 [10]
+原阳大米
+原阳烩面
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const xinxiangFoodsList = [
@@ -21,8 +33,8 @@ export const xinxiangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'henanCuisine', // 菜系编码
+    cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +87,8 @@ export const xinxiangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'henanCuisine', // 菜系编码
+    cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

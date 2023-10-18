@@ -1,13 +1,15 @@
 /**
  * 河北-廊坊市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、廊坊橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、廊坊脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
- */
+香河肉饼
+香河肉饼是河北省廊坊市香河县特产。特点是皮薄，肉厚，油香，吃起来面质软和，肉鲜细嫩，符合北方人的吃喝习惯，既可当菜，也可做主食。有两百多年的历史了。
+大城驴肉
+大城驴肉是河北大城县汉族传统名吃，属于地方特产。俗称“天上龙肉、地下驴肉”。大城驴肉源于晚清，祖传方法制作，配料讲究，风味独特，有清香怡人，美而不腻之感，是大城饮食“三宝”之一。清朝总管太监李莲英（大城籍）曾将大城驴肉献予慈禧太后，得誉“地上珍品”之称，从此大城驴肉名声大振。改革开放以来，大城驴肉得以开发，采用传统加工制作方法，经高温消毒，真空包装后行销全国。
+薛家窝头
+百年传统、宫廷贡品―里坦薛家窝头。清朝道光年间，直隶省顺天府大城县里坦（古）镇，薛氏独辟蹊径，制做窝头。 
+永清胡记烧鸡
+永清胡记烧鸡是一道色香味俱全的名小吃。始于清末，早于北京经营，已有100多年历史，亲传四代，奉承独家中药秘方薰煮，煮至骨，肉相离而形不散之细处，有口味香润、松嫩、细腻之特点。
+清真八大碗
+清真八大碗系穆斯林传统的民间宴客形式，指的是八种装在大碗里的炖菜，讲究料厚物重、味纯汤清、用料广泛、技法全面、有素有荤，牛羊肉、鸡、鸭、鱼都入八大碗之列，多采用炖、煮、烩、炸、烧、蒸等 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const langfangFoodsList = [
   // 灯影牛肉
@@ -21,8 +23,8 @@ export const langfangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hebeiCuisine', // 菜系编码
+    cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +77,8 @@ export const langfangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hebeiCuisine', // 菜系编码
+    cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
