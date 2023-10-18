@@ -1,13 +1,15 @@
 /**
  * 湖南-衡阳市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、衡阳橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、衡阳脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
- */
+玉麟香腰
+玉麟香腰是湖南省衡阳市的一道特色传统名菜，属于湘菜系，该菜品也是酒席中的定席头碗菜品。清代衡阳名宦彭玉麟家厨在鱼丸、黄雀丸、锅烧丸等地方风味小吃基础上创制，故名。又名宝塔香腰、管堆子香
+渣江米粉
+渣江米粉是湖南衡阳传统小吃，属于湘菜系。闻名衡阳，历史悠久。据清末编纂的《衡阳县志》记载：“渣江米粉色鲜而味美，食之者众多，为西乡一绝。”
+衡东土菜
+衡东土菜是湖南衡东县一带的地方传统名肴，属于湘菜系。是以本地所产土、畜产品为主、副料，用传统的烹饪方法制作，亦为人们日常食用，具有独特地方性口味菜肴。
+酥薄月饼
+酥薄月饼是湖南衡阳市传统的名点。在衡阳生产已有140余年的历史。配料考究。做工精细、风味独特、松酥可口。具有浓厚的麻仁、玫瑰、桂花清香，食而不觉甚甜，香酥而不油腻；有祛风润肠、理气解郁、和肠胃、通血脉、润肌肤之功效。
+
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const hengyangFoodsList = [
   // 灯影牛肉
@@ -21,8 +23,8 @@ export const hengyangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hunanCuisine', // 菜系编码
+    cuisineCategoryName: '湘菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +77,8 @@ export const hengyangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hunanCuisine', // 菜系编码
+    cuisineCategoryName: '湘菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

@@ -1,13 +1,16 @@
 /**
  * 湖北-黄冈市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、黄冈橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、黄冈脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
- */
+武穴酥糖
+武穴酥糖是湖北省黄冈市武穴市的特产，国家地理标志产品，武穴市传统糕点之一。 [14]
+武穴龙坪油面
+银丝细油面系祖传特殊手工艺制作而成。相传起始于明万历年间（1572—1620年），后清乾隆帝六下江南，路经龙坪访师金德嘉，而品尝此油面大为赞许，并御赐为朝廷贡品。
+黄州东坡饼
+黄州地方风味名点，距今有九百多年，系用上等细面粉做成蟠龙状，和麻油煎炸，片片如薄丝条，然后撒上雪花白糖，具有酥、香、脆、甜的特点。相传为苏东坡起意，由安国寺大和尚残谬试制成功。
+黄梅鱼面
+黄梅鱼面采用新鲜白鱼、鳜鱼，去头尾、内脏、鳞皮、骨刺。
+
+
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const huanggangFoodsList = [
   // 灯影牛肉
@@ -21,8 +24,8 @@ export const huanggangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hubeiCuisine', // 菜系编码
+    cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +78,8 @@ export const huanggangFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hubeiCuisine', // 菜系编码
+    cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

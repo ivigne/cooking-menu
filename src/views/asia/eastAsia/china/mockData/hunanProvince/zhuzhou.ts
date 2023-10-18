@@ -1,12 +1,11 @@
 /**
  * 湖南-株洲市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、株洲橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、株洲脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+醴陵炒粉
+醴陵炒粉是一道美味可口的传统小吃，属于湘菜系醴陵菜。作为醴陵最负盛名的菜品，极似电影《食神》中的蛋炒饭，食材简单，做法也不复杂，但味道全系于掌勺人对火候的精准把握，是油与火的艺术。醴陵炒粉既是醴陵厨艺人高超的烹饪技术的代表，也是醴陵人巧手办事、化平淡为神奇的精明特质的体现。醴陵炒粉是街边早餐和夜宵的绝对主角，醴陵炒粉的独特味道更是醴陵游子无法在他乡尝到的家乡的味道，足令他们魂牵梦绕。
+攸县米粉
+攸县米粉，是湖南省株洲市攸县的一种地方特色米粉，是国家地理标志保护产品，其口感细腻，爽嫩。跟其它的米粉制作方法大致相同，主要以大米为原料，经浸泡、蒸煮、压条等工序制成的细小的条状，其质地柔韧，富有弹性，水煮不糊汤，干炒不易断，配以各种菜码或汤料进行汤煮或干炒，爽滑入味，深受广大老百姓的喜爱。
+小炒肉
+小炒肉是湖南省一道常见的特色传统名菜，属于湘菜系。麻辣鲜香，口味滑嫩。制作原料主要是五花肉和青椒、红椒等。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const zhuzhouFoodsList = [
@@ -21,8 +20,8 @@ export const zhuzhouFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hunanCuisine', // 菜系编码
+    cuisineCategoryName: '湘菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +74,8 @@ export const zhuzhouFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'hunanCuisine', // 菜系编码
+    cuisineCategoryName: '湘菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

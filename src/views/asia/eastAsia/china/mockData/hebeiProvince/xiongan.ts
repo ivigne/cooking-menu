@@ -11,7 +11,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
-export const zhangjiakouFoodsList = [
+export const xionganFoodsList = [
   // 灯影牛肉
   {
     province: '河北省', // 省
