@@ -17,7 +17,7 @@ export const beijingFoodsList = [
     foodName_en: 'yellowPea', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -71,7 +71,7 @@ export const beijingFoodsList = [
     foodName_en: 'douzhi', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -125,7 +125,7 @@ export const beijingFoodsList = [
     foodName_en: 'focalRing', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -179,7 +179,7 @@ export const beijingFoodsList = [
     foodName_en: 'deepFriedTripe', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -233,7 +233,7 @@ export const beijingFoodsList = [
     foodName_en: 'donkeyRoll', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -287,7 +287,7 @@ export const beijingFoodsList = [
     foodName_en: 'glutinousRiceCake', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -341,7 +341,7 @@ export const beijingFoodsList = [
     foodName_en: 'friedLiver', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -395,7 +395,7 @@ export const beijingFoodsList = [
     foodName_en: 'potRoast', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -449,7 +449,7 @@ export const beijingFoodsList = [
     foodName_en: 'waterSheepshead', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -503,7 +503,7 @@ export const beijingFoodsList = [
     foodName_en: 'teaRroth', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -557,7 +557,7 @@ export const beijingFoodsList = [
     foodName_en: 'tasimi', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -611,7 +611,7 @@ export const beijingFoodsList = [
     foodName_en: 'sakima', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -665,7 +665,7 @@ export const beijingFoodsList = [
     foodName_en: 'yipinCrispyPancakes', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -719,7 +719,7 @@ export const beijingFoodsList = [
     foodName_en: 'claypotDuckHead', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -773,7 +773,7 @@ export const beijingFoodsList = [
     foodName_en: 'honeyTwist', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -827,7 +827,7 @@ export const beijingFoodsList = [
     foodName_en: 'tanghulu', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -881,7 +881,7 @@ export const beijingFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -935,7 +935,7 @@ export const beijingFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -989,7 +989,7 @@ export const beijingFoodsList = [
     foodName_en: '小窝头', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -1043,7 +1043,7 @@ export const beijingFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -1097,7 +1097,7 @@ export const beijingFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'beijingCuisine', // 菜系编码
     cuisineCategoryName: '京菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称

@@ -1,7 +1,7 @@
 /**
  * 江苏-淮安市-特产美食
 淮扬菜
-淮扬菜主要发源于淮安市、扬州市，与鲁菜、川菜、粤菜并称为中国四大菜系。淮扬菜，始于春秋，兴于隋唐，盛于明清，素有“佳味之美”之誉。
+淮扬菜主要发源于淮安市、扬州市，与鲁菜、江苏菜、苏菜、粤菜并称为中国四大菜系。淮扬菜，始于春秋，兴于隋唐，盛于明清，素有“佳味之美”之誉。
 淮扬菜原料多以水产为主，以江湖河鲜为主料，以顶尖烹艺为支撑，以本味本色为上乘，以妙契众口为追求，雅俗共赏而不失其大雅，尤其是“和、精、清、新”的理念。
 淮扬菜刀功较精细，尤以瓜雕享誉四方。菜品形态精致，滋味醇和；在烹饪上则善用火候，讲究火功，擅长炖、焖、煨、焐、蒸、烧、炒；原料多以水产为主，注重鲜活，口味平和，清鲜而略带甜味。著名菜肴有清炖蟹粉狮子头、大煮干丝、三套鸭、软兜长鱼等。
 捆蹄
@@ -45,8 +45,8 @@ export const huaiAnFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'jiangsuCuisine', // 菜系编码
+    cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -99,8 +99,8 @@ export const huaiAnFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'jiangsuCuisine', // 菜系编码
+    cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

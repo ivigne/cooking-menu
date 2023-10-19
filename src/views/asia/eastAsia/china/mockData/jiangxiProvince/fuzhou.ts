@@ -37,7 +37,7 @@
 十大名菜
 甲鱼粉皮、红烧牛肚皮、临川藕丝、葵花莲子、汝水养生飞天凤、焦头笋、南丰鱼丝、建昌香蒸肉、崇香焖鸡、龙须豆腐 [91]
 地方小吃
-抚州泡粉、临川菜梗、麻姑米粉、浒湾油面、资溪酒卤鸡、灌芯糖、藕丝糖、冻米肉丸、红妹子豆腐乳
+抚州泡粉、临赣菜梗、麻姑米粉、浒湾油面、资溪酒卤鸡、灌芯糖、藕丝糖、冻米肉丸、红妹子豆腐乳
 “十大名小吃”：黎川芋糍、金溪油面、临川牛杂、汤翁锅贴饺、霉豆腐饼、盐煨华绿宝贝蛋、南丰水粉、资溪面包、羹团子、晏殊饼 [91]
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
@@ -53,8 +53,8 @@ export const fuzhouFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'jiangxiCuisine', // 菜系编码
+    cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -107,8 +107,8 @@ export const fuzhouFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'jiangxiCuisine', // 菜系编码
+    cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
