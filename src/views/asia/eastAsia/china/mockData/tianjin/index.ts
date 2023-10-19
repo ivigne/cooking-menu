@@ -1,12 +1,11 @@
 /**
  * 天津-天津市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、天津橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、天津脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+
+天津的小吃与特产数目众多，尤其以“天津三绝”著名。1997年猫不闻饺子被定为津门四绝之一。具有天津地方特色、知名度较高的还有：曹记驴肉、冠生园八珍羊腿、陆记烫面炸糕、白记水饺、芝兰斋糕干、大福来锅巴菜、石头门坎素包。天津的小宝栗子格外有名，其产品出口世界各国。天津在20世纪80年代末兴建了南市食品街、旅馆街、服装街，集吃、穿、住为一体。比较有名的小吃：糖炒栗子、明顺斋什锦烧饼、羊汤、上岗子面茶、王记麻花（又称馓子麻花）、豆香斋牛肉香圈、豆皮卷圈、白记水饺、水爆肚、煎焖子、花样馃子、怪味果仁、石头门坎素包、罗汉肚、熟梨糕、皮糖张、北塘海鲜等。
+天津三绝：天津三绝历来有两种说法：其一是被称为天津风味小吃“三绝”的狗不理包子、十八街麻花和耳朵眼炸糕；其二是被称为天津民间工艺“三绝”的泥人张彩塑、杨柳青年画和风筝魏风筝。
+特色小吃：糖礅、熟梨糕、茶汤儿、果仁张、崩豆张、面茶、杨村糕干。
+特色早点：煎饼馃子、锅巴菜、老豆腐、果子、烫面炸糕、卷圈、荷包蛋、糖果子、果篦儿。
+天津特产：天津甘栗、天津冬菜、天津大白菜、独流老醋、狗不理包子、十八街麻花、耳朵眼炸糕。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const tianJinFoodsList = [
@@ -21,8 +20,8 @@ export const tianJinFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'tianjinCuisine', // 菜系编码
+    cuisineCategoryName: '天津菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +74,8 @@ export const tianJinFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'tianjinCuisine', // 菜系编码
+    cuisineCategoryName: '天津菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

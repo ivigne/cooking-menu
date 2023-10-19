@@ -1,13 +1,19 @@
 /**
  * 台湾-基隆市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、基隆橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、基隆脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
- */
+鼎边锉
+鼎边锉，台湾基隆著名小吃。鼎边锉原本是福州小吃，在福州人家里这算是家常小吃。里面有肉羹、虾仁羹、金针、香菇、木耳、鱿鱼、小鱼干、竹笋、高丽菜，内容丰富，是标准的汤好料多。然而这只是配料，
+庙口小吃可以说是基隆的代表作，民间都说，“到基隆不吃庙口小吃，等于没到过基隆”。“天妇罗”、“鼎边锉”、“一口吃香肠”等都是庙口小吃的极品。还有豆签羹、八宝冬粉、营养三明治、泡泡冰等。
+李鹄饼店：创立于清光绪年间，以凤梨酥、绿豆凸等糕点最负盛名
+连珍糕饼：以传统糕饼闻名
+鼎边趖：有刑家、吴家两家，皆位于奠济宫庙埕旁
+豆签羹
+泡泡冰：有庙口的沈记、陈记，以及也在庙口附近的远东泡泡冰
+三兄弟豆花
+纪猪脚原汁专家
+天妇罗（甜不辣）
+卞家牛肉面：位于仙洞。因为店开在防空洞内，又有“山洞牛肉面”之别称
+虾冰蟹酱：总店位于碧砂渔港，以将冰品及海产做结合而闻名
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const jilongFoodsList = [
   // 灯影牛肉
@@ -21,8 +27,8 @@ export const jilongFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'fujianCuisine', // 菜系编码
+    cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +81,8 @@ export const jilongFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'fujianCuisine', // 菜系编码
+    cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

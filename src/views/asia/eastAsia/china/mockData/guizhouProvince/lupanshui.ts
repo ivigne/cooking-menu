@@ -2,6 +2,8 @@
  * 贵州-六盘水市-特产美食
 水城羊肉粉、水城烙锅、岩脚面、郎岱富硒茶、水城凉粉、荷叶糯米鸡、豆汤圆子火锅、兰家牛肉粉、郎岱凉粉等
 蒸蒸糕、郎岱酱、
+水城羊肉粉、水城烙锅、岩脚面、郎岱富硒茶、水城凉粉、荷叶糯米鸡、豆汤圆子火锅、兰家牛肉粉、郎岱凉粉等
+
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const lupanshuiFoodsList = [

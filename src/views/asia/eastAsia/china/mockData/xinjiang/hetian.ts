@@ -1,13 +1,36 @@
 /**
  * 新疆维吾尔自治区-和田地区-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、和田地区橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、和田地区脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
- */
+烤羊肉串
+烤羊肉串是最有名的民族风味小吃。烤羊肉串是在特制的烤肉铁槽上烤灸而成的。铁槽分上下两层，中间隔板成孔状，用木炭作燃料。
+烤全羊
+烤全羊，是维吾尔族的一大传统名肴。烤全羊不仅是街头的风味小吃，而且也是维吾尔人招待贵客的上等佳肴。烤全羊多选用绵羯羊或周岁以内的肥羊羔为主要原料。 [16]
+羊肚子烤肉
+羊肚子烤肉是沙漠深处的牧民发明的一种高营养、高热量的食品。具体做法是：把羊宰杀后，把羊肚子洗干净。再把切好的碎羊肉拌上调料（盐和孜然）塞进羊肚子里面，然后用羊肠子把羊肚子的口捆绑好，再将羊肚子埋在火灰里烤，大约烤3-4个小时可以食用。 [17]
+特色饮食
+圆烤包子
+抓饭
+玉米饭
+杂克尔
+手抓肉
+拉面
+确曲热
+库麦琪
+拉条子
+馕
+油塔子
+烤包子
+烧三蛋
+薄皮包子
+馕坑烤
+欧普盖
+叶斯普
+麦扎甫
+药茶
+果酱
+果仁麻糖
+馓子 [8]
+
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const hetianFoodsList = [
   // 灯影牛肉
@@ -21,8 +44,8 @@ export const hetianFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'xinjiangCuisine', // 菜系编码
+    cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +98,8 @@ export const hetianFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'xinjiangCuisine', // 菜系编码
+    cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

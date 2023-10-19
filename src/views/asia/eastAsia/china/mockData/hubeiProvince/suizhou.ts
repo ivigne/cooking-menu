@@ -8,6 +8,7 @@
 拐子饭是广水市的一种盛行的传统风味小吃，起源于广水马坪镇。传统做法是专选猪脚拐子部分及猪肘子肉红烧放在瓦罐里炖酥香，拐子饭特别之处是在早上吃，实实在在的“吃早饭”。
 广水奎面
 广水奎面又名应山奎面，传说中曾被誉为“银丝贡面”，以“色泽白、根条细、不连条、不浑汤”等优点，受消费者青睐
+广水滑肉等 [72] 
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';

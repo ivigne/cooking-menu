@@ -11,6 +11,8 @@
 聚居在以黔南布依苗族自治州的三都水族自治县为中心及其邻近地区的水族人民，在长期的历史发展过程中，逐步形成了喜食糯米食品、喜食鱼、喜吃酸辣、喜喝酒的饮食特点。其中鱼则是水族人民祭祀祖先、
 都匀糟辣酸
 糟辣酸是都匀四酸之一，四酸即酸菜、虾酸、香酸、糟辣酸。不管是乡村的农家菜还是城内街头的小吃店或大酒楼，可谓随处皆见。
+ 冲冲糕、油炸鲜鱼、蹄花饭、砂锅豆腐、涮鸡片等
+
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const qiannanBuyiFoodsList = [

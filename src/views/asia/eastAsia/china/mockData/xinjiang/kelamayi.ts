@@ -1,12 +1,11 @@
 /**
  * 新疆维吾尔自治区-克拉玛依市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、克拉玛依橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、克拉玛依脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+凉皮子
+主打：凉皮
+特点：克拉玛依的凉皮子经过多年的发展，逐渐形成了自己独特的口味。克拉玛依的凉皮子店几乎能够在各大超市商场看到，其中获得荣誉称号的凉皮店数不胜数，几乎每家凉皮店都有各自的口味。克拉玛依凉皮口感极佳，口味新颖，绝对能够作为克拉玛依当家的美食，完全能够和新疆另外一个出名的凉皮——石河子凉皮媲美，远方的客人一定要尝一尝，当然不要忘记找一个本地人作为美食向导哦。
+克拉玛依清炖羊肉
+主打：鲜羊肉
+特点：炖羊肉时，亦可根据个人喜好，加黄萝卜、西红柿、香菜、土豆等以调口味；吃完羊肉后，一定要喝碗香浓的肉汤，这样是不仅可以驱寒，还有助消化的功效。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const kelamayiFoodsList = [
@@ -21,8 +20,8 @@ export const kelamayiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'xinjiangCuisine', // 菜系编码
+    cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +74,8 @@ export const kelamayiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'xinjiangCuisine', // 菜系编码
+    cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

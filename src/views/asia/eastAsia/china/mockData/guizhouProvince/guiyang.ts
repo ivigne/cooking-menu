@@ -10,6 +10,8 @@
 宫保鸡
 折耳根炒腊肉
 烙锅
+花溪牛肉粉、肠旺面、青岩豆腐、卤味、串串香、丝娃娃、洋芋粑、青岩卤猪蹄、青岩鸡辣角、清镇黄粑、青岩玫瑰糖、豆腐圆子、糕粑稀饭、恋爱豆腐果、酸辣烫、叉烧圆子粉等
+
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const guiyangFoodsList = [

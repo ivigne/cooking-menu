@@ -1,5 +1,8 @@
 /**
  * 山西-大同市-特产美食
+ * 
+ * 灵丘黄烧饼、老大同八大件、大同黄糕、浑源凉粉、阳高羊汤、天镇豆皮、广灵驴肉等
+
 地方名吃
 大同刀削面、羊杂、过油肉、兔头、黄金大饼、扒肉条（又叫小烧肉） [132]、油炸糕、大同铜火锅、凤临阁烧麦、凤趴窝 [130]、莜面、广灵豆腐干、浑源凉粉、阳高杏脯等； */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';

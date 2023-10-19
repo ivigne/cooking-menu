@@ -1,12 +1,30 @@
 /**
  * 浙江-嘉兴市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、嘉兴橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、嘉兴脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
+饮食
+【主词条：禾帮菜】
+浙江餐饮一度引领全国餐饮潮流，嘉兴只是浙江的一个小角，但餐饮却是重头，与上海、杭州、苏州为邻，嘉兴餐饮却不为上海本帮菜、杭州杭帮菜所同化，个性、特色是嘉兴餐饮最大的特点。用嘉兴当地大厨的话说，可独成一帮，就叫“禾帮菜”。 [19]
+原料不乏上海铜川路上的时新原料，却也保持了当地的独有特色；菜品借鉴杭帮菜创新思路，却也有杭帮菜不及的特色做法。嘉兴餐饮讲的就是一个特色。 [19]
+禾帮菜最令人称道的是“船菜”。按嘉兴一位老者说，禾帮菜最大的特点就是“土”——原料必须乡土，乡村收来的最新鲜的时令菜蔬、野菜竹笋、野生的鱼虾、土鸡、野鸭。
+南湖船菜是江南水乡传统的汉族名肴，主要流行于民国时期。以八大碗八小碗为正宗，亦有八小碗六大碗或六大碗六小碗、四大碗四小碗等规格。
+船菜，顾名思义是在船上制作，又在船上享用的美味佳肴。船菜兼旅游与美食双重特色，在江南水乡嘉兴烹饪史上独树一帜。
+菜品
+五芳斋粽子
+文虎酱鸭
+南湖菱
+三珍斋八宝饭
+汾湖蟹
+平湖糟蛋
+嘉善黄酒
+荷叶粉蒸肉
+南北湖虎鲻鱼
+王店三元鸡
+斜桥榨菜
+杨庙雪菜
+西塘八珍糕
+乌镇姑嫂饼
+新塍月饼
+
+
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const jiaxingFoodsList = [
@@ -21,8 +39,8 @@ export const jiaxingFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'zhejiangCuisine', // 菜系编码
+    cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +93,8 @@ export const jiaxingFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'zhejiangCuisine', // 菜系编码
+    cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

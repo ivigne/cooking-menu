@@ -1,13 +1,16 @@
 /**
  * 台湾-台中市-特产美食
- * 特产：
- * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、面筋团、羊肉格格、石梯蒸鱼、徐鸭子、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
- * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
- * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
- * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、大竹香椿、台中橄榄油、
- * 米城大米、凉粉、凤凰柚、万源马铃薯、旧院黑鸡、开江麻鸭、开江白鹅、达县脐橙、达县苎麻、达县乌梅、台中脆李、达川安仁柚、龙会红桔、安仁甜柚、
- * 宣汉桃花米、巴山雀舌、宣汉黄牛、老君香菇、旧院黑鸡蛋、蜀宣花牛、三汇特醋、 蜂桶蜂蜜、龙会红桔、板角山羊
- */
+台中小吃
+麻叶羹
+麻叶羹是台中地区较具特色的地方小吃，其他地方很难得见。麻叶羹的吃法可追溯到明末清初，其做法是将麻叶叶脉抽出，用水边冲边以手用力搓揉，将苦水揉出，最后和鱼、蕃薯一同熬煮。武德宫旁有多处摊贩卖麻叶羹，也有混合薏仁一同煮的麻薏，其中杨益权卖麻叶羹已近30年，是最老牌的摊位 [23] 。
+蜜豆冰
+幸发亭是台中蜜豆冰的招牌老店，除了主料蜜豆之外，还会加上圆仔、红豆、绿豆、以及凤梨、西瓜、香瓜、木瓜、香蕉等当季水果，最后再淋上香蕉油 [24] 。
+忠孝豆花
+位于忠孝路、台中路交叉口的忠孝豆花，创业已有30、40年历史，主人精选黄豆、石膏、豆花粉等原料，并坚持传统制法，再配上慢火熬煮的花生、姜汤。店里还兼卖碗粿、烧饼、麻署
+
+太阳饼
+太阳饼是中国台湾小吃之一。属于甜馅薄饼，内馅是麦芽糖，源起于台湾中部台中市的点心，为台中的名产之一。太阳饼名称并未注册商标，以致后来同业的店家皆可使用此名。太阳饼的形状近似圆形，饼皮酥而易碎
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const taizhongFoodsList = [
   // 灯影牛肉
@@ -21,8 +24,8 @@ export const taizhongFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'fujianCuisine', // 菜系编码
+    cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -75,8 +78,8 @@ export const taizhongFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
+    cuisineCategoryCode: 'fujianCuisine', // 菜系编码
+    cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码

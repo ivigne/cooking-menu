@@ -22,6 +22,7 @@
 蘑菇、金针（黄花菜）、蕨菜、木耳、法中黄梨、核桃、黄芩、柴胡、连翘、南瓜、山药蛋、烤饹饹
 沁县
 沁县“三宝”（鸡蛋、瓜子、沁州黄）、干馍、豆瓣酱、刀拨面、荞面、莜面、软米糕 [41]
+长治腊驴肉、长子炒饼、屯留水煎包、壶关口水猪肝、潞城驴肉甩饼、襄垣混汤素饺、武乡枣糕等
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';

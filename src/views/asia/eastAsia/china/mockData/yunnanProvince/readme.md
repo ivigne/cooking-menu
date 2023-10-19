@@ -1,44 +1,18 @@
-### 面积491718平方千米，人口9129万人。云南省人民政府驻成都市锦江区督院街30号。
+<!--
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2022-10-01 10:44:38
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/yunnanProvince/readme.md
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+-->
+
+### 面积 491718 平方千米，人口 9129 万人。云南省人民政府驻成都市锦江区督院街 30 号。
+
 <!-- ||||| -->
-|名称|区划代码|人口（万人）|面积（平方千米）|政府驻地|
-|530000|云南省|
-|530100|昆明市|
-|530300|曲靖市|
-|530400|玉溪市|
-|530500|保山市|
-|530600|昭通市|
-|530700|丽江市|
-|530800|普洱市|
-|530900|临沧市|
-|532300|楚雄彝族自治州|
-|532500|红河哈尼族彝族自治州|
-|532600|文山壮族苗族自治州|
-|532800|西双版纳傣族自治州|
-|532900|大理白族自治州|
-|533100|德宏傣族景颇族自治州|
-|533300|怒江傈僳族自治州|
-|533400|迪庆藏族自治州|
 
+|名称|区划代码|人口（万人）|面积（平方千米）|政府驻地| |530000|云南省| |530100|昆明市| |530300|曲靖市| |530400|玉溪市| |530500|保山市| |530600|昭通市| |530700|丽江市| |530800|普洱市| |530900|临沧市| |532300|楚雄彝族自治州| |532500|红河哈尼族彝族自治州| |532600|文山壮族苗族自治州| |532800|西双版纳傣族自治州| |532900|大理白族自治州| |533100|德宏傣族景颇族自治州| |533300|怒江傈僳族自治州| |533400|迪庆藏族自治州|
 
-|530000|yunnan|
-|530100|kunming|
-|530300|qujing|
-|530400|yuxi|
-|530500|baoshan|
-|530600|zhaotong|
-|530700|lijiang|
-|530800|puer|
-|530900|lincang|
-|532300|chuxiong Yi Autonomous Prefecture
-|532500|honghe Hani and Yi Autonomous Prefecture
-|532600|wenshan Zhuang and Miao Autonomous Prefecture
-|532800|xishuangbanna Dai Autonomous Prefecture
-|532900|dali Bai Autonomous Prefecture
-|533100|dehong Dai Jingpo Autonomous Prefecture|
-|533300|nujiang lisu Autonomous Prefecture
-|533400|diqing Tibetan Autonomous Prefecture
+|530000|yunnan| |530100|kunming| |530300|qujing| |530400|yuxi| |530500|baoshan| |530600|zhaotong| |530700|lijiang| |530800|puer| |530900|lincang| |532300|chuxiong Yi Autonomous Prefecture |532500|honghe Hani and Yi Autonomous Prefecture |532600|wenshan Zhuang and Miao Autonomous Prefecture |532800|xishuangbanna Dai Autonomous Prefecture |532900|dali Bai Autonomous Prefecture |533100|dehong Dai Jingpo Autonomous Prefecture| |533300|nujiang lisu Autonomous Prefecture |533400|diqing Tibetan Autonomous Prefecture
 
-
-
-
-
+主词条：滇菜滇菜由三个地区的菜点特色构成。滇东北地区：因接近内地，交通较为便利，与中原交往较多，与四川接壤，其烹调、口味与滇菜相似。滇西和滇西南地区：因与西藏毗邻以及与缅甸、老挝接壤，少数民族较多，其烹调特色受藏族、回族、寺院菜影响，各少数民族菜点是主体。 [36] 滇菜特点选料广，风味多，以烹制山珍、水鲜见长。其口味特点是鲜嫩、清香回甜，酸辣适中，偏酸辣微麻，讲究本味和原汁原味，酥脆、糯、重油醇厚，熟而不烂，嫩而不生，点缀得当，造型逼真。特色饮食地区主要名单昆明嘉华鲜花饼、鸡丝凉面、豆花米线、竹虫、滇池麻鸭、宜良板鸭、饵丝、官渡粑粑、都督烧卖、大头菜、滇八件糕点楚雄野生菌、彝族菜大理白族三道茶、乳扇、河水煮活鱼、洱海海菜、耙肉饵丝、烧饵块、弥渡卷蹄、银鱼、生皮、下关沱茶丽江丽江粑粑、酥油茶、鸡豆凉粉、永胜油茶、腊排骨、纳西烤鱼、米灌肠、黄豆面、丽江三文鱼、琵琶肉迪庆酥油茶、青稞酒、藏族腌肉、奶干、奶渣西双版纳鲜竹笋、蚂蚁蛋、野生菌、热带水果、傣族竹筒饭、紫米八宝饭保山蒲缥甘蔗、腾冲“大救驾”（炒饵块）、腾冲饵丝、保山绿豆、卷粉德宏傣族菜、撒撇、傣族竹筒饭、泡鲁达、芒市泡菜昭通天麻炖鸡、昭通酱、天麻曲靖宣威火腿、麻衣馓子、蒸饵丝、小锅米线、沾益辣子鸡、豌豆粉文山三七炖鸡等三七系列菜肴、酸汤鸡、酸汤牛肉、野生菌、凉品宴、地摊狗肉、烤饵块、花糯饭红河蒙自过桥米线、建水烧豆腐、开远小卷粉、河口小卷粉、石屏豆腐、汽锅鸡、烧豆腐玉溪江川三道菜、抗浪鱼、铜锅鱼、大头鱼、凉米线、冬瓜蜜饯、油卤腐、豆沫糖、油鸡枞、木瓜水、冰稀饭普洱野菜、民族菜、米干、普洱茶临沧稀豆粉、鸡肉烂饭、粑粑卷怒江怒江鱼、石板粑粑、巩辣
