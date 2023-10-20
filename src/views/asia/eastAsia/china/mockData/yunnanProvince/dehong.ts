@@ -1,9 +1,19 @@
 /**
  * 云南-德宏傣族景颇族自治州-特产美食
+ * 
+ * 傣族菜、撒撇、傣族竹筒饭、泡鲁达、芒市泡菜
+巴撒、牛撒撇、猪肉撒撇
+
+ * 
+ * 
+ * 
+ * 
 傣族菜、撒撇、傣族竹筒饭、泡鲁达、芒市泡菜
 巴撒、
-撒撇从广义上讲，是用特制配料凉拌肉食的代名词。主要有牛撒撇、猪肉撒撇（傣族称“撒达鲁”）、鱼撒撇（傣语称“巴撒”）。这三种撒撇取材料不一样，制法各异但口感都很好，一次食之，终生难忘。西 */
+撒撇从广义上讲，是用特制配料凉拌肉食的代名词。主要有牛撒撇、猪肉撒撇（傣族称“撒达鲁”）、鱼撒撇（傣语称“巴撒”）。这三种撒撇取材料不一样，制法各异但口感都很好，一次食之，终生难忘。西
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const dehongFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +68,7 @@ export const dehongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +123,6 @@ export const dehongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

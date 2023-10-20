@@ -3,6 +3,7 @@
  * 太和板面、阜阳市恋思萝卜
  */
 import { lampshadedBeefScriptsList } from './fuyangFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const fuyangFoodsList = [
   // 太和板面
   {
@@ -57,6 +58,7 @@ export const fuyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 阜阳市恋思萝卜
   {
@@ -111,5 +113,6 @@ export const fuyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,41 @@
 /**
  * 陕西-咸阳市-特产美食
+ * 
+ * 
+ * 馇酥
+永寿油汤面
+三原白封肉
+武功镇旗花面
+乾州锅盔
+乾县挂面
+三原蓼花糖
+让饸
+乾州鸡面
+兴平醪糟
+长武锅盔
+旬邑花馍
+旬邑喜菜
+彬州麻花
+兴平老王家醪糟
+武功镇饸咯面
+咸阳琥珀糖
+长武血条汤
+乾州豆腐脑
+永寿安宫桥大麻花
+永寿槐花蜜
+泡泡油糕
+彬县荞麦凉粉
+御面
+永寿热镜糕
+长武烧鸡
+酒枣
+泾阳凉皮
+长武水豆腐
+
+ * 
+ * 
+ * 
+ * 
 馇酥
 馇酥是陕西省传统风味小吃，将面、大油、葱花、调料柔和拧叠成夹层小饼，入鏊烘烤，搽油煎翻，渍黄柔酥。油而不腻，香气四溢。
 永寿油汤面
@@ -62,6 +98,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xianyangFoodsList = [
   // 灯影牛肉
   {
@@ -116,6 +153,7 @@ export const xianyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -170,5 +208,6 @@ export const xianyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

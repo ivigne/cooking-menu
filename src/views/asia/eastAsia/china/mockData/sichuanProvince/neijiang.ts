@@ -4,6 +4,7 @@
  * 资中兔子面、隆昌羊肉汤、罗泉豆腐、甜城蜜饯、黄老五花生酥
  */
 import { lampshadedBeefScriptsList } from './neijiangFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const neijiangFoodsList = [
   // 大千鸡块
   {
@@ -58,6 +59,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 内江牛肉面
   {
@@ -112,6 +114,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 内江炝锅面
   {
@@ -166,6 +169,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 王记牛肉干
   {
@@ -220,6 +224,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 大千干烧鱼
   {
@@ -274,6 +279,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 干烧鲟鳇翅
   {
@@ -328,6 +334,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 板板桥油炸粑
   {
@@ -382,6 +389,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 极品溢香鸡
   {
@@ -436,6 +444,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 连界羊肉汤
   {
@@ -490,6 +499,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 资中兔子面
   {
@@ -544,6 +554,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 隆昌羊肉汤
   {
@@ -598,6 +609,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 罗泉豆腐
   {
@@ -652,6 +664,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 甜城蜜饯
   {
@@ -706,6 +719,7 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 黄老五花生酥
   {
@@ -760,5 +774,6 @@ export const neijiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

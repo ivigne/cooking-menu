@@ -1,5 +1,19 @@
 /**
  * 山东-泰安市-特产美食
+ * 
+ * 
+ * 
+ * 泰安三美
+泰山火烧
+泰山煎饼
+蜜三刀
+糁（sa）汤
+
+ * 
+ * 
+ * 
+ * 
+ * 
 泰安三美
 泰安风味名菜。泰安产的白菜、豆腐和泰山泉水，历来被誉为“泰安三美”。泰安白菜个儿大心实，质细无筋；泰安豆腐，浆细质纯，嫩而不老；泰山泉水，清甜爽口，杂质少。李白于唐开元二十四年（736年）由湖北安陆迁来济南后，以及杜甫客居山东时，他们都曾多次上泰山，并品尝“泰安三美”菜肴之风味。“游山不来品三美，泰山风光没赏全”，这是当地长期流传的赞誉三美菜肴的佳话。
 泰山火烧
@@ -12,6 +26,7 @@
 又名"肉粥"，是一种传统名吃，据记载已有2400多年的历史。《说苑·杂言》中就有"七日不食，藜羹不糁"的记载，春秋时代的名著《墨子非儒下》有："孔子穷于陈蔡，藜羹不糁"之说。《礼记·内则》称："糁，取牛、羊之肉，三如一，小切之。与稻米二，肉一，合以为饵，煎之。"这里所说的"糁"则颇类今糁。清康熙年间《沂州志·秩》所列16种品中有"糁食"。相传糁是古代西域人的早餐饮料，唐朝传入内地。 [11]
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const taiAnFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +81,7 @@ export const taiAnFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +136,6 @@ export const taiAnFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

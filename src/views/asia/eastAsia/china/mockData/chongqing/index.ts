@@ -3,6 +3,7 @@
  * 重庆火锅、川菜、渝菜（重庆菜、渝派川菜）、水煮鱼、回锅肉、酸菜鱼、辣子鸡、泉水鸡、水煮肉片、老鸭汤、酸辣粉、鱼香肉丝、泡椒肥肠、粉蒸肉、烧白、重庆小面、重庆小吃等。
  */
 import { lampshadedBeefScriptsList } from './chongqingFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const chongQingFoodsList = [
   // 重庆火锅
   {
@@ -57,6 +58,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 水煮鱼
   {
@@ -111,6 +113,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 回锅肉
   {
@@ -165,6 +168,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 酸菜鱼
   {
@@ -219,6 +223,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 辣子鸡
   {
@@ -273,6 +278,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 泉水鸡
   {
@@ -327,6 +333,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 水煮肉片
   {
@@ -381,6 +388,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 老鸭汤
   {
@@ -435,6 +443,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 酸辣粉
   {
@@ -489,6 +498,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 鱼香肉丝
   {
@@ -543,6 +553,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 泡椒肥肠
   {
@@ -597,6 +608,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 粉蒸肉
   {
@@ -651,6 +663,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 烧白
   {
@@ -705,6 +718,7 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 重庆小面
   {
@@ -759,5 +773,6 @@ export const chongQingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

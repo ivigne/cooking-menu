@@ -10,4 +10,5 @@
  * 黑龙江-大兴安岭地区-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const daxinganlingFoodsList = [];

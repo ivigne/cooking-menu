@@ -1,5 +1,17 @@
 /**
  * 河南-三门峡市-特产美食
+ * 
+ * 
+ * 大刀面
+水花佛手糖糕
+观音堂牛肉
+脂油烧饼
+糟蛋
+麻花
+石头饼
+
+ * 
+ * 
 大刀面
 大刀面又称长寿面，其名字的来源是因为切面的刀大得出奇，所以称为大刀面。大刀面起源于宋朝，发源于盛产小麦的兰考县小宋乡，相传清朝乾隆皇帝过生日、慈禧太后祝寿，大刀面都曾作为长寿面进贡。2009年被开封市人民政府公布为开封市非物质文化遗产保护名录。
 水花佛手糖糕
@@ -16,6 +28,7 @@
 石头饼是流行于山西，陕西地区的一种传统面食，中国传统的烙制食品。石头饼又称石子馍，唐朝时称石鏊饼，明清朝称天然饼。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const sanmenxiaFoodsList = [
   // 灯影牛肉
   {
@@ -70,6 +83,7 @@ export const sanmenxiaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -124,5 +138,6 @@ export const sanmenxiaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

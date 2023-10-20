@@ -1,5 +1,12 @@
 /**
  * 湖北-黄冈市-特产美食
+ * 
+ * 武穴酥糖
+武穴龙坪油面
+黄州东坡饼、黄梅鱼面
+
+ * 
+ * 
 武穴酥糖
 武穴酥糖是湖北省黄冈市武穴市的特产，国家地理标志产品，武穴市传统糕点之一。 [14]
 武穴龙坪油面
@@ -12,6 +19,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const huanggangFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +74,7 @@ export const huanggangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +129,6 @@ export const huanggangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

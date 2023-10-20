@@ -1,5 +1,26 @@
 /**
  * 江西-景德镇市-特产美食
+ * 
+ * 
+ * 苦槠豆腐
+清明粑
+炒米粉
+冷粉
+煎饼
+碱水粑
+乐平黄豆豉
+瓷泥煨鸡
+冷粉
+塔前糊汤
+桃酥
+饺子粑
+乐平白切狗肉
+桂花鲜姜酱菜
+
+ * 
+ * 
+ * 
+ * 
 苦槠豆腐
 是瑶里高山上苦槠子为原料制作，另外有苦槠粉丝、苦槠粉皮、橡子豆腐、橡子粉丝、橡子粉皮、葛粉条等。
 清明粑
@@ -30,6 +51,7 @@
 桂花鲜姜酱菜具有十分美味的口感，它是江西景德镇一道独特的菜肴特产品，它以色泽金黄，块形整齐美观而著称，具有酱美的浓郁香味，咸辣适口而闻名。
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jingdezhenFoodsList = [
   // 灯影牛肉
   {
@@ -84,6 +106,7 @@ export const jingdezhenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -138,5 +161,6 @@ export const jingdezhenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

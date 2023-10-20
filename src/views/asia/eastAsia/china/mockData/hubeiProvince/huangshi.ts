@@ -1,5 +1,15 @@
 /**
  * 湖北-黄石市-特产美食
+ * 
+ * 印子粑
+灵溪豆豉
+黄石港饼
+太子豆腐
+大冶糊面
+黄石港饼等
+
+ * 
+ * 
 印子粑
 印子粑是以优质糯米粉、黄花豆、花生、芝麻、莲米、黄片糖等为主要原料制成的点心。
 灵溪豆豉
@@ -10,10 +20,11 @@
 太子豆腐产于阳新县太子镇的著名传统小吃，在黄石地区家喻户晓，故名。太子豆腐有100多个品种。有史料可查，太子豆腐制作传统有1700多年的历史。凡来阳新的客人如果未吃到太子豆腐，便认为是一憾事。太子豆腐鲜嫩可口，风味独特，素有“荆楚一绝”之美誉，古时为宫廷贡品。
 大冶糊面
 糊面大冶是大冶的一种民间小吃,由于其制作特别,味道纯正可口,很受人们喜爱。糊面的主要原料是面条,配料有瘦肉丁、豆腐丁、香菜等。煮面时,将面条弄短,长度在1-2厘米,就着冷水和瘦肉丁、豆腐丁等一起下
-金牛千张皮、黄石港饼等 [62]
+黄石港饼等
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const huangshiFoodsList = [
   // 灯影牛肉
   {
@@ -68,6 +79,7 @@ export const huangshiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -122,5 +134,6 @@ export const huangshiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

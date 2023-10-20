@@ -1,13 +1,20 @@
 /**
  * 山东-日照市-特产美食
+ * 
+ * 
+ * 五莲煎饼
+京冬菜
+日照煎饼
+汆西施舌
+莒国八喜笼包
+
+ * 
+ * 
+ * 
 五莲煎饼
 煎饼是日照市五莲县的主食，已有上千年的历史。五莲煎饼纯手工、纯粮食，不添加任何添加剂、糖、香精。
-岚山头虾皮
-岚山头虾皮日照沿海均有分布，以岚山、虎山沿海为多。因岚山头在历史上就是水旱码头和商埠，海鲜多从这里向外转运，故得名。
 京冬菜
 京冬菜，山东日照特色传统名吃，因曾进京城供皇帝食用故名“京冬菜”。
-日照蓝莓
-日照蓝莓，山东省日照市东港区特产，中国国家地理标志产品。日照蓝莓蓝莓素有“水果皇后”和“浆果之王”之称，富含维生素A和维生素C，以及较高的花青素等，药用经济价值明显，对于抗眼睛失明、抗衰老、抗癌等都有一定作用，在国内国际上均属主推的功能性水果。2016年11月04日，原国家质检总局批准对“日照蓝莓”实施地理标志产品保护。
 日照煎饼
 日照煎饼，山东日照著名的特色小吃，饼薄如纸，色调微黄，质细香甜，柔软可口，营养丰富，尤其是以小麦为原料制作的煎饼，配以鲜嫩豆腐和辣椒，更是美味可口。
 汆西施舌
@@ -15,6 +22,7 @@
 莒国八喜笼包
 莒国八喜龙包，是莒人的传统美食之一，由来已久。 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const rizhaoFoodsList = [
   // 灯影牛肉
   {
@@ -69,6 +77,7 @@ export const rizhaoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -123,5 +132,6 @@ export const rizhaoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

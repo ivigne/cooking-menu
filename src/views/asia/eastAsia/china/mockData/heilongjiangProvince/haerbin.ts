@@ -1,5 +1,16 @@
 /**
  * 黑龙江-哈尔滨市-特产美食
+ * 东北炖菜
+白肉血肠
+炒肉渍菜粉
+冰点心
+冰糖葫芦
+红肠
+“大列巴”面包
+“沙一克”面包
+
+ * 
+ * 
 东北炖菜
 东北人喜好炖菜，有所谓的“八大炖”。如：小鸡炖蘑菇、排骨炖豆角、猪肉炖粉条、鲶鱼炖茄子、得莫力炖活鱼、牛肉炖柿子等。
 白肉血肠
@@ -18,6 +29,7 @@
 以面粉、酒花、食盐为主要原料，是哈尔滨特产之一。 [96]
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const haerbinFoodsList = [
   // 灯影牛肉
   {
@@ -72,6 +84,7 @@ export const haerbinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -126,5 +139,6 @@ export const haerbinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

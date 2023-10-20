@@ -1,5 +1,11 @@
 /**
  * 河南-焦作市-特产美食
+ * 
+ * 怀府闹汤驴肉
+博爱浆面条
+
+ * 
+ * 
 怀府闹汤驴肉
 怀府闹汤驴肉，河南省焦作市沁阳市特产，中国国家地理标志产品。相传明清时期，沁阳百姓对驴肉进行加工时，会定量在“老汤”内按比例加入深井水，再精心选择30余种调料经过特殊工艺加工，最后做出的驴肉
 博爱浆面条
@@ -7,6 +13,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jiaozuoFoodsList = [
   // 灯影牛肉
   {
@@ -61,6 +68,7 @@ export const jiaozuoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -115,5 +123,6 @@ export const jiaozuoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

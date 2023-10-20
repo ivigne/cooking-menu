@@ -3,6 +3,7 @@
 螺蛳粉、螺蛳鸭脚煲、酸笋炒螺、煮螺、炒螺蛳粉、干捞螺蛳粉、冰渣豆花、露水汤圆（榨菜鲜肉陷）、柳州酸、滤粉、三江侗族打油茶、三江粽、辣椒酿、豆腐酿、马打滚、豆粉膜、沙堆、油堆、水油堆、蒸叶糕、柳州汤粉、柳州吊烧粉、凉拌粉、柳州烤鱼、刘乐仙凉茶、刮盆粉（卷粉）、铜瓢粑、柳城牛腊八、柳城云片糕、柳城蜜桔、融安金桔、融水醋血鸭、牛瘪汤、烧蔗、酸鱼、酸肉、酸鸭、酸排骨、紫血、双季玉藕、大红柑、甜竹笋、八婆豆腐、辣椒骨、茶叶饭、鸡丝柚皮、侗乡肉串、竹串虾、糟香肥肠、小洲头菜，丹洲柚。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const liuzhouFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +58,7 @@ export const liuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +113,6 @@ export const liuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

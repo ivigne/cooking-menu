@@ -1,5 +1,13 @@
 /**
  * 湖南-衡阳市-特产美食
+ * 
+ * 玉麟香腰
+渣江米粉
+衡东土菜
+酥薄月饼
+
+ * 
+ * 
 玉麟香腰
 玉麟香腰是湖南省衡阳市的一道特色传统名菜，属于湘菜系，该菜品也是酒席中的定席头碗菜品。清代衡阳名宦彭玉麟家厨在鱼丸、黄雀丸、锅烧丸等地方风味小吃基础上创制，故名。又名宝塔香腰、管堆子香
 渣江米粉
@@ -11,6 +19,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const hengyangFoodsList = [
   // 灯影牛肉
   {
@@ -65,6 +74,7 @@ export const hengyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -119,5 +129,6 @@ export const hengyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,6 @@
 /**
  * 甘肃-临夏回族自治州-特产美食
+ * 河州包子、河州面片、油炸馃馃
 河州包子
 河州包子是临夏特产，面皮好、馅子考究，有包子、合子、角馍之分。以牛羊肉和韭菜或胡萝卜或白萝卜混合剁碎搅匀为馅，装笼蒸熟，盛入盘中，淋以椒油，看上去晶莹剔透。 [16]
 河州面片
@@ -8,6 +9,7 @@
 油炸馃馃是临夏回族的面点之一。以面粉为主料，辅以糖、食用颜料，捏成型后，经食用油烹炸而成。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const linxiaFoodsList = [
   // 灯影牛肉
   {
@@ -62,6 +64,7 @@ export const linxiaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -116,5 +119,6 @@ export const linxiaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

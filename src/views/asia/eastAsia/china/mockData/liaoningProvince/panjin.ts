@@ -1,5 +1,12 @@
 /**
  * 辽宁-盘锦市-特产美食
+ * 
+ * 干煎河刀鱼
+碱蓬菜团子
+大米嘎巴
+
+ * 
+ * 
 干煎河刀鱼
 干煎河刀鱼是一种美食，主要原料是河刀鱼等。
 碱蓬菜团子
@@ -9,6 +16,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const panjinFoodsList = [
   // 灯影牛肉
   {
@@ -63,6 +71,7 @@ export const panjinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -117,5 +126,6 @@ export const panjinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

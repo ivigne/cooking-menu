@@ -1,5 +1,7 @@
 /**
  * 新疆维吾尔自治区-克拉玛依市-特产美食
+ * 凉皮子、克拉玛依清炖羊肉
+ * 
 凉皮子
 主打：凉皮
 特点：克拉玛依的凉皮子经过多年的发展，逐渐形成了自己独特的口味。克拉玛依的凉皮子店几乎能够在各大超市商场看到，其中获得荣誉称号的凉皮店数不胜数，几乎每家凉皮店都有各自的口味。克拉玛依凉皮口感极佳，口味新颖，绝对能够作为克拉玛依当家的美食，完全能够和新疆另外一个出名的凉皮——石河子凉皮媲美，远方的客人一定要尝一尝，当然不要忘记找一个本地人作为美食向导哦。
@@ -8,6 +10,7 @@
 特点：炖羊肉时，亦可根据个人喜好，加黄萝卜、西红柿、香菜、土豆等以调口味；吃完羊肉后，一定要喝碗香浓的肉汤，这样是不仅可以驱寒，还有助消化的功效。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const kelamayiFoodsList = [
   // 灯影牛肉
   {
@@ -62,6 +65,7 @@ export const kelamayiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -116,5 +120,6 @@ export const kelamayiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

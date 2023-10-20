@@ -1,8 +1,12 @@
 /**
  * 广东省-广州市-特产美食
-白切鸡、烧鹅、烤乳猪、红烧乳鸽、蜜汁叉烧、上汤焗龙虾、清蒸石斑鱼、白灼虾、干炒牛河、广东早茶等。广州特色小吃有萝卜牛腩、牛杂、云吞面、及第粥、艇仔粥、布拉肠粉、猪肠粉、荷叶包饭、钵仔糕、鸡仔饼
+白切鸡、烧鹅、烤乳猪、红烧乳鸽、蜜汁叉烧、上汤焗龙虾、清蒸石斑鱼、白灼虾、干炒牛河、广东早茶、广州特色小吃有萝卜牛腩、牛杂、云吞面、及第粥、艇仔粥、布拉肠粉、猪肠粉、荷叶包饭、钵仔糕、鸡仔饼
+ * 
+白切鸡、烧鹅、烤乳猪、红烧乳鸽、蜜汁叉烧、上汤焗龙虾、清蒸石斑鱼、白灼虾、干炒牛河、广东早茶等。
+广州特色小吃有萝卜牛腩、牛杂、云吞面、及第粥、艇仔粥、布拉肠粉、猪肠粉、荷叶包饭、钵仔糕、鸡仔饼
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const guangzhouFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +61,7 @@ export const guangzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +116,6 @@ export const guangzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

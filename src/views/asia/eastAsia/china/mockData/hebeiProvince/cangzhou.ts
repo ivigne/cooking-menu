@@ -1,11 +1,17 @@
 /**
  * 河北-沧州市-特产美食
+ * 
+油老虎、火锅鸡、红烧狮子头、虾酱、小鱼辣酱、驴肉火烧、任丘熏鱼、河间芝麻花酥糖、盐山皮蛋、白洋淀皮蛋、南皮窝头、交河煎饼、吴桥薄脆饼、肃宁香肠、沧州冯氏香肠、
+羊肠汤、
+沧州冬菜
+ * 
 羊肠汤
 沧州羊肠汤，过去叫做羊肠子、羊杂。沧州地处华北平原的东部，却有着辖区内的孟村回族自治县。回族是此县的一个主要民族，这里的小吃多以牛羊肉为主。沧州羊肠子便是其中代表，羊肠子在解放前就是沧州市的早点小吃。
 沧州冬菜
 沧州冬菜是用本地产的一种帮薄、筋细、含糖多的优质大白菜，去掉老帮和绿叶，切成宽约1厘米，长约1.2厘米的小块，晾晒后拌上适量的精盐和蒜泥，装坛压实，牢固封口，经长时间自然发酵而制成。其色泽金黄，气味芳香，落口微甜，咸中略带辣味，且具有较高的营养价值，诚为沧州之特产。
 油老虎、火锅鸡、红烧狮子头、虾酱、小鱼辣酱、驴肉火烧、任丘熏鱼、河间芝麻花酥糖、盐山皮蛋、白洋淀皮蛋、南皮窝头、交河煎饼、吴桥薄脆饼、肃宁香肠、沧州冯氏香肠 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const cangzhouFoodsList = [
   // 灯影牛肉
   {
@@ -60,6 +66,7 @@ export const cangzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -114,5 +121,6 @@ export const cangzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

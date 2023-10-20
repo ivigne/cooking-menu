@@ -1,5 +1,21 @@
 /**
  * 湖南-湘潭市-特产美食
+ * 
+ * 灯芯糕
+乡下腊菜
+
+清汤滑鸡球
+乡里腊肉
+湘潭水煮活鱼
+湘乡烘糕
+冰糖湘莲
+毛氏红烧肉
+葱油凤尾虾
+红煨水鱼裙边
+乡下腊菜
+
+ * 
+ * 
 灯芯糕
 灯芯糕是湘潭的传统副食特产。它不仅形似灯芯，洁白柔润，味道甜辣，清凉芳香，弯转成圈而不断，而且可以用火点燃，散发纯净的玉桂香味。湘潭制作灯芯糕，已经有400多年的历史了。在清代咸丰年间全国名特产品博览会上，湘潭灯芯糕被评为一等特产；民国四年（1915年）巴拿马国际商品赛会上，受到各国代表的称赞；1988年5月，又被评为湖南省“名糕点”。后荣获湖南省优秀产品的称号。
 --
@@ -26,6 +42,7 @@
 乡下腊菜是腊菜种类。
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xiangtanFoodsList = [
   // 灯影牛肉
   {
@@ -80,6 +97,7 @@ export const xiangtanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -134,5 +152,6 @@ export const xiangtanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

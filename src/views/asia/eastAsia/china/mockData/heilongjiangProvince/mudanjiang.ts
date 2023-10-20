@@ -1,5 +1,17 @@
 /**
  * 黑龙江-牡丹江市-特产美食
+ * 
+ * 
+白肉血肠、鸡肉炖蘑菇、白菜蘑菇炖冻豆腐
+石锅拌饭、打糕、狗肉汤
+镜泊湖鱼宴
+镜泊湖湖鲫
+林口大鹅
+奎山粉条
+镜泊鲤鱼丝
+
+ * 
+ * 
 东北农家饭
 东北菜历来以色浓味重，菜量大著称，牡丹江地处黑龙江省南部，冬季寒冷干燥，比较流行的东北菜多为炖菜，如：白肉血肠、鸡肉炖蘑菇、白菜蘑菇炖冻豆腐等
 朝鲜族美食
@@ -16,6 +28,7 @@
 镜泊鲤鱼丝是湖畔传统佳肴，制作精细、考究。用快刀剖斩活鲜鲜的金鲤鱼，取它两肋之肉。
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const mudanjiangFoodsList = [
   // 灯影牛肉
   {
@@ -70,6 +83,7 @@ export const mudanjiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -124,5 +138,6 @@ export const mudanjiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

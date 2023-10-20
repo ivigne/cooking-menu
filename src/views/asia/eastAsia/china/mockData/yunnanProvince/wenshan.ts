@@ -1,9 +1,14 @@
 /**
  * 云南-文山壮族苗族自治州-特产美食
+ * 
+ * 三七炖鸡、酸汤鸡、酸汤牛肉、野生菌、凉品宴、地摊狗肉、烤饵块、花糯饭
+ * 
+ * 
 三七炖鸡等三七系列菜肴、酸汤鸡、酸汤牛肉、野生菌、凉品宴、地摊狗肉、烤饵块、花糯饭
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const wenshanFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +63,7 @@ export const wenshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +118,6 @@ export const wenshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,22 @@
 /**
  * 宁夏回族自治区-固原市-特产美食
+ * 
+ * 生氽面
+馓子
+羊羔头
+羊杂碎
+固原拉皮
+羊肉泡馍
+荞面油圈
+搅团
+浆水面
+燕面糅糅
+荞面饸饹
+茹河果脯
+
+ * 
+ * 
+ * 
 生氽面
 生氽面，用加少许食盐的温水和面，然后团在一起揉匀，直到面团表面细腻光滑有弹性，然后用盆子扣住面，或用塑料薄膜包住—“醒面”，10分钟左右面醒好后把它用手掌压扁，并用擀面杖推薄，当然不要太薄，这个根据自己的口味就行，接下来将推开的面划成条，待水开后把一条条的面揪成片下到锅里煮熟，将面片盛到碗里同时拌上事先做好的肉丸或肉丁，将准备好的黄花、木耳、粉条等放入碗里，盛入汤，再根据自己的口味加入醋、食盐、蒜苗、香菜等。 [19]
 馓子
@@ -28,6 +45,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const guyuanFoodsList = [
   // 灯影牛肉
   {
@@ -82,6 +100,7 @@ export const guyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -136,5 +155,6 @@ export const guyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

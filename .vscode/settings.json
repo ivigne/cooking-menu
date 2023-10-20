@@ -138,5 +138,8 @@
   ],
   "vetur.format.scriptInitialIndent": true,
   "vetur.format.styleInitialIndent": true,
-  "vetur.validation.script": false
+  "vetur.validation.script": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
 }

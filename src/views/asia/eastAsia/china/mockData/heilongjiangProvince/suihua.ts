@@ -1,9 +1,13 @@
 /**
  * 黑龙江-绥化市-特产美食
+ * 
+肇东烤饼
+ * 
 肇东烤饼
 肇东烤饼，是一道以面粉为原料制成的小吃，是黑龙江省绥化市肇东市的特色小吃。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const suihuaFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +62,7 @@ export const suihuaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +117,6 @@ export const suihuaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

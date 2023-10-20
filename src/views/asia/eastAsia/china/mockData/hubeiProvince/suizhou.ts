@@ -1,5 +1,12 @@
 /**
  * 湖北-随州市-特产美食
+ * 广水滑肉（应山滑肉）
+随州春卷
+马坪拐子饭
+广水奎面
+
+ * 
+ * 
 广水滑肉（应山滑肉）
 广水市的一道传统名菜。相传，1000多年前，唐太宗李世民食欲不振，身体虚弱，广水名厨詹厨师得知，便为其做了一道滑肉，荤素搭配。唐太宗吃后，觉得醇香可口，又不腻人，很是开胃，一碗滑肉很快被吃光。此后，詹厨师每天都为李世民做上这道菜，李世民身体强壮起来，便封詹御厨为厨王。
 随州春卷
@@ -8,10 +15,10 @@
 拐子饭是广水市的一种盛行的传统风味小吃，起源于广水马坪镇。传统做法是专选猪脚拐子部分及猪肘子肉红烧放在瓦罐里炖酥香，拐子饭特别之处是在早上吃，实实在在的“吃早饭”。
 广水奎面
 广水奎面又名应山奎面，传说中曾被誉为“银丝贡面”，以“色泽白、根条细、不连条、不浑汤”等优点，受消费者青睐
-广水滑肉等 [72] 
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const suizhouFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +73,7 @@ export const suizhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +128,6 @@ export const suizhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

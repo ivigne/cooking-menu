@@ -1,5 +1,49 @@
 /**
  * 江苏-南通市-特产美食
+ * 
+ * 天下第一鲜
+黄焖狼山鸡
+清蒸刀鱼
+白汁鮰鱼
+淡菜皱纹肉
+蛙式黄鱼
+提汤羊肉
+虾仁珊瑚
+蟹粉鲜鱼皮
+通式三鲜
+野鸡丝
+炒和菜
+蚶子烧鸡冠菜
+荷包扁豆烧蟹粉
+金山藏玉斧
+扣鸡
+烩鱼
+茄儿嵌斩肉
+麻虾炖蛋
+烩蛏干
+清烩鲈鱼片
+酥鲫鱼
+盐焐鸡
+海底松炖银肺
+芙蓉蜇皮
+灌蟹鱼圆
+鸡粥菜心
+烹子鱼
+红烧鳗鱼
+冰糖扒蹄
+蟹黄养汤烧卖
+金钱萝卜饼
+芙蓉藿香饺
+翡翠文蛤饼
+林梓潮糕
+通派火饺
+缸爿和草鞋底
+曹公面
+米粉饼
+青蒿团
+
+ * 
+ * 
 南通十佳名菜
 天下第一鲜
 黄焖狼山鸡
@@ -46,6 +90,7 @@
 青蒿团
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const nantongFoodsList = [
   // 灯影牛肉
   {
@@ -100,6 +145,7 @@ export const nantongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -154,5 +200,6 @@ export const nantongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,17 @@
 /**
  * 浙江-衢州市-特产美食
+ * 
+ * 衢州烤饼、衢州麻饼、八宝菜、龙游米糊、龙游开洋豆腐干、龙游发糕、毛豆腐、衢州油炸果、山粉肉、开化青蛳、开化焙糕、常山胡柚、菱角豆腐、开化板栗、高家萝卜丝、衢州椪柑、衢州柑橘、衢红桔、双桥粉干、常山索面。
+龙游发糕
+开化汽糕
+开化青蛳
+衢式月饼
+常山醅糕
+廿八都铜锣糕
+
+ * 
+ * 
+ * 
 衢州市著名小吃：三头一掌，衢州三头分别是兔头、鸭头、鱼头和鸭掌，都是衢州地方特色风味食品。
 风味特色小吃：衢州烤饼、衢州麻饼、八宝菜、龙游米糊、龙游开洋豆腐干、龙游发糕、毛豆腐、衢州油炸果、山粉肉、开化青蛳、开化焙糕、常山胡柚、菱角豆腐、开化板栗、高家萝卜丝、衢州椪柑、衢州柑橘、衢红桔、双桥粉干、常山索面。
 龙游发糕
@@ -19,6 +31,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const quzhouFoodsList = [
   // 灯影牛肉
   {
@@ -73,6 +86,7 @@ export const quzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -127,5 +141,6 @@ export const quzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,24 @@
 /**
  * 江苏-盐城市-特产美食
+ * 
+ * 建湖藕粉圆子
+白炖鲻鱼
+烩素鱼皮
+奇园蟹黄包
+首乌糕
+四鳃鲈鱼
+阜宁大糕
+大纵湖醉蟹
+葛武嫩姜片
+东台鱼汤面
+生炝条虾
+东台西瓜
+弶港醉螺
+叉烤野鸡片
+盐城草炉饼
+
+ * 
+ * 
 建湖藕粉圆子
 以藕粉为原料，用白糖、枣泥、芝麻粉拌以荤素油脂及桂花为馅丸，在开水中多次氽制而成。形如弹丸，呈淡紫色。
 白炖鲻鱼
@@ -16,8 +35,6 @@
 糕片白如雪，柔如云，上口香甜、滋润。主要以糯米粉精制而成。
 大纵湖醉蟹
 大纵湖蟹个大黄多。洗净后，配以盐城曲酒、米酒。
-龙冈茌梨
-产于盐都区龙冈镇北的沙岗地带，该梨形似纺锤，味似嫩菱，平均单果重200克，最大达800克，果肉厚，含糖量在15%以上，在省有关评比会上曾三次夺魁。
 葛武嫩姜片
 特点是鲜甜脆嫩、形如薄纸、美味可口。其制法是精选寒露前三天采收的鲜嫩生姜，经过13道工序制作而成。
 东台鱼汤面
@@ -34,6 +51,7 @@
 草炉饼，就是黄烧饼，但是，它的制作方法与一般的烧饼不同。草炉饼的炉子，是用大口的砂缸，垫空横搁，将砂缸的底敲掉，作为炉门，将缸口凝合在墙壁上，周围用泥沙固定。缸内的四周，全是贴饼的地方了
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yanchengFoodsList = [
   // 灯影牛肉
   {
@@ -88,6 +106,7 @@ export const yanchengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -142,5 +161,6 @@ export const yanchengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

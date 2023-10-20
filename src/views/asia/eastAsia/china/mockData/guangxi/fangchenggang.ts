@@ -3,6 +3,7 @@
 烧猪肉、那良卷粉、鸡矢藤糖水、屈头蛋、风吹饼、榄子焖沙箭鱼、防城港海鲜粉、
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const fangchenggangFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +58,7 @@ export const fangchenggangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +113,6 @@ export const fangchenggangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

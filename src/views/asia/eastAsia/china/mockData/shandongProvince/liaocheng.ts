@@ -1,5 +1,19 @@
 /**
  * 山东-聊城市-特产美食
+ * 
+ * 
+ * 八批果子
+孟家包
+阳谷布袋鸡
+高唐罗汉饼
+武大郎烧饼
+高唐老豆腐
+沙镇呱嗒
+托板豆腐
+
+ * 
+ * 
+ * 
 八批果子
 聊城传统名吃。八批果子是一种油炸的小食品，因炸制成的果子分成八条，两端相连，为椭圆型，故名“八批果子”。八批果子在制作时，面为配以矾、碱、盐的混合面团，炸制时用油量较大。经热油烹炸的面团各批都因气泡而膨胀，颜色金黄，其酥脆程度，落地碎不可拾。八批果子是聊城居民早餐的主要食品之一。
 孟家包
@@ -18,6 +32,7 @@
 临清传统名吃。因卖主总是切好放在一块特制的长方形木板上出售，故称“托板豆腐”。在临清，每天从早到晚都能看到手推车、自行车或是肩挑的小担上，放着一大块用白布包着的颤悠悠、水汪汪、热乎乎的水豆腐。水豆腐是用上等黄豆，经脱皮、水泡后、磨成汁，用布滤出豆浆，倒入锅中烧开，加卤水精心点制而成。其特点是白嫩、细腻、香甜，营养丰富，便于人体消化吸收，是方便可口的快餐。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const liaochengFoodsList = [
   // 灯影牛肉
   {
@@ -72,6 +87,7 @@ export const liaochengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -126,5 +142,6 @@ export const liaochengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

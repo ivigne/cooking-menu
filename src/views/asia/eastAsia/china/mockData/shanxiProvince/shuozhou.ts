@@ -1,5 +1,14 @@
 /**
  * 山西-朔州市-特产美食
+ * 
+ * 
+ * 山阴塞上冻兔肉、应县凉粉、右玉羊肉、怀仁黄糕、应州牛腰、
+ * 应县凉粉
+右玉熏鸡
+
+ * 
+ * 
+ * 
  * 山阴塞上冻兔肉、应县凉粉、右玉羊肉、怀仁黄糕、应州牛腰等
 
 应县凉粉
@@ -8,6 +17,7 @@
 右玉熏鸡是山西传统的特色名吃。色泽红艳，肉质细嫩，味道十分鲜美，易于保存，一般在夏季也可存放一周至十天不变质。右玉边鸡是山西著名的优良鸡种。右玉边鸡是国内著名的优良鸡种之一，这种鸡，生长
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const shuozhouFoodsList = [
   // 灯影牛肉
   {
@@ -62,6 +72,7 @@ export const shuozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -116,5 +127,6 @@ export const shuozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

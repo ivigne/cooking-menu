@@ -1,8 +1,14 @@
 /**
  * 辽宁-锦州市-特产美食
+ * 
+ * 
+锦州烧烤、锦华烧鸡、锦州什锦小菜、沟帮子熏鸡、沟帮子水馅包子、北镇猪蹄
+ * 
+ * 
 锦州烧烤、锦华烧鸡、锦州什锦小菜、沟帮子熏鸡、沟帮子水馅包子、北镇猪蹄
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jinzhouFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +63,7 @@ export const jinzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +118,6 @@ export const jinzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,13 @@
 /**
  * 陕西-铜川市-特产美食
+ * 
+ * 咸汤面
+铜川大刀面
+铜川北关饸饹
+
+ * 
+ * 
+ * 
 
 咸汤面
 咸汤面为陕西省铜川市耀州区的汉族风味小吃。分为油面和碱面两种，油面是水面出锅后拌上油晾凉后吃，碱面是热面。咸汤面经济实惠，食用方便，人们喜作早餐。咸汤面的口感为咸辣出头，筋韧爽口。面的配菜丰富，碗内生姜黄、油辣红、葱韭绿、豆腐白，色鲜味香。当地人清早食用一碗，日久则有暖胃活血的功效。
@@ -9,6 +17,7 @@
 铜川北关饸饹是陕西省铜川市印台区北关的一种有名小吃，其历史久远，源于唐代，盛行于清末民初，颇受人们喜爱。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const tongchuanFoodsList = [
   // 灯影牛肉
   {
@@ -63,6 +72,7 @@ export const tongchuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -117,5 +127,6 @@ export const tongchuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

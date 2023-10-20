@@ -3,6 +3,7 @@
  * 蒸牦牛肉、松潘土火锅、青稞酥油饼、牦牛酸奶
  */
 import { lampshadedBeefScriptsList } from './abaFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const abaFoodsList = [
   // 蒸牦牛肉
   {
@@ -57,6 +58,7 @@ export const abaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 松潘土火锅
   {
@@ -111,6 +113,7 @@ export const abaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 青稞酥油饼
   {
@@ -165,6 +168,7 @@ export const abaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 牦牛酸奶
   {
@@ -219,5 +223,6 @@ export const abaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

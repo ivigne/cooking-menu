@@ -11,6 +11,7 @@
  * 香菇肉酱、馅饼、鱼皮花生、菩提丸、青津果、龙宫水晶蚌、松子明虾、西施浣纱、彩蝶绕蟠龙、翡翠皇上皇、干炸鲟盖
  */
 import { lampshadedBeefScriptsList } from './xiamenFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xiamenFoodsList = [
   // 香菇肉酱
   // 馅饼
@@ -75,5 +76,6 @@ export const xiamenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

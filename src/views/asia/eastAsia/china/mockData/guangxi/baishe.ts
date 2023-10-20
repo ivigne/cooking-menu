@@ -10,6 +10,7 @@
 百色酸野、猪肉假喽夹、壮乡血耙鸭、猪血肠
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const baisheFoodsList = [
   // 灯影牛肉
   {
@@ -64,6 +65,7 @@ export const baisheFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -118,5 +120,6 @@ export const baisheFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

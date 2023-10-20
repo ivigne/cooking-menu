@@ -1,5 +1,12 @@
 /**
  * 山东-滨州市-特产美食
+ * 
+ * 
+ * 锅子饼
+芝麻酥糖
+青阳炒鸡
+
+ * 
 锅子饼
 锅子饼为滨州传统名吃，工艺简单而做法精细，食之酥而不硬、香而不腻、味鲜可口、老幼咸宜。滨州锅子饼系由清朝末年滨城西关一邢姓业者初创，故又名“邢家锅子饼”。它以饼中卷馅的形式，融饼和包子的优点为一体，成为一种新的独具特色的经济、方便面食。 [26]
 芝麻酥糖
@@ -9,6 +16,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const binzhouFoodsList = [
   // 灯影牛肉
   {
@@ -63,6 +71,7 @@ export const binzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -117,5 +126,6 @@ export const binzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

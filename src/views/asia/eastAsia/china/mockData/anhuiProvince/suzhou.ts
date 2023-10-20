@@ -3,6 +3,7 @@
 SA汤、符离集烧鸡、萧县面皮、皇藏峪蘑菇鸡、萧县炒碗
  */
 import { lampshadedBeefScriptsList } from './suzhouFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const suzhouFoodsList = [
   // SA汤
   {
@@ -57,6 +58,7 @@ export const suzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 符离集烧鸡
   {
@@ -111,6 +113,7 @@ export const suzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 萧县面皮
   {
@@ -165,6 +168,7 @@ export const suzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 皇藏峪蘑菇鸡
   {
@@ -219,6 +223,7 @@ export const suzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 萧县炒碗
   {
@@ -273,5 +278,6 @@ export const suzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

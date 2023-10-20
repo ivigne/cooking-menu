@@ -1,9 +1,13 @@
 /**
  * 河南-开封市-特产美食
+ * 开封灌汤包、鲤鱼焙面、套四宝、清汤东坡肉、白扒豆腐、卤煮黄香管、炸八块、一鸭三吃、蒸羊、灌汤包子、逍遥镇胡辣汤、桶子鸡、庞记桶子鸡、沙家牛肉、开封套四宝、三鲜莲花酥、五香兔肉、风干兔肉、五香羊蹄、酱瓜鸡丁、菊花火锅、大京枣、烩面、双麻火烧、芝麻翅中翅、炒红薯泥、花生糕、黄焖鱼、锅贴、羊肉炕馍、炒凉粉、冰糖熟梨、杏仁茶、江米切糕
+ * 
+ * 
 特色名菜：开封灌汤包、鲤鱼焙面、套四宝、清汤东坡肉、白扒豆腐、卤煮黄香管、炸八块、一鸭三吃、蒸羊等。
 特色小吃：灌汤包子、逍遥镇胡辣汤、桶子鸡、庞记桶子鸡、沙家牛肉、开封套四宝、三鲜莲花酥、五香兔肉、风干兔肉、五香羊蹄、酱瓜鸡丁、菊花火锅、大京枣、烩面、双麻火烧、芝麻翅中翅、炒红薯泥、花生糕、黄焖鱼、锅贴、羊肉炕馍、炒凉粉、冰糖熟梨、杏仁茶、江米切糕。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const kaifengFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +62,7 @@ export const kaifengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +117,6 @@ export const kaifengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

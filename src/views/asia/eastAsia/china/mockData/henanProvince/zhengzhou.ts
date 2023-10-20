@@ -1,5 +1,22 @@
 /**
  * 河南-郑州市-特产美食
+ * 
+ * 郑州烩面
+郑州蒸饺
+郑州焖饼
+郑州黄河鲤鱼焙面
+葛记焖饼
+少林寺素饼
+龙须糕
+琵琶酥
+御饼
+丁家粉蒸肉
+胡辣汤
+油馍头
+月亮馍
+肉盒
+
+ * 
 郑州烩面
 郑州烩面选用上好的鲜羊肉，羊骨，经浸泡，用大火将骨头和肉一起煮成白汤，另用面粉，和成软面，经反复揉搓，用手工拉成宽窄不同、粗细不等的条状下锅，锅内放原汤，放上羊肉，配上黄花菜、木耳、粉条，用餐时，配上香菜、辣椒油、糖蒜等小碟，味道更鲜。 [301]
 郑州蒸饺
@@ -30,6 +47,7 @@
 豫、中、东部鲁西南,皖北一带的传统小吃，口感酥脆，营养丰富，是早餐的最佳选择。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const zhengzhouFoodsList = [
   // 灯影牛肉
   {
@@ -84,6 +102,7 @@ export const zhengzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -138,5 +157,6 @@ export const zhengzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,13 @@
 /**
  * 广西-钦州市-特产美食
+ * 白鸽粥
+小董麻通
+钦州黄瓜皮
+钦州猪脚粉
+灵山大粽
+蚝油柚皮鸭
+
+ * 
 白鸽粥
 白鸽粥，一种粥类食物。将洗净的枸杞子和米放入沙锅，加白鸽肉及少量水，文火煨粥，粥成加入香精等调料，味道鲜美。
 小董麻通
@@ -16,6 +24,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const qinzhouFoodsList = [
   // 灯影牛肉
   {
@@ -70,6 +79,7 @@ export const qinzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -124,5 +134,6 @@ export const qinzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,23 @@
 /**
  * 江西-上饶市-特产美食
+ * 
+ * 
+ * 龟峰扣肉、万年贡米、饭麸果、葛源豆腐、铅山灯盏果、弋阳大米粿、肉馅烧饼、油条包麻糍果、清明果、糯米子糕、烫米粉、猪肝粉、大排粉、羊肉粉、肥肠粉、酱香鹅、清蒸荷包红鲤鱼、粉蒸肉、糊豆腐、全鱼宴、藜蒿炒腊肉、清炒白玉豆、弋阳龟峰国道鱼等。
+弋阳油淋鱼
+弋阳扣肉
+烫粉
+三清腊板鸭
+龟峰扣肉
+饭麸果
+油淋鱼
+广丰豌豆烧鲫鱼
+灯盏粿
+肉圆果
+弋阳年糕
+
+ * 
+ * 
+ * 
 上饶市特色小吃有龟峰扣肉、万年贡米、饭麸果、葛源豆腐、铅山灯盏果、弋阳大米粿、肉馅烧饼、油条包麻糍果、清明果、糯米子糕、烫米粉、猪肝粉、大排粉、羊肉粉、肥肠粉、酱香鹅、清蒸荷包红鲤鱼、粉蒸肉、糊豆腐、全鱼宴、藜蒿炒腊肉、清炒白玉豆、弋阳龟峰国道鱼等。
 弋阳油淋鱼
 弋阳油淋鱼 选用鲜活草（鲤）鱼为主料，配以米酒、天然香料、酱、食用醋、茶油等，结合民间传统工艺精制而成，具有食而不腥，油亮澄黄、香浓可口、开胃生津、健脑护胃等功效。
@@ -26,6 +44,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const shangraoFoodsList = [
   // 灯影牛肉
   {
@@ -80,6 +99,7 @@ export const shangraoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -134,5 +154,6 @@ export const shangraoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,22 @@
 /**
  * 陕西-延安市-特产美食
+ * 
+ * 
+ * 羊腥汤
+子长煎饼
+黄龙蜂蜜
+油馍馍
+蜜汁南瓜
+黄陵油糕
+
+圪坨
+烙饼
+摊黄
+凉粉
+烧肘子
+
+ * 
+ * 
 羊腥汤
 羊腥汤是延安特色小吃，主要食材有羊肉，羊杂。
 子长煎饼
@@ -25,6 +42,7 @@
 “红烧肘子带把把，香透肠子谁不夸。”两句民谣，道出了甘泉红烧带把猪肘子的奇异所在。在20世纪70年代初，下寺湾人民公社食堂厨师把甘泉历来在红、白喜事宴席上必备的红烧肘块，改为红烧带把肘子，受到食客们的称赞。此法很快被城乡各饭店、餐馆效仿，从而形成一道甘泉特色的风味莱。 [60]
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yanAnFoodsList = [
   // 灯影牛肉
   {
@@ -79,6 +97,7 @@ export const yanAnFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -133,5 +152,6 @@ export const yanAnFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -3,6 +3,7 @@
  * 八公山豆腐、淮南牛肉汤、寿县大救驾、顾桥陈醋、田家庵老鸭汤、洛河豆饼、金钱饼
  */
 import { lampshadedBeefScriptsList } from './huainanFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const huainanFoodsList = [
   // 八公山豆腐
   {
@@ -57,6 +58,7 @@ export const huainanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 淮南牛肉汤
   {
@@ -111,6 +113,7 @@ export const huainanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 寿县大救驾
   {
@@ -165,6 +168,7 @@ export const huainanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 顾桥陈醋
   {
@@ -219,6 +223,7 @@ export const huainanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 田家庵老鸭汤
   {
@@ -273,6 +278,7 @@ export const huainanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 洛河豆饼
   {
@@ -327,6 +333,7 @@ export const huainanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 金钱饼
   {
@@ -381,5 +388,6 @@ export const huainanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

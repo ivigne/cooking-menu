@@ -1,5 +1,16 @@
 /**
  * 山东-枣庄市-特产美食
+ * 
+ * 
+ * 辣子鸡、菜煎饼、羊肉汤和狗肉、
+黄花牛肉面、薛城糁汤、辣汤、滕州张汪板鸭
+风味小吃
+辣汤
+糁汤
+黄花牛肉面
+
+ * 
+ * 
 枣庄市作为中国辣子鸡之乡，四大美食为：辣子鸡、菜煎饼、羊肉汤和狗肉。
 其他特色美食还包括：黄花牛肉面、薛城糁汤、辣汤、滕州张汪板鸭等。 [30]
 风味小吃
@@ -17,6 +28,7 @@
 主要原料有黄花菜，黄牛肉，黄牛大骨头和面条。选取焙干黄花菜，用冷水浸泡六七个小时，手工洗净捋成把儿，用刀切成寸断，备用。本地成年黄牛精肉浸洗到水清，切成厘米见方的肉丁，放到油锅里炒熟，加入佐料调味炖透。将黄牛大骨头洗净敲断放入冷水锅中文火炖煮15个小时，熬成牛奶样的高汤。将精切的黄花、精炒的牛肉，配以十余种温胃暖中、理气通窍的名贵中药材和调味佐料一同汇入牛骨头高汤，继续炖煮，至汤、肉、菜、料完全融合，形成油而不腻、味感厚重、芬芳扑鼻的黄花牛肉汤。 [39-40]
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const zaozhuangFoodsList = [
   // 灯影牛肉
   {
@@ -71,6 +83,7 @@ export const zaozhuangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -125,5 +138,6 @@ export const zaozhuangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

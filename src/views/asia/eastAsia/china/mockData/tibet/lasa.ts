@@ -1,5 +1,13 @@
 /**
  * 西藏自治区-拉萨市-特产美食
+ * 
+ * 酥油茶
+糌粑
+藏面
+甘孜黄凉粉
+青稞酒
+
+ * 
 酥油茶
 酥油茶和糌粑是拉萨藏餐的主要代表。酥油茶是用酥油、砖茶和食盐混合在一起做成的，口感十分独特，据说可以缓解高原反应。
 糌粑
@@ -12,6 +20,7 @@
 青稞酒藏语叫做“羌”，顾名思义，青稞酒就是用青稞制成的。是藏民最喜欢喝的酒。酒的口感略有些发，但清冽甘爽，度数不高，后劲不小。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const lasaFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +75,7 @@ export const lasaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +130,6 @@ export const lasaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

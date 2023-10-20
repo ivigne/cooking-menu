@@ -1,5 +1,9 @@
 /**
  * 内蒙古自治区-赤峰市-特产美食
+ * 
+ * 
+ * 
+ * 
 哈达火烧
 对夹
 宁城老窖酒
@@ -29,6 +33,7 @@
 糟米咯咯豆
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const chifengFoodsList = [
   // 灯影牛肉
   {
@@ -83,6 +88,7 @@ export const chifengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -137,5 +143,6 @@ export const chifengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

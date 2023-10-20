@@ -1,6 +1,20 @@
 /**
  * 湖北-孝感市-特产美食
-孝感米酒、汉川荷月、云梦鱼面、宫廷烤鸡等 [68] 
+ * 
+孝感米酒、汉川荷月、云梦鱼面、宫廷烤鸡
+汈汊湖醉鱼
+干拨才鱼筒
+孝感麻糖
+安陆翰林鸡
+云梦白花菜
+麻花桂鱼
+应城扒肉
+
+ * 
+ * 
+ * 
+ * 
+孝感米酒、汉川荷月、云梦鱼面、宫廷烤鸡
  * 
 云梦鱼面
 云梦鱼面，湖北省云梦县特产，中国国家地理标志产品。云梦鱼面是湖北地区的特色传统名吃之一，采用以鲜鱼（青、鲤、草鱼为佳），除去内脏、鱼鳞、头尾、骨皮，绞成肉浆，与上等面粉、包谷豆粉、海盐、纯碱、清水搅拌均匀，压成薄面皮（每张150—200克，厚度1厘米），上甑蒸熟，取出摊晾，折叠切丝，晒干装盒，便可以贮存携带。食用方法多样，可煮可炒可炸，味道鲜美，营养丰富。2010年12月29日，原国家质检总局批准对“云梦鱼面”实施地理标志产品保护。
@@ -24,6 +38,7 @@
 应城扒肉是一道地方传统名菜，主要原料有蹄膀等。由于色香味俱全，味道鲜美，受到人们的喜爱。位于江汉平原中部的应城市，物产丰富，湖泊广布，地下矿产资源丰富。这里的人特别讲究吃，尤其是享誉遐
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xiaoganFoodsList = [
   // 灯影牛肉
   {
@@ -78,6 +93,7 @@ export const xiaoganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -132,5 +148,6 @@ export const xiaoganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,10 +1,17 @@
 /**
  * 河南-信阳市-特产美食
+ * 清炖南湾鱼头、老鸭汤、焖罐肉、汗鹅块、大肠汤、红焖甲鱼、清炖牛肚绷、焖仔鸡、炕豆腐、面炕鸡、筒鲜鱼、桂花皮丝、信阳热干面、金丝贡馓、鸡汤贡面、鸡蛋灌饼
+ * 阳糍粑、潢川贡面、淮南麻鸭、固始鹅块、信阳板鸭、南湾鱼、黄岗鱼汤、罗山大肠汤、罗山空心挂面、罗山臭豆卷、商城老鸭汤、商城葱烤鹌鹑、筒鲜鱼、观庙铺臭豆腐卷、苏仙石鸭蛋干、起酥肉馅烧饼、羊山红油热干面、鸡蛋灌饼
+ * 
+ * 
+ * 
+ * 
 信阳地处中国南北分界线上，历经千年的积淀和发展，以鲜、香、爽、醇、中的独特味道，以炖为主的烹饪技艺和生态康养食材而闻名。
 信阳特色菜肴和传统小吃丰富，有清炖南湾鱼头、老鸭汤、焖罐肉、汗鹅块、大肠汤、红焖甲鱼、清炖牛肚绷、焖仔鸡、炕豆腐、面炕鸡、筒鲜鱼、桂花皮丝、信阳热干面、金丝贡馓、鸡汤贡面、鸡蛋灌饼等。
 信阳市特色美食有信阳糍粑、潢川贡面、淮南麻鸭、固始鹅块、信阳板鸭、南湾鱼、黄岗鱼汤、罗山大肠汤、罗山空心挂面、罗山臭豆卷、商城老鸭汤、商城葱烤鹌鹑、筒鲜鱼、观庙铺臭豆腐卷、苏仙石鸭蛋干、起酥肉馅烧饼、羊山红油热干面、鸡蛋灌饼等。
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xinyangFoodsList = [
   // 灯影牛肉
   {
@@ -59,6 +66,7 @@ export const xinyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -113,5 +121,6 @@ export const xinyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

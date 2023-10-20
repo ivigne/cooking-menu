@@ -1,5 +1,18 @@
 /**
- * 四川-常德市-特产美食
+ * 湖南-常德市-特产美食
+ * 
+ * 安乡多味鱼丸
+常德酱板鸭
+鸭霸王
+北堤麻辣肉
+常德米粉
+津市牛肉粉
+风味清真菜
+原汁武陵水鱼
+钵子菜
+
+ * 
+ * 
 安乡多味鱼丸
 安乡鱼丸有多种制作方法，有用手工制作的，有用机械制作的。制作的鱼丸，有甜的、咸的、辣的。最近，安乡罐头厂在继承传统产品的基础上，又创制出了多味鱼丸，多味鱼丸博采国内众家之长，开创了国
 常德酱板鸭
@@ -20,6 +33,7 @@
 钵子菜又称炖钵炉子菜、炖钵菜、 火锅，是湖南省传统的名菜，属于湘菜系。它和北方的涮锅、四川火锅、砂锅同出一脉，它们的共同特点是用火烧锅，以水（汤）导热，煮（涮）食物。
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const changdeFoodsList = [
   // 灯影牛肉
   {
@@ -74,6 +88,7 @@ export const changdeFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -128,5 +143,6 @@ export const changdeFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

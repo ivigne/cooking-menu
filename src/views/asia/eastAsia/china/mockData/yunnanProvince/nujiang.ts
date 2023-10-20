@@ -1,11 +1,12 @@
 /**
  * 云南-怒江傈僳族自治州-特产美食
-怒江鱼、石板粑粑、巩辣
+怒江鱼、石板粑粑、巩辣、手抓饭
  * 
 手抓饭
 手抓饭是富有傈僳族地方风味特色的小吃。其选料的方法是：以本地特产的香米煮熟后倒在一个洗涤干净的簸箕内，在米饭上放切成小块的黄焖小猪肉、火烧鸡、熟火腿和油煎土豆、凉拌鱼腥草、清煮南瓜及特色佐料，然后盛一碗鲜鸡汤在每一个客人前面。客人在吃“手抓饭”前必须先洗手，然后大家围着簸箕坐在一起，以左手当碗，右手当筷，边吃“手抓饭”边喝杵酒。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const nujiangFoodsList = [
   // 灯影牛肉
   {
@@ -60,6 +61,7 @@ export const nujiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -114,5 +116,6 @@ export const nujiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,22 @@
 /**
  * 山西-晋中市-特产美食
+ * 
+ * 
+ * 介休贯馅糖
+猫耳朵
+荞面凉粉
+平遥碗托
+灌馅糖
+太谷饼
+平遥牛肉
+吊炉烧饼
+珍珠粥
+寿阳茶食
+扁食头脑
+
+
+ * 
+ * 
 
 介休贯馅糖
 营养丰富，具有皮儿薄，馅儿香，气味芬芳，味道鲜美可口等特点
@@ -25,6 +42,7 @@
 
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jinzhongFoodsList = [
   // 灯影牛肉
   {
@@ -79,6 +97,7 @@ export const jinzhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -133,5 +152,6 @@ export const jinzhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

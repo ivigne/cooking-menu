@@ -1,5 +1,12 @@
 /**
  * 辽宁-阜新市-特产美食
+ * 
+ * 蒙族馅饼
+清沟鱼宴
+喇嘛糕
+喇嘛粥
+
+ * 
 蒙族馅饼
 阜新地区蒙古族的一种风味面食，距今已有三百多年的历史。最早是以当地特产的荞麦面制皮，牛羊猪肉为馅，采用干烙水烹的方法制成。它以面稀、皮薄、馅细为特点，烙制后形如铜锣，外焦里嫩，饼面上油珠闪亮，透过饼皮可见里面肉似玛瑙，菜如翡翠，红绿相间。
 清沟鱼宴
@@ -11,6 +18,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const fuxinFoodsList = [
   // 灯影牛肉
   {
@@ -65,6 +73,7 @@ export const fuxinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -119,5 +128,6 @@ export const fuxinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

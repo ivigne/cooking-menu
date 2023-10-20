@@ -3,6 +3,7 @@
  * 彝族砣砣肉、西昌火盆烧烤、冕宁火腿、会理土火锅
  */
 import { lampshadedBeefScriptsList } from './liangshanFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const liangshanFoodsList = [
   //彝族砣砣肉
   {
@@ -57,6 +58,7 @@ export const liangshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 西昌火盆烧烤
   {
@@ -111,6 +113,7 @@ export const liangshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 冕宁火腿
   {
@@ -165,6 +168,7 @@ export const liangshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 会理土火锅
   {
@@ -219,5 +223,6 @@ export const liangshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

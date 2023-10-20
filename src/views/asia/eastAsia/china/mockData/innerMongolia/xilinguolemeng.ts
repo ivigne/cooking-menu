@@ -1,8 +1,14 @@
 /**
  * 内蒙古自治区-锡林郭勒盟市-特产美食
+ * 
+烤全羊、手扒肉、血肠、羊背子、涮羊肉、炒米、鲜奶（苏）、白油、黄油、奶油、奶皮子、奶豆腐、奶酪（阿尔查、阿如勒）、奶渣（楚拉）、黄油渣（楚其给）、奶茶、酸奶、马奶酒、
+ * 
+ * 
+ * 
 烤全羊、手扒肉、血肠、羊背子、涮羊肉、炒米、鲜奶（苏）、白油、黄油、奶油、奶皮子、奶豆腐、奶酪（阿尔查、阿如勒）、奶渣（楚拉）、黄油渣（楚其给）、奶茶、酸奶、马奶酒等
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xilinguolemengFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +63,7 @@ export const xilinguolemengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +118,6 @@ export const xilinguolemengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

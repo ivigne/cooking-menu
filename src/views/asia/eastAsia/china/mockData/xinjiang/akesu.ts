@@ -10,4 +10,5 @@
  * 新疆维吾尔自治区-阿克苏地区-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const akesuFoodsList = [];

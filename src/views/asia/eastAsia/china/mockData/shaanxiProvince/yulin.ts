@@ -1,5 +1,47 @@
 /**
  * 陕西-榆林市-特产美食
+ * 
+ * 
+ * 榆林炸豆奶
+水炒羊肉
+四十里铺羊肉面
+宰羔肉
+炉馍
+缸腌腊猪肉
+小米凉粉
+炸豆奶
+子洲面花
+拼杂烩
+榆林羊杂碎
+荞面圪坨
+定边羊羔肉
+子洲果馅
+炸奶链
+卤驴板肠
+清涧煎饼
+佳县马蹄酥
+绥德油旋
+老榆林拼三鲜
+米脂驴板肠
+烤全羊、烤羊肉、炖羊肉、羊杂碎
+荞面饴馅、荞面讫铊
+豆腐宴、水煮豆腐
+土豆宴
+红碱淖特色水煮鱼
+榆林豆腐
+横山羊肉
+拼三鲜
+羊杂碎
+榆林肝子碗托
+炸豆奶
+洋芋擦擦
+米脂驴板肠
+
+ * 
+ * 
+ * 
+ * 
+ * 
 榆林炸豆奶
 炸豆奶是陕西省榆林市的传统风味小吃之一，该菜品以豆浆，鸡蛋，绿豆淀粉为原料，经炸至而成。外焦里嫩，香甜适口，味道甘醇。榆林为古代塞上著名的城镇，城东有三教庵，内有一眼“普惠泉”，泉水清凉甘甜，富含矿物质。用此水磨豆浆制作豆腐，味道殊美。榆林炸豆奶旧时就是用此泉水磨豆浆制作的。
 水炒羊肉
@@ -55,6 +97,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yulinFoodsList = [
   // 灯影牛肉
   {
@@ -109,6 +152,7 @@ export const yulinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -163,5 +207,6 @@ export const yulinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

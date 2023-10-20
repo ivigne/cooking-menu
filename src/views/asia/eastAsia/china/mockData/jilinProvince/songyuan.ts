@@ -1,9 +1,17 @@
 /**
  * 吉林-松原市-特产美食
+ * 
+ * 
+ * 奶皮子、奶豆腐
+ * 剖生鱼、蒙古烤全羊、炒米
+ * 
+ * 
+ * 
 松原饮食风味独特，东北亚饮食文化中享有盛誉的名菜——剖生鱼，独具草原风味的——蒙古烤全羊和蒙古族牧民喜欢食用的炒米以及蒙古族奶食品中的上等佳品——奶皮子、奶豆腐味美可口，营养丰富。还有朝鲜族独特的风味狗肉——凉拌狗肉丝。其他特产还有奶豆腐、玉米碴、“莲花”莲籽米、三青牌马铃薯粉条、芦苇、“松宝”面粉、干菜、春岭荞面粉、“双屯”牌民乐小米、“四粒红”花生、“金日”牌葵花高级色拉油等 [2] 
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const songyuanFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +66,7 @@ export const songyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +121,6 @@ export const songyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

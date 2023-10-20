@@ -1,5 +1,14 @@
 /**
  * 台湾-台中市-特产美食
+ * 
+ * 麻叶羹
+蜜豆冰
+忠孝豆花
+太阳饼
+
+ * 
+ * 
+ * 
 台中小吃
 麻叶羹
 麻叶羹是台中地区较具特色的地方小吃，其他地方很难得见。麻叶羹的吃法可追溯到明末清初，其做法是将麻叶叶脉抽出，用水边冲边以手用力搓揉，将苦水揉出，最后和鱼、蕃薯一同熬煮。武德宫旁有多处摊贩卖麻叶羹，也有混合薏仁一同煮的麻薏，其中杨益权卖麻叶羹已近30年，是最老牌的摊位 [23] 。
@@ -12,6 +21,7 @@
 太阳饼是中国台湾小吃之一。属于甜馅薄饼，内馅是麦芽糖，源起于台湾中部台中市的点心，为台中的名产之一。太阳饼名称并未注册商标，以致后来同业的店家皆可使用此名。太阳饼的形状近似圆形，饼皮酥而易碎
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const taizhongFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +76,7 @@ export const taizhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +131,6 @@ export const taizhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

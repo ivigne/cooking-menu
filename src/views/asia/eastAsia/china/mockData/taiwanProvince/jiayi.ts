@@ -1,5 +1,13 @@
 /**
  * 台湾-嘉义市-特产美食
+ * 
+ * 生炒鸭肉羹、碗粿
+阿里山的竹筒饭
+喷水鸡肉饭
+方块酥
+
+ * 
+ * 
  * 嘉义的小吃种类繁多，如新港乡的生炒鸭肉羹、碗粿；东石港、布袋镇的海鲜；阿里山的竹筒饭和野菜等，都非常具有地方特色。另外，香酥松脆的方块酥、用鲜美火鸡肉制作而成的喷水鸡肉饭也都是嘉义不容错过的美食。
 阿里山的竹筒饭
 遍地竹林的阿里山区，“竹筒饭”是其特色小吃，尤其在当地邹族人当中非常普及。
@@ -10,6 +18,7 @@
 
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jiayiFoodsList = [
   // 灯影牛肉
   {
@@ -64,6 +73,7 @@ export const jiayiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -118,5 +128,6 @@ export const jiayiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

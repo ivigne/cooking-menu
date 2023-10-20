@@ -1,5 +1,10 @@
 /**
  * 内蒙古自治区-乌海市-特产美食
+ * 
+ * 
+ * 金刀拷羊背
+乳汁软炸口蘑
+ * 
 
 金刀拷羊背
 这道菜也是蒙古族人在非常隆重喜庆的场合才会制作的一道美食，按照蒙古族师傅的话来说，一头羊除了羊腿，肉就都在羊背上了，所以烤羊背也是一道庞然大菜。
@@ -7,6 +12,7 @@
 乳汁软炸口蘑是一道美食，主要食材有乳汁、口蘑等。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const wuhaiFoodsList = [
   // 灯影牛肉
   {
@@ -61,6 +67,7 @@ export const wuhaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -115,5 +122,6 @@ export const wuhaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

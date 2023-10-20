@@ -1,10 +1,14 @@
 /**
  * 黑龙江-七台河市-特产美食
+ * 
+排骨炖豆角
+ * 
 
 排骨炖豆角
 排骨炖豆角是以排骨、豆角为主要食材，葱姜蒜、料酒、老抽、花椒、胡椒粉为辅料的家常菜，属于东北菜系，口味咸鲜，营养价值丰富。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const qitaiheFoodsList = [
   // 灯影牛肉
   {
@@ -59,6 +63,7 @@ export const qitaiheFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -113,5 +118,6 @@ export const qitaiheFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

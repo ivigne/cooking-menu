@@ -3,6 +3,7 @@
  * 琅琊酥糖、雷官板鸭、管坝牛肉、秦栏卤鹅
  */
 import { lampshadedBeefScriptsList } from './chuzhouFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const chuzhouFoodsList = [
   // 琅琊酥糖
   {
@@ -57,6 +58,7 @@ export const chuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 雷官板鸭
   {
@@ -111,6 +113,7 @@ export const chuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 管坝牛肉
   {
@@ -165,6 +168,7 @@ export const chuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 秦栏卤鹅
   {
@@ -219,5 +223,6 @@ export const chuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,10 +1,17 @@
 /**
  * 内蒙古自治区-呼和浩特市-特产美食
+ * 
+ * 刀削面、饸饹面、剔鱼子、煮鱼、烤全羊、涮羊肉、手把羊肉、烤羊腿、炸羊尾、血肠、肉肠、羊杂碎、稍麦（烧麦）、焙子、莜面、马奶酒、奶茶、奶皮子、奶豆腐、奶酪、油香、馓子、牛肉干、烤羊肉串、烧麦、羊杂碎
+ * 
+ * 
+ * 
+ * 
 呼和浩特民族特色美食有蒙古奶食品、蒙古奶酒、蒙古手把肉、蒙古面点等，也可以到草原气息浓郁的地方品一品野味，有狍子肉、山鸡肉、山野菜、野生蘑菇、小米等多种谷类、野味。
 由于呼和浩特市也是走西口的目的地，所以同样吸收了山西、陕西的一些特色，在大召附近有美味的刀削面、饸饹面、剔鱼子、煮鱼等等。呼和浩特的饮食文化中也吸收了回族的做法、吃法，回民小吃在市内也很流行，伊斯兰风情街路东有一条回民小吃街，里面有烤羊肉串、烧麦、羊杂碎等等。
 呼和浩特地区的特色饮食主要有烤全羊、涮羊肉、手把羊肉、烤羊腿、炸羊尾、血肠、肉肠、羊杂碎、稍麦（烧麦）、焙子、莜面、马奶酒、奶茶、奶皮子、奶豆腐、奶酪、油香、馓子、牛肉干等。地方特色与传统风味融合的托县炖鱼、和林炖羊肉等也闻名于呼和浩特地区。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const huhehaoteFoodsList = [
   // 灯影牛肉
   {
@@ -59,6 +66,7 @@ export const huhehaoteFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -113,5 +121,6 @@ export const huhehaoteFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

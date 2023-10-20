@@ -1,5 +1,20 @@
 /**
  * 江西-鹰潭市-特产美食
+ * 
+ * 贵溪捺菜
+贵溪灯芯糕
+余江茄干
+宫廷桃酥王糕点
+腌菜浆蒸蛋
+冬笋咸肉丝
+龙兴铺灯芯糕
+捺菜
+天师板栗烧土鸡
+黄袍拜君王
+
+ * 
+ * 
+ * 
 贵溪捺菜
 “龙虎山道菜”，是江西最具特色的菜干。酸、甜、脆、咸、辣皆备，色、香、味俱全。
 贵溪灯芯糕
@@ -24,6 +39,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yingtanFoodsList = [
   // 灯影牛肉
   {
@@ -78,6 +94,7 @@ export const yingtanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -132,5 +149,6 @@ export const yingtanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

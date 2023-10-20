@@ -1,5 +1,6 @@
 /**
  * 甘肃-平凉市-特产美食
+ * 平凉饸饹面、平凉羊肉泡馍、平凉锅盔、平凉酿皮、灵台涎水面、静宁烧鸡、泾川长面、火烧子、花花面
 平凉饸饹面
 “饸饹”是北方人自创的专有名词。饸饹面有荤素之分，素的，吃一碗清淡之香，吃面的原味，喝汤的地道。荤的讲究油香。
 平凉羊肉泡馍
@@ -21,6 +22,7 @@
 花花面是甘肃平凉特有的传统面食小吃。尤以泾川县最为有名。花花面主要由高粱面炮制而成，入口顺滑，营养健康，广受城乡人民喜爱。主要原料是面粉。
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const pingliangFoodsList = [
   // 灯影牛肉
   {
@@ -75,6 +77,7 @@ export const pingliangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -129,5 +132,6 @@ export const pingliangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,37 @@
 /**
  * 内蒙古自治区-巴彦淖尔市-特产美食
+ * 
+烤全羊
+黄河开河鱼
+油糕
+猪肉烩酸菜
+河套面精
+扒肉条
+炖笨鸡
+黄河全鱼宴
+手扒肉
+活倒肚
+猪肉烩菜
+酸蔓菁
+全羊席
+蒙古八珍
+成吉思汗火锅
+猪肉勾鸡
+炖开河小鲫鱼
+猪排炖干豆角
+笨鸡蘸素糕
+腌猪肉炒山药介介
+糜米酸饭
+芥兰豆腐酥
+玫瑰蔬菜球
+烧美
+酥鸡
+丸子、
+黄焖羊肉
+河套酿皮
+ * 
+ * 
+ * 
 （1）扒肉条：俗称烧猪肉。是农村宴席上不可或缺的一道“硬盘菜”，它的主料是猪带皮五花肉，配料为大葱白段、姜片、大料、花椒、干辣椒、盐、味精、酱油、料酒、鲜汤、水淀粉等。做法是将五花肉放入锅内加调料煮熟捞出，在猪皮上抹糖色，然后放入油锅内炸成红褐色叉出备用。食时，切成宽0.5厘米左右的长形片状，有猪皮一面的向下置入碗中，加上调料、葱，在笼中蒸熟，倒扣入盘或碗内即可食用，食时加醋、蒜等。 [39]
 （2）酥鸡：将白条鸡去头、瓜，切成小块，放在拌有调料的粉面里搅拌后放在油锅里炸熟捞出。吃时，放在碗里或盘里上笼蒸软再用碗或盘翻扣过来即成。
 （3）丸子：将牛肉切碎放在拌有调料的粉面糊里搅匀，用手挤成圆形状，放进油锅里炸熟，捞出，吃时装进碗或盘蒸软，再用碗或盘翻担过来即成。
@@ -33,6 +65,7 @@
 烧美
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const bayannaoerFoodsList = [
   // 灯影牛肉
   {
@@ -87,6 +120,7 @@ export const bayannaoerFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -141,5 +175,6 @@ export const bayannaoerFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,6 +1,8 @@
 /**
  * 山西-临汾市-特产美食
-晋南醪糟、鼓楼羊杂割、牛肉丸子面等
+ * 
+晋南醪糟、鼓楼羊杂割、牛肉丸子面、炒揪片
+ * 
  * 
 牛肉丸子面
 临汾市小吃牛肉丸子面用一个字概括——“爽”，用两个字概括是“香辣”。在山西省临汾市区的大街小巷，牛肉丸子面开一家火一家，门面都不大，属于平价小吃。最正宗的要数白家牛肉丸子面。
@@ -8,6 +10,7 @@
 炒揪片是一种正宗北方美食，就是煮好后把面片捞起，拌点油，一定要抖开，防止面片粘在一起。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const linfenFoodsList = [
   // 灯影牛肉
   {
@@ -62,6 +65,7 @@ export const linfenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -116,5 +120,6 @@ export const linfenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

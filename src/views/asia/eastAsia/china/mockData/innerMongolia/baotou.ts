@@ -1,5 +1,16 @@
 /**
  * 内蒙古自治区-包头市-特产美食
+ * 小肥羊火、
+ * 莜面
+稍美
+手扒肉
+铁锅焖面
+羊杂碎
+烤全羊
+
+ * 
+ * 
+ * 
 小肥羊火锅
 内蒙古小肥羊餐饮连锁有限公司是一家以自然人做发起人的股份制企业，公司于1999年8月诞生，以小肥羊特色火锅连锁为主业。
 莜面
@@ -17,6 +28,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const baotouFoodsList = [
   // 灯影牛肉
   {
@@ -71,6 +83,7 @@ export const baotouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -125,5 +138,6 @@ export const baotouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

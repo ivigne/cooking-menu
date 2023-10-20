@@ -1,15 +1,22 @@
 /**
  * 台湾-高雄市-特产美食
+ * 
+ * 
+ * 鳝鱼意面
+筒仔米糕
+高雄蚵仔煎
+
+ * 
+ * 
 鳝鱼意面
 鳝鱼意面是台湾夜市及台菜馆、台菜餐厅普遍常见料理，鳝鱼香脆，烩面汤汁浓郁酸甜，鳝鱼有蛋白质、铁质，亦被视为食补补身菜品。 [4]
 筒仔米糕
 筒仔米糕是一种常见于台湾各地的糯米小吃，与油饭类似，但却是在瓷瓶、竹筒或铁罐中炊熟而成，口味浓郁。 [4]
 高雄蚵仔煎
 高雄蚵仔煎是一款美食，主料有蚵仔等。
-冈山三宝
-冈山三宝是指台湾的豆瓣酱、蜂蜜及羊肉小吃。沿纵贯公路经过冈山镇区，处处可见冈山三宝的踪迹。
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const gaoxiongFoodsList = [
   // 灯影牛肉
   {
@@ -64,6 +71,7 @@ export const gaoxiongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -118,5 +126,6 @@ export const gaoxiongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

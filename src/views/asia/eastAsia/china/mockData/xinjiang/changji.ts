@@ -4,6 +4,7 @@
 新疆凉面又叫黄面，因其色黄而得名，维吾尔语叫“赛热克阿希”，属夏令风味小吃，面中有一主要原料叫蓬灰，蓬灰来源于戈壁上的“臭蓬蒿”，这是一种野生植物。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const changjiFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +59,7 @@ export const changjiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +114,6 @@ export const changjiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -4,6 +4,7 @@
  * 腊肉火锅、保宁牛羊杂碎、东观辣子鸡、南充冬菜、阆中油茶、丝丝鳝鱼面、辣子脆肠、干烧四季豆、顺庆羊肉粉、凉热串串、南充米粉
  */
 import { lampshadedBeefScriptsList } from './nanchongFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const nanchongFoodsList = [
   // 川北凉粉
   {
@@ -58,6 +59,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 大通凉粉
   {
@@ -112,6 +114,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 松花皮蛋
   {
@@ -166,6 +169,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 营山板鸭
   {
@@ -220,6 +224,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 河舒豆腐
   {
@@ -274,6 +279,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 张飞牛肉
   {
@@ -328,6 +334,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 保宁醋
   {
@@ -382,6 +389,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 营山凉面
   {
@@ -436,6 +444,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 白糖蒸馍
   {
@@ -490,6 +499,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 顺庆卤鸭子
   {
@@ -544,6 +554,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 南部肥肠
   {
@@ -598,6 +609,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 蓬安方锅盔
   {
@@ -652,6 +664,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 西充狮子糕
   {
@@ -706,6 +719,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 腊肉火锅
   {
@@ -760,6 +774,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 保宁牛羊杂碎
   {
@@ -814,6 +829,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 东观辣子鸡
   {
@@ -868,6 +884,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 南充冬菜
   // 南充冬菜又称顺庆冬菜，主要以芥菜为原料，花椒、八角等香辛料为辅料，经过20道工序，历时3年加工而成，其菜型均匀，褐黑色、油润、有光泽，酱香味和辛香味浓郁；味道鲜美、质地脆嫩、咸淡适口。
@@ -923,6 +940,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 阆中油茶
   {
@@ -977,6 +995,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 丝丝鳝鱼面
   {
@@ -1031,6 +1050,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 辣子脆肠
   {
@@ -1085,6 +1105,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 干烧四季豆
   {
@@ -1139,6 +1160,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 顺庆羊肉粉
   {
@@ -1193,6 +1215,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 凉热串串
   {
@@ -1247,6 +1270,7 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 南充米粉
   {
@@ -1301,5 +1325,6 @@ export const nanchongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

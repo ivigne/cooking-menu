@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:04:25
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-10-18 10:30:48
+ * @LastEditTime: 2023-10-20 17:38:21
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/heilongjiangProvince/readme.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -16,3 +16,5 @@
 |230000|heilongjiang| |230100|haerbin| |230200|qiqihaer| |230300|jiXi| |230400|hegang| |230500|shuangyashan| |230600|daqing| |230700|yichun| |230800|jiamusi| |230900|qitaihe| |231000|mudanjiang| |23100|heihe| |231200|suihua |232700|daxinganling Region
 
 龙江菜以烹制山蔬，野味、肉禽和淡水鱼虾技艺见长，讲究口味的香醇、鲜嫩、爽润、咸淡相宜，以珍、鲜、清、补和绿色天然食品著称。黑龙江菜品炖菜较多，有小鸡炖蘑菇、酸菜白肉炖粉条、得莫利炖鱼、鲶鱼炖茄子、牛肉炖柿子（源于俄罗斯的苏伯汤）、氽白肉血肠、排骨炖豆角、东北乱炖等。种类不限、搭配方式多样，有地三鲜、锅包肉、烧茄子、虎皮肘子、黄瓜拉皮等。主食有当地大米、粘豆包，炸三角、大列巴等。
+
+小鸡炖蘑菇、酸菜白肉炖粉条、得莫利炖鱼、鲶鱼炖茄子、牛肉炖柿子、氽白肉血肠、排骨炖豆角、东北乱炖、地三鲜、锅包肉、烧茄子、虎皮肘子、黄瓜拉皮、粘豆包，炸三角、大列巴

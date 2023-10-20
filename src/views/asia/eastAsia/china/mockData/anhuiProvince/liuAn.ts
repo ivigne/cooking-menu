@@ -10,6 +10,7 @@
  * 安徽省-六安市-特产美食
  */
 import { lampshadedBeefScriptsList } from './liuanFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const liuanFoodsList = [
   // 灯影牛肉
   {
@@ -64,5 +65,6 @@ export const liuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

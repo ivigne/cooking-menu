@@ -3,6 +3,7 @@
  * 连城地瓜干、连城白鹜鸭、连城兰花、龙岩花生、长汀豆腐干、上杭萝卜干、武平猪胆干、永定菜干、河田鸡
  */
 import { lampshadedBeefScriptsList } from './longyanFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const longyanFoodsList = [
   // 连城地瓜干
   // 连城白鹜鸭
@@ -65,6 +66,7 @@ export const longyanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -119,5 +121,6 @@ export const longyanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

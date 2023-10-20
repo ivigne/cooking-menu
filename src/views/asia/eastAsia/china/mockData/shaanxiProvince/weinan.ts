@@ -1,5 +1,22 @@
 /**
  * 陕西-渭南市-特产美食
+ * 
+ * 
+ * 麻食泡
+潼关酱笋
+踅面
+琼锅糖
+潼关酱菜
+荞面煎饼
+八宝肉辣子
+富平太后饼
+流曲琼锅糖
+渭南时辰包子
+韩城十三花
+水晶饼、富平柿饼、金丝蜜枣、月牙饼、白水杜康酒、同州西瓜、临渭葡萄、赤水大葱、蒲城酥梨、椽头蒸馍、水盆羊肉、时辰包子、豆腐泡馍、蒲城焰火、合阳踅面、潼关肉夹馍、潼关酱菜、荞面饸饹、澄城麦子泡等。
+
+ * 
+ * 
 麻食泡
 麻食泡是陕西华阴地区特有的风味小吃。
 潼关酱笋
@@ -28,6 +45,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const weinanFoodsList = [
   // 灯影牛肉
   {
@@ -82,6 +100,7 @@ export const weinanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -136,5 +155,6 @@ export const weinanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

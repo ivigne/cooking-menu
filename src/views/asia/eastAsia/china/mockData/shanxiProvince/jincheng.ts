@@ -1,6 +1,29 @@
 /**
  * 山西-晋城市-特产美食
- * 泽州馔面、沁水饸饹、阳城杂割、陵川面羊、阳城肉罐肉等
+ * 泽州馔面、沁水饸饹、阳城杂割、陵川面羊、阳城肉罐肉、
+ * 晋城十大碗
+炒凉粉儿、蒸槐花
+清汤饸饹
+大米过油肉
+烫面饺
+毛头丸
+素氽汤
+巴公烧大葱
+阳城烧肝
+高平烧豆腐
+陵川党参炖土鸡
+王府八八筵
+阳城烧肝
+晋城烧大葱
+卷白馍
+烧三鲜
+白起肉
+
+ * 
+ * 
+ * 
+ * 
+ * 
 
 晋城十大碗
 是晋城地区特色综合菜系，具有悠久的历史和传说。十大碗的十大菜系主要有木耳圪贝、烧大葱、毛头丸、过油肉、小酥肉、 糊卜肉、糖醋溜丸、油圪麻、天鹅蛋、甜饭等。其以凉菜、热菜、汤菜、主食为系统体系，按照“十大碗”、“六六”、“八六”、“八八”为区分标准，是本地区婚丧嫁娶、宴请宾朋的特色饮食。 [56]
@@ -45,6 +68,7 @@
 
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jinchengFoodsList = [
   // 灯影牛肉
   {
@@ -99,6 +123,7 @@ export const jinchengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -153,5 +178,6 @@ export const jinchengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

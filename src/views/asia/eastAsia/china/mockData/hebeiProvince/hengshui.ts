@@ -1,16 +1,25 @@
 /**
  * 河北-衡水市-特产美食
+ * 
+ * 饶阳豆腐脑
+武邑扣碗
+饶阳金丝杂面
+故城龙凤贡面
+衡水湖烤鸭蛋
+巨鹿香肠
+
+ * 
 饶阳豆腐脑
 饶阳豆腐脑的创始人韩玉，原在饶阳城关以卖豆腐脑为生。韩玉的操作方法是用鸡和猪肉熬汤，然后放入桂皮、丁香、茴香、大料，再加入炸酱。一直煮到鸡肉酥烂，汤味醇厚不腻为度。食用时碗内盛上鲜嫩的豆腐脑之后再浇上熬好的卤汤，加上点辣椒油、香油、芫荽。 [35]
 武邑扣碗
 从宋代开始，武邑农村就有了用扣碗设宴的习俗，每逢结婚生子、老人丧葬、朋友聚会等大事，都用扣碗招待宾朋。至明清两代武邑扣碗已负盛名，康熙三十九年（1700年），成为为宫廷膳食之一。 [49]
-特色饮食
 饶阳金丝杂面
 故城龙凤贡面
 衡水湖烤鸭蛋
 巨鹿香肠
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const hengshuiFoodsList = [
   // 灯影牛肉
   {
@@ -65,6 +74,7 @@ export const hengshuiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -119,5 +129,6 @@ export const hengshuiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

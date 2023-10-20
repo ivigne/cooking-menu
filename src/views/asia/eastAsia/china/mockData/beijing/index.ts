@@ -3,6 +3,7 @@
  * 豆汁、豆面酥糖、酸梅汤、茶汤、小窝头、茯苓饼、果脯蜜饯、冰糖葫芦、艾窝窝、豌豆黄、驴打滚、灌肠、爆肚、炒肝等。
  */
 import { lampshadedBeefScriptsList } from './beijingFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const beiJingFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +58,7 @@ export const beiJingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +113,6 @@ export const beiJingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

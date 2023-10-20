@@ -1,7 +1,10 @@
 /**
  * 浙江-台州市-特产美食
-糟羹 */
+糟羹 
+
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const taizhouFoodsList = [
   // 灯影牛肉
   {
@@ -56,6 +59,7 @@ export const taizhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -110,5 +114,6 @@ export const taizhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

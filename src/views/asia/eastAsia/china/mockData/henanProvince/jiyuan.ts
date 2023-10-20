@@ -1,5 +1,8 @@
 /**
  * 河南-济源市-特产美食
+ * 鸡蛋蒜辣捞面条、炒面、麻糖、油各表、牛肉丸、炒鸡、肉夹火烧、菜糕、煮馍、土馍、小凹馍、绿豆酥、鸡蛋不翻儿、疙星汤
+
+ * 
 面条：鸡蛋蒜辣捞面条、炒面
 油炸类：麻糖、油各表
 肉类：牛肉丸、炒鸡、肉夹火烧
@@ -7,6 +10,7 @@
 其他：绿豆酥、鸡蛋不翻儿、疙星汤
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jiyuanFoodsList = [
   // 灯影牛肉
   {
@@ -61,6 +65,7 @@ export const jiyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -115,5 +120,6 @@ export const jiyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

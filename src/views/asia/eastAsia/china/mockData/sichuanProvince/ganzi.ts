@@ -3,6 +3,7 @@
  * 美食：丹巴香猪腿、岚安腊肉粉皮、水淘糌粑、牛肉血肠、火烧子馍馍
  */
 import { lampshadedBeefScriptsList } from './ganziFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const ganziFoodsList = [
   // 丹巴香猪腿
   {
@@ -57,6 +58,7 @@ export const ganziFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 岚安腊肉粉皮
   {
@@ -111,6 +113,7 @@ export const ganziFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 水淘糌粑
   {
@@ -165,6 +168,7 @@ export const ganziFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 牛肉血肠
   {
@@ -219,6 +223,7 @@ export const ganziFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 火烧子馍馍
   {
@@ -273,5 +278,6 @@ export const ganziFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

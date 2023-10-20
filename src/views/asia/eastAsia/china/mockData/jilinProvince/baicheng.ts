@@ -10,4 +10,5 @@
  * 吉林-白城市-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const baichengFoodsList = [];

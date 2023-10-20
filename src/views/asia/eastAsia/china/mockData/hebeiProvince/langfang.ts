@@ -1,5 +1,13 @@
 /**
  * 河北-廊坊市-特产美食
+ * 
+ * 香河肉饼
+大城驴肉
+薛家窝头
+永清胡记烧鸡
+清真八大碗
+
+ * 
 香河肉饼
 香河肉饼是河北省廊坊市香河县特产。特点是皮薄，肉厚，油香，吃起来面质软和，肉鲜细嫩，符合北方人的吃喝习惯，既可当菜，也可做主食。有两百多年的历史了。
 大城驴肉
@@ -11,6 +19,7 @@
 清真八大碗
 清真八大碗系穆斯林传统的民间宴客形式，指的是八种装在大碗里的炖菜，讲究料厚物重、味纯汤清、用料广泛、技法全面、有素有荤，牛羊肉、鸡、鸭、鱼都入八大碗之列，多采用炖、煮、烩、炸、烧、蒸等 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const langfangFoodsList = [
   // 灯影牛肉
   {
@@ -65,6 +74,7 @@ export const langfangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -119,5 +129,6 @@ export const langfangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

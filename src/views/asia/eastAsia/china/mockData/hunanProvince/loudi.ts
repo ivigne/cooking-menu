@@ -1,5 +1,18 @@
 /**
  * 湖南-娄底市-特产美食
+ * 
+ * 永丰辣酱
+新化杯子糕
+珠梅土鸡
+辣子炒鸡
+香辣跳跳蛙
+火锅
+口味蛇
+雪花丸子
+塞海煨鱼
+
+ * 
+ * 
 永丰辣酱
 产于双峰县永丰镇，已有三百多年的历史，据说以蔡和森的祖辈经营的蔡广祥店最有名。
 新化杯子糕
@@ -21,6 +34,7 @@
 在湄江地区，流行着一种煨鱼的习俗。湄江人把煨鱼视于吉祥的品。每逢新春佳节，或特别的宾客进屋，都要摆上一条香喷喷油滴滴的煨鱼。食用时，大年三十、初一是很讲究的。不论什么人只能在鱼体的腹部
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const loudiFoodsList = [
   // 灯影牛肉
   {
@@ -75,6 +89,7 @@ export const loudiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -129,5 +144,6 @@ export const loudiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

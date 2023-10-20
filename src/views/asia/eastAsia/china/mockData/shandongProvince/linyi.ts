@@ -1,9 +1,15 @@
 /**
  * 山东-临沂市-特产美食
+ * 
+临沂煎饼、一品三鲜鸡、蒜泥鱼、八宝豆豉、氽芙蓉黄管、兰陵美酒、沂水丰糕
+ * 
+ * 
+ * 
 临沂美食
 临沂市是齐鲁风味的重要代表之一，临沂地区古代多为鲁国之地，千百年来形成以“蒸、煮、烤、酿、煎、炒、熬、烹、炸、腊、盐、豉、醋、酱、酒、蜜、椒”为框架的鲁南菜烹调技法，诞生了糁、沂蒙光棍鸡、临沂煎饼、一品三鲜鸡、蒜泥鱼、八宝豆豉、氽芙蓉黄管、兰陵美酒、沂水丰糕等几十种当地名吃
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const linyiFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +64,7 @@ export const linyiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +119,6 @@ export const linyiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

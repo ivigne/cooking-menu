@@ -1,5 +1,20 @@
 /**
  * 宁夏回族自治区-中卫市-特产美食
+ * 
+ * 
+ * 素菜豆腐、滚粉泡芋头、胡萝卜包子、米黄子、蒜蘸煎豆腐、油饼子夹枣梯、漩粉凉莱。
+煎猪脏、猪瓤子、浑酒小炒、羊杂碎、大牛杂碎；猪肉焖米饭、蒸羊羔、清汤羊羔、杂烩。
+蒸咸鱼、清蒸鱼、酸辣鱼、干炸鱼。
+枣糕泡羊奶。
+大锅揪面、春韭白葱拌水面、炒米、糖酥馍、书本子油馍、牛舌头饼、大月饼产硬面干烙子。
+黄酒、醪酒煮鸡蛋。
+芝麻糖、豆糖；阴米糖、面糖、姜糖、核桃仁糖、胶糖等。
+卤鸡、卤蛋、浑酒小炒、醪酒煮鸡蛋、米黄子、糖酥馍、书本子油馍等。 [17]
+
+ * 
+ * 
+ * 
+ * 
 风味小吃
 素食类：素菜豆腐、滚粉泡芋头、胡萝卜包子、米黄子、蒜蘸煎豆腐、油饼子夹枣梯、漩粉凉莱。
 肉食类：煎猪脏、猪瓤子、浑酒小炒、羊杂碎、大牛杂碎；猪肉焖米饭、蒸羊羔、清汤羊羔、杂烩。
@@ -11,6 +26,7 @@
 晚间小吃：卤鸡、卤蛋、浑酒小炒、醪酒煮鸡蛋、米黄子、糖酥馍、书本子油馍等。 [17]
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const zhongweiFoodsList = [
   // 灯影牛肉
   {
@@ -65,6 +81,7 @@ export const zhongweiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -119,5 +136,6 @@ export const zhongweiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,16 @@
 /**
  * 内蒙古自治区-兴安盟市-特产美食
+ * 
+ * 
+ * 锅包肉
+小鸡炖蘑菇
+奶皮
+蘸酱菜
+烤全羊
+冻柿子
+
+ * 
+ * 
 锅包肉
 锅包肉（英文名：Fried Pork in Scoop），原名锅爆肉，光绪年间始创自哈尔滨道台府府尹杜学瀛厨师郑兴文之手。成菜后，色泽金黄，口味酸甜。锅包肉是为适应外宾口味，把咸鲜口味的“焦烧肉条”改成了一道酸甜口味的菜肴。通常将猪里脊肉切片腌入味，裹上炸浆，下锅炸至金黄色捞起，再下锅拌炒勾芡即成。2022年，哈尔滨锅包肉入选国家《地标美食名录》。
 小鸡炖蘑菇
@@ -10,10 +21,9 @@
 蘸酱菜是一道东北特色菜，无疑是东北菜中最简单，也最保留食物的原味的，在菜中不加任何的调料，可以生食或蒸煮，蘸酱即可食用。它的特点是油烟少，取材随意丰富。
 烤全羊
 烤全羊（Roast Whole Lamb），是一道地方特色菜肴。色、香、味、形俱全，别有风味。
-冻柿子
-冻柿子是东北传统的冬季水果。过去由于食品匮乏，加上没有水果保鲜技术和保鲜运输、贮藏条件，冻梨、冻柿子几乎是普通人家冬天能吃到的唯一水果。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xingAnMengFoodsList = [
   // 灯影牛肉
   {
@@ -68,6 +78,7 @@ export const xingAnMengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -122,5 +133,6 @@ export const xingAnMengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

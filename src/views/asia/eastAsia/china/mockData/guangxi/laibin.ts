@@ -1,5 +1,7 @@
 /**
  * 广西-来宾市-特产美食
+ * 红糟酸、忻城肉粽
+ * 
 红糟酸
 红糟酸，是在稍高于室温的环境下制成。用于腌制姜酸、萝卜酸、四季豆等广西常见的酸，也可用于家常炒菜，红糟酸香味沁人心脾，让人垂涎三尺，食用后回味无穷，是武宣县特产的健康食品。
 忻城肉粽
@@ -9,6 +11,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const laibinFoodsList = [
   // 灯影牛肉
   {
@@ -63,6 +66,7 @@ export const laibinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -117,5 +121,6 @@ export const laibinFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

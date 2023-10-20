@@ -1,5 +1,10 @@
 /**
  * 陕西-汉中市-特产美食
+ * 
+ * 汉中面皮
+汉中菜豆腐
+
+ * 
 汉中面皮
 汉中面皮，是汉中市的地方小吃，起源于秦汉时期，制作方法是将大米浸泡、磨浆，加水稀稠相宜，蒸成薄片，待冷却后切成细条，具有色白、薄、光、嫩、细、柔、韧、香等特点，再辅以豆芽、菠菜、胡萝卜丝，芝麻酱、辣椒油、大蒜汁或生姜汁，芥末、五香粉、精盐等调料，即可食用。汉中面皮除凉食外，还可切片晒干油炸，还有炒、烩等多种吃法。 [36]
 汉中菜豆腐
@@ -8,6 +13,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const hanzhongFoodsList = [
   // 灯影牛肉
   {
@@ -62,6 +68,7 @@ export const hanzhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -116,5 +123,6 @@ export const hanzhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,22 @@
 /**
  * 山东-德州市-特产美食
+ * 
+ * 
+德州羊肠汤
+乐陵金丝小枣
+羊肠汤
+尚堂扒鸡
+大柳面
+德州扒鸡
+葱烧蹄筋
+保店驴肉
+宋楼火烧
+傻小二棒仔鸭
+
+ * 
+ * 
+ * 
+ * 
 禹城扒鸡
 禹城扒鸡又称称禹城五香脱骨扒鸡，山东禹城特色传统名吃，已有200余年的历史。它以制作独特、肉烂脱骨、色鲜味美、肥而不腻、营养丰富等特点而著称，1919年载入《山东各县乡土调查录》。
 德州羊肠汤
@@ -27,6 +44,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const dezhouFoodsList = [
   // 灯影牛肉
   {
@@ -81,6 +99,7 @@ export const dezhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -135,5 +154,6 @@ export const dezhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

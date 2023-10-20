@@ -1,5 +1,34 @@
 /**
  * 辽宁-沈阳市-特产美食
+ * 
+ * 沈阳小吃
+老边饺子
+李连贵熏肉大饼
+杨家吊炉饼
+李连贵熏肉大饼
+马家烧麦
+西塔大冷面
+不老林
+老山记海城馅饼
+那家馆白肉血肠
+朝鲜族烤牛肉
+打糕
+张久礼烧鸡
+麻花
+沈阳小土豆
+鸡架
+开口馅饼
+高楼香鸡
+老四季
+四季面条
+大清花饺子
+三盛源饺子
+宝发园四绝菜
+潘家肘子
+岩明火勺
+ * 烤鸡架、烀鸡架、熏鸡架、煮鸡架、拌鸡架、铁板鸡架、炒鸡架、炸鸡架
+ * 
+ * 
 沈阳小吃
 老边饺子
 李连贵熏肉大饼
@@ -29,6 +58,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const shenyangFoodsList = [
   // 灯影牛肉
   {
@@ -83,6 +113,7 @@ export const shenyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -137,5 +168,6 @@ export const shenyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -8,6 +8,15 @@
  */
 /**
  * 香港特别行政区-香港特别行政区-特产美食
+ * 
+ * 年糕、粽子、鱼蛋、蛋挞、小桃酥、杏仁饼、盲公饼、鸡仔饼、小椰堆、花生饼、芝麻饼、相思酥、棋子饼、炒米饼、格子饼、花生糖、袋仔面、鸡蛋仔、花生豆、南乳香酥角
+  九记牛腩
+杨枝甘露
+酥皮蛋挞
+鸳鸯奶茶
+丝袜奶茶
+* 
+ * 
 流行于民间的传统食品一直扎根香港，如年糕、粽子、鱼蛋、蛋挞、小桃酥、杏仁饼、盲公饼、鸡仔饼、小椰堆、花生饼、芝麻饼、相思酥、棋子饼、炒米饼、格子饼、花生糖、袋仔面、鸡蛋仔、花生豆、南乳香酥角等
  九记牛腩
 香港中环歌赋街21号，一个不大的门脸，一个一年四季都需要排队的店铺，好吃、用料足，价格合理，张国荣、谭咏麟、关之琳等香港演艺界名人都是这里的常客。
@@ -22,6 +31,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const hongKongFoodsList = [
   // 灯影牛肉
   {
@@ -76,6 +86,7 @@ export const hongKongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -130,5 +141,6 @@ export const hongKongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

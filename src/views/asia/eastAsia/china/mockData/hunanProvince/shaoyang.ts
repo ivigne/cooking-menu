@@ -1,5 +1,13 @@
 /**
  * 湖南-邵阳市-特产美食
+ * 
+ * 武冈卤豆腐
+血酱鸭
+武冈卤铜鹅
+栎子豆腐
+
+ * 
+ * 
 武冈卤豆腐
 武冈卤豆腐，湖南省武冈市特产，中国国家地理标志产品。武冈卤豆腐是富有浓郁地方特色的传统卤制产品，它选用武冈特有的优质豆腐为主要原料，加入以大茴、小茴、桂皮等二十几味地道中草药制作的卤
 血酱鸭
@@ -12,6 +20,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const shaoyangFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +75,7 @@ export const shaoyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +130,6 @@ export const shaoyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

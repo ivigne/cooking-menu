@@ -4,6 +4,7 @@
 隆子黑青稞糌粑，西藏自治区隆子县特产，中国国家地理标志产品。糌粑由生长在青藏高原的青稞干炒磨制而成，是藏民族千百年来的传统主食之一。隆子县黑青稞糌粑是以隆子县优质黑青稞为原料，炒制水磨而成
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const shannanFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +59,7 @@ export const shannanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +114,6 @@ export const shannanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

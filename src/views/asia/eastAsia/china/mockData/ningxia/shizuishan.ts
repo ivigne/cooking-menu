@@ -10,4 +10,5 @@
  * 宁夏回族自治区-石嘴山市-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const shizuishanFoodsList = [];

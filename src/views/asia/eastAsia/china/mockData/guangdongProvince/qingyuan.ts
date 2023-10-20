@@ -1,5 +1,7 @@
 /**
  * 广东省-清远市-特产美食
+ * 
+ * 
 猪肚鸡、白切清远鸡、吊烧清远鸡、母鹅煲、母鸡煲、刀切糍、艾糍、洲心烧肉、洲心大粥
 全菇宴、全羊宴、全鹿宴、石潭豉油鸡、浸潭豆腐、浸潭山坑鱼仔、浸潭山坑螺、清远麻鸡
 白切阳山鸡、麦羹（即玉米羹）
@@ -7,6 +9,7 @@
 擂茶粥、卷筒糍、大湾菜包、东乡蒸肉等
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const qingyuanFoodsList = [
   // 灯影牛肉
   {
@@ -61,6 +64,7 @@ export const qingyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -115,5 +119,6 @@ export const qingyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

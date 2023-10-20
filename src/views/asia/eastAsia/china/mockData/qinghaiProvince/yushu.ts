@@ -10,4 +10,5 @@
  * 青海-玉树藏族自治州-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yushuFoodsList = [];

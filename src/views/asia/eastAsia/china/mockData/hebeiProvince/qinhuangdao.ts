@@ -3,6 +3,7 @@
 清蒸铁板蟹、煎烤大虾、辣炒花蛤、酱爆皮皮虾。除了海鲜，特色风味小吃也是历来为人称道：四条包子、杨肠子、扇贝饼、老二位麻酱烧饼、回记绿豆糕、粉鸽子、抚宁老髦肉、赵家馆饺子、青龙水豆腐、青龙豆腐干、孟和尚粉肠、长城饽椤饼
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const qinhuangdaoFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +58,7 @@ export const qinhuangdaoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +113,6 @@ export const qinhuangdaoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,11 +1,17 @@
 /**
  * 山西-大同市-特产美食
  * 
- * 灵丘黄烧饼、老大同八大件、大同黄糕、浑源凉粉、阳高羊汤、天镇豆皮、广灵驴肉等
+ * 
+ * 
+大同刀削面、羊杂、过油肉、兔头、黄金大饼、扒肉条（又叫小烧肉）、油炸糕、大同铜火锅、凤临阁烧麦、凤趴窝、莜面、广灵豆腐干、浑源凉粉、阳高杏脯、
+ 灵丘黄烧饼、老大同八大件、大同黄糕、浑源凉粉、阳高羊汤、天镇豆皮、广灵驴肉*
+ * 
 
 地方名吃
-大同刀削面、羊杂、过油肉、兔头、黄金大饼、扒肉条（又叫小烧肉） [132]、油炸糕、大同铜火锅、凤临阁烧麦、凤趴窝 [130]、莜面、广灵豆腐干、浑源凉粉、阳高杏脯等； */
+大同刀削面、羊杂、过油肉、兔头、黄金大饼、扒肉条（又叫小烧肉）、油炸糕、大同铜火锅、凤临阁烧麦、凤趴窝、莜面、广灵豆腐干、浑源凉粉、阳高杏脯等； 
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const datongFoodsList = [
   // 灯影牛肉
   {
@@ -60,6 +66,7 @@ export const datongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -114,5 +121,6 @@ export const datongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

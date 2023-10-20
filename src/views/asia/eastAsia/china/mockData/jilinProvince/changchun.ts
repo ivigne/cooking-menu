@@ -1,8 +1,12 @@
 /**
  * 吉林-长春市-特产美食
+ * 
+长春蹄花丝、长春地三鲜、回宝珍饺子、满族八大碗、雪衣豆沙、韭菜烙盒、长春酱肉、翡翠人参茅台鸡、鼎丰真糕点、烧鹿尾、鹿血糕、渍菜白肉火锅、白肉血肠、鸡汤豆腐串
+ * 
 特色名菜：长春蹄花丝、长春地三鲜、回宝珍饺子、满族八大碗、雪衣豆沙、韭菜烙盒、长春酱肉、翡翠人参茅台鸡、鼎丰真糕点、烧鹿尾、鹿血糕、渍菜白肉火锅、白肉血肠、鸡汤豆腐串
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const changchunFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +61,7 @@ export const changchunFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +116,6 @@ export const changchunFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

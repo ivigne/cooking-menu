@@ -4,6 +4,7 @@
 有四果汤、榜山豆皮和豆枝、石码肉粽、石码五香、漳州干拌面、豆花粉丝、长泰砂仁、香菇肉粥、长泰卤面、手抓面、粉粿、牛肉火锅、大肠咸菜火锅、沙锅粥、麦熟、猫仔粥、当归鸭面线、碱粽、咸肉粽等
 */
 import { lampshadedBeefScriptsList } from './zhangzhouFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const zhangzhouFoodsList = [
   // 漳州风味春卷、
   // 漳州豆花、
@@ -82,6 +83,7 @@ export const zhangzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -136,5 +138,6 @@ export const zhangzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,13 @@
 /**
  * 云南-普洱市-特产美食
+ * 
+ * 鸡豆腐
+普洱豆汤米干
+三尖角粑粑
+知了肉圆子
+
+ * 
+ * 
 
 鸡豆腐
 鸡豆腐是思茅保留着一道传统名菜，常见于婚宴喜事酒席上。
@@ -9,10 +17,10 @@
 三尖角粑粑是云南普洱地区家喻户晓的传统美食，也是普洱民间人家待客的佳品。三尖角粑粑的特点是形状如同菱角，皮薄馅多，鲜美香甜，口感柔和，糯而不腻，口味多样。是老少皆宜不可多得的大众美食之一。
 知了肉圆子
 知了肉圆子是云南著名的昆虫美食，是云南傣族人家的最爱，也是傣家人的传统美食。生活在云南西南部普洱地区、西双版纳州的傣族人民对知了情有独钟：“知了肉圆子”、“知了背肉馅”、“油炸知了”、“五香知了
-野菜、民族菜、米干、普洱茶
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const puerFoodsList = [
   // 灯影牛肉
   {
@@ -67,6 +75,7 @@ export const puerFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -121,5 +130,6 @@ export const puerFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

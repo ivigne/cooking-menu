@@ -4,6 +4,7 @@
 博罗酥糖、麻陂肉丸，罗浮山酥醪菜、梅菜蒸猪肉、梅菜蒸牛肉、梅菜蒸鲜鱼
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const huizhouFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +59,7 @@ export const huizhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +114,6 @@ export const huizhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

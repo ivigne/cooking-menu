@@ -1,5 +1,16 @@
 /**
  * 河南-周口市-特产美食
+ * 
+ * 烧蒲菜
+邓城叶氏猪蹄
+太康肘子
+孔集卤鸡
+固墙热豆腐
+逍遥镇胡辣汤
+邓城猪蹄
+
+ * 
+ * 
 烧蒲菜
 烧蒲菜是淮阳地区独有的传统名菜，属于豫菜系。被列为河南省地方名菜之一。它以龙湖特产蒲子下端的嫩芯为原料，加配佐料烧制而成。烧蒲菜可单独烧制，也可与肉、鱼、蛋拼合烧制。种类有虾仁烧蒲菜、蛋黄烧蒲菜、鱼片烧蒲菜等。不论哪种烧蒲菜，均色白如玉，鲜嫩清香，别具风味。 [18]
 邓城叶氏猪蹄
@@ -18,6 +29,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const zhoukouFoodsList = [
   // 灯影牛肉
   {
@@ -72,6 +84,7 @@ export const zhoukouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -126,5 +139,6 @@ export const zhoukouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

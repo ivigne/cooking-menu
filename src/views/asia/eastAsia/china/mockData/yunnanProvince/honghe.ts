@@ -1,10 +1,14 @@
 /**
  * 云南-红河哈尼族彝族自治州-特产美食
-蒙自的年糕、过桥米线、甜石榴、开远的甜藠头、六果液，石屏的豆腐、杨梅、八面煎鱼，屏边的蛤蚧酒、熊胆酒、荔枝，弥勒的葡萄酒、风吹豆豉、红河卷烟，绿春的玛玉茶、云雾茶，泸西的东山火腿，元阳的南沙干巴
+ * 
+ * 过桥米线、建水烧豆腐、开远小卷粉、河口小卷粉、石屏豆腐、汽锅鸡、烧豆腐、八面煎鱼，
+ * 
+ * 
 蒙自过桥米线、建水烧豆腐、开远小卷粉、河口小卷粉、石屏豆腐、汽锅鸡、烧豆腐
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const hongheFoodsList = [
   // 灯影牛肉
   {
@@ -59,6 +63,7 @@ export const hongheFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -113,5 +118,6 @@ export const hongheFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

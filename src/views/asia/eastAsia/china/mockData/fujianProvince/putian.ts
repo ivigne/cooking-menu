@@ -11,6 +11,7 @@
  * 莆田卤面
  */
 import { lampshadedBeefScriptsList } from './putianFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const putianFoodsList = [
   // 莆田卤面
   {
@@ -65,5 +66,6 @@ export const putianFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

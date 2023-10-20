@@ -1,5 +1,6 @@
 /**
  * 甘肃-兰州市-特产美食
+ * 高三酱肉、兰州拉面、猪脏面、陈春麻辣粉、油炒粉、兰州臊子面、黄焖羊肉
 高三酱肉
 高三酱肉是甘肃兰州的传统名食，属于甘肃菜。此菜肉质新鲜、色泽光亮，略显透明，不肥不腻，芳香四溢而闻名遐迩。是由高彬吾在集各地传统酱肉制作技艺精华的基础上，精心研究，卤制而成。因高氏行三而得名，已有近70年的历史，现主要在张掖路西端的福华轩专门经营。
 兰州拉面
@@ -17,6 +18,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const lanzhouFoodsList = [
   // 灯影牛肉
   {
@@ -71,6 +73,7 @@ export const lanzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -125,5 +128,6 @@ export const lanzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

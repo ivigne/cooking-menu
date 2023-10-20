@@ -1,5 +1,14 @@
 /**
  * 河北-承德市-特产美食
+ * 
+ * 荞面河漏
+碗坨
+驴打滚
+御土荷叶鸡
+南沙饼
+鲜花玫瑰饼
+
+ * 
 荞面河漏
 荞面河漏是河北省的小吃，是中国北方面食三绝之一，与北京抻面、山西刀削面齐名。荞面分白荞面和黑荞面，是承德特别是坝上地区的传统作物，用它为原料作成的面食滑润筋道。其作法是，先把荞面用淡碱水和好，然后用一种特制的工具河漏床子，把面团压成长条，下入锅中煮熟，加蒜末、香油、醋等佐料即可食用。
 碗坨
@@ -14,6 +23,7 @@
 玫瑰花不仅是塞外名花，而且被定为河北承德市的市花。用玫瑰花制做点心，在承德已有近300年的历史。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const chengdeFoodsList = [
   // 灯影牛肉
   {
@@ -68,6 +78,7 @@ export const chengdeFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -122,5 +133,6 @@ export const chengdeFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

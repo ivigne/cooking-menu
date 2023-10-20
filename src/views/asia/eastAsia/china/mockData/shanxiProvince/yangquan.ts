@@ -1,6 +1,17 @@
 /**
  * 山西-阳泉市-特产美食
-阳泉漂抿曲、平定过油肉、盂县莜面栲栳栳等
+ * 
+阳泉漂抿曲、平定过油肉、盂县莜面栲栳栳、
+粉条豆腐丝
+抿曲
+过油肉
+平定黄瓜干
+阳泉压饼
+
+ * 
+ * 
+ * 
+ * 
  * 
 粉条豆腐丝
 阳泉市所属平定县有道名菜：粉条豆腐丝。这道菜主料是粉条和油豆腐丝，成菜特点是，豆腐丝是炸过的，外脆里嫩，菜看着很温和，没有一点热菜的感觉，但吃起来烫嘴，所以，地道的饭店都会说，我们做得
@@ -15,6 +26,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yangquanFoodsList = [
   // 灯影牛肉
   {
@@ -69,6 +81,7 @@ export const yangquanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -123,5 +136,6 @@ export const yangquanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

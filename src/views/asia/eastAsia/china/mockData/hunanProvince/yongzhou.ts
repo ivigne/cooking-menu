@@ -1,5 +1,13 @@
 /**
  * 湖南-永州市-特产美食
+ * 
+ * 永州血鸭
+柚皮红烧肉
+什锦火锅
+道州喝螺
+
+ * 
+ * 
 
 永州血鸭
 永州血鸭是湖南省永州市的一道特色名菜，属于湘菜系；永州血鸭分为多种，有江永，道县，新田、宁远、蓝山、东安、双牌等多个说法，在当地，几乎家家户户都会制作此菜，其具有美味、开胃凉血的特点，
@@ -12,6 +20,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yongzhouFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +75,7 @@ export const yongzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +130,6 @@ export const yongzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

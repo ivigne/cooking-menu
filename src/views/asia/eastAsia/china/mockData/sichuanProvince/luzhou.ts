@@ -3,6 +3,7 @@
  * 泸州肥儿粉、先市酱油、护国陈醋、泸州白糕、猪儿耙、泸州黄粑、泸州凉糕、古蔺麻辣鸡、殷家坡醪糟、纳溪泡糖、白果鸡、观音月母鸡汤、泸州烤鱼
  */
 import { lampshadedBeefScriptsList } from './luzhouFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const luzhouFoodsList = [
   // 泸州肥儿粉
   {
@@ -57,6 +58,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 先市酱油
   {
@@ -111,6 +113,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 护国陈醋
   {
@@ -165,6 +168,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 泸州白糕
   {
@@ -219,6 +223,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 猪儿耙
   {
@@ -273,6 +278,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 泸州黄粑
   {
@@ -327,6 +333,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 泸州凉糕
   {
@@ -381,6 +388,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 古蔺麻辣鸡
   {
@@ -435,6 +443,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 殷家坡醪糟
   {
@@ -489,6 +498,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 纳溪泡糖
   {
@@ -543,6 +553,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 白果鸡
   {
@@ -597,6 +608,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 观音月母鸡汤
   {
@@ -651,6 +663,7 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 泸州烤鱼
   {
@@ -705,5 +718,6 @@ export const luzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

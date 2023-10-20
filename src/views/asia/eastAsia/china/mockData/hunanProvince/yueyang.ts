@@ -1,5 +1,28 @@
 /**
  * 湖南-岳阳市-特产美食
+ * 
+ * 
+ * 平江酱干
+麻辣野鸭
+南江黄鳝面
+龙窖酱菜
+平江炸肉
+巴陵全鱼席
+翠竹粉蒸鱼
+岳阳三蒸
+君山银针鸡片
+蝴蝶飘海
+湘北田螺
+洞庭金龟
+洞庭银鱼
+龙窖腐乳
+醋水豆腐
+汨罗粽子
+岳阳王鸽
+
+ * 
+ * 
+ * 
 平江酱干
 平江酱干是一道美味可口的传统小吃，属于湘菜系。起源于湘鄂赣边塞重镇岳阳市平江县长寿街，又名长寿酱干，是清咸丰年间百岁老人何维丰（1847—1947）首创。采用长寿街传统卤制与烘烤食品工艺相结合手法，烧制出具有方寸大小、铜钱厚薄、乌黑油亮、芳香四溢的豆腐干，取名“多珍酱干”。每十片用棉线一匝，谓之一筒。味道醇美，耐嚼爽口，到民国年间，长寿酱干已是香遍湘鄂赣边区，成了平江的一大特产。
 麻辣野鸭
@@ -35,6 +58,7 @@
 岳阳王鸽是中国农产品地理标志产品，人工饲养历史超过2000年。胴体皮白，略带黄色，烹调后肉质细腻，皮脆肉嫩，鲜香多汁，略带甜味。“一鸽胜九鸡”，对病后体弱、血虚闭经、头晕神疲、记忆力衰退等有很好的补益作用。
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yueyangFoodsList = [
   // 灯影牛肉
   {
@@ -89,6 +113,7 @@ export const yueyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -143,5 +168,6 @@ export const yueyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

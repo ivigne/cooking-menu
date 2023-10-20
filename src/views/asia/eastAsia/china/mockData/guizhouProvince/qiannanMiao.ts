@@ -1,5 +1,18 @@
 /**
  * 贵州-黔东南苗族侗族自治州-特产美食
+ * 
+ * 阴辣椒、凉拌折耳根、漤菜、酸大肠等
+荞灰豆腐、荷叶粑、罗甸花米饭等
+榕江卷粉
+锦屏腌鱼
+镇远陈年道菜
+苗乡酸汤鱼饺
+侗家腌鱼
+施秉绿豆粉
+岑巩灰碱粑
+凯里红酸汤
+
+ * 
 阴辣椒、凉拌折耳根、漤菜、酸大肠等
 荞灰豆腐、荷叶粑、罗甸花米饭等
 
@@ -21,6 +34,7 @@
 凯里红酸汤，贵州省凯里市特产，中国国家地理标志产品。凯里红酸汤独具的色（鲜红）、香（清香）、味（醇酸、回甜）。用新鲜红辣椒、西红柿、等腌制发酵而成，色泽鲜红、光泽度好、细度均匀一致、粘稠适中，口感
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const qiannanMiaoFoodsList = [
   // 灯影牛肉
   {
@@ -75,6 +89,7 @@ export const qiannanMiaoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -129,5 +144,6 @@ export const qiannanMiaoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

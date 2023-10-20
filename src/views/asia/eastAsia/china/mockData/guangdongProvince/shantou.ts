@@ -1,5 +1,30 @@
 /**
  * 广东省-汕头市-特产美食
+ * 老妈宫粽球、
+东里猪脚饭、
+油泡鱼册、
+
+生炒鱼面、
+酥皮蟹盒、
+福合埕牛肉丸、
+
+酥炸虾饼、
+达濠鱼丸、
+潮汕蚝烙、
+鸳鸯膏蟹、
+汕头牛肉丸、
+薄壳米、
+橄榄菜、
+鲎粿、
+腌咸菜、
+酸菜白鳝、
+两英番薯粥、
+五果汤、
+酸梅乌鱼、
+
+樟林鼠曲粿、
+
+ * 
 老妈宫粽球
 粽球是中华民族的传统小食，历史悠久，各地制法有所不同，如泉州的肉粽，饶平的栀粽，珠三角的甜粽，风味各异。而老妈宫粽球是广东潮汕地区久负盛名的传统名小食，节日食俗。它以糯米为主料，外形为
 东里猪脚饭
@@ -49,6 +74,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const shantouFoodsList = [
   // 灯影牛肉
   {
@@ -103,6 +129,7 @@ export const shantouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -157,5 +184,6 @@ export const shantouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

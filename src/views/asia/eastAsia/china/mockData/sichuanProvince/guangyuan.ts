@@ -8,6 +8,7 @@
  * 苍溪县-油芍，酸菜豆花稀饭
  */
 import { lampshadedBeefScriptsList } from './guangyuanFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const guangyuanFoodsList = [
   // 蒸凉面
   {
@@ -62,6 +63,7 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 核桃饼
   {
@@ -116,6 +118,7 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 芙蓉糕
   {
@@ -170,6 +173,7 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 油米糖
   {
@@ -224,6 +228,7 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 酸菜牛肉面
   {
@@ -278,6 +283,7 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 火烧馍
   {
@@ -332,6 +338,7 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 腊三鲜
   {
@@ -386,6 +393,7 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 根面丸子
   {
@@ -440,6 +448,7 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 油芍
   {
@@ -494,6 +503,7 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 酸菜豆花稀饭
   {
@@ -548,5 +558,6 @@ export const guangyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,11 @@
 /**
  * 辽宁-铁岭市-特产美食
+ * 
+ * 李记坛肉
+亮中桥干豆腐
+
+ * 
+ * 
 李记坛肉
 李记坛肉，始于1918年，天津人李学新到山水秀丽、风景优美的铁岭龙首山下铁岭银州镇，开一小饭馆，首创坛肉。起初，李学新用铁锅炖肉，为除铁腥味，在砂锅炖肉启示下，改为坛肉，在北方颜有名气
 亮中桥干豆腐
@@ -7,6 +13,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const tielingFoodsList = [
   // 灯影牛肉
   {
@@ -61,6 +68,7 @@ export const tielingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -115,5 +123,6 @@ export const tielingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

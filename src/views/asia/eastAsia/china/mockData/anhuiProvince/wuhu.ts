@@ -3,6 +3,7 @@
  * 煮干丝、虾籽面、无为板鸭、奎湖飘鱼、鸠江腐乳、无为送灶粑粑、芥菜圆子、芜湖蟹汤包、海螺沙煲、芜湖臭干、腰子饼、弋江羊肉、肉蒸饭、奎湖漂鱼、芜湖老鸭汤泡锅巴
  */
 import { lampshadedBeefScriptsList } from './wuhuFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const wuhuFoodsList = [
   //  煮干丝
   {
@@ -57,6 +58,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 虾籽面
   {
@@ -111,6 +113,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 无为板鸭
   {
@@ -165,6 +168,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 奎湖飘鱼
   {
@@ -219,6 +223,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 鸠江腐乳
   {
@@ -273,6 +278,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 无为送灶粑粑
   {
@@ -327,6 +333,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 芥菜圆子
   {
@@ -381,6 +388,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 芜湖蟹汤包
   {
@@ -435,6 +443,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 海螺沙煲
   {
@@ -489,6 +498,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 芜湖臭干
   {
@@ -543,6 +553,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 腰子饼
   {
@@ -597,6 +608,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 弋江羊肉
   {
@@ -651,6 +663,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 肉蒸饭
   {
@@ -705,6 +718,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 奎湖漂鱼
   {
@@ -759,6 +773,7 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 芜湖老鸭汤泡锅巴
   {
@@ -813,5 +828,6 @@ export const wuhuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

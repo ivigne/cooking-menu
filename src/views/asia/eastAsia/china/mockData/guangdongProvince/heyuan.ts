@@ -1,5 +1,13 @@
 /**
  * 广东省-河源市-特产美食
+ * 东江酿豆腐、源城三黄鸡、东源万绿河鲜、和平全牛宴、龙川车田豆腐、紫金八刀汤 [49] 、连平薯丝煲、韭菜炒河虾、上汤桂花鱼、东江盐焗鸡、酿三宝、客家酿猪红、客家菜卷、红焖猪肉、紫金肉丸、焖香菇、炒仔鸭、全猪汤
+ * 艾粄、炸油粿、铁勺粄、龙川牛筋糕、紫金椒酱 [50] 、和平猕猴桃、老鼠粄、发糕、糍粑、九重皮、煎堆、酥角、
+娘酒醉河虾、
+东江盐焗鸡、
+客家酿豆腐、
+咸香鸭、
+水晶鸡、
+上汤桂花鱼、
 
 娘酒醉河虾
 娘酒醉河虾是广东省传统的名菜，属于粤菜系客家菜。把客家娘酒、姜片放进水煲，加生猛河虾、味精，盐煲熟即可。特点：鲜甜香醇 酒香虾爽 美味可口。
@@ -17,6 +25,7 @@
 河源市小吃和特产有艾粄、炸油粿、铁勺粄、龙川牛筋糕、紫金椒酱 [50] 、和平猕猴桃、老鼠粄、发糕、糍粑、九重皮、煎堆、酥角等。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const heyuanFoodsList = [
   // 灯影牛肉
   {
@@ -71,6 +80,7 @@ export const heyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -125,5 +135,6 @@ export const heyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -5,6 +5,7 @@
  * 尤溪卜鸭、“鼎日有”肉松、肝花、煎糟鱼、炸蛎黄、八宝红饭、香露河、走油田鸡、福建酿豆腐
  */
 import { lampshadedBeefScriptsList } from './fuzhouFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const fuzhouFoodsList = [
   // 香满脆环虾
   // 清蒸带鱼
@@ -92,6 +93,7 @@ export const fuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -146,5 +148,6 @@ export const fuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

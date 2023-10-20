@@ -26,6 +26,11 @@
 平乡十香菜
 沙河马场梨
 苦累
+威县火烧
+广宗薄饼
+
+*
+苦累
 苦累，发音（ku：三声，lei：四声），河北南部邢台、巨鹿、广宗、平乡、南宫、清河、威县、邯郸、武安，以及石家庄的无极、正定、辛集、赵县、藁城等地的一道特色小吃，介于主食和菜之间。这种食物怀旧的人还吃，一般人家已不吃了。苦累里菜多面少，缺粮时人们喜欢吃。找些老豆角、野菜、榆钱等洗净，放在锅里煮煮，捞出后切碎，盛放在锅里，然后拿干的棒子面往豆角、野菜或榆钱上撒，一边撒一边拿筷子搅拌，太干了就洒点水，等面把菜都包起来成疙瘩状时就不要撒面了。然后开始上火蒸，有的直接铺在锅底蒸，有的放在笼屉上蒸，不管怎样蒸都要把锅盖儿盖严。直接铺在锅底蒸时要掌握好火候，千万别糊了。苦累吃起来味道一般，但可以忆苦思甜，调剂饮食。旧时穷人吃苦累的很多，有钱人家吃苦累就是为了怀旧。
 威县火烧
 威县火烧是河北省邢台市威县的一道特色小吃，属于冀菜；以其独特的工艺和香酥的口感而远近闻名，其融合北方的油饼与胡饼制作工艺，用冀南的精面粉与小磨香油为原料，佐以细盐、花椒粉，用吊炉烘烤，打
@@ -37,6 +42,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xingtaiFoodsList = [
   // 灯影牛肉
   {
@@ -91,6 +97,7 @@ export const xingtaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -145,5 +152,6 @@ export const xingtaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

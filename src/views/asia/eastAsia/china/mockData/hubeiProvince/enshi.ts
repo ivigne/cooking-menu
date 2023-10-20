@@ -1,6 +1,22 @@
 /**
  * 湖北-恩施土家族苗族自治州-特产美食
-张关合渣、土家十大碗、洋芋粑粑、土家油茶汤等 [
+ * 
+张关合渣、土家十大碗、洋芋粑粑、土家油茶汤、
+ 鲊广椒炒腊肉
+公婆饼
+大派火腿
+榨辣椒
+腊肉土豆片
+张关合渣
+土家十大碗
+柏杨豆干
+宣恩火腿
+油香儿
+
+ * 
+ * 
+ * 
+张关合渣、土家十大碗、洋芋粑粑、土家油茶汤、
  * 
 鲊广椒炒腊肉
 鲊广椒炒腊肉是一道以鲊广椒、腊肉为主材料制作而成的土家人菜肴。鲊广椒，也称为鲊辣椒，它是以恩施本地鲜红辣椒和苞谷面（玉米面）为主要原料加工而成。
@@ -24,6 +40,7 @@
 油香儿（儿发音）是湖北省恩施土家族苗族自治州的一种风味小吃，该菜品在当地街边、餐馆都十分普遍，是恩施人常见的小吃之一；油香儿以其价格低，制作快速，口味香酥得到人们的喜爱。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const enshiFoodsList = [
   // 灯影牛肉
   {
@@ -78,6 +95,7 @@ export const enshiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -132,5 +150,6 @@ export const enshiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -3,6 +3,7 @@
  * 龟汁狗肉、鱼咬羊、临涣酱菜、地锅鸡、临涣烧饼
  */
 import { lampshadedBeefScriptsList } from './huaibeiFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const huaibeiFoodsList = [
   // 龟汁狗肉
   {
@@ -57,6 +58,7 @@ export const huaibeiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 鱼咬羊
   {
@@ -111,6 +113,7 @@ export const huaibeiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 临涣酱菜
   {
@@ -165,6 +168,7 @@ export const huaibeiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 地锅鸡
   {
@@ -219,6 +223,7 @@ export const huaibeiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 临涣烧饼
   {
@@ -273,5 +278,6 @@ export const huaibeiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

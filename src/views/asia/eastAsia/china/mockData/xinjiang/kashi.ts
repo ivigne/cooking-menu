@@ -4,6 +4,7 @@
 馕坑烤肉是极受新疆各族人民欢迎的一种美食，它外脆里嫩，味美可口。又名：吐努尔卡瓦普（维语）、皇宫烤肉，主打：新鲜的肥嫩羊肉。馕坑烤肉主要有馕坑肉串、馕坑羊排、馕坑烤羊脖子三种。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const kashiFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +59,7 @@ export const kashiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +114,6 @@ export const kashiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

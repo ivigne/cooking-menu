@@ -1,9 +1,16 @@
 /**
  * 辽宁-鞍山市-特产美食
+ * 
+ * 
+ * 
+ * 云友米线、牛庄馅饼
+ * 
+ * 
 
 鞍山的饮食文化底蕴丰厚，南北佳肴汇聚此地，川、粤、辽、鲁等菜系都得以弘扬，比较有特色的要数牛庄馅饼，起源于清末，为北方佳肴，具有选料考究、皮薄馅大、外焦里嫩、油而不腻的特点，另外还有云友米线、吸取了云南过桥米线和辽宁菜、辽菜的优点，并按照鞍山当地人的口味进行了改良。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const anshanFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +65,7 @@ export const anshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +120,6 @@ export const anshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,8 +1,15 @@
 /**
  * 湖南-湘西土家族苗族自治州-特产美食
+ * 
+ * 白菜酸、萝卜酸、辣椒酸、豆荚酸、野葫葱酸、大蔸菜酸、藠头酸、青菜酸、茄子酸等
+ * 酸猪肉、酸牛肉、酸麂子肉、酸鸡肉、酸鸭肉、酸鱼等，酸鱼
+ * 包谷酸、糯米酸等
+ * 
+ * 
 酸辣是湘西人日常生活中不可缺少的两味。有“辣椒当盐，酸菜当饭”之说。故而，在土寨苗乡，家家种有辣椒地，户户备有酸菜罈。按照制作原料的不同，其酸食可分三大类：蔬菜酸、肉食酸、粮食酸。蔬菜酸是酸食中的主体，随蔬菜品种的不同而各具其名，如：白菜酸、萝卜酸、辣椒酸、豆荚酸、野葫葱酸、大蔸菜酸、藠头酸、青菜酸、茄子酸等等。肉食酸顾名思义，是以动物、家禽或水产的 肉为原料的酸食，如：酸猪肉、酸牛肉、酸麂子肉、酸鸡肉、酸鸭肉、酸鱼等，酸鱼最有名气。粮食酸主要以包谷和糯米为原料，碾磨成粉拌辣椒粉腌制而成，有包谷酸、糯米酸等
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xiangxiFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +64,7 @@ export const xiangxiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +119,6 @@ export const xiangxiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,7 +1,10 @@
 /**
  * 广西-梧州市-特产美食
-梧州市特色美食众多，主要以粤菜为主，讲究色、香、味，主要特产包括六堡茶、龟苓膏、三蛇酒、纸包鸡、冰泉豆浆、神仙钵、梧州腊肠、岑溪古典鸡（岑溪三黄鸡）、梧州河粉（上汤河粉）、古凤荔枝、沙头迟熟荔枝、京南米粉、苍梧蜜枣、和味龙虱、梧州豆腐渣、岑溪竹笋酿、岑溪豆腐酿、梧州艇仔粥、梧州肠粉、梧州煲仔饭、梧州钵仔糕、屯巴茶、古龙大红八角、梧州桑寄生 */
+ * 
+ * 
+梧州市特色美食众多，主要以粤菜为主，讲究色、香、味，主要特产包括龟苓膏、纸包鸡、冰泉豆浆、神仙钵、梧州腊肠、梧州河粉（上汤河粉）、京南米粉、和味龙虱、梧州豆腐渣、岑溪竹笋酿、岑溪豆腐酿、梧州艇仔粥、梧州肠粉、梧州煲仔饭、梧州钵仔糕、梧州桑寄生 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const wuzhouFoodsList = [
   // 灯影牛肉
   {
@@ -56,6 +59,7 @@ export const wuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -110,5 +114,6 @@ export const wuzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -4,6 +4,7 @@
  */
 
 import { lampshadedBeefScriptsList } from './panzhihuaFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const panzhihuaFoodsList = [
   // 盐边油底肉
   // 盐边油底肉，四川省盐边县特产，中国国家地理标志产品。远古，居住在“笮都夷”的笮人，为在炎热的夏季防止猪肉腐烂变质，研制盐边油底肉；盐边油底肉因绿色无污染，色泽鲜明、醇香浓郁、口感滋糯，耙而不酥、肥而不腻、软而不绵、开胃健脾，具有独特而浓郁的原始肉香。2012年12月26日，原国家质检总局批准对“盐边
@@ -59,6 +60,7 @@ export const panzhihuaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 盐边羊肉米线
   // 攀枝花小吃类主要以四川味道为主，在当地人气最高的当属盐边县的羊肉米线，纯羊肉熬制的高汤煮出的米线，再加上豆瓣 花椒 小米辣等佐料，味道独特极具代表性；攀枝花由于靠近云南在这里米线的受欢迎程度远远高于面条，大街小巷的小吃店都有米线卖，牛肉米线 肥肠米线 杂酱米线 等别具攀枝花本地特色；各种四川知名小吃
@@ -114,6 +116,7 @@ export const panzhihuaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 箐河浑浆豆花
   // 箐河浑浆豆花是一道四川攀枝花的地方特色小吃，具有味醇、鲜嫩、色白且略有回甜的特点。
@@ -169,6 +172,7 @@ export const panzhihuaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 鸡棕卷粉
   {
@@ -223,5 +227,6 @@ export const panzhihuaFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

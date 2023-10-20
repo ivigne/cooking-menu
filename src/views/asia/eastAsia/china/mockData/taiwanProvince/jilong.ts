@@ -1,5 +1,16 @@
 /**
  * 台湾-基隆市-特产美食
+ * 
+ * 鼎边锉
+庙口小吃可以说是基隆的代表作，民间都说，“到基隆不吃庙口小吃，等于没到过基隆”。“
+天妇罗”、“鼎边锉”、“一口吃香肠
+豆签羹、八宝冬粉、营养三明治、泡泡冰
+泡泡冰、三兄弟豆花
+天妇罗（甜不辣）
+卞家牛肉面、虾冰蟹酱、
+ * 
+ * 
+ * 
 鼎边锉
 鼎边锉，台湾基隆著名小吃。鼎边锉原本是福州小吃，在福州人家里这算是家常小吃。里面有肉羹、虾仁羹、金针、香菇、木耳、鱿鱼、小鱼干、竹笋、高丽菜，内容丰富，是标准的汤好料多。然而这只是配料，
 庙口小吃可以说是基隆的代表作，民间都说，“到基隆不吃庙口小吃，等于没到过基隆”。“天妇罗”、“鼎边锉”、“一口吃香肠”等都是庙口小吃的极品。还有豆签羹、八宝冬粉、营养三明治、泡泡冰等。
@@ -15,6 +26,7 @@
 虾冰蟹酱：总店位于碧砂渔港，以将冰品及海产做结合而闻名
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jilongFoodsList = [
   // 灯影牛肉
   {
@@ -69,6 +81,7 @@ export const jilongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -123,5 +136,6 @@ export const jilongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

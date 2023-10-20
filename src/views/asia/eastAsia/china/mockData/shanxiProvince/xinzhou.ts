@@ -1,5 +1,24 @@
 /**
  * 山西-忻州市-特产美食
+ * 
+ * 
+ * 定襄蒸肉
+莜面窝窝
+保德碗托
+砍三刀
+神池月饼
+原平锅魁
+河曲酸捞饭
+高粱面鱼鱼
+莜面栲栳栳
+代州面麻片
+崞阳麻叶
+忻州瓦酥
+
+ * 
+ * 
+ * 
+ * 
 定襄蒸肉
 山西定襄塞北的一种汉族名吃，相传为当地进贡宫廷之贡品，也是当地民间宴席必备佳肴之一。食材主要以精瘦猪肉为主，辅以淀粉、植物油及各种调味品制成。具有肉香扑鼻，多食不腻等特点。 [43]
 莜面窝窝
@@ -26,6 +45,7 @@
 形状似瓦，故名"瓦酥"。瓦酥制作历史悠久，始于明末清初。在清朝时，慈禧太后品尝后，龙颜大开，赐名为"龙凤瓦酥"。瓦酥以其质酥脆，味香郁，堪称炉食中一绝。鲜食酥沙，松软；干食酥脆、甘香；常食健胃壮身。曾被山西省商业系统评为最佳食品，声誉远达太原、大同、河北、内蒙古等地。1981年被列为山西省名特产品。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xinzhouFoodsList = [
   // 灯影牛肉
   {
@@ -80,6 +100,7 @@ export const xinzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -134,5 +155,6 @@ export const xinzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

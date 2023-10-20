@@ -1,5 +1,29 @@
 /**
  * 湖北-武汉市-特产美食
+ * 
+ * 武汉红豆沙、青山麻烘糕、八卦汤、热干面、三鲜豆皮、面窝、米粑、豆丝、欢喜坨、鸭脖子、武昌鱼、排骨藕汤、洪山菜薹炒腊肉、糍粑
+ * 发米粑
+长春太极饼
+五里界蒸肉
+热干面
+田启恒糊汤粉
+香菜圆子
+虾球
+青山麻烘糕
+汤逊湖鱼丸
+清蒸武昌鱼
+牛肉豆丝
+武汉排骨藕汤
+黄陂三合
+蛋花米酒
+洪山菜薹炒腊肉
+面窝
+精武鸭脖
+
+ * 
+ * 
+ * 
+ * 
 武汉红豆沙、青山麻烘糕、八卦汤等 [61] 
  * 
 武汉特色小吃有热干面、三鲜豆皮、面窝、米粑、豆丝、欢喜坨、鸭脖子、武昌鱼、排骨藕汤、洪山菜薹炒腊肉、糍粑
@@ -39,6 +63,7 @@
 精武鸭脖是湖北省武汉市的一道传统小吃，因为起源于汉口的精武路而得名。精武鸭脖是将川味卤方改进后用在鸭脖上，具有四川麻辣风格，其香味扑鼻，口感刺激，鲜美无比，所以很快成为了武汉人喜爱的名小吃
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const wuhanFoodsList = [
   // 灯影牛肉
   {
@@ -93,6 +118,7 @@ export const wuhanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -147,5 +173,6 @@ export const wuhanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

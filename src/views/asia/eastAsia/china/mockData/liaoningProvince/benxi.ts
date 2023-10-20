@@ -10,4 +10,5 @@
  * 辽宁-本溪市-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const benxiFoodsList = [];

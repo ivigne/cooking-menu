@@ -3,6 +3,7 @@
  * 绵竹松花皮蛋、什邡板鸭、广汉缠丝兔、果汁牛肉、德阳酱油、罗江豆鸡、连山回锅肉、中江八宝油糕
  */
 import { lampshadedBeefScriptsList } from './deyangFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const deyangFoodsList = [
   // 绵竹松花皮蛋
   {
@@ -57,6 +58,7 @@ export const deyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 什邡板鸭
   {
@@ -111,6 +113,7 @@ export const deyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 广汉缠丝兔
   {
@@ -165,6 +168,7 @@ export const deyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 果汁牛肉
   {
@@ -219,6 +223,7 @@ export const deyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 德阳酱油
   {
@@ -273,6 +278,7 @@ export const deyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 罗江豆鸡
   {
@@ -327,6 +333,7 @@ export const deyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 连山回锅肉
   {
@@ -381,6 +388,7 @@ export const deyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 中江八宝油糕
   {
@@ -435,5 +443,6 @@ export const deyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

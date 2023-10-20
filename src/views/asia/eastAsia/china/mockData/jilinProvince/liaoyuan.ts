@@ -10,4 +10,5 @@
  * 吉林-辽源市-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const liaoyuanFoodsList = [];

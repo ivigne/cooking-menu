@@ -3,6 +3,7 @@
  * 东至麦鱼、池州小粑
  */
 import { lampshadedBeefScriptsList } from './chizhouFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const chizhouFoodsList = [
   // 东至麦鱼
   {
@@ -57,6 +58,7 @@ export const chizhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 池州小粑
   {
@@ -111,5 +113,6 @@ export const chizhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

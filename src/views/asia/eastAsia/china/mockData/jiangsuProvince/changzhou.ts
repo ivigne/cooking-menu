@@ -1,6 +1,22 @@
 /**
  * 江苏-常州市-特产美食
-萝卜干、大麻糕、芝麻糖、溧阳风鹅、
+ * 
+ * 萝卜干、大麻糕、芝麻糖、溧阳风鹅、
+ * 银丝面
+天目湖砂锅鱼头
+水晶宫磨笼虾
+荷包丸子
+常州大麻糕
+加蟹小笼包
+溧阳扎肝
+常州糟扣肉
+溧阳三黄鸡
+羊肉酸菜煲
+八宝酿鲜鱿
+馄饨蔬菜清汤
+
+ * 
+
 银丝面
 银丝面是常州府（今常州）及周边一带的地方传统面食小吃，配料讲究，操作工序严格，具有面细如丝，色白似银，柔软滑爽，富有韧性，下锅不糊等特点，为《中国小吃（江苏风味）》收辑品种之一。
 天目湖砂锅鱼头
@@ -29,6 +45,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const changzhouFoodsList = [
   // 灯影牛肉
   {
@@ -83,6 +100,7 @@ export const changzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -137,5 +155,6 @@ export const changzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

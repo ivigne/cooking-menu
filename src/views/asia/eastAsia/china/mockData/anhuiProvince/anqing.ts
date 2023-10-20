@@ -3,6 +3,7 @@
  * 胡玉美蚕豆酱、墨子酥、柏兆记、江毛水饺、麦陇香、怀宁贡糕、长铺条子
  */
 import { lampshadedBeefScriptsList } from './anqingFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const anqingFoodsList = [
   // 胡玉美蚕豆酱
   {
@@ -57,6 +58,7 @@ export const anqingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 墨子酥
   {
@@ -111,6 +113,7 @@ export const anqingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 柏兆记
   {
@@ -165,6 +168,7 @@ export const anqingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 江毛水饺
   {
@@ -219,6 +223,7 @@ export const anqingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 麦陇香
   {
@@ -273,6 +278,7 @@ export const anqingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 怀宁贡糕
   {
@@ -327,6 +333,7 @@ export const anqingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 长铺条子
   {
@@ -381,5 +388,6 @@ export const anqingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

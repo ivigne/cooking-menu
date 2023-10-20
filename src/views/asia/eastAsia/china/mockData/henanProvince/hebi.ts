@@ -1,5 +1,16 @@
 /**
  * 河南-鹤壁市-特产美食
+ * 
+ * 浚县子馍
+榆皮饸饹面
+吴二锅花生米
+
+浚县八大碗
+王桥豆腐皮
+
+角场营元宵
+
+ * 
 浚县子馍
 也叫作石子馍，因在鹅卵石上烘焙制成而得名，距今已有一千多年的历史。子馍采用的都是上等面粉，配上油、葱花等制成火烧，然后再加入肉丝放到烧得滚烫的鹅卵石上面炕熟，最后浇入鸡蛋烤熟即可。油酥咸香的火烧，配上丝丝嫩滑的鸡蛋和肉丝，吃上去外焦里嫩。
 榆皮饸饹面
@@ -15,9 +26,6 @@
 角场营元宵
 亦称汤元，浚县"汤元之乡"的角场营生产的元宵有300多年的制作历史。该村元宵的特点是：个大均匀，皮薄馅多，色泽雪白，起绒头，汤清团糯，味道鲜美，吃到嘴里，松软细腻，香甜可口。每年秋后，外出卖汤元者远至徐州、太原、南京、西安；近至郑州、开封、洛阳、许昌等地。
 
-八仙糖人
-始于清光绪年间,高促创办的屯子“永源”商号。以白糖为主料，按照古代八位神像的相貌姿态仿制，成型高达7寸，色泽光亮透明，工艺高超可与塑像媲美。
-
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const hebiFoodsList = [
@@ -32,8 +40,8 @@ export const hebiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'henanCuisine', // 菜系编码
-    cuisineCategoryName: '豫菜', // 所属菜系
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -74,6 +82,7 @@ export const hebiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -86,8 +95,8 @@ export const hebiFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'henanCuisine', // 菜系编码
-    cuisineCategoryName: '豫菜', // 所属菜系
+    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
     cookingTypeCode: 'multiple', // 烹饪类型编码
@@ -128,5 +137,6 @@ export const hebiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

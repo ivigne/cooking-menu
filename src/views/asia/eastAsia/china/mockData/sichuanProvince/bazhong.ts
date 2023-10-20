@@ -3,6 +3,7 @@
  * 香菇炖腊肉、串串、黄羊肉干系列制品、恩阳提糖麻饼、巴中十大碗
  */
 import { lampshadedBeefScriptsList } from './bazhongFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const bazhongFoodsList = [
   // 香菇炖腊肉
   {
@@ -57,6 +58,7 @@ export const bazhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 串串
   {
@@ -111,6 +113,7 @@ export const bazhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 黄羊肉干系列制品
   {
@@ -165,6 +168,7 @@ export const bazhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 恩阳提糖麻饼
   {
@@ -219,6 +223,7 @@ export const bazhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 巴中十大碗
   {
@@ -273,5 +278,6 @@ export const bazhongFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

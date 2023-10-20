@@ -1,6 +1,17 @@
 /**
  * 江西-吉安市-特产美食
- * 特产：
+ * 
+ * 
+ * 吉安炒粉
+万安鱼头
+小炒鱼
+永新血鸭
+解缙豆花
+
+ * 
+ * 
+ * 
+ * 
 吉安炒粉
 吉安炒粉是江西省吉安市的一道特色小吃，该菜品味道可口，老少咸宜，是深受大众喜爱的小吃之一。吉安炒粉可以说是吉安的一大特色小吃，无论本地的吉安人，还是回到家乡的游子，只要是吉安人，不管身处何方，没有不喜欢吃炒粉的，如果外地朋友来访，也必然会请远方的客人品尝吉安的炒粉，可见，炒粉在吉安饮食文化中的地位。
 万安鱼头
@@ -12,6 +23,7 @@
 解缙豆花
 吉水人解缙不仅是明代第一才子、古代内阁首辅、《永乐大典》总纂修者，还是个美食家。他的美食之所以能闻名后世，有一味不可或缺的佐料，那就是人文情怀。 “解缙豆花”以鲜、柔、白、细著称，因解缙 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jiAnFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +78,7 @@ export const jiAnFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +133,6 @@ export const jiAnFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

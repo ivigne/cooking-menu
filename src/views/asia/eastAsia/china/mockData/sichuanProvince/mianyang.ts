@@ -3,6 +3,7 @@
  * 绵阳米粉、油旋子锅魁、梓潼片粉、梓潼酥饼
  */
 import { lampshadedBeefScriptsList } from './mianyangFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const mianyangFoodsList = [
   // 绵阳米粉
   // 绵阳地区汉族传统名吃之一，有1800多年历史。相传三国时，蜀主刘璋与刚入川的刘备相会于涪城（今四川绵阳）东山，刘备早就听说四川人擅长烹饪，就提出品尝当地美食。于是，刘璋命令手下将这名主妇叫上山来做了这道奇妙的菜。还没上桌，刘备及众将就闻到一股香辣的味道。一会儿工夫就吃了个精光。吃完饭，刘备顿时来了精神，手下众将一个个也都神采奕奕。再看上下，水肥稻丰、牧笛声声，刘备禁不住抚掌称赞。后来，四川民间争相仿制。地道的绵阳米粉分为红汤、清汤、对浇三大类。 [21]
@@ -58,6 +59,7 @@ export const mianyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 
   // 油旋子锅魁
@@ -114,6 +116,7 @@ export const mianyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 
   // 梓潼片粉
@@ -170,6 +173,7 @@ export const mianyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 梓潼酥饼
   // 俗称“薄脆子”。其发源地是梓潼许州，故又称许州酥饼，历史悠久，始创于唐代天宝年间。据传唐玄宗李隆基入蜀时，途经梓潼上亭铺，地方官员以酥饼贡奉，玄宗尝之赞不绝口，后上贡朝廷，逐成为“贡饼”从而扬名蜀中，成为传统糕点。梓潼酥饼主要以小麦精粉，化猪油，一级白糖，芝麻等为原料，采用传统工艺和独特配方制作。旧时用木炭火，现采用红外线炉烘烤而成，具有形如满月，色泽浅黄，光泽明亮，酥纹均匀清晰，香而酥脆，入口化渣，余味回香淡雅等特点。 [24]
@@ -225,5 +229,6 @@ export const mianyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

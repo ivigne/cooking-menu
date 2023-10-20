@@ -23,10 +23,11 @@
 烧葫芦
 麦索子
 碾珍子
-焖饼子 [19]
+焖饼子 
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jiuquanFoodsList = [
   // 灯影牛肉
   {
@@ -81,6 +82,7 @@ export const jiuquanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -135,5 +137,6 @@ export const jiuquanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

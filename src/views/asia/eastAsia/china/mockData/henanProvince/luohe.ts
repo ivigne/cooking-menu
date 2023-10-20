@@ -1,5 +1,9 @@
 /**
  * 河南-漯河市-特产美食
+ * 油旋馍
+北舞渡胡辣汤
+
+ * 
 油旋馍
 漯河特产油旋馍，是烙馍的一种。
 北舞渡胡辣汤
@@ -7,6 +11,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const luoheFoodsList = [
   // 灯影牛肉
   {
@@ -61,6 +66,7 @@ export const luoheFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -115,5 +121,6 @@ export const luoheFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,14 @@
 /**
  * 广东省-云浮市-特产美食
+ * 罗定豆豉鸡、
+慈姑糍、
+新兴裹蒸粽、
+茶洞豆腐、
+大糠糍、
+泗纶蒸笼、
+罗定皱纱鱼腐、
+
+ * 
 罗定豆豉鸡
 罗定豆豉鸡是一道色香味俱全的传统名菜，属于粤菜系。必须用家养的罗定三黄鸡制作，这种鸡肉嫩皮滑，味道鲜美，肥而不腻，所用的罗定豆豉，是豆豉中的上品，松香酥化，适口开胃，营养丰富，加上充足
 慈姑糍
@@ -16,6 +25,7 @@
 罗定皱纱鱼腐，广东省罗定市特产，中国国家地理标志产品。皱纱鱼腐形如鸡蛋大小，呈圆形或椭圆形，皮薄有皱褶，外表似轻纱，故称“皱纱鱼腐”。因它始创于罗定，所以称为“罗定皱纱鱼腐”。鱼腐是罗定的传统美食，历史悠久，风味独特。罗定鱼腐主要由鲜鲮鱼肉、淀粉、鲜蛋油炸而成，营养丰富
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yunfuFoodsList = [
   // 灯影牛肉
   {
@@ -70,6 +80,7 @@ export const yunfuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -124,5 +135,6 @@ export const yunfuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

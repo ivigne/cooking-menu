@@ -1,5 +1,23 @@
 /**
  * 山东-烟台市-特产美食
+ * 
+ * 
+ * 
+ * 烟台焖子
+
+福山拉面
+
+蓬莱小面
+鲜鱼水饺
+开花馒头
+
+盘丝饼
+
+糖酥杠子头火烧
+
+ * 
+ * 
+ * 
 烟台焖子
 以凉粉为主要原料，将凉粉切成小块，用锅煎到凉粉外边呈焦状，并佐以虾油、酱油、芝麻酱、蒜汁等调料上桌即可。
 
@@ -21,6 +39,7 @@
 据有关史料记载，清朝末年，山东潍县城西留饭桥一带乡村流行制作一种火烧，这种火烧和面时加水甚少，用手揉不成团，只好在面板上用木杠压制，当地人遂送其雅号“杠子头火烧” [16] 。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yantaiFoodsList = [
   // 灯影牛肉
   {
@@ -75,6 +94,7 @@ export const yantaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -129,5 +149,6 @@ export const yantaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

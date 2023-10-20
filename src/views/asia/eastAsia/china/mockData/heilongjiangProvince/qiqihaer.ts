@@ -1,5 +1,10 @@
 /**
  * 黑龙江-齐齐哈尔市-特产美食
+ * 
+ * 红梅牌脆松糖
+克东腐乳
+
+ * 
 
 红梅牌脆松糖
 黑龙江盛产松籽，每年均可收购50多万公斤。齐齐哈尔市联合食品厂，为了发挥地方优势充分利用松籽资源，根据苏州朱芝斋创造的重松糖，研制了红梅牌脆松糖。
@@ -7,6 +12,7 @@
 克东腐乳是黑龙江省齐齐哈尔市克东县独特的名牌发酵食品，属细菌类型发酵，有别于毛霉类型发酵，其产品特点是色泽鲜艳，质地细腻而柔软，味道鲜美而绵长，具有特殊的芳香气味。曾荣获“乌兰巴托国际食品博览会金奖”、 “中国腐乳十强品牌”、“中国行业十大知名品牌”、 “中国著名品牌”、“黑龙江名
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const qiqihaerFoodsList = [
   // 灯影牛肉
   {
@@ -61,6 +67,7 @@ export const qiqihaerFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -115,5 +122,6 @@ export const qiqihaerFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,8 +1,13 @@
 /**
  * 内蒙古自治区-通辽市-特产美食
+ * 
+通辽牛肉干
+ * 
+ * 
 通辽牛肉干
 通辽牛肉干又叫科尔沁风干牛肉、风干牛肉干，是内蒙古特产。追溯牛肉干历史，早在成吉思汗建立蒙古帝国时，蒙古骑兵与牛肉干就有着不解之缘，“出入只饮马乳，或宰牛为粮。牛肉干在远征作战时被誉为“成 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const tongliaoFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +62,7 @@ export const tongliaoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +117,6 @@ export const tongliaoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

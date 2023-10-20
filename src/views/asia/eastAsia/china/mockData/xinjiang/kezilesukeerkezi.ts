@@ -10,4 +10,5 @@
  * 新疆维吾尔自治区-克孜勒苏柯尔克孜自治州-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const kezilesukeerkeziFoodsList = [];

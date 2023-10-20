@@ -3,6 +3,7 @@
  * 华佗药膳、牛肉馍、锅盔、粉皮、蒙城油酥烧饼、利辛贡馍、蒙城撒汤、涡阳干扣面
  */
 import { lampshadedBeefScriptsList } from './bozhouFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const bozhouFoodsList = [
   // 华佗药膳
   {
@@ -57,6 +58,7 @@ export const bozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 牛肉馍
   {
@@ -111,6 +113,7 @@ export const bozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 锅盔
   {
@@ -165,6 +168,7 @@ export const bozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 粉皮
   {
@@ -219,6 +223,7 @@ export const bozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 蒙城油酥烧饼
   {
@@ -273,6 +278,7 @@ export const bozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 利辛贡馍
   {
@@ -327,6 +333,7 @@ export const bozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 蒙城撒汤
   {
@@ -381,6 +388,7 @@ export const bozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 涡阳干扣面
   {
@@ -435,5 +443,6 @@ export const bozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

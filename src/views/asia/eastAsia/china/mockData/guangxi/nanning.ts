@@ -1,5 +1,26 @@
 /**
  * 广西-南宁市-特产美食
+ * 
+ * 柠檬鸭
+老友粉
+粉饺
+卷筒粉
+粉虫
+生榨米粉
+酸野
+五色糯米饭
+老友面（粉）
+八仙粉
+干捞粉
+卷筒粉
+八宝饭
+柠檬鸭
+酸品
+王府牛杂
+生榨米粉
+瘦肉粥、猪红粥、鱼片粥、红豆粥、皮蛋粥、田鸡粥
+
+ * 
 柠檬鸭
 柠檬鸭是广西南宁武鸣一带的特色菜肴，属于桂菜，是广西十大经典名菜之一。柠檬鸭的主料是鸭子，配料是酸藠头、酸姜和酸辣椒，以及山黄皮和咸柠檬。柠檬鸭最早出现于20世纪80年代初期，南宁邕武路的界牌旁有一家小店，常年为来往司机提供菜品，经过不断发展，便有了这道名菜。
 老友粉
@@ -38,6 +59,7 @@
 发源地是南宁老城——邕宁。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const nanningFoodsList = [
   // 灯影牛肉
   {
@@ -92,6 +114,7 @@ export const nanningFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -146,5 +169,6 @@ export const nanningFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

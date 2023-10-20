@@ -10,4 +10,5 @@
  * 西藏自治区-日喀则市-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const rikazeFoodsList = [];

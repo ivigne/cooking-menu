@@ -2,7 +2,9 @@
  * 澳门特别行政区-特产美食
  * 澳门烧肉、葡式蛋挞（葡挞）、马介休、水蟹粥、免治、鲜虾浓汤、椰汁糕、甘薯蛋糕，猪扒包
  */
+
 import { lampshadedBeefScriptsList } from './aomenFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const aoMenFoodsList = [
   // 澳门烧肉
   {
@@ -57,6 +59,7 @@ export const aoMenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 葡式蛋挞（葡挞）
   {
@@ -111,6 +114,7 @@ export const aoMenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 马介休
   {
@@ -165,6 +169,7 @@ export const aoMenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 水蟹粥
   {
@@ -219,6 +224,7 @@ export const aoMenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 免治
   {
@@ -273,6 +279,7 @@ export const aoMenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 鲜虾浓汤
   {
@@ -327,6 +334,7 @@ export const aoMenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 椰汁糕
   {
@@ -381,6 +389,7 @@ export const aoMenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 甘薯蛋糕
   {
@@ -435,6 +444,7 @@ export const aoMenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 猪扒包
   {
@@ -489,5 +499,6 @@ export const aoMenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,16 @@
 /**
  * 山东-威海市-特产美食
+ * 
+ * 
+ * 乳山喜饼
+豉汁扇贝
+乳山千层饼
+锅煽海蛎子
+七珍煮羹
+
+ * 
+ * 
+ * 
 乳山喜饼
 乳山喜饼又称媳妇饼，果饼。属山东省威海市乳山市特有的特色传统面食，名闻山东。主要用麦面、糖、鸡蛋等原料凭经验经烘烤机器烘制而成。成品后，色微黄、香味扑鼻、口味独特。它在乳山地区最突出的
 豉汁扇贝
@@ -12,6 +23,7 @@
 七珍煮羹是以汤白为原料的一种羹，是山东威海传统小吃。
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const weihaiFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +78,7 @@ export const weihaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +133,6 @@ export const weihaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -1,5 +1,14 @@
 /**
  * 贵州-黔西南布依族苗族自治州-特产美食
+ * 
+ * 冲冲糕、油炸鲜鱼、蹄花饭、砂锅豆腐、涮鸡片等
+荔波风猪
+荔波腌酸肉
+砂锅粉
+鱼包韭菜
+都匀糟辣酸
+
+ * 
 冲冲糕、油炸鲜鱼、蹄花饭、砂锅豆腐、涮鸡片等
 荔波风猪
 荔波风猪，是贵州荔波布衣族地区的特产。荔波风猪是具有黔南风味的著名高级传统食品，历史上曾作过封建王朝的贡品。荔波风猪造型美观，色泽鲜亮，皮脆肉酥，美味可口，食而不腻，并可保存较长时间，是宴请宾朋、馈赠亲友的珍贵食品。
@@ -11,10 +20,10 @@
 聚居在以黔南布依苗族自治州的三都水族自治县为中心及其邻近地区的水族人民，在长期的历史发展过程中，逐步形成了喜食糯米食品、喜食鱼、喜吃酸辣、喜喝酒的饮食特点。其中鱼则是水族人民祭祀祖先、
 都匀糟辣酸
 糟辣酸是都匀四酸之一，四酸即酸菜、虾酸、香酸、糟辣酸。不管是乡村的农家菜还是城内街头的小吃店或大酒楼，可谓随处皆见。
- 冲冲糕、油炸鲜鱼、蹄花饭、砂锅豆腐、涮鸡片等
 
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const qiannanBuyiFoodsList = [
   // 灯影牛肉
   {
@@ -69,6 +78,7 @@ export const qiannanBuyiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -123,5 +133,6 @@ export const qiannanBuyiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

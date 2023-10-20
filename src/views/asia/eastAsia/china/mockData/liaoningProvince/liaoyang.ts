@@ -1,5 +1,12 @@
 /**
  * 辽宁-辽阳市-特产美食
+ * 
+ * 塔糖
+汤河鲜鱼
+老世泰糕点
+老杨头烧鸡
+
+ * 
 塔糖
 塔糖不仅具备着特殊的风味而且它的外形也很美，有如梅花形并多孔，吃起来酥脆，清香可口，色泽洁白细致，经暑不变。
 汤河鲜鱼
@@ -11,6 +18,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const liaoyangFoodsList = [
   // 灯影牛肉
   {
@@ -65,6 +73,7 @@ export const liaoyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -119,5 +128,6 @@ export const liaoyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

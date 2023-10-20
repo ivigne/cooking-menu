@@ -1,11 +1,18 @@
 /**
  * 江西-新余市-特产美食
+ * 
+ * 八戒戏凤
+仙女之吻
+
+ * 
+ * 
 八戒戏凤
 八戒戏凤是江西新余当地特色传统名菜，属赣菜系。此菜以土猪肉和土鸡为原料，故名曰八戒戏凤。因八戒戏凤具有农家味浓、鲜香、滑嫩的优点，而被列入“20道江西精品赣菜”之一。
 仙女之吻
 仙女之吻，是江西省新余市仙女湖畔传统的特色名肴，属于赣菜。仙女之吻具有香辣、质酥、色美、味绝的特点，于2011年被评委“20道江西精品赣菜”之一。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xinyuFoodsList = [
   // 灯影牛肉
   {
@@ -60,6 +67,7 @@ export const xinyuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -114,5 +122,6 @@ export const xinyuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -6,6 +6,7 @@
 “乐至烤肉”源远流长，早在三国时期，蜀国将领张飞常常用乐至烤肉作为犒赏三军将士的美食而得名。80年代以来，乐至烤肉在以李久治为首的烤肉宗师的不断创新下，以其香、辣、脆、麻等特色逐渐赢得了群众的喜爱，不断发展壮大，逐步扩展到了成都、重庆、内江、资阳、遂宁等大中城市，形成了一种独特的川中民俗饮食文化。
  */
 import { lampshadedBeefScriptsList } from './ziyangFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const ziyangFoodsList = [
   // 临江寺豆瓣
   // 临江寺豆瓣产于四川资阳，享有“中华老字号”称号，其品种有：香油豆瓣、金钩豆瓣、火肘豆瓣、红油豆瓣、鱼松豆瓣等30多个品种。临江寺豆瓣色泽鲜艳，油润发亮，瓣粒成型，入口化渣，香味浓郁，具有鲜、香、咸、甜、辣的独特风味。成份：含有蛋白质、脂肪、糖及多种维生素，是佐餐调味的上乘食品。
@@ -61,6 +62,7 @@ export const ziyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 乐至烤肉
   // “乐至烤肉”源远流长，早在三国时期，蜀国将领张飞常常用乐至烤肉作为犒赏三军将士的美食而得名。80年代以来，乐至烤肉在以李久治为首的烤肉宗师的不断创新下，以其香、辣、脆、麻等特色逐渐赢得了群众的喜爱，不断发展壮大，逐步扩展到了成都、重庆、内江、资阳、遂宁等大中城市，形成了一种独特的川中民俗饮食文化。
@@ -116,5 +118,6 @@ export const ziyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

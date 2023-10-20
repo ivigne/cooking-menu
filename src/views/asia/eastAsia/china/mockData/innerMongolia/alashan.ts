@@ -10,4 +10,5 @@
  * 内蒙古自治区-阿拉善市-特产美食
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const alashanFoodsList = [];

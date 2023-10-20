@@ -1,5 +1,13 @@
 /**
  * 河北-雄安新区-特产美食
+ * 
+ * 白洋淀全鱼宴
+小虾糊饼
+荷香莲子鸡
+鱼鳞冻、灶台铁锅炖鱼、熏鱼、河蟹、红心老腌蛋、小虾糊饼、炸千子、白洋淀炒鱼片，风味类有炸荷花、炸藕夹、凉拌荷叶芽、容城绿芦笋
+
+ * 
+ * 
 白洋淀全鱼宴
 白洋淀全鱼宴，有广义与狭义之分。广义包括鱼、虾、蟹等水产品在内，而狭义的只包括鱼类。一般分四凉四热、六凉六热、八凉八热。凉菜包括凉拌鱼丝、芝麻鱼条、香辣鱼肝、蛋皮鱼卷、酥炸鱼块、烧拌鱼丝、酸抖鱼块、玻璃鱼、芝麻鱼饼等，热莱包括蟹粉鱼蜃、松鼠鱼、须发鱼排、金毛狮子鱼、鸳鸯鱼丝、番茄鱼片、凤尾鱼托、芙蓉鲫鱼、金毛狮子鱼、红烧鱼段、红烧鲤鱼等。 [66]
 小虾糊饼
@@ -11,6 +19,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xionganFoodsList = [
   // 灯影牛肉
   {
@@ -65,6 +74,7 @@ export const xionganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -119,5 +129,6 @@ export const xionganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

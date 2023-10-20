@@ -1,5 +1,26 @@
 /**
  * 云南-保山市-特产美食
+ * 
+ * 
+ * 头脑“锅子”
+永昌板鸭施甸三味
+菜花腌菜伴蜂仔
+油炸撒撇“五滴水”
+“口水羹”施甸豆片
+春甜黄酒
+饵丝“透心绿”
+保山大烧
+“大救驾”
+腌菜膏
+山林素席
+下村豆粉
+腾冲果脯
+坛子鸡
+干腌菜、
+  蒲缥甘蔗、腾冲“大救驾”（炒饵块）、腾冲饵丝、保山绿豆、卷粉
+
+ * 
+ * 
 头脑“锅子”
 永昌板鸭施甸三味
 菜花腌菜伴蜂仔
@@ -98,6 +119,7 @@
 // 当然，你如果以为这些就是云南蘸水的全部，那真的太小瞧云南人的创意了。据说一个合格的云南人，至少能口述十五种、动手做出五种不同的蘸水。
 
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const baoshanFoodsList = [
   // 灯影牛肉
   {
@@ -152,6 +174,7 @@ export const baoshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -206,5 +229,6 @@ export const baoshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

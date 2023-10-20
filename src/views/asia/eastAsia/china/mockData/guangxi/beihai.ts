@@ -1,5 +1,10 @@
 /**
  * 广西-北海市-特产美食
+ * 莲南萝卜干、
+合浦大月饼、
+青蟹生地汤、
+
+ * 
 莲南萝卜干
 莲南萝卜干是广西北海的特产之一，因其色黄质脆、风味独特而大受客商的青睐。
 合浦大月饼
@@ -12,6 +17,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const beihaiFoodsList = [
   // 灯影牛肉
   {
@@ -66,6 +72,7 @@ export const beihaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -120,5 +127,6 @@ export const beihaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

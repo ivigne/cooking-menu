@@ -1,5 +1,12 @@
 /**
  * 河南-驻马店市-特产美食
+ * 
+ * 马家灌汤包
+马家羊肉水饺
+明宫三茹鸭
+
+ * 
+ * 
 马家灌汤包
 灌汤包是传统特色小吃。早在北宋市场上已有售卖，当时称灌浆馒头或灌汤包子。著名产地有开封，西安等地。薄馅大，汤汁鲜美、外表玲珑剔透、汤汁醇正浓郁、入口油而不腻。
 马家羊肉水饺
@@ -8,6 +15,7 @@
 三菇炖鸭是一道河南省的传统名菜，属于豫菜系。相传为明代宰相徐达从宫中带回的秘方。河南驻马店市文明路中段天中伊园代表菜。汤味清香淡雅，肉细嫩爽口，营养丰富。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const zhumadianFoodsList = [
   // 灯影牛肉
   {
@@ -62,6 +70,7 @@ export const zhumadianFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -116,5 +125,6 @@ export const zhumadianFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

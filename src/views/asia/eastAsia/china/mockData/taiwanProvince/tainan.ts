@@ -1,9 +1,17 @@
 /**
  * 台湾-台南市-特产美食
+ * 
+鲁肉饼、鸳鸯饼、腰果五仁饼、凤梨酥、芋泥饼
+凉糕、水晶饼、沙西饼、口酥
+ * 
+ * 
+ * 
+ * 
 喜饼有鲁肉饼、鸳鸯饼、腰果五仁饼、凤梨酥、芋泥饼等多种口味，此外，尚有保存古风的凉糕、水晶饼、沙西饼、口酥等精巧点心，同样令人回味无穷。 [9]
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const tainanFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +66,7 @@ export const tainanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +121,6 @@ export const tainanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

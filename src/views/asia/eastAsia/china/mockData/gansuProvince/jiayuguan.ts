@@ -1,5 +1,6 @@
 /**
  * 甘肃-嘉峪关市-特产美食
+ * 搓鱼子、嘉峪关机面、糖油糕、羊肉垫卷子：糖耳朵：扣肘子：酿皮子：甜醅子：驴肉黄面：嘉峪关烤羊肉：
 1.搓鱼子：搓鱼子是嘉峪关市的一道传统特色美食，历史悠久。它的制作工艺独特，将细长的面条搓成鱼儿的形状，再配以精心调配的调料，入口爽滑，味道鲜美，是当地人民喜爱的美食。
 
 
@@ -24,11 +25,12 @@
 8.甜醅子：甜醅子是嘉峪关市的一种传统饮品，以其清凉解暑、口感香甜而备受推崇。制作时将大麦、小麦等粮食发酵而成，口感醇厚，香甜可口。是夏季消暑的好选择。
 
 
-9.#今日早安问候#驴肉黄面：驴肉黄面是嘉峪关市的一道特色美食，以驴肉和黄面为主要食材，口感鲜美。制作时将驴肉切成薄片，与蔬菜、调料等混合，再用黄面制成条状，蒸煮而成。入口肉质鲜嫩，面条Q弹有劲。
+9.驴肉黄面：驴肉黄面是嘉峪关市的一道特色美食，以驴肉和黄面为主要食材，口感鲜美。制作时将驴肉切成薄片，与蔬菜、调料等混合，再用黄面制成条状，蒸煮而成。入口肉质鲜嫩，面条Q弹有劲。
 
 10.嘉峪关烤羊肉：嘉峪关烤羊肉是嘉峪关市的一道传统美食，以其独特的制作工艺和口感著称。制作时将羊肉切成小块，用特制的烤架烤制而成。入口羊肉外酥里嫩，味道鲜美。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jiayuguanFoodsList = [
   // 灯影牛肉
   {
@@ -83,6 +85,7 @@ export const jiayuguanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -137,5 +140,6 @@ export const jiayuguanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

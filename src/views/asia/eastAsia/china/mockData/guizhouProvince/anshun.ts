@@ -1,11 +1,15 @@
 /**
  * 贵州-安顺市-特产美食
+ * 
+旧州鸡辣子、素剪粉、干鸡块粉面、松糕卜粉、伍仁冲冲糕、裹卷、破酥包子、豆腐圆子、小锅凉粉、白糖饺、水晶凉粉、烤肉串、腊肉血豆腐、荞凉粉、安酒等。
+波波糖、安顺荞凉粉、安顺裹卷、鸡肉饼、黄平牛肉干、一品大包、碗耳糕、
+ * 
 波波糖、安顺荞凉粉、安顺裹卷、鸡肉饼、黄平牛肉干、一品大包、碗耳糕等
 旧州鸡辣子、素剪粉、干鸡块粉面、松糕卜粉、伍仁冲冲糕、裹卷、破酥包子、豆腐圆子、小锅凉粉、白糖饺、水晶凉粉、烤肉串、腊肉血豆腐、荞凉粉、安酒等。
-波波糖、安顺荞凉粉、安顺裹卷、鸡肉饼、黄平牛肉干、一品大包、碗耳糕等
 
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const anshunFoodsList = [
   // 灯影牛肉
   {
@@ -60,6 +64,7 @@ export const anshunFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -114,5 +119,6 @@ export const anshunFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

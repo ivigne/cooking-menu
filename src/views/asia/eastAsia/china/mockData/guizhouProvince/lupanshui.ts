@@ -1,11 +1,12 @@
 /**
  * 贵州-六盘水市-特产美食
+ * 
 水城羊肉粉、水城烙锅、岩脚面、郎岱富硒茶、水城凉粉、荷叶糯米鸡、豆汤圆子火锅、兰家牛肉粉、郎岱凉粉等
 蒸蒸糕、郎岱酱、
-水城羊肉粉、水城烙锅、岩脚面、郎岱富硒茶、水城凉粉、荷叶糯米鸡、豆汤圆子火锅、兰家牛肉粉、郎岱凉粉等
 
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const lupanshuiFoodsList = [
   // 灯影牛肉
   {
@@ -60,6 +61,7 @@ export const lupanshuiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -114,5 +116,6 @@ export const lupanshuiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -3,6 +3,7 @@
  * 龙亢泡条馓子、河溜小豆饼、怀远五岔烧全鸡、老任桥牛肉、湖沟烧饼
  */
 import { lampshadedBeefScriptsList } from './bengbuFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const bengbuFoodsList = [
   // 龙亢泡条馓子
   {
@@ -57,6 +58,7 @@ export const bengbuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 河溜小豆饼
   {
@@ -111,6 +113,7 @@ export const bengbuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 怀远五岔烧全鸡
   {
@@ -165,6 +168,7 @@ export const bengbuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 老任桥牛肉
   {
@@ -219,6 +223,7 @@ export const bengbuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 湖沟烧饼
   {
@@ -273,5 +278,6 @@ export const bengbuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

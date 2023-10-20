@@ -1,8 +1,17 @@
 /**
  * 浙江-丽水市-特产美食
+ * 
+安仁鱼头、笋衣铺蛋、高山田螺、红烧溪鱼、泡精肉、卷饼、缙云烧饼
+芙蓉莲子、笋衣铺蛋、炒双冬、缙云敲肉羹、安仁鱼头、高山田螺
+红烧溪鱼、炸烹知了、剁椒鱼头
+丽水卷饼、泡精肉、清明果、黄果、缙云烧饼
+ * 
+ * 
+ * 
 丽水市有安仁鱼头、笋衣铺蛋、高山田螺、红烧溪鱼、泡精肉、卷饼、缙云烧饼等特产美食，都是地道的丽水土菜；2007年，丽水市旅游局、丽水餐饮行业协会编撰的《处州菜》一书，集中了丽水市的名菜，其中有芙蓉莲子、笋衣铺蛋、炒双冬、缙云敲肉羹、安仁鱼头、高山田螺等50余个品种的传统菜肴，红烧溪鱼、炸烹知了、剁椒鱼头等30余个品种的创新菜肴，以及丽水卷饼、泡精肉、清明果、黄果、缙云烧饼等30余个品种的风味小吃。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const lishuiFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +66,7 @@ export const lishuiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +121,6 @@ export const lishuiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

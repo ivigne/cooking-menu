@@ -1,6 +1,6 @@
 /**
  * 广东省-潮州市-特产美食
- * 手捶牛肉丸
+ * 手捶牛肉丸、潮州春饼、姑苏香腐、溪口卤鹅肉、肠粉、粿汁
 手捶牛肉丸是广东潮汕地区最为普遍及大众化的传统民间小食，是一道起源于中国客家人的菜肴。主要特点为牛肉是用两根特制的铁棒轮流捶打成肉浆，后做成肉丸。
 潮州春饼
 潮州春饼是独具广东潮州特色美味的小吃，又名潮州春卷。节日食俗。它呈长方形，金黄美观，外酥里嫩，味浓香郁，为人称道。皮酥脆，馅咸香。
@@ -14,6 +14,7 @@
 粿汁，是广东省潮汕地区大众化的传统民间小食，属于潮菜。在潮州街上，随处可见卖粿汁的小食摊，叫一碗热腾腾好像粿条般滑口的粿片，淋上浅棕色的卤汁，再点些卤猪肠、卤肉、卤蛋、油炸鬼、粉肠、猪肉
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const chaozhouFoodsList = [
   // 灯影牛肉
   {
@@ -68,6 +69,7 @@ export const chaozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -122,5 +124,6 @@ export const chaozhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

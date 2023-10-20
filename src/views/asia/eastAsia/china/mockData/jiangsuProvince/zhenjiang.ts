@@ -1,5 +1,18 @@
 /**
  * 江苏-镇江市-特产美食
+ * 
+ * 镇江糖醋蒜
+丹阳大麦粥
+镇江酱菜
+百花酒焖肉
+白汁鮰鱼
+锅盖面
+清蒸鲥鱼
+蟹黄汤包
+麻油馓子
+
+ * 
+ * 
 镇江糖醋蒜
 镇江糖醋蒜是由鲜蒜头为主要食材做成的一道菜品，辅料有盐、食醋，五香粉等。该菜品主要通过把准备好的食材放入坛中密封腌制而成。
 丹阳大麦粥
@@ -20,6 +33,7 @@
 麻油馓子，古代又称寒具，所谓寒具，是供寒食节所用的食品。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const zhenjiangFoodsList = [
   // 灯影牛肉
   {
@@ -74,6 +88,7 @@ export const zhenjiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -128,5 +143,6 @@ export const zhenjiangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

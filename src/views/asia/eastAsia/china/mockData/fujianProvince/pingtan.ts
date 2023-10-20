@@ -11,6 +11,7 @@
  * 生鱼面
  */
 import { lampshadedBeefScriptsList } from './pingtanFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const pingtanFoodsList = [
   // 生鱼面
   {
@@ -65,5 +66,6 @@ export const pingtanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

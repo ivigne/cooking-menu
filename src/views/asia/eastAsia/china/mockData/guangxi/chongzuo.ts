@@ -1,5 +1,49 @@
 /**
  * 广西-崇左市-特产美食
+ * 
+ * 蕉叶糍粑
+艾叶糍粑
+米花糖
+红薯糍粑
+龙州桄榔粉
+扶绥脆皮烤猪
+扶绥壮族酸粥
+扶绥东门姑辽茶
+竹筒饭
+宁明沙糕
+凭祥水果捞
+龙州鸡肉粉
+把荷鱼丸
+龙州金龙镇角粽
+枫叶饭
+清明菜包饭
+艾糍
+黄金粥
+猪肠糕
+天等灌肠
+及酪
+烤鱼
+嘎老蚂蚁夹
+半只鸭头
+油炸面饼
+扶绥渠黎炸鱼米粉
+龙州下冻烧鸭粉
+龙州凉拌木瓜粉
+扶绥东门鸡
+扶绥那白土鸭
+江州腊鸭
+龙州野蕉汤
+宁明八角香鸡
+天等马喽狗
+天等吉劳
+凭祥烤面包
+凭祥屈头蛋
+凭祥春卷
+五色糯米饭
+桄榔粉
+酸粥
+
+ * 
 五色糯米饭
 五色糯米饭是壮族地区的传统风味小吃，因糯米饭呈黑、红、黄、白、紫5种色彩而得名，又称“乌饭”。有吉祥如意、五谷丰登的象征。 [23]
 桄榔粉
@@ -47,6 +91,7 @@
 凭祥春卷
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const chongzuoFoodsList = [
   // 灯影牛肉
   {
@@ -101,6 +146,7 @@ export const chongzuoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -155,5 +201,6 @@ export const chongzuoFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

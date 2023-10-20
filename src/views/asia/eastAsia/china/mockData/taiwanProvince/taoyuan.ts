@@ -1,9 +1,14 @@
 /**
  * 台湾-桃园市-特产美食
+ * 
+ * 肚脐饼大溪豆干、豆腐乳、龙潭花生糖、新屋鹅肉、观音莲花餐
+ * 
+ * 
 桃园著名的地方特产尚有素宝斋食品肚脐饼、玉泉极品红曲葡萄酒、花生软糖、国宝级豆干大师、蜂蜜黑心肝、月静礼盒、布丁蛋糕礼盒 、酥礼盒、陈年红糟豆腐乳、花生软糖礼盒、大溪豆干、豆腐乳、龙潭花生糖、复兴区绿竹笋、新屋鹅肉、观音莲花餐
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const taoyuanFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +63,7 @@ export const taoyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +118,6 @@ export const taoyuanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

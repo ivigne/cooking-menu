@@ -1,5 +1,17 @@
 /**
  * 贵州-贵阳市-特产美食
+ * 
+ * 红油米豆腐
+豆沙窝
+烤大排
+清水烫
+豆米火锅
+糟辣脆皮鱼
+宫保鸡
+折耳根炒腊肉
+烙锅
+花溪牛肉粉、肠旺面、青岩豆腐、卤味、串串香、丝娃娃、洋芋粑、青岩卤猪蹄、青岩鸡辣角、清镇黄粑、青岩玫瑰糖、豆腐圆子、糕粑稀饭、恋爱豆腐果、酸辣烫、叉烧圆子粉等
+ * 
 花溪牛肉粉、肠旺面、青岩豆腐、卤味、串串香、丝娃娃、洋芋粑、青岩卤猪蹄、青岩鸡辣角、清镇黄粑、青岩玫瑰糖、豆腐圆子、糕粑稀饭、恋爱豆腐果、酸辣烫、叉烧圆子粉等
 红油米豆腐
 豆沙窝
@@ -10,10 +22,10 @@
 宫保鸡
 折耳根炒腊肉
 烙锅
-花溪牛肉粉、肠旺面、青岩豆腐、卤味、串串香、丝娃娃、洋芋粑、青岩卤猪蹄、青岩鸡辣角、清镇黄粑、青岩玫瑰糖、豆腐圆子、糕粑稀饭、恋爱豆腐果、酸辣烫、叉烧圆子粉等
 
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const guiyangFoodsList = [
   // 灯影牛肉
   {
@@ -68,6 +80,7 @@ export const guiyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -122,5 +135,6 @@ export const guiyangFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

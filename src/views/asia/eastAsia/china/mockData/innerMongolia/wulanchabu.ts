@@ -1,10 +1,17 @@
 /**
  * 内蒙古自治区-乌兰察布市-特产美食
+ * 
+ * 
+ * 卓资熏鸡
+
+ * 
+ * 
 卓资熏鸡
 卓资熏鸡是内蒙古自治区卓资县的传统名食，卓资散养的草鸡质量较高，卓资熏鸡以这种鸡为原料，添加多种调味秘方，经煮、烟熏而成。 [18]
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const wulanchabuFoodsList = [
   // 灯影牛肉
   {
@@ -59,6 +66,7 @@ export const wulanchabuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -113,5 +121,6 @@ export const wulanchabuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

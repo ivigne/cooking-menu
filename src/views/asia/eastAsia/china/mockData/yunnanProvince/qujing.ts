@@ -1,5 +1,21 @@
 /**
  * 云南-曲靖市-特产美食
+ * 
+ * 麻衣馓子
+陆良板鸭
+沾益辣子鸡
+此外，曲靖市还有
+花山带皮羊肉、洋芋鸡、会泽稀豆粉、烧饵块、
+酸菜红豆汤
+会泽稀豆粉
+曲靖韭菜花
+麻衣馓子
+宣威火腿、麻衣馓子、蒸饵丝、小锅米线、沾益辣子鸡、豌豆粉
+
+ * 
+ * 
+ * 
+ * 
 麻衣馓子
 陆良的麻衣馓子是用麦面作原料，和好面后扭成“千钧扣”油炸的糖果。陆良“麻衣馓子”已有200年的历史，是地方传统风味食品，也是馈赠亲友的佳品。 [54]
 陆良板鸭
@@ -28,6 +44,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const qujingFoodsList = [
   // 灯影牛肉
   {
@@ -82,6 +99,7 @@ export const qujingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -136,5 +154,6 @@ export const qujingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

@@ -3,6 +3,7 @@
  * 当涂酱菜
  */
 import { lampshadedBeefScriptsList } from './maanshanFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const maanshanFoodsList = [
   // 当涂酱菜
   {
@@ -57,5 +58,6 @@ export const maanshanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

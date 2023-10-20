@@ -1,9 +1,14 @@
 /**
  * 吉林-四平市-特产美食
+ * 
+李连贵熏肉大饼
+ * 
+ * 
 李连贵熏肉大饼
 熏肉大饼是吉林省四平市著名的特色传统风味小吃之一，1908年由河北滦县柳庄人李广忠（乳名连贵）在梨树县始创。熏肉用10余种中药煮肉，大饼用煮肉的汤油加面粉、加调料调成软酥，抹在饼内起层，便于夹肉而食
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const sipingFoodsList = [
   // 灯影牛肉
   {
@@ -58,6 +63,7 @@ export const sipingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -112,5 +118,6 @@ export const sipingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

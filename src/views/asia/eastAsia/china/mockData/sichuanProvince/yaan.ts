@@ -3,6 +3,7 @@
  * 椒麻鸡、山椒脆肠
  */
 import { lampshadedBeefScriptsList } from './yaanFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const yaanFoodsList = [
   // 椒麻鸡
   // 椒麻鸡精选冠大而红、性烈好斗、毛色光亮、肉质鲜美的二郎山跑山鸡为主料，配以上等花椒、糖、酱油、盐、辣椒油、天然香料等炒制而成的秘制调料，具有肉质鲜美、皮薄脆嫩，麻辣鲜香、滋味甘甜、蛋白质含量高等特点。 [21]
@@ -58,6 +59,7 @@ export const yaanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 山椒脆肠
   // 香辣可口家常小炒，主要的配料有脆肠、清油、泡椒、小青椒、小红椒、加上小酌特制秘汁。脆肠过水后，加油放脆肠爆炒加配料混炒再放秘汁起锅即可。
@@ -113,5 +115,6 @@ export const yaanFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

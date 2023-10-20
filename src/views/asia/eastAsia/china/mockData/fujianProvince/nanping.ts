@@ -4,6 +4,7 @@
  * 笋燕、吴屯稻花鱼、武夷茶宴、鱼羊双鲜、虾仁酿香菇、七层糕、赛熊掌、油煎盏、白凉粉、松溪蒙丸、米冻、鸡酒面、五香卷、水吉扁肉、芥菜米汤
  */
 import { lampshadedBeefScriptsList } from './nanpingFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const nanpingFoodsList = [
   // 政和东平小胳
   // 游浆豆腐
@@ -85,6 +86,7 @@ export const nanpingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -139,5 +141,6 @@ export const nanpingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

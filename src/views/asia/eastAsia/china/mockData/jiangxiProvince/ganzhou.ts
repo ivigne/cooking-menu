@@ -1,10 +1,16 @@
 /**
  * 江西-赣州市-特产美食
+ * 
+三杯鸡、糯米鸡、生煎鸭、米粉鱼、鳝鱼馓子、陡水湖全鱼宴、赣南小炒鱼、鱼饼、鱼粉皮、珍珠粉、客家酿豆腐、蝴蝶鱼、荷包胙、蛋菇汤、兴国鱼丝、竹筒粉蒸肠、民间瓦罐煨汤、豫章酥鸭、四星望月等。 [63]
+ * 
+ * 
+ * 
 客家名菜
 三杯鸡、糯米鸡、生煎鸭、米粉鱼、鳝鱼馓子、陡水湖全鱼宴、赣南小炒鱼、鱼饼、鱼粉皮、珍珠粉、客家酿豆腐、蝴蝶鱼、荷包胙、蛋菇汤、兴国鱼丝、竹筒粉蒸肠、民间瓦罐煨汤、豫章酥鸭、四星望月等。 [63]
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const ganzhouFoodsList = [
   // 灯影牛肉
   {
@@ -59,6 +65,7 @@ export const ganzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -113,5 +120,6 @@ export const ganzhouFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

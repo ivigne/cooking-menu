@@ -1,7 +1,31 @@
 /**
  * 陕西-西安市-特产美食
-特色面食
-biángbiang面是陕西关中民间传统风味面食，特指关中麦子磨成的面粉，通常手工拉成长宽厚的面条。
+ * 
+ * 饺子宴
+秦镇凉皮
+牛羊肉泡馍
+老童家腊羊肉
+锅盔
+肉夹馍
+腊汁肉
+葫芦头
+蜜枣甑糕
+石子馍
+陕西凉皮
+老潼关肉夹馍
+肉丸糊辣汤
+臊子面
+贾三灌汤包子
+葫芦鸡
+biangbiang面
+甑糕
+锅盔
+荞面饸饹
+麻食
+
+ * 
+ * 
+ * 
 饺子宴
 饺子宴是西安市著名小吃宴席，是在发掘研究唐代和中国传统饺子的基础上研制成功的。西安饺子宴的得名，主要因这种宴宾筵席由千姿百态的饺子组成。
 秦镇凉皮
@@ -47,6 +71,7 @@ biangbiang面
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xiAnFoodsList = [
   // 灯影牛肉
   {
@@ -101,6 +126,7 @@ export const xiAnFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -155,5 +181,6 @@ export const xiAnFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

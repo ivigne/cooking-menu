@@ -3,6 +3,7 @@
  * 盐皮蛋、岳池米粉、麻辣牛肉、三巴汤、西板豆豉、顾县豆干
  */
 import { lampshadedBeefScriptsList } from './guanganFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const guanganFoodsList = [
   // 盐皮蛋
   {
@@ -57,6 +58,7 @@ export const guanganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 岳池米粉
   {
@@ -111,6 +113,7 @@ export const guanganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 麻辣牛肉
   {
@@ -165,6 +168,7 @@ export const guanganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 三巴汤
   {
@@ -219,6 +223,7 @@ export const guanganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 西板豆豉
   {
@@ -273,6 +278,7 @@ export const guanganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 顾县豆干
   {
@@ -327,5 +333,6 @@ export const guanganFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

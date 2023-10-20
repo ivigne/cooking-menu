@@ -12,4 +12,5 @@
 
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const diqingFoodsList = [];

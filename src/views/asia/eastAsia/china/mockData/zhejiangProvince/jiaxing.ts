@@ -1,5 +1,25 @@
 /**
  * 浙江-嘉兴市-特产美食
+ * 
+ * 五芳斋粽子
+文虎酱鸭
+南湖菱
+三珍斋八宝饭
+汾湖蟹
+平湖糟蛋
+嘉善黄酒
+荷叶粉蒸肉
+南北湖虎鲻鱼
+王店三元鸡
+斜桥榨菜
+杨庙雪菜
+西塘八珍糕
+乌镇姑嫂饼
+新塍月饼
+
+ * 
+ * 
+ * 
 饮食
 【主词条：禾帮菜】
 浙江餐饮一度引领全国餐饮潮流，嘉兴只是浙江的一个小角，但餐饮却是重头，与上海、杭州、苏州为邻，嘉兴餐饮却不为上海本帮菜、杭州杭帮菜所同化，个性、特色是嘉兴餐饮最大的特点。用嘉兴当地大厨的话说，可独成一帮，就叫“禾帮菜”。 [19]
@@ -7,7 +27,6 @@
 禾帮菜最令人称道的是“船菜”。按嘉兴一位老者说，禾帮菜最大的特点就是“土”——原料必须乡土，乡村收来的最新鲜的时令菜蔬、野菜竹笋、野生的鱼虾、土鸡、野鸭。
 南湖船菜是江南水乡传统的汉族名肴，主要流行于民国时期。以八大碗八小碗为正宗，亦有八小碗六大碗或六大碗六小碗、四大碗四小碗等规格。
 船菜，顾名思义是在船上制作，又在船上享用的美味佳肴。船菜兼旅游与美食双重特色，在江南水乡嘉兴烹饪史上独树一帜。
-菜品
 五芳斋粽子
 文虎酱鸭
 南湖菱
@@ -27,6 +46,7 @@
 
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jiaxingFoodsList = [
   // 灯影牛肉
   {
@@ -81,6 +101,7 @@ export const jiaxingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -135,5 +156,6 @@ export const jiaxingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

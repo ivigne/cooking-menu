@@ -1,12 +1,24 @@
 /**
  * 贵州-铜仁市-特产美食
+ * 
 江口米豆腐、油香粑、社饭等
+土家灰包豆腐
+思南羊肉粉
+铜仁锅巴粉
+松桃烂糊桥米豆腐
+社饭
+江口米豆腐
+铜仁糍粑
+铜仁社饭
+油炸泡
+
+ * 
+ * 
+ * 
 土家灰包豆腐
 土家灰包豆腐是一道以豆腐为主料的菜品。
 思南羊肉粉
 思南羊肉粉是贵州省铜仁市思南县的特色小吃。思南羊肉粉肉质细腻，肉香纯正，既保留了原汤又绝无膻味，益中补气，齿颊留香。
-铜仁锅巴粉
-铜仁锅巴粉，是用米和绿豆磨成汁，然后放到锅子里搪烤成一张张非常薄的饼，再切成宽窄均匀的粉条而成。跟多数南方米粉的食法相同，入沸水锅中煮熟，再捞入碗中加汤、加各种佐料。
 铜仁锅巴粉
 铜仁锅巴粉，是用米和绿豆磨成汁，然后放到锅子里搪烤成一张张非常薄的饼，再切成宽窄均匀的粉条而成。跟多数南方米粉的食法相同，入沸水锅中煮熟，再捞入碗中加汤、加各种佐料。
 松桃烂糊桥米豆腐
@@ -21,11 +33,12 @@
 高粱300克，玉米200克，熟腊肉150克，青蒿菜200克，苦蒜（野葱）150克。
 油炸泡
 油炸泡是一道铜仁市的特色小吃。
-江口米豆腐、油香粑、社饭等
+油香粑
 
 
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const tongrenFoodsList = [
   // 灯影牛肉
   {
@@ -80,6 +93,7 @@ export const tongrenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -134,5 +148,6 @@ export const tongrenFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

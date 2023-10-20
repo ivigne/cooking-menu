@@ -3,6 +3,7 @@
 熏铜锣、朝鲜拌饭、锅包肉、塔拉哈、母子猴蘑、打糕、朝鲜菜肴、赫哲鱼宴、东北菜、富锦铁锅炖松花江鱼、富锦福祥年村的美食、赫哲族美食、清炖熬花鱼、刨花鱼片、汆白肉、小鸡炖蘑菇、得莫利炖鱼、猪肉炖粉条、清蒸大马哈鱼块、皮冻、同江赫哲族鱼宴、东北大丰收炖、刹生鱼、炒鱼毛、干煎大板黄鱼、松仁玉米、东北大拉皮、羊肉氽酸菜、松仁烧鹿筋、白肉血肠、海米蕨菜、渍菜粉、地三鲜、土豆烧牛肉、炸田鸡腿、鱼籽三拼、酱大棒骨、赫哲塔拉哈、酸菜猪肉炖粉条、牛肉炖萝卜。
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const jiamusiFoodsList = [
   // 灯影牛肉
   {
@@ -57,6 +58,7 @@ export const jiamusiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -111,5 +113,6 @@ export const jiamusiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

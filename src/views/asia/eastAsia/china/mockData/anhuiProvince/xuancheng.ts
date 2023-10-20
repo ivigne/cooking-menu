@@ -3,6 +3,7 @@
 广德天下第一鲜、绩溪一品锅、琴鱼、桐花鱼
  */
 import { lampshadedBeefScriptsList } from './xuanchengFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const xuanchengFoodsList = [
   // 广德天下第一鲜
   {
@@ -57,6 +58,7 @@ export const xuanchengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 绩溪一品锅
   {
@@ -111,6 +113,7 @@ export const xuanchengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 琴鱼
   {
@@ -165,6 +168,7 @@ export const xuanchengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 桐花鱼
   {
@@ -219,5 +223,6 @@ export const xuanchengFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

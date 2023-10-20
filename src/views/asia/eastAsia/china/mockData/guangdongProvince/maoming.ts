@@ -1,10 +1,15 @@
 /**
  * 广东省-茂名市-特产美食
+ * 
+山姜头焗乳鸽、镇隆杨桃鸭、世文金猪、益盛盐焗鸡、香煎墨鱼饼、川芌白芷蒸水库鱼头、隔水蒸鸡、电白蚝炸鳝炸、白灼水东芥、镇隆鱼古、
+古法淮山糕、播扬灰水籺、簸箕炊、化州糖水、柴枪粉、薯包籺、化州牛杂、食惯嘴粉、霞洞豆饼、高州豆芽粉
+ * 
 十大名菜
 高凉菜“十大名菜”包括山姜头焗乳鸽、镇隆杨桃鸭、世文金猪、益盛盐焗鸡、香煎墨鱼饼、川芌白芷蒸水库鱼头、隔水蒸鸡、电白蚝炸鳝炸、白灼水东芥、镇隆鱼古。 [93]
 十大名小吃
 高凉菜“十大名小吃”包括古法淮山糕、播扬灰水籺、簸箕炊、化州糖水、柴枪粉、薯包籺、化州牛杂、食惯嘴粉、霞洞豆饼、高州豆芽粉。 [94] */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const maomingFoodsList = [
   // 灯影牛肉
   {
@@ -59,6 +64,7 @@ export const maomingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -113,5 +119,6 @@ export const maomingFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

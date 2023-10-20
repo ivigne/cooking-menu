@@ -1,5 +1,25 @@
 /**
  * 河南-商丘市-特产美食
+ * 
+ * 睢州烧鸡
+宁陵徐家火腿
+糁汤
+睢州烧饼
+安平煸炒鸡
+鸡汁豆腐干、焦饹馇、五香牛肉、北湖糟鱼、襄邑抹猪
+啥汤
+夏邑汤
+焦咯炸
+宁陵杠子馍
+柘城鸡爪麻花
+商丘水激馍
+贾寨豆腐干
+郭村烧鸡
+酂城糟鱼
+
+ * 
+ * 
+ * 
 薛湖牛肉水煎包
 睢州烧鸡
 宁陵徐家火腿
@@ -22,6 +42,7 @@
 酂城糟鱼
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const shangqiuFoodsList = [
   // 灯影牛肉
   {
@@ -76,6 +97,7 @@ export const shangqiuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -130,5 +152,6 @@ export const shangqiuFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

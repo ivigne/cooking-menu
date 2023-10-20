@@ -1,5 +1,19 @@
 /**
  * 台湾-台北市-特产美食
+ * 
+ * 
+ * 台北牛肉面
+深坑豆腐
+阿宗面线
+台湾卤肉饭
+七里香
+豆签羹
+黑椒牛肉刈包
+棺材板
+
+ * 
+ * 
+ * 
 台北牛肉面
 台北牛肉面是台湾地道美食。将新鲜牛肉炖烂，用牛肉汤煮面，再将牛肉切块放在面上即可食用。该面肉香而不腻、汤味鲜美，面条筋道。适合各类人群食用。
 深坑豆腐
@@ -20,6 +34,7 @@
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const taipeiFoodsList = [
   // 灯影牛肉
   {
@@ -74,6 +89,7 @@ export const taipeiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -128,5 +144,6 @@ export const taipeiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

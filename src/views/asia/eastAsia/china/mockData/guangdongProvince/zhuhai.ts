@@ -1,5 +1,16 @@
 /**
  * 广东省-珠海市-特产美食
+ * 
+ * 金汤对虾
+彩蝶蟠龙
+芝士香蚝
+碧波群鸟
+秘制重壳
+金鳗戏鳝
+香鸽鱼
+烧禾虫
+
+ * 
 金汤对虾
 金汤对虾是珠海十大名菜之一
 彩蝶蟠龙
@@ -11,19 +22,16 @@
 君悦来大酒店的招牌菜。采用珠海四大美食—万山对虾为主原材料。菜式美观，令人垂涎三尺，过目不忘。
 秘制重壳
 珠海十大名菜，重壳蟹是蟹中之珍品，身上长着硬、软两层壳。它在发育过程中慢慢脱掉硬壳“铁甲”，保留软壳“红袍”，当中蟹体结实丰满，肉厚膏黄。这种蟹无法饲养且较难捕捉，加上数量又少，因而更加珍贵。
-鲍汁扣横琴蚝
-珠海横琴蚝身体肥硕，鲜嫩质美，清甜味香，以“一大、二肥、三白、四嫩、五脆”享誉海内外。蚝是一种有着丰富营养和食疗价值的高级海产品，可健脾胃，补虚弱，益气血，软坚散结。 经常吃蚝可使皮肤润泽光滑洁白
 金鳗戏鳝
 金鳗戏鳝是珠海十大名菜之一
 香鸽鱼
 香鸽鱼，珠海十大名菜之一。
-金湾紫菜
-金湾紫菜是一种大形红藻，属低等植物、海藻类蔬菜。以叶状体作蔬菜食用。民族传统医学认为，紫菜性寒，能化痰软坚，清热利尿，养心降压。
 烧禾虫
 烧禾虫是广东省传统的地方名菜，属于粤菜系。主要食材有禾虫、香菇、猪肉等。
 
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+export const foodsStr = '';
 export const zhuhaiFoodsList = [
   // 灯影牛肉
   {
@@ -78,6 +86,7 @@ export const zhuhaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
   {
@@ -132,5 +141,6 @@ export const zhuhaiFoodsList = [
     scripts: lampshadedBeefScriptsList,
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];
