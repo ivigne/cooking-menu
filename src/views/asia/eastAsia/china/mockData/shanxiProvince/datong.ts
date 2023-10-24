@@ -2,10 +2,8 @@
  * 山西-大同市-特产美食
  * 
  * 
- * 
-大同刀削面、羊杂、过油肉、兔头、黄金大饼、扒肉条（又叫小烧肉）、油炸糕、大同铜火锅、凤临阁烧麦、凤趴窝、莜面、广灵豆腐干、浑源凉粉、阳高杏脯、
- 灵丘黄烧饼、老大同八大件、大同黄糕、浑源凉粉、阳高羊汤、天镇豆皮、广灵驴肉*
- * 
+大同刀削面,羊杂,过油肉,兔头,黄金大饼,扒肉条（又叫小烧肉）,油炸糕,大同铜火锅,凤临阁烧麦,凤趴窝,莜面,广灵豆腐干,浑源凉粉,阳高杏脯,灵丘黄烧饼,老大同八大件,大同黄糕,浑源凉粉,阳高羊汤,天镇豆皮,广灵驴肉*,
+
 
 地方名吃
 大同刀削面、羊杂、过油肉、兔头、黄金大饼、扒肉条（又叫小烧肉）、油炸糕、大同铜火锅、凤临阁烧麦、凤趴窝、莜面、广灵豆腐干、浑源凉粉、阳高杏脯等； 
@@ -28,6 +26,8 @@ export const datongFoodsList = [
     cuisineCategoryName: '晋菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -83,6 +83,8 @@ export const datongFoodsList = [
     cuisineCategoryName: '晋菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

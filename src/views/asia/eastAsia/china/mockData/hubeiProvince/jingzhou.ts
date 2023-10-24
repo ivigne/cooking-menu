@@ -1,14 +1,7 @@
 /**
  * 湖北-荆州市-特产美食
- * 鱼丸、皮条鳝鱼、冬瓜鳖裙羹、珍珠糯米丸子、江陵八宝饭、公安牛肉、松滋杜婆鸡、石首笔架鱼肚、洪湖莲藕藕带、洪湖野鸭。小吃：早堂面、公安锅盔、公安豆皮、米丸子、元豆泡糯米、黄家堂牛肉米粉、小胡鸭
- * 洈水鳜鱼、笔架鱼肚
- 、荆州鱼糕
-荆州鱼糕
-千张扣肉
-冬瓜鳖裙羹
-油炸藕丸
-荆州八宝饭
-早堂面
+  * 鱼丸,皮条鳝鱼,冬瓜鳖裙羹,珍珠糯米丸子,江陵八宝饭,公安牛肉,松滋杜婆鸡,石首笔架鱼肚,洪湖莲藕藕带,洪湖野鸭,小吃：早堂面,公安锅盔,公安豆皮,米丸子,元豆泡糯米,黄家堂牛肉米粉,小胡鸭,* 洈水鳜鱼,笔架鱼肚,荆州鱼糕,荆州鱼糕,千张扣肉,冬瓜鳖裙羹,油炸藕丸,荆州八宝饭,早堂面,
+
 
  * 
  * 
@@ -54,6 +47,8 @@ export const jingzhouFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -109,6 +104,8 @@ export const jingzhouFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

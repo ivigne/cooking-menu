@@ -1,15 +1,8 @@
 /**
  * 湖北-天门市-特产美食
  * 
- * 黄潭米粉、蒋场香干、岳口芋环、张港火烧粑、五彩义河蚶、桶炉锅奎、天门花糕、皇尝饼、橘瓣鱼丸、炮蒸鳝鱼、天门九蒸、元春鱼、钟惺鳅、蟹黄鱼翅、袭美火锅、龟肉汤、清炖鱼、
-葱锅奎、砍锅奎、鸭子锅奎、冲担锅奎、油炸锅奎、猪油锅奎
-天门蒸菜
-麻洋糖心皮蛋
-天门锅盔
-天门酱鸭
-天门三蒸
-天门捆蹄
-干驿炮蒸鳝鱼
+* 黄潭米粉,蒋场香干,岳口芋环,张港火烧粑,五彩义河蚶,桶炉锅奎,天门花糕,皇尝饼,橘瓣鱼丸,炮蒸鳝鱼,天门九蒸,元春鱼,钟惺鳅,蟹黄鱼翅,袭美火锅,龟肉汤,清炖鱼,葱锅奎,砍锅奎,鸭子锅奎,冲担锅奎,油炸锅奎,猪油锅奎,天门蒸菜,麻洋糖心皮蛋,天门锅盔,天门酱鸭,天门三蒸,天门捆蹄,干驿炮蒸鳝鱼,
+
 
  * 
 天门市地处江汉平原腹地，是全国首个“中国蒸菜之乡” [43] ，又素称“鱼米之乡”。
@@ -58,6 +51,8 @@ export const tianmenFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -113,6 +108,8 @@ export const tianmenFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

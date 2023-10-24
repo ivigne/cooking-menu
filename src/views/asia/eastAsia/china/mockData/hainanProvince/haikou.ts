@@ -1,6 +1,7 @@
 /**
  * 海南-海口市-特产美食
-荟萃文昌鸡、嘉积鸭、东山羊、和乐蟹 */
+荟萃文昌鸡,嘉积鸭,东山羊,和乐蟹,
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const haikouFoodsList = [
@@ -19,6 +20,8 @@ export const haikouFoodsList = [
     cuisineCategoryName: '琼菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -74,6 +77,8 @@ export const haikouFoodsList = [
     cuisineCategoryName: '琼菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

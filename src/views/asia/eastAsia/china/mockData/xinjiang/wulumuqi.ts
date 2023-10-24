@@ -2,16 +2,8 @@
  * 新疆维吾尔自治区-乌鲁木齐市-特产美食
  * 
  * 
- * 烤馕、烤包子、拉面、油馓子、油塔子、薄皮包子、奶茶
-手抓饭
-沙木萨
-纳仁
-新疆大盘鸡
-烤全羊
-油塔子
-烤羊肉串
-熏马肠
-椒麻鸡
+* 烤馕,烤包子,拉面,油馓子,油塔子,薄皮包子,奶茶,手抓饭,沙木萨,纳仁,新疆大盘鸡,烤全羊,油塔子,烤羊肉串,熏马肠,椒麻鸡,大盘鸡,大盘鸡胡辣羊蹄,手抓羊肉,新疆拌面,新疆炒面,烤酿皮子,米肠子,羊肉小吃,馕包肉
+
 
  * 
  * 
@@ -55,6 +47,8 @@ export const wulumuqiFoodsList = [
     cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -110,6 +104,8 @@ export const wulumuqiFoodsList = [
     cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

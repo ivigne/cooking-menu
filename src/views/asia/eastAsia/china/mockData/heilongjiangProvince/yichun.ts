@@ -1,9 +1,7 @@
 /**
  * 黑龙江-伊春市-特产美食
  * 
- * 炝蕨菜、
-山蘑炖山鸡、
-美溪“三股流”血肠、炖山珍
+* 炝蕨菜,山蘑炖山鸡,美溪三股流血肠,炖山珍,
  * 
 炝蕨菜，此道菜清淡可口，味香色浓，全天然，保健功能强，深受日本及韩国客人喜爱。
 山蘑炖山鸡，有名的东北菜，以野生草蘑、榛蘑、榆黄蘑与山鸡和炖。这道菜野味浓厚，肉香菇滑，口味独特
@@ -28,6 +26,8 @@ export const yichunFoodsList = [
     cuisineCategoryName: '龙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -83,6 +83,8 @@ export const yichunFoodsList = [
     cuisineCategoryName: '龙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

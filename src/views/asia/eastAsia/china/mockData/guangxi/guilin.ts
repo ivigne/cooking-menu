@@ -1,23 +1,8 @@
 /**
  * 广西-桂林市-特产美食
  * 
- * 桂林米粉
-荔浦扣肉
-阳朔啤酒鱼
-桂林灵川狗肉
-桂林田螺酿
-恭城油茶
-全州醋血鸭
-临桂两江松花糖
-马蹄蒸肉饼
-毛秀才炒辣椒
-桂林水糍粑
-桂林马肉米粉
-全州红油米粉
-桂林打油茶
-桂林酥糖
-酸炒干鱼仔
-干锅鲜栗鸭
+* 桂林米粉,荔浦扣肉,阳朔啤酒鱼,桂林灵川狗肉,桂林田螺酿,恭城油茶,全州醋血鸭,临桂两江松花糖,马蹄蒸肉饼,毛秀才炒辣椒,桂林水糍粑,桂林马肉米粉,全州红油米粉,桂林打油茶,桂林酥糖,酸炒干鱼仔,干锅鲜栗鸭,桂林两江松花糖,桂林辣椒酱
+// 宾阳白切狗,宾阳酸粉,牛腊巴,三江油茶,
 
  * 
 桂林米粉
@@ -73,6 +58,8 @@ export const guilinFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -128,6 +115,8 @@ export const guilinFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

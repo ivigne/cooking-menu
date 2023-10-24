@@ -1,15 +1,8 @@
 /**
  * 江苏-镇江市-特产美食
  * 
- * 镇江糖醋蒜
-丹阳大麦粥
-镇江酱菜
-百花酒焖肉
-白汁鮰鱼
-锅盖面
-清蒸鲥鱼
-蟹黄汤包
-麻油馓子
+* 镇江糖醋蒜,丹阳大麦粥,镇江酱菜,百花酒焖肉,白汁鮰鱼,锅盖面,清蒸鲥鱼,蟹黄汤包,麻油馓子,*,
+
 
  * 
  * 
@@ -50,6 +43,8 @@ export const zhenjiangFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -105,6 +100,8 @@ export const zhenjiangFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

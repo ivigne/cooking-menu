@@ -1,15 +1,8 @@
 /**
  * 青海-西宁市-特产美食
  * 
- * 手抓肉、烤串、尕面片、焜锅馍馍、羊肉汤、拉条、干板鱼、羊肠面、牛肉干、
- * 青海特色美食有手抓肉、烤串、尕面片、焜锅馍馍、羊肉汤、拉条、干板鱼、羊肠面、牛肉干等。
-酿皮、酸奶、甜醅。
-干板鱼
-蜂尔里脊
-甜醅
-羊肠面
-狗浇尿
-烤羊肉
+* 手抓肉,烤串,尕面片,焜锅馍馍,羊肉汤,拉条,干板鱼,羊肠面,牛肉干,
+* 手抓肉,烤串,尕面片,焜锅馍馍,羊肉汤,拉条,干板鱼,羊肠面,牛肉干,酿皮,酸奶,甜醅,干板鱼,蜂尔里脊,甜醅,羊肠面,狗浇尿,烤羊肉,
 
  * 
  * 
@@ -54,6 +47,8 @@ export const xiningFoodsList = [
     cuisineCategoryName: '西北菜、青海菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -109,6 +104,8 @@ export const xiningFoodsList = [
     cuisineCategoryName: '西北菜、青海菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

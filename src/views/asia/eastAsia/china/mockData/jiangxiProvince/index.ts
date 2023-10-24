@@ -1,10 +1,10 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:06:16
- * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-10-12 15:49:28
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2023-10-24 18:13:46
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/jiangxiProvince/index.ts
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @Description: 这是默认设置,请设置`customMade`,打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 import { nanchangFoodsList } from './nanchang';
 import { jingdezhenFoodsList } from './jingdezhen';
@@ -17,6 +17,7 @@ import { jiAnFoodsList } from './jiAn';
 import { yichunFoodsList } from './yichun';
 import { fuzhouFoodsList } from './fuzhou';
 import { shangraoFoodsList } from './shangrao';
+import { othersFoodsList } from './others';
 
 export const jiangXiFoodsList = [].concat(
   nanchangFoodsList,
@@ -30,4 +31,5 @@ export const jiangXiFoodsList = [].concat(
   yichunFoodsList,
   fuzhouFoodsList,
   shangraoFoodsList,
+  othersFoodsList,
 );

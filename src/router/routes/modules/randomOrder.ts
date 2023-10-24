@@ -1,30 +1,66 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-08-07 17:19:18
- * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2023-08-07 17:22:22
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2023-10-23 10:31:38
  * @FilePath: /cooking-menu/src/router/routes/modules/randomOrder.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
+// import type { AppRouteModule } from '/@/router/types';
+
+// // import { LAYOUT } from '/@/router/constant';
+// import { t } from '/@/hooks/web/useI18n';
+
+// const randomOrder: AppRouteModule = {
+//   path: '/randomOrder',
+//   name: 'randomOrder',
+//   // component: LAYOUT,
+//   // redirect: '/randomOrder/index',
+//   component: () => import('/@/views/randomOrder/index.vue'),
+//   meta: {
+//     hideChildrenInMenu: true,
+//     icon: 'simple-icons:randomOrder-dot-me',
+//     title: t('routes.tools.randomOrder'),
+//     // orderNo: 100000,
+//   },
+// };
+
+// export default randomOrder;
+
 import type { AppRouteModule } from '/@/router/types';
 
-// import { LAYOUT } from '/@/router/constant';
+import { LAYOUT } from '/@/router/constant';
 import { t } from '/@/hooks/web/useI18n';
 
-const randomOrder: AppRouteModule = {
-  path: '/randomOrder',
-  name: 'randomOrder',
-  // component: LAYOUT,
-  // redirect: '/randomOrder/index',
-  component: () => import('/@/views/randomOrder/index.vue'),
+const tools: AppRouteModule = {
+  path: '/tools',
+  name: 'tools',
+  component: LAYOUT,
+  redirect: '/tools/randomOrder',
   meta: {
-    hideChildrenInMenu: true,
-    icon: 'simple-icons:randomOrder-dot-me',
-    title: t('routes.dashboard.randomOrder'),
-    // orderNo: 100000,
+    icon: 'ion:grid-outline',
+    title: t('routes.tools.tools'),
   },
+  children: [
+    {
+      path: '/randomOrder',
+      name: 'randomOrder',
+      component: () => import('/@/views/tools/randomOrder/index.vue'),
+      meta: {
+        title: t('routes.tools.randomOrder'),
+      },
+    },
+    {
+      path: 'processData',
+      name: 'ProcessData',
+      component: () => import('/@/views/tools/processData/index.vue'),
+      meta: {
+        title: t('routes.tools.processData'),
+      },
+    },
+  ],
 };
 
-export default randomOrder;
+export default tools;

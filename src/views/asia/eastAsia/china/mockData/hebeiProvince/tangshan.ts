@@ -1,5 +1,13 @@
 /**
  * 河北-唐山市-特产美食
+ * 
+* 唐山麻糖,唐山棋子烧饼,唐山万里香烧鸡,乐亭缸炉烧饼,乐亭刘美烧鸡,建昌营馓子,唐山虾酱,唐山麻糖,饹馇,红烧裙边,花生酥糖,万里香烧鸡,郝家火烧,棋子烧饼,蜂蜜麻糖,义盛永熏鸡,东陵糕点,酱汁瓦块鱼,唐山蜂蜜麻糖,唐山酥糖,鸿宴肘子,
+
+
+ * 
+ * 
+ * 
+ * 
 唐山麻糖
 色泽淡黄，形似花朵，薄似蝉翼，香甜可口，松软酥脆，营养丰富，多次获得省部国家级各种奖项。唐山麻糖以“新新麻糖”为众人所知，“新新麻糖”这个老字号已有百余年的历史。另有丰润“广盛号”麻糖，最早记载为明朝万历四年，产于唐山丰润区七树庄，经过历代相传，“广盛号”这样的老字号麻糖品牌得以发扬光大。2009年“广盛号”麻糖被列为河北省第二批非物质文化遗产。 [24]
 唐山棋子烧饼
@@ -66,6 +74,8 @@ export const tangshanFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -121,6 +131,8 @@ export const tangshanFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,21 +1,7 @@
 /**
  * 河南-商丘市-特产美食
  * 
- * 睢州烧鸡
-宁陵徐家火腿
-糁汤
-睢州烧饼
-安平煸炒鸡
-鸡汁豆腐干、焦饹馇、五香牛肉、北湖糟鱼、襄邑抹猪
-啥汤
-夏邑汤
-焦咯炸
-宁陵杠子馍
-柘城鸡爪麻花
-商丘水激馍
-贾寨豆腐干
-郭村烧鸡
-酂城糟鱼
+* 睢州烧鸡,宁陵徐家火腿,糁汤,睢州烧饼,安平煸炒鸡,鸡汁豆腐干,焦饹馇,五香牛肉,北湖糟鱼,襄邑抹猪,啥汤,夏邑汤,焦咯炸,宁陵杠子馍,柘城鸡爪麻花,商丘水激馍,贾寨豆腐干,郭村烧鸡,酂城糟鱼,
 
  * 
  * 
@@ -59,6 +45,8 @@ export const shangqiuFoodsList = [
     cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -114,6 +102,8 @@ export const shangqiuFoodsList = [
     cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

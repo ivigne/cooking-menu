@@ -2,26 +2,8 @@
  * 山东-济宁市-特产美食
  * 
  * 
- * 麦子煎饼
-曲阜熏豆腐
-甏肉干饭
-麻鸭卧雪
-挎包火烧
-梁山糟鱼
-金乡烧羊肉
-安山炖鱼
-烧罗汉面筋
-筒子鱼
-微山湖咸鸭蛋
-蜜制红三刀
-清炖鲑鱼
-兖州大烧饼
-金乡烧饼
-山阳熏鱼
-微山湖醉蟹
-孔府糕点
-泗水火烧
-曲阜煎饼
+* 麦子煎饼,曲阜熏豆腐,甏肉干饭,麻鸭卧雪,挎包火烧,梁山糟鱼,金乡烧羊肉,安山炖鱼,烧罗汉面筋,筒子鱼,微山湖咸鸭蛋,蜜制红三刀,清炖鲑鱼,兖州大烧饼,金乡烧饼,山阳熏鱼,微山湖醉蟹,孔府糕点,泗水火烧,曲阜煎饼,
+
 
  * 
  * 
@@ -87,6 +69,8 @@ export const jiningFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -142,6 +126,8 @@ export const jiningFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -2,16 +2,7 @@
  * 江西-宜春市-特产美食
  * 
  * 
- * 炒八扎
-红薯丸子
-炒扎粉
-江西宜春的一种特色美食
-宜春扎粉
-樟树清汤
-罗城扎粉
-樟树炒粉
-老表土鸡汤
-包圆
+* 炒八扎,红薯丸子,炒扎粉,江西宜春的一种特色美食,宜春扎粉,樟树清汤,罗城扎粉,樟树炒粉,老表土鸡汤,包圆,
 
  * 
  * 
@@ -53,6 +44,8 @@ export const yichunFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -108,6 +101,8 @@ export const yichunFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,15 +1,8 @@
 /**
  * 湖南-常德市-特产美食
  * 
- * 安乡多味鱼丸
-常德酱板鸭
-鸭霸王
-北堤麻辣肉
-常德米粉
-津市牛肉粉
-风味清真菜
-原汁武陵水鱼
-钵子菜
+ * 安乡多味鱼丸,常德酱板鸭,鸭霸王,北堤麻辣肉,常德米粉,津市牛肉粉,风味清真菜,原汁武陵水鱼,钵子菜,
+
 
  * 
  * 
@@ -50,6 +43,8 @@ export const changdeFoodsList = [
     cuisineCategoryName: '湘菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -105,6 +100,8 @@ export const changdeFoodsList = [
     cuisineCategoryName: '湘菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

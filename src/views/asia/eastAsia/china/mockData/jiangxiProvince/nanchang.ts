@@ -1,7 +1,7 @@
 /**
  * 江西-南昌市-特产美食
  * 
-油炸小品、白糖糕、糖画、豫章酥鸭、李渡酒、鄱阳湖银鱼、石头街麻花、瓦罐汤和拌粉、牛舌头、金线吊葫芦、芥菜团子、酿冬瓜圈、家乡锅巴、大回饼、木瓜凉粉、伊府面、吊楼烧饼、状元糕、如意糕、麻辣烫、南昌米粉、军山湖大闸蟹、葛粉、麻辣藕片、万寿宫马打滚、万寿宫糊羹、风味烤卤、鄱阳湖狮子头、三杯脚鱼、竹筒粉蒸肠、藜蒿炒腊肉、煌上煌。
+油炸小品,白糖糕,糖画,豫章酥鸭,李渡酒,鄱阳湖银鱼,石头街麻花,瓦罐汤和拌粉,牛舌头,金线吊葫芦,芥菜团子,酿冬瓜圈,家乡锅巴,大回饼,木瓜凉粉,伊府面,吊楼烧饼,状元糕,如意糕,麻辣烫,南昌米粉,军山湖大闸蟹,葛粉,麻辣藕片,万寿宫马打滚,万寿宫糊羹,风味烤卤,鄱阳湖狮子头,三杯脚鱼,竹筒粉蒸肠,藜蒿炒腊肉,煌上煌,
 
  * 
  * 
@@ -30,6 +30,8 @@ export const nanchangFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -85,6 +87,8 @@ export const nanchangFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

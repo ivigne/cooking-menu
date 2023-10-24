@@ -1,6 +1,6 @@
 /**
  * 福建-龙岩市-特产美食
- * 连城地瓜干、连城白鹜鸭、连城兰花、龙岩花生、长汀豆腐干、上杭萝卜干、武平猪胆干、永定菜干、河田鸡
+ * 连城地瓜干,连城白鹜鸭,连城兰花,龙岩花生,长汀豆腐干,上杭萝卜干,武平猪胆干,永定菜干,河田鸡,冬瓜煲,
  */
 import { lampshadedBeefScriptsList } from './longyanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -28,6 +28,8 @@ export const longyanFoodsList = [
     cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -83,6 +85,8 @@ export const longyanFoodsList = [
     cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

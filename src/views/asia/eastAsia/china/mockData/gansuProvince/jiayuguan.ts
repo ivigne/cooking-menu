@@ -1,6 +1,6 @@
 /**
  * 甘肃-嘉峪关市-特产美食
- * 搓鱼子、嘉峪关机面、糖油糕、羊肉垫卷子：糖耳朵：扣肘子：酿皮子：甜醅子：驴肉黄面：嘉峪关烤羊肉：
+* 搓鱼子,嘉峪关机面,糖油糕,羊肉垫卷子：糖耳朵：扣肘子：酿皮子：甜醅子：驴肉黄面：嘉峪关烤羊肉：,
 1.搓鱼子：搓鱼子是嘉峪关市的一道传统特色美食，历史悠久。它的制作工艺独特，将细长的面条搓成鱼儿的形状，再配以精心调配的调料，入口爽滑，味道鲜美，是当地人民喜爱的美食。
 
 
@@ -47,6 +47,8 @@ export const jiayuguanFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -102,6 +104,8 @@ export const jiayuguanFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

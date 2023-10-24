@@ -1,29 +1,6 @@
 /**
  * 广东省-汕头市-特产美食
- * 老妈宫粽球、
-东里猪脚饭、
-油泡鱼册、
-
-生炒鱼面、
-酥皮蟹盒、
-福合埕牛肉丸、
-
-酥炸虾饼、
-达濠鱼丸、
-潮汕蚝烙、
-鸳鸯膏蟹、
-汕头牛肉丸、
-薄壳米、
-橄榄菜、
-鲎粿、
-腌咸菜、
-酸菜白鳝、
-两英番薯粥、
-五果汤、
-酸梅乌鱼、
-
-樟林鼠曲粿、
-
+* 老妈宫粽球,东里猪脚饭,油泡鱼册,生炒鱼面,酥皮蟹盒,福合埕牛肉丸,酥炸虾饼,达濠鱼丸,潮汕蚝烙,鸳鸯膏蟹,汕头牛肉丸,薄壳米,橄榄菜,鲎粿,腌咸菜,酸菜白鳝,两英番薯粥,五果汤,酸梅乌鱼,樟林鼠曲粿,
  * 
 老妈宫粽球
 粽球是中华民族的传统小食，历史悠久，各地制法有所不同，如泉州的肉粽，饶平的栀粽，珠三角的甜粽，风味各异。而老妈宫粽球是广东潮汕地区久负盛名的传统名小食，节日食俗。它以糯米为主料，外形为
@@ -91,6 +68,8 @@ export const shantouFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -146,6 +125,8 @@ export const shantouFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

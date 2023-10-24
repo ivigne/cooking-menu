@@ -4,7 +4,7 @@
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/ningxia/shizuishan.ts
  * @Description:
  *
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ * Copyright (c) 2023 by ${git_name_email},All Rights Reserved.
  */
 /**
  * 宁夏回族自治区-石嘴山市-特产美食

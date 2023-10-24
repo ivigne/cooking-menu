@@ -1,6 +1,6 @@
 /**
  * 广西-防城港市-特产美食
-烧猪肉、那良卷粉、鸡矢藤糖水、屈头蛋、风吹饼、榄子焖沙箭鱼、防城港海鲜粉、
+烧猪肉,那良卷粉,鸡矢藤糖水,屈头蛋,风吹饼,榄子焖沙箭鱼,防城港海鲜粉,防城牛腩粉,
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -20,6 +20,8 @@ export const fangchenggangFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -75,6 +77,8 @@ export const fangchenggangFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

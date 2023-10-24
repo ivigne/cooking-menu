@@ -1,7 +1,6 @@
 /**
  * 甘肃-庆阳市-特产美食
- * 
-臊子面、羊羔肉、荞剁面、灌肠、饸饹面、鳌跳崖、镇原烧鸡、镇原糖油饼、富贵飘香卷
+ * 臊子面,羊羔肉,荞剁面,灌肠,饸饹面,鳌跳崖,镇原烧鸡,镇原糖油饼,富贵飘香卷,
 鳌跳崖
 鳌跳崖是甘肃省镇原县是一种传统特色小吃。是农民在农忙时的一种简易充饥的吃法。将麦面或其它杂面用水调和成稠糊状，用筷子直接夹糊块投入开水锅中煮熟，配上简易的青菜，加入盐、醋、辣子，谓鳌跳崖，或叫圪塔饭。
 镇原烧鸡
@@ -29,6 +28,8 @@ export const qingyangFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -84,6 +85,8 @@ export const qingyangFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

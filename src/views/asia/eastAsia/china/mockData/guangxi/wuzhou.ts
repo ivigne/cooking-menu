@@ -2,7 +2,10 @@
  * 广西-梧州市-特产美食
  * 
  * 
-梧州市特色美食众多，主要以粤菜为主，讲究色、香、味，主要特产包括龟苓膏、纸包鸡、冰泉豆浆、神仙钵、梧州腊肠、梧州河粉（上汤河粉）、京南米粉、和味龙虱、梧州豆腐渣、岑溪竹笋酿、岑溪豆腐酿、梧州艇仔粥、梧州肠粉、梧州煲仔饭、梧州钵仔糕、梧州桑寄生 */
+梧州市特色美食众多，主要以粤菜为主，讲究色、香、味，主要特产包括
+龟苓膏,纸包鸡,冰泉豆浆,神仙钵,梧州腊肠,梧州河粉（上汤河粉）,京南米粉,和味龙虱,梧州豆腐渣,岑溪竹笋酿,岑溪豆腐酿,梧州艇仔粥,梧州肠粉,梧州煲仔饭,梧州钵仔糕,梧州桑寄生,梧州龟苓膏,
+
+*/
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const wuzhouFoodsList = [
@@ -21,6 +24,8 @@ export const wuzhouFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -76,6 +81,8 @@ export const wuzhouFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

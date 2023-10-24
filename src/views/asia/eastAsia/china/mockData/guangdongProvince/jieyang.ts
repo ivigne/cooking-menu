@@ -1,22 +1,6 @@
 /**
  * 广东省-揭阳市-特产美食
- * 乒乓粿
-红桃粿、
-粿条、
-草粿豆腐花、
-蚝烙、
-埔田笋粿、
-揭阳粿汁、
-普宁豆干、
-朴籽粿、
-尖米丸、
-乒乓果
-凉冻五果、
-揭阳乒乓果、
-成顺菊花糕、
-惠来绿豆饼、
-砲台南糖、
-里湖凉果、
+* 乒乓粿,红桃粿,粿条,草粿豆腐花,蚝烙,埔田笋粿,揭阳粿汁,普宁豆干,朴籽粿,尖米丸,乒乓果,凉冻五果,揭阳乒乓果,成顺菊花糕,惠来绿豆饼,砲台南糖,里湖凉果,
  * 
 乒乓粿
 也称槟醅粿，是揭阳的传统小吃。由于潮汕话发音上的相近，潮汕民众大致称为“乒乓粿”。作为相传南宋末年，战乱四起，民不聊生，揭阳从民为抵御饥饿，用鼠曲草混合糯米碾成糯粉，制成粿品充饥。后来，人们又用这种粉擀成皮，用爆米粉做馅，制成了独具风味的槟醅粿。1997年，被认定为中国首批“中华名小吃”。
@@ -71,6 +55,8 @@ export const jieyangFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -126,6 +112,8 @@ export const jieyangFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,26 +1,8 @@
 /**
  * 云南-玉溪市-特产美食
  * 
- * 江川三道菜、抗浪鱼、铜锅鱼、大头鱼、凉米线、冬瓜蜜饯、油卤腐、豆沫糖、油鸡枞、木瓜水、冰稀饭
- * 猫哆哩酸角糕
-剪刀塘
-玉溪凉米线
-云南十八怪
-通海豆末糖
-江川大头鱼
-芝麻片
-哀牢山三珍
-华宁干米线
-油卤腐
-新平腌菜
-冬瓜蜜饯
-油鸡纵
-玉溪芝麻片
-盐水鱼
-油卤腐
-冰稀饭
-新平腌菜
-玉溪卤饵块
+* 江川三道菜,抗浪鱼,铜锅鱼,大头鱼,凉米线,冬瓜蜜饯,油卤腐,豆沫糖,油鸡枞,木瓜水,冰稀饭,* 猫哆哩酸角糕,剪刀塘,玉溪凉米线,云南十八怪,通海豆末糖,江川大头鱼,芝麻片,哀牢山三珍,华宁干米线,油卤腐,新平腌菜,冬瓜蜜饯,油鸡纵,玉溪芝麻片,盐水鱼,油卤腐,冰稀饭,新平腌菜,玉溪卤饵块,
+
 
  * 
  * 
@@ -72,6 +54,8 @@ export const yuxiFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -127,6 +111,8 @@ export const yuxiFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

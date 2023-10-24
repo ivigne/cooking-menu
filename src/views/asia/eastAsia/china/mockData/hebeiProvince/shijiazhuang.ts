@@ -1,22 +1,8 @@
 /**
  * 河北-石家庄市-特产美食
  * 
- * 
- * 烧饼裹肉
-高庙扒糕
-金毛狮子鱼
-石家庄回民扒鸡
-金凤扒鸡
-黄瓜宴
-藁城宫面
-疙豆儿
-雪桥八仙
-抓炒全鱼
-正定马家卤鸡
-郝家排骨
-金凤扒鸡
-宫面
-六街烧饼
+* 烧饼裹肉,高庙扒糕,金毛狮子鱼,石家庄回民扒鸡,金凤扒鸡,黄瓜宴,藁城宫面,疙豆儿,雪桥八仙,抓炒全鱼,正定马家卤鸡,郝家排骨,金凤扒鸡,宫面,六街烧饼,
+
 
  * 
 烧饼裹肉
@@ -70,6 +56,8 @@ export const shijiazhuangFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -125,6 +113,8 @@ export const shijiazhuangFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

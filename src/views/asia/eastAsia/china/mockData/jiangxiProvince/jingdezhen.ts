@@ -2,20 +2,7 @@
  * 江西-景德镇市-特产美食
  * 
  * 
- * 苦槠豆腐
-清明粑
-炒米粉
-冷粉
-煎饼
-碱水粑
-乐平黄豆豉
-瓷泥煨鸡
-冷粉
-塔前糊汤
-桃酥
-饺子粑
-乐平白切狗肉
-桂花鲜姜酱菜
+* 苦槠豆腐,清明粑,炒米粉,冷粉,煎饼,碱水粑,乐平黄豆豉,瓷泥煨鸡,冷粉,塔前糊汤,桃酥,饺子粑,乐平白切狗肉,桂花鲜姜酱菜,
 
  * 
  * 
@@ -68,6 +55,8 @@ export const jingdezhenFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -123,6 +112,8 @@ export const jingdezhenFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

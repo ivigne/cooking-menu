@@ -1,20 +1,6 @@
 /**
  * 广东省-中山市-特产美食
- * 石岐乳鸽
-杏仁饼
-中山粉果金吒
-芦兜粽
-小榄菊花肉
-沙溪扣肉
-蕉蕾粥
-粉果金吒
-咀香园杏仁饼
-三乡濑粉
-中山杏仁饼
-沙溪走地鸡
-黄圃腊味
-钵仔禾虫
-
+* 石岐乳鸽,杏仁饼,中山粉果金吒,芦兜粽,小榄菊花肉,沙溪扣肉,蕉蕾粥,粉果金吒,咀香园杏仁饼,三乡濑粉,中山杏仁饼,沙溪走地鸡,黄圃腊味,钵仔禾虫,
  * 
 石岐乳鸽
 鲜、嫩，用生长21－28天的乳鸽腌渍之后，经烤箱烘烤而成。鸽子外脆内嫩，中间有一泡汤汁。此汤汁鲜纯，却不油，感觉清爽而鲜美。 鸽子性味比较平和，体质热、寒的人都可以吃 [71]。
@@ -64,6 +50,8 @@ export const zhongshanFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -119,6 +107,8 @@ export const zhongshanFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

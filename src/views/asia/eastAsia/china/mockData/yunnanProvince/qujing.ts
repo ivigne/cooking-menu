@@ -1,16 +1,7 @@
 /**
  * 云南-曲靖市-特产美食
  * 
- * 麻衣馓子
-陆良板鸭
-沾益辣子鸡
-此外，曲靖市还有
-花山带皮羊肉、洋芋鸡、会泽稀豆粉、烧饵块、
-酸菜红豆汤
-会泽稀豆粉
-曲靖韭菜花
-麻衣馓子
-宣威火腿、麻衣馓子、蒸饵丝、小锅米线、沾益辣子鸡、豌豆粉
+* 麻衣馓子,陆良板鸭,沾益辣子鸡,此外,曲靖市还有,花山带皮羊肉,洋芋鸡,会泽稀豆粉,烧饵块,酸菜红豆汤,会泽稀豆粉,曲靖韭菜花,麻衣馓子,宣威火腿,麻衣馓子,蒸饵丝,小锅米线,沾益辣子鸡,豌豆粉,
 
  * 
  * 
@@ -61,6 +52,8 @@ export const qujingFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -116,6 +109,8 @@ export const qujingFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

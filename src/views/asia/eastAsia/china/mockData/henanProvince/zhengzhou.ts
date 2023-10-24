@@ -1,20 +1,7 @@
 /**
  * 河南-郑州市-特产美食
- * 
- * 郑州烩面
-郑州蒸饺
-郑州焖饼
-郑州黄河鲤鱼焙面
-葛记焖饼
-少林寺素饼
-龙须糕
-琵琶酥
-御饼
-丁家粉蒸肉
-胡辣汤
-油馍头
-月亮馍
-肉盒
+* 郑州烩面,郑州蒸饺,郑州焖饼,郑州黄河鲤鱼焙面,葛记焖饼,少林寺素饼,龙须糕,琵琶酥,御饼,丁家粉蒸肉,胡辣汤,油馍头,月亮馍,肉盒,
+
 
  * 
 郑州烩面
@@ -64,6 +51,8 @@ export const zhengzhouFoodsList = [
     cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -119,6 +108,8 @@ export const zhengzhouFoodsList = [
     cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,7 +1,8 @@
 /**
  * 内蒙古自治区-呼和浩特市-特产美食
  * 
- * 刀削面、饸饹面、剔鱼子、煮鱼、烤全羊、涮羊肉、手把羊肉、烤羊腿、炸羊尾、血肠、肉肠、羊杂碎、稍麦（烧麦）、焙子、莜面、马奶酒、奶茶、奶皮子、奶豆腐、奶酪、油香、馓子、牛肉干、烤羊肉串、烧麦、羊杂碎
+* 刀削面,饸饹面,剔鱼子,煮鱼,烤全羊,涮羊肉,手把羊肉,烤羊腿,炸羊尾,血肠,肉肠,羊杂碎,稍麦（烧麦）,焙子,莜面,马奶酒,奶茶,奶皮子,奶豆腐,奶酪,油香,馓子,牛肉干,烤羊肉串,烧麦,羊杂碎,
+// 手抓羊肉,莜麦面,卓资山熏鸡,肉干,蒙古馅饼,蜜麻叶,德兴元烧麦
  * 
  * 
  * 
@@ -28,6 +29,8 @@ export const huhehaoteFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -83,6 +86,8 @@ export const huhehaoteFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

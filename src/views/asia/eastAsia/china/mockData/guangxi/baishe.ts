@@ -1,13 +1,6 @@
 /**
  * 广西-百色市-特产美食
-一、西林“羊瘪汤”
-二、十里荷香鸡
-三、巴马香猪
-四、米粉
-五、凉茶
-六、玉米粥
-七、隆林腊肉
-百色酸野、猪肉假喽夹、壮乡血耙鸭、猪血肠
+西林羊瘪汤,十里荷香鸡,巴马香猪,米粉,凉茶,玉米粥,隆林腊肉,百色酸野,猪肉假喽夹,壮乡血耙鸭,猪血肠,
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -27,6 +20,8 @@ export const baisheFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -82,6 +77,8 @@ export const baisheFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

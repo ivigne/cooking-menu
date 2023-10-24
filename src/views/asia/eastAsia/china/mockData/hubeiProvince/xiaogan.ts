@@ -1,14 +1,7 @@
 /**
  * 湖北-孝感市-特产美食
- * 
-孝感米酒、汉川荷月、云梦鱼面、宫廷烤鸡
-汈汊湖醉鱼
-干拨才鱼筒
-孝感麻糖
-安陆翰林鸡
-云梦白花菜
-麻花桂鱼
-应城扒肉
+孝感米酒,汉川荷月,云梦鱼面,宫廷烤鸡,汈汊湖醉鱼,干拨才鱼筒,孝感麻糖,安陆翰林鸡,云梦白花菜,麻花桂鱼,应城扒肉,
+
 
  * 
  * 
@@ -55,6 +48,8 @@ export const xiaoganFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -110,6 +105,8 @@ export const xiaoganFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

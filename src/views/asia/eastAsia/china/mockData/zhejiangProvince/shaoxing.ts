@@ -1,32 +1,8 @@
 /**
  * 浙江-绍兴市-特产美食
  * 
- * 糟青鱼干
-油爆大虾
-绍式虾球
-柯桥豆腐干
-白斩鸡
-米海茶
-新昌春饼
-清汤越鸡
-头肚醋鱼
-喉口馒头
-干菜焖肉
-芝麻千张丝
-豆腐馒头
-绍兴醉鸡
-绍兴臭豆腐
-绍兴腐乳
-火腿炖老鸭
-西施团圆饼
-清蒸鳜鱼
-绍兴香糕
-茴香豆
-白鲞扣鸡
-鉴湖鱼味
-孟大茂香糕
-鲞冻肉
-梅干菜烧肉
+ ** 糟青鱼干,油爆大虾,绍式虾球,柯桥豆腐干,白斩鸡,米海茶,新昌春饼,清汤越鸡,头肚醋鱼,喉口馒头,干菜焖肉,芝麻千张丝,豆腐馒头,绍兴醉鸡,绍兴臭豆腐,绍兴腐乳,火腿炖老鸭,西施团圆饼,清蒸鳜鱼,绍兴香糕,茴香豆,白鲞扣鸡,鉴湖鱼味,孟大茂香糕,鲞冻肉,梅干菜烧肉,绍式八珍糕,绍式大夹沙,
+
 
  * 
  * 
@@ -102,6 +78,8 @@ export const shaoxingFoodsList = [
     cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -157,6 +135,8 @@ export const shaoxingFoodsList = [
     cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,9 +1,8 @@
 /**
  * 贵州-六盘水市-特产美食
  * 
-水城羊肉粉、水城烙锅、岩脚面、郎岱富硒茶、水城凉粉、荷叶糯米鸡、豆汤圆子火锅、兰家牛肉粉、郎岱凉粉等
-蒸蒸糕、郎岱酱、
-
+水城羊肉粉,水城烙锅,岩脚面,郎岱富硒茶,水城凉粉,荷叶糯米鸡,豆汤圆子火锅,兰家牛肉粉,郎岱凉粉等,
+蒸蒸糕,郎岱酱,六盘水水城羊肉粉,
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -23,6 +22,8 @@ export const lupanshuiFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -78,6 +79,8 @@ export const lupanshuiFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:01:22
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-10-18 11:08:14
+ * @LastEditTime: 2023-10-24 18:13:55
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/hebeiProvince/index.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -18,6 +18,7 @@ import { cangzhouFoodsList } from './cangzhou';
 import { langfangFoodsList } from './langfang';
 import { hengshuiFoodsList } from './hengshui';
 import { xionganFoodsList } from './xiongan';
+import { othersFoodsList } from './others';
 
 export const heBeiFoodsList = [].concat(
   shijiazhuangFoodsList,
@@ -32,4 +33,5 @@ export const heBeiFoodsList = [].concat(
   langfangFoodsList,
   hengshuiFoodsList,
   xionganFoodsList,
+  othersFoodsList,
 );

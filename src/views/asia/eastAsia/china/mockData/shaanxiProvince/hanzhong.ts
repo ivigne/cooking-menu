@@ -1,8 +1,7 @@
 /**
  * 陕西-汉中市-特产美食
  * 
- * 汉中面皮
-汉中菜豆腐
+ * 汉中面皮,汉中菜豆腐
 
  * 
 汉中面皮
@@ -30,6 +29,8 @@ export const hanzhongFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -85,6 +86,8 @@ export const hanzhongFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

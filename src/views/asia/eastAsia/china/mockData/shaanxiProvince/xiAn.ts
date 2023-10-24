@@ -1,27 +1,7 @@
 /**
  * 陕西-西安市-特产美食
  * 
- * 饺子宴
-秦镇凉皮
-牛羊肉泡馍
-老童家腊羊肉
-锅盔
-肉夹馍
-腊汁肉
-葫芦头
-蜜枣甑糕
-石子馍
-陕西凉皮
-老潼关肉夹馍
-肉丸糊辣汤
-臊子面
-贾三灌汤包子
-葫芦鸡
-biangbiang面
-甑糕
-锅盔
-荞面饸饹
-麻食
+* 饺子宴,秦镇凉皮,牛羊肉泡馍,老童家腊羊肉,锅盔,肉夹馍,腊汁肉,葫芦头,蜜枣甑糕,石子馍,陕西凉皮,老潼关肉夹馍,肉丸糊辣汤,臊子面,贾三灌汤包子,葫芦鸡,biangbiang面,甑糕,锅盔,荞面饸饹,麻食,
 
  * 
  * 
@@ -88,6 +68,8 @@ export const xiAnFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -143,6 +125,8 @@ export const xiAnFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

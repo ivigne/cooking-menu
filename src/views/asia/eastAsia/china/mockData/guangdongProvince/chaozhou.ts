@@ -1,6 +1,6 @@
 /**
  * 广东省-潮州市-特产美食
- * 手捶牛肉丸、潮州春饼、姑苏香腐、溪口卤鹅肉、肠粉、粿汁
+* 手捶牛肉丸,潮州春饼,姑苏香腐,溪口卤鹅肉,肠粉,粿汁,
 手捶牛肉丸是广东潮汕地区最为普遍及大众化的传统民间小食，是一道起源于中国客家人的菜肴。主要特点为牛肉是用两根特制的铁棒轮流捶打成肉浆，后做成肉丸。
 潮州春饼
 潮州春饼是独具广东潮州特色美味的小吃，又名潮州春卷。节日食俗。它呈长方形，金黄美观，外酥里嫩，味浓香郁，为人称道。皮酥脆，馅咸香。
@@ -31,6 +31,8 @@ export const chaozhouFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -86,6 +88,8 @@ export const chaozhouFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,24 +1,8 @@
 /**
  * 湖北-武汉市-特产美食
  * 
- * 武汉红豆沙、青山麻烘糕、八卦汤、热干面、三鲜豆皮、面窝、米粑、豆丝、欢喜坨、鸭脖子、武昌鱼、排骨藕汤、洪山菜薹炒腊肉、糍粑
- * 发米粑
-长春太极饼
-五里界蒸肉
-热干面
-田启恒糊汤粉
-香菜圆子
-虾球
-青山麻烘糕
-汤逊湖鱼丸
-清蒸武昌鱼
-牛肉豆丝
-武汉排骨藕汤
-黄陂三合
-蛋花米酒
-洪山菜薹炒腊肉
-面窝
-精武鸭脖
+* 武汉红豆沙,青山麻烘糕,八卦汤,热干面,三鲜豆皮,面窝,米粑,豆丝,欢喜坨,鸭脖子,武昌鱼,排骨藕汤,洪山菜薹炒腊肉,糍粑,* 发米粑,长春太极饼,五里界蒸肉,热干面,田启恒糊汤粉,香菜圆子,虾球,青山麻烘糕,汤逊湖鱼丸,清蒸武昌鱼,牛肉豆丝,武汉排骨藕汤,黄陂三合,蛋花米酒,洪山菜薹炒腊肉,面窝,精武鸭脖,
+
 
  * 
  * 
@@ -80,6 +64,8 @@ export const wuhanFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -135,6 +121,8 @@ export const wuhanFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

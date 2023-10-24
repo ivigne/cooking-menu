@@ -1,6 +1,6 @@
 /**
  * 甘肃-平凉市-特产美食
- * 平凉饸饹面、平凉羊肉泡馍、平凉锅盔、平凉酿皮、灵台涎水面、静宁烧鸡、泾川长面、火烧子、花花面
+* 平凉饸饹面,平凉羊肉泡馍,平凉锅盔,平凉酿皮,灵台涎水面,静宁烧鸡,泾川长面,火烧子,花花面,
 平凉饸饹面
 “饸饹”是北方人自创的专有名词。饸饹面有荤素之分，素的，吃一碗清淡之香，吃面的原味，喝汤的地道。荤的讲究油香。
 平凉羊肉泡馍
@@ -39,6 +39,8 @@ export const pingliangFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -94,6 +96,8 @@ export const pingliangFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

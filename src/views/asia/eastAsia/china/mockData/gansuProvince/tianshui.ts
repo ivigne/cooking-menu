@@ -1,6 +1,6 @@
 /**
  * 甘肃-天水市-特产美食
- * 肉夹馍、秦安麻腐馍、天水浆水面、天水呱呱、天水麻食、秦安甜醅、天水酿皮、天水杂烩、甘谷酥圈圈、秦安油糕、清真碎面、甘谷浆水面、天水面皮、天水凉粉
+* 肉夹馍,秦安麻腐馍,天水浆水面,天水呱呱,天水麻食,秦安甜醅,天水酿皮,天水杂烩,甘谷酥圈圈,秦安油糕,清真碎面,甘谷浆水面,天水面皮,天水凉粉,
 肉夹馍
 肉夹馍是中国传统特色食物之一。名字意为“肉馅的夹馍”。陕西地区有使用白吉馍的“腊汁肉夹馍”、宝鸡西府的肉臊子夹馍（肉臊子中放食醋）、潼关的潼关肉夹馍（与白吉馍不同，其馍外观焦黄，条纹清晰，内部呈层状，饼体发胀，皮酥里嫩，火功到家，食用时温度以烫手为佳，且老潼关肉夹馍是热馍夹凉肉，馍酥肉香，爽而不腻）。
 秦安麻腐馍
@@ -49,6 +49,8 @@ export const tianshuiFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -104,6 +106,8 @@ export const tianshuiFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

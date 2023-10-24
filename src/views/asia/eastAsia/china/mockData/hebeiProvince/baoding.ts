@@ -1,7 +1,7 @@
 /**
  * 河北-保定市-特产美食
  * 
-白肉罩火烧、驴肉火烧、白运章包子、卤煮鸡、高阳锅肘子、牛肉罩饼、高碑店豆腐丝、白洋淀松花蛋、保定面酱（保定三宝之一）、槐茂酱菜、春不老（保定三宝之一）
+白肉罩火烧,驴肉火烧,白运章包子,卤煮鸡,高阳锅肘子,牛肉罩饼,高碑店豆腐丝,白洋淀松花蛋,保定面酱（保定三宝之一）,槐茂酱菜,春不老（保定三宝之一）,
 
  * 
 驴肉火烧
@@ -34,6 +34,8 @@ export const baodingFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -89,6 +91,8 @@ export const baodingFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

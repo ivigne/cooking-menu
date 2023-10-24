@@ -2,22 +2,7 @@
  * 江西-九江市-特产美食
  * 
  * 
- * 庐山石鸡
-九江茶饼
-萝卜饼
-脆皮石鱼卷
-修水哨子
-湖口酒糟鱼
-熟烩虾仁
-九江桂花酥糖
-石鱼炒蛋
-马尾水黄精鸡
-红米碱水粑
-板栗炖鸡汤
-斋味豆猪肝
-共青城板鸭
-如意石耳
-江州水浒肉
+* 庐山石鸡,九江茶饼,萝卜饼,脆皮石鱼卷,修水哨子,湖口酒糟鱼,熟烩虾仁,九江桂花酥糖,石鱼炒蛋,马尾水黄精鸡,红米碱水粑,板栗炖鸡汤,斋味豆猪肝,共青城板鸭,如意石耳,江州水浒肉,
 
  * 
  * 
@@ -75,6 +60,8 @@ export const jiujiangFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -130,6 +117,8 @@ export const jiujiangFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

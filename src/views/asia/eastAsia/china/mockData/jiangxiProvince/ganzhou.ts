@@ -1,7 +1,7 @@
 /**
  * 江西-赣州市-特产美食
  * 
-三杯鸡、糯米鸡、生煎鸭、米粉鱼、鳝鱼馓子、陡水湖全鱼宴、赣南小炒鱼、鱼饼、鱼粉皮、珍珠粉、客家酿豆腐、蝴蝶鱼、荷包胙、蛋菇汤、兴国鱼丝、竹筒粉蒸肠、民间瓦罐煨汤、豫章酥鸭、四星望月等。 [63]
+三杯鸡,糯米鸡,生煎鸭,米粉鱼,鳝鱼馓子,陡水湖全鱼宴,赣南小炒鱼,鱼饼,鱼粉皮,珍珠粉,客家酿豆腐,蝴蝶鱼,荷包胙,蛋菇汤,兴国鱼丝,竹筒粉蒸肠,民间瓦罐煨汤,豫章酥鸭,四星望月等,[63],
  * 
  * 
  * 
@@ -27,6 +27,8 @@ export const ganzhouFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -82,6 +84,8 @@ export const ganzhouFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

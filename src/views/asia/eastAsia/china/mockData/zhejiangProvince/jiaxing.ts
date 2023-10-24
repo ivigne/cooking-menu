@@ -1,21 +1,8 @@
 /**
  * 浙江-嘉兴市-特产美食
  * 
- * 五芳斋粽子
-文虎酱鸭
-南湖菱
-三珍斋八宝饭
-汾湖蟹
-平湖糟蛋
-嘉善黄酒
-荷叶粉蒸肉
-南北湖虎鲻鱼
-王店三元鸡
-斜桥榨菜
-杨庙雪菜
-西塘八珍糕
-乌镇姑嫂饼
-新塍月饼
+* 五芳斋粽子,文虎酱鸭,南湖菱,三珍斋八宝饭,汾湖蟹,平湖糟蛋,嘉善黄酒,荷叶粉蒸肉,南北湖虎鲻鱼,王店三元鸡,斜桥榨菜,杨庙雪菜,西塘八珍糕,乌镇姑嫂饼,新塍月饼,
+
 
  * 
  * 
@@ -63,6 +50,8 @@ export const jiaxingFoodsList = [
     cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -118,6 +107,8 @@ export const jiaxingFoodsList = [
     cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

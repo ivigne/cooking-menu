@@ -5,7 +5,7 @@
  * 
  * 
  * 
-烤全羊、手扒肉、血肠、羊背子、涮羊肉、炒米、鲜奶（苏）、白油、黄油、奶油、奶皮子、奶豆腐、奶酪（阿尔查、阿如勒）、奶渣（楚拉）、黄油渣（楚其给）、奶茶、酸奶、马奶酒等
+烤全羊,手扒肉,血肠,羊背子,涮羊肉,炒米,鲜奶（苏）,白油,黄油,奶油,奶皮子,奶豆腐,奶酪（阿尔查,阿如勒）,奶渣（楚拉）,黄油渣（楚其给）,奶茶,酸奶,马奶酒,
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -25,6 +25,8 @@ export const xilinguolemengFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -80,6 +82,8 @@ export const xilinguolemengFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,7 +1,6 @@
 /**
  * 内蒙古自治区-鄂尔多斯市-特产美食
- * 奶油、酪蛋子、奶豆腐和奶皮子、
- * 奶油、酪蛋子、奶豆腐和奶皮子
+* 奶油,酪蛋子,奶豆腐和奶皮子,
  * 
  * 
 分为食品和饮料两种。食品有奶油、酪蛋子、奶豆腐和奶皮子。饮料有奶茶、窝奶、酸奶和奶酒；肉食，鄂尔多斯蒙古族人民喜食畜肉，以牛、驼、羊肉为多，猪、鸡次之，也食野生动物肉。马肉被视为最上等肉。鄂尔多斯只有在成吉思汗陵祭奠时才献整马供，平时很少食用，骒马（母马）则更不能宰杀。境内蒙古人认为绵羊肉和马肉性温，牛肉、驼肉和山羊肉性寒，所以冬天一般多食用绵羊肉。夏、秋季吃牛肉和山羊肉
@@ -24,6 +23,8 @@ export const eerduosiFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -79,6 +80,8 @@ export const eerduosiFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

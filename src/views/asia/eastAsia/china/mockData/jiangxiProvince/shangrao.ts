@@ -2,18 +2,8 @@
  * 江西-上饶市-特产美食
  * 
  * 
- * 龟峰扣肉、万年贡米、饭麸果、葛源豆腐、铅山灯盏果、弋阳大米粿、肉馅烧饼、油条包麻糍果、清明果、糯米子糕、烫米粉、猪肝粉、大排粉、羊肉粉、肥肠粉、酱香鹅、清蒸荷包红鲤鱼、粉蒸肉、糊豆腐、全鱼宴、藜蒿炒腊肉、清炒白玉豆、弋阳龟峰国道鱼等。
-弋阳油淋鱼
-弋阳扣肉
-烫粉
-三清腊板鸭
-龟峰扣肉
-饭麸果
-油淋鱼
-广丰豌豆烧鲫鱼
-灯盏粿
-肉圆果
-弋阳年糕
+* 龟峰扣肉,万年贡米,饭麸果,葛源豆腐,铅山灯盏果,弋阳大米粿,肉馅烧饼,油条包麻糍果,清明果,糯米子糕,烫米粉,猪肝粉,大排粉,羊肉粉,肥肠粉,酱香鹅,清蒸荷包红鲤鱼,粉蒸肉,糊豆腐,全鱼宴,藜蒿炒腊肉,清炒白玉豆,弋阳龟峰国道鱼等,弋阳油淋鱼,弋阳扣肉,烫粉,三清腊板鸭,龟峰扣肉,饭麸果,油淋鱼,广丰豌豆烧鲫鱼,灯盏粿,肉圆果,弋阳年糕,
+
 
  * 
  * 
@@ -61,6 +51,8 @@ export const shangraoFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -116,6 +108,8 @@ export const shangraoFoodsList = [
     cuisineCategoryName: '赣菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

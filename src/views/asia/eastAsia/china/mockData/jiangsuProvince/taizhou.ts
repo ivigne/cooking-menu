@@ -1,11 +1,7 @@
 /**
  * 江苏-泰州市-特产美食
  * 
-靖江蟹黄汤包、沙沟大鱼圆、靖江肉脯、九丝汤、烫干丝、黄桥烧饼、中庄醉蟹、泰州鱼汤面、
-靖江扒凤腿
-曲霞蟹黄汤包
-桂香糖
-荞麦扁团
+靖江蟹黄汤包,沙沟大鱼圆,靖江肉脯,九丝汤,烫干丝,黄桥烧饼,中庄醉蟹,泰州鱼汤面,靖江扒凤腿,曲霞蟹黄汤包,桂香糖,荞麦扁团,
 
 * 烫干丝
  * 
@@ -49,6 +45,8 @@ export const taizhouFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -104,6 +102,8 @@ export const taizhouFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

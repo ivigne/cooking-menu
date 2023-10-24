@@ -1,6 +1,6 @@
 /**
  * 甘肃-张掖市-特产美食
- * 炒拨拉、灰碱面、鱼儿粉、羊肉垫卷子、牛肉小饭、西北大菜、粉皮面筋、搓鱼面、糊馎、油泡泡、臊面
+* 炒拨拉,灰碱面,鱼儿粉,羊肉垫卷子,牛肉小饭,西北大菜,粉皮面筋,搓鱼面,糊馎,油泡泡,臊面,
 炒拨拉
 炒拨拉是山丹县最有名的一种地方小吃，到山丹的游客一定都吃过这种有地方特色的小吃，炒的时候烟熏火燎，吃的时候再加上啤酒那是一个享受。那叫一个美。
 灰碱面
@@ -43,6 +43,8 @@ export const zhangyeFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -98,6 +100,8 @@ export const zhangyeFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

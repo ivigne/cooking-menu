@@ -1,17 +1,8 @@
 /**
  * 山东-德州市-特产美食
  * 
- * 
-德州羊肠汤
-乐陵金丝小枣
-羊肠汤
-尚堂扒鸡
-大柳面
-德州扒鸡
-葱烧蹄筋
-保店驴肉
-宋楼火烧
-傻小二棒仔鸭
+德州羊肠汤,乐陵金丝小枣,羊肠汤,尚堂扒鸡,大柳面,德州扒鸡,葱烧蹄筋,保店驴肉,宋楼火烧,傻小二棒仔鸭,
+
 
  * 
  * 
@@ -61,6 +52,8 @@ export const dezhouFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -116,6 +109,8 @@ export const dezhouFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

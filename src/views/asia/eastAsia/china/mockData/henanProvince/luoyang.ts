@@ -2,24 +2,7 @@
  * 河南-洛阳市-特产美食
  * 
  * 
- * 洛阳水席
-燕菜、葱扒虎头鲤、云罩腐乳肉、海米升百彩。
-八大件
-快三样、五柳鱼、鱼仁、鸡丁、爆鹤脯。
-鱼翅插花、金猴探海、开鱿争春、碧波伞丸。
-洛阳汤羊肉汤，牛肉汤，丸子汤，驴肉汤，豆腐汤，不翻汤，胡辣汤。
-蝌蚪面
-张记烧鸡
-新安汤面铰
-玉米糁汤
-洛宁蒸肉
-
-连汤肉片
-合油酥
-栾川豆腐
-洛阳燕菜
-洛阳浆面条
-驴肉汤
+* 洛阳水席,燕菜,葱扒虎头鲤,云罩腐乳肉,海米升百彩,八大件,快三样,五柳鱼,鱼仁,鸡丁,爆鹤脯,鱼翅插花,金猴探海,开鱿争春,碧波伞丸,洛阳汤羊肉汤,牛肉汤,丸子汤,驴肉汤,豆腐汤,不翻汤,胡辣汤,蝌蚪面,张记烧鸡,新安汤面铰,玉米糁汤,洛宁蒸肉,连汤肉片,合油酥,栾川豆腐,洛阳燕菜,洛阳浆面条,驴肉汤,
 
  *
  * 洛阳水席
@@ -79,6 +62,8 @@ export const luoyangFoodsList = [
     cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -134,6 +119,8 @@ export const luoyangFoodsList = [
     cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

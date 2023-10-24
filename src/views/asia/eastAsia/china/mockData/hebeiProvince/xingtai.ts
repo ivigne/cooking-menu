@@ -1,33 +1,7 @@
 /**
  * 河北-邢台市-特产美食
-黑家饺子
-桐泰祥糕点
-宁晋泥坑酒
-邢台古顺酒
-隆尧今麦郎方便面
-金沙河挂面
-威县吊炉火烧
-临西酱菜
-邢台焖饼
-邢台枣花佳饮品
-南宫熏菜
-清河菜豆腐
-内丘挂汁肉
-临城酥鱼
-魏庄熏鸡
-白牌烧鸡
-邢台锅贴
-广宗薄饼
-临西空心面
-清河八大碗
-邢台大锅菜
-隆尧羊汤
-小米煎饼
-平乡十香菜
-沙河马场梨
-苦累
-威县火烧
-广宗薄饼
+黑家饺子,桐泰祥糕点,宁晋泥坑酒,邢台古顺酒,隆尧今麦郎方便面,金沙河挂面,威县吊炉火烧,临西酱菜,邢台焖饼,邢台枣花佳饮品,南宫熏菜,清河菜豆腐,内丘挂汁肉,临城酥鱼,魏庄熏鸡,白牌烧鸡,邢台锅贴,广宗薄饼,临西空心面,清河八大碗,邢台大锅菜,隆尧羊汤,小米煎饼,平乡十香菜,沙河马场梨,苦累,威县火烧,广宗薄饼,
+
 
 *
 苦累
@@ -59,6 +33,8 @@ export const xingtaiFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -114,6 +90,8 @@ export const xingtaiFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

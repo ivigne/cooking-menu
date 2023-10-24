@@ -1,15 +1,8 @@
 /**
  * 湖北-仙桃市-特产美食
  * 
- * 毛嘴卤鸡、锅块、仙桃鳝鱼米粉
- * 沔阳粉蒸肉
-仙桃蒸三元
-九珠皮蛋
-红庙酥饼
-沔阳三腊
-沙湖豆皮
-沔阳珍珠丸
-沔阳三蒸
+* 毛嘴卤鸡,锅块,仙桃鳝鱼米粉,* 沔阳粉蒸肉,仙桃蒸三元,九珠皮蛋,红庙酥饼,沔阳三腊,沙湖豆皮,沔阳珍珠丸,沔阳三蒸,
+
  * 
  * 
 3、沔阳三蒸，有粉蒸、清蒸、扣蒸、泡蒸、花样造型蒸等多种蒸菜技法。
@@ -41,7 +34,7 @@
 */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
-export const xiaoganFoodsList = [
+export const xiantaoFoodsList = [
   // 灯影牛肉
   {
     province: '湖北省', // 省
@@ -57,6 +50,8 @@ export const xiaoganFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -112,6 +107,8 @@ export const xiaoganFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

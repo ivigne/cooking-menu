@@ -1,24 +1,7 @@
 /**
  * 海南-三亚市-特产美食
- * 
- * 红烧梅花参
-红糖年糕
-甜酸粉
-苗家三色饭
-米花糖
-姜糖汤圆
-爆炒夜光螺
-羊栏酸鱼汤
-椰肉虾仁猪骨汤
-藤桥排骨
-槟榔花鸡
-南海鲜鲍
-疍家咸鱼煲
-三亚海鲜火锅
-港门粉
-猪肠粉
-南大辣椒蟹
-南山素斋
+* 红烧梅花参,红糖年糕,甜酸粉,苗家三色饭,米花糖,姜糖汤圆,爆炒夜光螺,羊栏酸鱼汤,椰肉虾仁猪骨汤,藤桥排骨,槟榔花鸡,南海鲜鲍,疍家咸鱼煲,三亚海鲜火锅,港门粉,猪肠粉,南大辣椒蟹,南山素斋,
+
 
  * 
 红烧梅花参
@@ -80,6 +63,8 @@ export const sanyaFoodsList = [
     cuisineCategoryName: '琼菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -135,6 +120,8 @@ export const sanyaFoodsList = [
     cuisineCategoryName: '琼菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

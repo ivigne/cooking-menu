@@ -1,6 +1,6 @@
 /**
  * 甘肃-武威市-特产美食
- * 凉州行面、腊肉、冰糖圆枣茯茶、凉州凉面、凉州大月饼、武威面皮子、米汤油馓子
+* 凉州行面,腊肉,冰糖圆枣茯茶,凉州凉面,凉州大月饼,武威面皮子,米汤油馓子,
 凉州三套车
 凉州三套车，是指凉州行面、腊肉、冰糖圆枣茯茶，为大众化的美食，被称为凉州快餐。 [54]
 凉州凉面
@@ -30,6 +30,8 @@ export const wuweiFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -85,6 +87,8 @@ export const wuweiFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

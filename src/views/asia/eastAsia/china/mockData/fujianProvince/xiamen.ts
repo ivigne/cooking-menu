@@ -4,11 +4,11 @@
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/fujianProvince/xiamen.ts
  * @Description:
  *
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ * Copyright (c) 2023 by ${git_name_email},All Rights Reserved.
  */
 /**
  * 福建-厦门市-特产美食
- * 香菇肉酱、馅饼、鱼皮花生、菩提丸、青津果、龙宫水晶蚌、松子明虾、西施浣纱、彩蝶绕蟠龙、翡翠皇上皇、干炸鲟盖
+ * 香菇肉酱,馅饼,鱼皮花生,菩提丸,青津果,龙宫水晶蚌,松子明虾,西施浣纱,彩蝶绕蟠龙,翡翠皇上皇,干炸鲟盖,东海玉螺香,丝雨菰云,
  */
 import { lampshadedBeefScriptsList } from './xiamenFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -38,6 +38,8 @@ export const xiamenFoodsList = [
     cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

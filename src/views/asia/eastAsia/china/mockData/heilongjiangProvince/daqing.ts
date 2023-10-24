@@ -4,7 +4,7 @@
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/heilongjiangProvince/daqing.ts
  * @Description:
  *
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ * Copyright (c) 2023 by ${git_name_email},All Rights Reserved.
  */
 /**
  * 黑龙江-大庆市-特产美食

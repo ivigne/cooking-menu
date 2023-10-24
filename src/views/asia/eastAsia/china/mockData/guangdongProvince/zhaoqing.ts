@@ -1,10 +1,7 @@
 /**
  * 广东省-肇庆市-特产美食
  * 
-鼎湖上素、
-肇庆裹蒸、
-茶油鸡、
-竹篙粉、
+鼎湖上素,肇庆裹蒸,茶油鸡,竹篙粉,
 * 
 鼎湖上素
 鼎湖上素，发源于广东省肇庆市鼎湖区，为广东特色素菜，属于粤菜。“上素”是高级菜之意。该菜是由广东肇庆鼎湖山庆云寺一位老和尚创于明朝永历年间，以银耳为制作主料，其烹饪技巧以蒸菜为主，食时鲜嫩滑爽，清香四溢，乃素菜上品。
@@ -32,6 +29,8 @@ export const zhaoqingFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -87,6 +86,8 @@ export const zhaoqingFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

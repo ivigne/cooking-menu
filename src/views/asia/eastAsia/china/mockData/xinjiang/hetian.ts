@@ -1,31 +1,8 @@
 /**
  * 新疆维吾尔自治区-和田地区-特产美食
  * 
- * 圆烤包子
-抓饭
-玉米饭
-杂克尔
-手抓肉
-拉面
-确曲热
-库麦琪
-拉条子
-馕
-油塔子
-烤包子
-烧三蛋
-薄皮包子
-馕坑烤
-欧普盖
-叶斯普
-麦扎甫
-药茶
-果酱
-果仁麻糖
-馓子
-烤羊肉串
-烤全羊
-羊肚子烤肉
+* 圆烤包子,抓饭,玉米饭,杂克尔,手抓肉,拉面,确曲热,库麦琪,拉条子,馕,油塔子,烤包子,烧三蛋,薄皮包子,馕坑烤,欧普盖,叶斯普,麦扎甫,药茶,果酱,果仁麻糖,馓子,烤羊肉串,烤全羊,羊肚子烤肉,
+
 
  * 
  * 
@@ -58,6 +35,8 @@ export const hetianFoodsList = [
     cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -113,6 +92,8 @@ export const hetianFoodsList = [
     cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

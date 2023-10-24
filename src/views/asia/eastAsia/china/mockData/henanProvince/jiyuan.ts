@@ -1,6 +1,6 @@
 /**
  * 河南-济源市-特产美食
- * 鸡蛋蒜辣捞面条、炒面、麻糖、油各表、牛肉丸、炒鸡、肉夹火烧、菜糕、煮馍、土馍、小凹馍、绿豆酥、鸡蛋不翻儿、疙星汤
+* 鸡蛋蒜辣捞面条,炒面,麻糖,油各表,牛肉丸,炒鸡,肉夹火烧,菜糕,煮馍,土馍,小凹馍,绿豆酥,鸡蛋不翻儿,疙星汤,
 
  * 
 面条：鸡蛋蒜辣捞面条、炒面
@@ -27,6 +27,8 @@ export const jiyuanFoodsList = [
     cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -82,6 +84,8 @@ export const jiyuanFoodsList = [
     cuisineCategoryName: '豫菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

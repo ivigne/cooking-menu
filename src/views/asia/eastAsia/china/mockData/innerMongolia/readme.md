@@ -10,7 +10,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:01:23
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-10-20 18:51:04
+ * @LastEditTime: 2023-10-23 14:55:03
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/innerMongolia/readme.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -27,4 +27,4 @@
 
 蒙古族人的传统饮食比较粗犷，以羊肉、奶、野菜及面食为主要原料。烹调方法相对比较简单，以烤最为著名。崇尚丰满实在，注重原料的本味。特色美食烤羊腿全羊席手抓羊肉奶酪马奶酒莜麦面卓资山熏鸡 [40] 肉干哈达饼蒙古馅饼蜜麻叶德兴元烧麦
 
-烤羊腿,全羊席,手抓羊肉,奶酪,马奶酒,莜麦面,卓资山熏鸡,肉干,哈达饼,蒙古馅饼,蜜麻叶,德兴元烧麦
+// 烤羊腿,全羊席,手抓羊肉,奶酪,马奶酒,莜麦面,卓资山熏鸡,肉干,哈达饼,蒙古馅饼,蜜麻叶,德兴元烧麦

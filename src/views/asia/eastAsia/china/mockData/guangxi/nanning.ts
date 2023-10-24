@@ -1,24 +1,7 @@
 /**
  * 广西-南宁市-特产美食
  * 
- * 柠檬鸭
-老友粉
-粉饺
-卷筒粉
-粉虫
-生榨米粉
-酸野
-五色糯米饭
-老友面（粉）
-八仙粉
-干捞粉
-卷筒粉
-八宝饭
-柠檬鸭
-酸品
-王府牛杂
-生榨米粉
-瘦肉粥、猪红粥、鱼片粥、红豆粥、皮蛋粥、田鸡粥
+* 柠檬鸭,老友粉,粉饺,卷筒粉,粉虫,生榨米粉,酸野,五色糯米饭,老友面（粉）,八仙粉,干捞粉,卷筒粉,八宝饭,柠檬鸭,酸品,王府牛杂,生榨米粉,瘦肉粥,猪红粥,鱼片粥,红豆粥,皮蛋粥,田鸡粥,
 
  * 
 柠檬鸭
@@ -76,6 +59,8 @@ export const nanningFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -131,6 +116,8 @@ export const nanningFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

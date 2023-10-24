@@ -1,19 +1,8 @@
 /**
  * 江苏-常州市-特产美食
  * 
- * 萝卜干、大麻糕、芝麻糖、溧阳风鹅、
- * 银丝面
-天目湖砂锅鱼头
-水晶宫磨笼虾
-荷包丸子
-常州大麻糕
-加蟹小笼包
-溧阳扎肝
-常州糟扣肉
-溧阳三黄鸡
-羊肉酸菜煲
-八宝酿鲜鱿
-馄饨蔬菜清汤
+* 萝卜干,大麻糕,芝麻糖,溧阳风鹅,* 银丝面,天目湖砂锅鱼头,水晶宫磨笼虾,荷包丸子,常州大麻糕,加蟹小笼包,溧阳扎肝,常州糟扣肉,溧阳三黄鸡,羊肉酸菜煲,八宝酿鲜鱿,馄饨蔬菜清汤,
+
 
  * 
 
@@ -62,6 +51,8 @@ export const changzhouFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -117,6 +108,8 @@ export const changzhouFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

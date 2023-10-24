@@ -1,9 +1,9 @@
 /**
  * 江苏-南京市-特产美食
  * 
- * 蛋烧卖、美人肝、凤尾虾、松鼠鱼、清炖生敲、清炖菜核、清炖鸡孚
- * 叉烤鸭、叉烤桂鱼、叉烤酥方、芙蓉虾仁、松子熏肉和金陵酱鸭、南京板鸭、盐水鸭等，有以旱生、旱八鲜、水八鲜
- * 秦淮八绝、鸭血粉丝汤、小笼包、煮干丝、皮肚面、如意回卤干、什锦豆腐涝、牛肉锅贴、状元豆、五香蛋、活珠子、臭豆腐、烤鸭包、金陵片皮鸭、南农烧鸡、桂花糖芋苗、东山老鹅
+* 蛋烧卖,美人肝,凤尾虾,松鼠鱼,清炖生敲,清炖菜核,清炖鸡孚,
+* 叉烤鸭,叉烤桂鱼,叉烤酥方,芙蓉虾仁,松子熏肉和金陵酱鸭,南京板鸭,盐水鸭等,有以旱生,旱八鲜,水八鲜,
+* 秦淮八绝,鸭血粉丝汤,小笼包,煮干丝,皮肚面,如意回卤干,什锦豆腐涝,牛肉锅贴,状元豆,五香蛋,活珠子,臭豆腐,烤鸭包,金陵片皮鸭,南农烧鸡,桂花糖芋苗,东山老鹅,
  * 
 菜系
 【主词条：金陵菜】
@@ -34,6 +34,8 @@ export const nanjingFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -89,6 +91,8 @@ export const nanjingFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

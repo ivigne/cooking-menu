@@ -1,8 +1,8 @@
 /**
  * 贵州-安顺市-特产美食
  * 
-旧州鸡辣子、素剪粉、干鸡块粉面、松糕卜粉、伍仁冲冲糕、裹卷、破酥包子、豆腐圆子、小锅凉粉、白糖饺、水晶凉粉、烤肉串、腊肉血豆腐、荞凉粉、安酒等。
-波波糖、安顺荞凉粉、安顺裹卷、鸡肉饼、黄平牛肉干、一品大包、碗耳糕、
+旧州鸡辣子,素剪粉,干鸡块粉面,松糕卜粉,伍仁冲冲糕,裹卷,破酥包子,豆腐圆子,小锅凉粉,白糖饺,水晶凉粉,烤肉串,腊肉血豆腐,荞凉粉,安酒等,
+波波糖,安顺荞凉粉,安顺裹卷,鸡肉饼,黄平牛肉干,一品大包,碗耳糕,安顺波波糖,
  * 
 波波糖、安顺荞凉粉、安顺裹卷、鸡肉饼、黄平牛肉干、一品大包、碗耳糕等
 旧州鸡辣子、素剪粉、干鸡块粉面、松糕卜粉、伍仁冲冲糕、裹卷、破酥包子、豆腐圆子、小锅凉粉、白糖饺、水晶凉粉、烤肉串、腊肉血豆腐、荞凉粉、安酒等。
@@ -26,6 +26,8 @@ export const anshunFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -81,6 +83,8 @@ export const anshunFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

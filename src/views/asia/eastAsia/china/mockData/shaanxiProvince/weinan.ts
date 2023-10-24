@@ -2,18 +2,7 @@
  * 陕西-渭南市-特产美食
  * 
  * 
- * 麻食泡
-潼关酱笋
-踅面
-琼锅糖
-潼关酱菜
-荞面煎饼
-八宝肉辣子
-富平太后饼
-流曲琼锅糖
-渭南时辰包子
-韩城十三花
-水晶饼、富平柿饼、金丝蜜枣、月牙饼、白水杜康酒、同州西瓜、临渭葡萄、赤水大葱、蒲城酥梨、椽头蒸馍、水盆羊肉、时辰包子、豆腐泡馍、蒲城焰火、合阳踅面、潼关肉夹馍、潼关酱菜、荞面饸饹、澄城麦子泡等。
+* 麻食泡,潼关酱笋,踅面,琼锅糖,潼关酱菜,荞面煎饼,八宝肉辣子,富平太后饼,流曲琼锅糖,渭南时辰包子,韩城十三花,水晶饼,富平柿饼,金丝蜜枣,月牙饼,白水杜康酒,同州西瓜,临渭葡萄,赤水大葱,蒲城酥梨,椽头蒸馍,水盆羊肉,时辰包子,豆腐泡馍,蒲城焰火,合阳踅面,潼关肉夹馍,潼关酱菜,荞面饸饹,澄城麦子泡等,
 
  * 
  * 
@@ -62,6 +51,8 @@ export const weinanFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -117,6 +108,8 @@ export const weinanFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

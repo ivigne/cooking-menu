@@ -2,21 +2,7 @@
  * 山东-济南市-特产美食
  * 
  * 
-甜煎饼、田螺、包子、锅贴、羊汤、烤地瓜、烧烤、买卖茶
-泉城大包
-名士多烤全羊
-黄家烤肉
-天天炸鸡
-奶汤蒲菜
-油旋
-烧烤
-糖醋黄河鲤鱼
-济南甜沫
-草包包子
-胡庄玫瑰花球
-玉皇庙豆腐皮
-糖酥煎饼
-宋楼火烧
+甜煎饼,田螺,包子,锅贴,羊汤,烤地瓜,烧烤,买卖茶,泉城大包,名士多烤全羊,黄家烤肉,天天炸鸡,奶汤蒲菜,油旋,烧烤,糖醋黄河鲤鱼,济南甜沫,草包包子,胡庄玫瑰花球,玉皇庙豆腐皮,糖酥煎饼,宋楼火烧,
 
  * 
  * 
@@ -73,6 +59,8 @@ export const jinanFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -128,6 +116,8 @@ export const jinanFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,36 +1,8 @@
 /**
  * 陕西-咸阳市-特产美食
  * 
- * 
- * 馇酥
-永寿油汤面
-三原白封肉
-武功镇旗花面
-乾州锅盔
-乾县挂面
-三原蓼花糖
-让饸
-乾州鸡面
-兴平醪糟
-长武锅盔
-旬邑花馍
-旬邑喜菜
-彬州麻花
-兴平老王家醪糟
-武功镇饸咯面
-咸阳琥珀糖
-长武血条汤
-乾州豆腐脑
-永寿安宫桥大麻花
-永寿槐花蜜
-泡泡油糕
-彬县荞麦凉粉
-御面
-永寿热镜糕
-长武烧鸡
-酒枣
-泾阳凉皮
-长武水豆腐
+ * 馇酥,永寿油汤面,三原白封肉,武功镇旗花面,乾州锅盔,乾县挂面,三原蓼花糖,让饸,乾州鸡面,兴平醪糟,长武锅盔,旬邑花馍,旬邑喜菜,彬州麻花,兴平老王家醪糟,武功镇饸咯面,咸阳琥珀糖,长武血条汤,乾州豆腐脑,永寿安宫桥大麻花,永寿槐花蜜,泡泡油糕,彬县荞麦凉粉,御面,永寿热镜糕,长武烧鸡,酒枣,泾阳凉皮,长武水豆腐,
+
 
  * 
  * 
@@ -115,6 +87,8 @@ export const xianyangFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -170,6 +144,8 @@ export const xianyangFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

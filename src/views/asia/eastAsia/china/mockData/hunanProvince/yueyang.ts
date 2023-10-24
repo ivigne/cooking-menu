@@ -2,23 +2,8 @@
  * 湖南-岳阳市-特产美食
  * 
  * 
- * 平江酱干
-麻辣野鸭
-南江黄鳝面
-龙窖酱菜
-平江炸肉
-巴陵全鱼席
-翠竹粉蒸鱼
-岳阳三蒸
-君山银针鸡片
-蝴蝶飘海
-湘北田螺
-洞庭金龟
-洞庭银鱼
-龙窖腐乳
-醋水豆腐
-汨罗粽子
-岳阳王鸽
+* 平江酱干,麻辣野鸭,南江黄鳝面,龙窖酱菜,平江炸肉,巴陵全鱼席,翠竹粉蒸鱼,岳阳三蒸,君山银针鸡片,蝴蝶飘海,湘北田螺,洞庭金龟,洞庭银鱼,龙窖腐乳,醋水豆腐,汨罗粽子,岳阳王鸽,
+
 
  * 
  * 
@@ -75,6 +60,8 @@ export const yueyangFoodsList = [
     cuisineCategoryName: '湘菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -130,6 +117,8 @@ export const yueyangFoodsList = [
     cuisineCategoryName: '湘菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

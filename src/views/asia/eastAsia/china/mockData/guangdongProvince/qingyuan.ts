@@ -2,11 +2,7 @@
  * 广东省-清远市-特产美食
  * 
  * 
-猪肚鸡、白切清远鸡、吊烧清远鸡、母鹅煲、母鸡煲、刀切糍、艾糍、洲心烧肉、洲心大粥
-全菇宴、全羊宴、全鹿宴、石潭豉油鸡、浸潭豆腐、浸潭山坑鱼仔、浸潭山坑螺、清远麻鸡
-白切阳山鸡、麦羹（即玉米羹）
-白切狗、瑶胞糍、狗脑煲、连州花肠、酿田螺、东陂水角、酸辣豆角干、黄茅粽等
-擂茶粥、卷筒糍、大湾菜包、东乡蒸肉等
+猪肚鸡,白切清远鸡,吊烧清远鸡,母鹅煲,母鸡煲,刀切糍,艾糍,洲心烧肉,洲心大粥,全菇宴,全羊宴,全鹿宴,石潭豉油鸡,浸潭豆腐,浸潭山坑鱼仔,浸潭山坑螺,清远麻鸡,白切阳山鸡,麦羹（即玉米羹）,白切狗,瑶胞糍,狗脑煲,连州花肠,酿田螺,东陂水角,酸辣豆角干,黄茅粽等,擂茶粥,卷筒糍,大湾菜包,东乡蒸肉
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -26,6 +22,8 @@ export const qingyuanFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -81,6 +79,8 @@ export const qingyuanFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

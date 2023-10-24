@@ -1,27 +1,8 @@
 /**
  * 湖北-宜昌市-特产美食
  * 
-三峡苕酥、金箍条
-凉虾
-萝卜饺子
-凉拌鱼腥草
-香辣虾
-合渣
-三峡苕酥
-土家腊肉
-远安冲菜
-土家蒸肉
-踏豆饼
-干烧铜鱼
-顶顶糕
-炕洋芋
-油脆
-夷陵春卷
-萝卜饺子
-鸡泥桃花鱼
-冰凉糕
-宜昌三游神仙鸡
-峡口明珠汤
+三峡苕酥,金箍条,凉虾,萝卜饺子,凉拌鱼腥草,香辣虾,合渣,三峡苕酥,土家腊肉,远安冲菜,土家蒸肉,踏豆饼,干烧铜鱼,顶顶糕,炕洋芋,油脆,夷陵春卷,萝卜饺子,鸡泥桃花鱼,冰凉糕,宜昌三游神仙鸡,峡口明珠汤,
+
 
  * 
  * 
@@ -91,6 +72,8 @@ export const yichangFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -146,6 +129,8 @@ export const yichangFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

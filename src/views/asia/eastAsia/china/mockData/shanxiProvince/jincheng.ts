@@ -1,23 +1,8 @@
 /**
  * 山西-晋城市-特产美食
  * 泽州馔面、沁水饸饹、阳城杂割、陵川面羊、阳城肉罐肉、
- * 晋城十大碗
-炒凉粉儿、蒸槐花
-清汤饸饹
-大米过油肉
-烫面饺
-毛头丸
-素氽汤
-巴公烧大葱
-阳城烧肝
-高平烧豆腐
-陵川党参炖土鸡
-王府八八筵
-阳城烧肝
-晋城烧大葱
-卷白馍
-烧三鲜
-白起肉
+* 泽州馔面,沁水饸饹,阳城杂割,陵川面羊,阳城肉罐肉,* 晋城十大碗,炒凉粉儿,蒸槐花,清汤饸饹,大米过油肉,烫面饺,毛头丸,素氽汤,巴公烧大葱,阳城烧肝,高平烧豆腐,陵川党参炖土鸡,王府八八筵,阳城烧肝,晋城烧大葱,卷白馍,烧三鲜,白起肉,
+
 
  * 
  * 
@@ -85,6 +70,8 @@ export const jinchengFoodsList = [
     cuisineCategoryName: '晋菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -140,6 +127,8 @@ export const jinchengFoodsList = [
     cuisineCategoryName: '晋菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

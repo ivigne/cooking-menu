@@ -1,21 +1,8 @@
 /**
  * 江苏-盐城市-特产美食
  * 
- * 建湖藕粉圆子
-白炖鲻鱼
-烩素鱼皮
-奇园蟹黄包
-首乌糕
-四鳃鲈鱼
-阜宁大糕
-大纵湖醉蟹
-葛武嫩姜片
-东台鱼汤面
-生炝条虾
-东台西瓜
-弶港醉螺
-叉烤野鸡片
-盐城草炉饼
+* 建湖藕粉圆子,白炖鲻鱼,烩素鱼皮,奇园蟹黄包,首乌糕,四鳃鲈鱼,阜宁大糕,大纵湖醉蟹,葛武嫩姜片,东台鱼汤面,生炝条虾,东台西瓜,弶港醉螺,叉烤野鸡片,盐城草炉饼,
+
 
  * 
  * 
@@ -68,6 +55,8 @@ export const yanchengFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -123,6 +112,8 @@ export const yanchengFoodsList = [
     cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

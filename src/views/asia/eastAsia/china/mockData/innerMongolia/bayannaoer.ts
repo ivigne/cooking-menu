@@ -1,34 +1,7 @@
 /**
  * 内蒙古自治区-巴彦淖尔市-特产美食
- * 
-烤全羊
-黄河开河鱼
-油糕
-猪肉烩酸菜
-河套面精
-扒肉条
-炖笨鸡
-黄河全鱼宴
-手扒肉
-活倒肚
-猪肉烩菜
-酸蔓菁
-全羊席
-蒙古八珍
-成吉思汗火锅
-猪肉勾鸡
-炖开河小鲫鱼
-猪排炖干豆角
-笨鸡蘸素糕
-腌猪肉炒山药介介
-糜米酸饭
-芥兰豆腐酥
-玫瑰蔬菜球
-烧美
-酥鸡
-丸子、
-黄焖羊肉
-河套酿皮
+烤全羊,黄河开河鱼,油糕,猪肉烩酸菜,河套面精,扒肉条,炖笨鸡,黄河全鱼宴,手扒肉,活倒肚,猪肉烩菜,酸蔓菁,全羊席,蒙古八珍,成吉思汗火锅,猪肉勾鸡,炖开河小鲫鱼,猪排炖干豆角,笨鸡蘸素糕,腌猪肉炒山药介介,糜米酸饭,芥兰豆腐酥,玫瑰蔬菜球,烧美,酥鸡,丸子,黄焖羊肉,河套酿皮,
+
  * 
  * 
  * 
@@ -82,6 +55,8 @@ export const bayannaoerFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -137,6 +112,8 @@ export const bayannaoerFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

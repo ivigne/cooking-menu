@@ -2,19 +2,7 @@
  * 陕西-宝鸡市-特产美食
  * 
  * 
- * 豆花泡馍
-西府扯面
-岐山臊子面
-搅团
-擀面皮
-陇县马蹄酥
-岐山醋粉
-岐山烙面皮
-岐山面
-凤县浆水面
-臊子面
-凤翔腊驴腿
-岐山空心挂面
+* 豆花泡馍,西府扯面,岐山臊子面,搅团,擀面皮,陇县马蹄酥,岐山醋粉,岐山烙面皮,岐山面,凤县浆水面,臊子面,凤翔腊驴腿,岐山空心挂面,
 
  * 
  * 
@@ -67,6 +55,8 @@ export const baojiFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -122,6 +112,8 @@ export const baojiFoodsList = [
     cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

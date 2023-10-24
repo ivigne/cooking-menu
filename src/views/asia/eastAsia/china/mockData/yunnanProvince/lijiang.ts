@@ -1,26 +1,7 @@
 /**
  * 云南-丽江市-特产美食
  * 
- * 
-酥油茶
-米灌肠
-鸡炖豆腐
-吹猪肝
-纳西火锅
-野山药火腿鸡
-腌酸鱼
-烟熏鱼
-苦荞粑粑
-纳西饭谱
-纳西汤谱
-纳西茶谱
-永胜油茶
-土鸡米线
-冰粉凉宵
-丽江腊排骨火锅
-三川火腿
-牦牛火锅
-丽江粑粑、酥油茶、鸡豆凉粉、永胜油茶、腊排骨、纳西烤鱼、米灌肠、黄豆面、丽江三文鱼、琵琶肉
+ 酥油茶,米灌肠,鸡炖豆腐,吹猪肝,纳西火锅,野山药火腿鸡,腌酸鱼,烟熏鱼,苦荞粑粑,纳西饭谱,纳西汤谱,纳西茶谱,永胜油茶,土鸡米线,冰粉凉宵,丽江腊排骨火锅,三川火腿,牦牛火锅,丽江粑粑,酥油茶,鸡豆凉粉,永胜油茶,腊排骨,纳西烤鱼,米灌肠,黄豆面,丽江三文鱼,琵琶肉,
 
  * 
  * 
@@ -76,6 +57,8 @@ export const lijiangFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -131,6 +114,8 @@ export const lijiangFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

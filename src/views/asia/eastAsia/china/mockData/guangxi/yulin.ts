@@ -1,16 +1,7 @@
 /**
  * 广西-玉林市-特产美食
  * 
- * 玉林牛巴
-鲜虾肠粉
-玉林牛腩粉
-海鲜大肉田螺
-桂花银虾饺
-手撕牛肉
-玉林肉蛋
-酥肉地豆
-鲍鱼酥
-
+ * 玉林牛巴, 鲜虾肠粉, 玉林牛腩粉, 海鲜大肉田螺, 桂花银虾饺, 手撕牛肉, 玉林肉蛋, 酥肉地豆, 鲍鱼酥, 玉林云吞,玉林酸料,
  * 
 玉林牛巴
 玉林牛巴，广西壮族自治区玉林市特产，中国国家地理标志产品。南宋时，玉林牛巴始制，已有800多年前的加工历史；玉林牛巴颜色半透明，色似咖啡，油亮，香味浓郁，咸甜适口，鲜美爽口，韧而不坚，具有“甘香味道妙”的特点，是玉林最负盛名的传统特色风味小吃。2011年7月6日，原国家质检总局批准对“玉林牛巴”实施地理标志产品保护。
@@ -49,6 +40,8 @@ export const yulinFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -104,6 +97,8 @@ export const yulinFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

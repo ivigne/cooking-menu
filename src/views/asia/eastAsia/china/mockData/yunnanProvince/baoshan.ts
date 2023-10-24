@@ -2,22 +2,7 @@
  * 云南-保山市-特产美食
  * 
  * 
- * 头脑“锅子”
-永昌板鸭施甸三味
-菜花腌菜伴蜂仔
-油炸撒撇“五滴水”
-“口水羹”施甸豆片
-春甜黄酒
-饵丝“透心绿”
-保山大烧
-“大救驾”
-腌菜膏
-山林素席
-下村豆粉
-腾冲果脯
-坛子鸡
-干腌菜、
-  蒲缥甘蔗、腾冲“大救驾”（炒饵块）、腾冲饵丝、保山绿豆、卷粉
+* 头脑锅子,永昌板鸭施甸三味,菜花腌菜伴蜂仔,油炸撒撇五滴水,口水羹施甸豆片,春甜黄酒,饵丝透心绿,保山大烧,大救驾,腌菜膏,山林素席,下村豆粉,腾冲果脯,坛子鸡,干腌菜,蒲缥甘蔗,腾冲大救驾（炒饵块）,腾冲饵丝,保山绿豆,卷粉,
 
  * 
  * 
@@ -136,6 +121,8 @@ export const baoshanFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -191,6 +178,8 @@ export const baoshanFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

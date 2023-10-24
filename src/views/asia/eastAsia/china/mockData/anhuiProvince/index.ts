@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:06:17
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-10-16 18:35:12
+ * @LastEditTime: 2023-10-24 18:13:58
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/anhuiProvince/index.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -22,6 +22,7 @@ import { liuanFoodsList } from './liuan';
 import { bozhouFoodsList } from './bozhou';
 import { chizhouFoodsList } from './chizhou';
 import { xuanchengFoodsList } from './xuancheng';
+import { othersFoodsList } from './others';
 
 export const anHuiFoodsList = [].concat(
   hefeiFoodsList,
@@ -40,4 +41,5 @@ export const anHuiFoodsList = [].concat(
   bozhouFoodsList,
   chizhouFoodsList,
   xuanchengFoodsList,
+  othersFoodsList,
 );

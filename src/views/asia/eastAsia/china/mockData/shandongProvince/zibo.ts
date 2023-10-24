@@ -2,20 +2,7 @@
  * 山东-淄博市-特产美食
  * 
  * 
- * 道口咸菜
-软烧豆腐
-金丝鸭蛋
-箱中藏宝
-周村烧饼
-博山酥锅
-豆腐箱
-博山烤肉
-博山粥
-博山炸肉
-酥鱼锅
-欢喜团子
-淄川肉烧饼
-周村煮锅
+* 道口咸菜,软烧豆腐,金丝鸭蛋,箱中藏宝,周村烧饼,博山酥锅,豆腐箱,博山烤肉,博山粥,博山炸肉,酥鱼锅,欢喜团子,淄川肉烧饼,周村煮锅,
 
  * 
  * 
@@ -66,6 +53,8 @@ export const ziboFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -121,6 +110,8 @@ export const ziboFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -2,15 +2,7 @@
  * 云南-大理白族自治州-特产美食
  * 
  * 
- * 剑川八大碗
-大理酸辣鱼
-乳扇
-生皮
-喜洲破酥粑粑
-大理酸辣鱼
-雕梅扣肉
-火烧猪肉
-乳扇、河水煮活鱼、洱海海菜、耙肉饵丝、烧饵块、弥渡卷蹄、银鱼、生皮
+  * 剑川八大碗,大理酸辣鱼,乳扇,生皮,喜洲破酥粑粑,大理酸辣鱼,雕梅扣肉,火烧猪肉,乳扇,河水煮活鱼,洱海海菜,耙肉饵丝,烧饵块,弥渡卷蹄,银鱼,生皮,
 
  * 
  * 
@@ -53,6 +45,8 @@ export const daliFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -108,6 +102,8 @@ export const daliFoodsList = [
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,10 +1,7 @@
 /**
  * 河北-雄安新区-特产美食
  * 
- * 白洋淀全鱼宴
-小虾糊饼
-荷香莲子鸡
-鱼鳞冻、灶台铁锅炖鱼、熏鱼、河蟹、红心老腌蛋、小虾糊饼、炸千子、白洋淀炒鱼片，风味类有炸荷花、炸藕夹、凉拌荷叶芽、容城绿芦笋
+ * 白洋淀全鱼宴,小虾糊饼,荷香莲子鸡,鱼鳞冻,灶台铁锅炖鱼,熏鱼,河蟹,红心老腌蛋,小虾糊饼,炸千子,白洋淀炒鱼片,风味类有炸荷花,炸藕夹,凉拌荷叶芽,容城绿芦笋,
 
  * 
  * 
@@ -36,6 +33,8 @@ export const xionganFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -91,6 +90,8 @@ export const xionganFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

@@ -1,29 +1,6 @@
 /**
  * 广东省-江门市-特产美食
- * 古井烧鹅
-台山黄鳝饭
-五味鹅
-冰镇凉瓜
-陈皮骨
-陈皮猪手
-开平煲仔饭
-鲫鱼粥 [128]
-陈皮水鸭汤 [129]
-簕菜鲫鱼汤 [130]
-恩平焖鹅
-鹤山糍汤 [131]
-外海花生饼
-恩平濑粉
-恩平粘米角
-豆角糍、
-牛脚皮、
-江门凉粉、
-荷塘冲菜
-古井烧鹅
-江门排粉
-水口腐乳
-外海面
-外海花生饼
+* 古井烧鹅,台山黄鳝饭,五味鹅,冰镇凉瓜,陈皮骨,陈皮猪手,开平煲仔饭,鲫鱼粥,陈皮水鸭汤,簕菜鲫鱼汤,恩平焖鹅,鹤山糍汤,外海花生饼,恩平濑粉,恩平粘米角,豆角糍,牛脚皮,江门凉粉,荷塘冲菜,古井烧鹅,江门排粉,水口腐乳,外海面,外海花生饼,
 
 特色美食
 古井烧鹅
@@ -75,6 +52,8 @@ export const jiangmenFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -130,6 +109,8 @@ export const jiangmenFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

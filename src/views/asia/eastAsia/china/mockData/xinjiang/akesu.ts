@@ -4,7 +4,7 @@
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/xinjiang/akesu.ts
  * @Description:
  *
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ * Copyright (c) 2023 by ${git_name_email},All Rights Reserved.
  */
 /**
  * 新疆维吾尔自治区-阿克苏地区-特产美食

@@ -1,31 +1,7 @@
 /**
  * 甘肃-酒泉市-特产美食
-油塔子
-油老鼠
-甜水面
-油馃子
-锅盔
-甜米黄
-灶干粮子
-热糕油饼子
-酿皮子
-凉粉
-热豆粉
-蒸粉
-素面筋
-荤面筋
-糊锅
-泡饺子
-脂裹
-羊杂碎汤
-腊羊肉
-腊牛肉
-烧葫芦
-麦索子
-碾珍子
-焖饼子 
-
-*/
+ * 油塔子,油老鼠,甜水面,油馃子,锅盔,甜米黄,灶干粮子,热糕油饼子,酿皮子,凉粉,热豆粉,蒸粉,素面筋,荤面筋,糊锅,泡饺子,脂裹,羊杂碎汤,腊羊肉,腊牛肉,烧葫芦,麦索子,碾珍子,焖饼子,
+ */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const jiuquanFoodsList = [
@@ -44,6 +20,8 @@ export const jiuquanFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -99,6 +77,8 @@ export const jiuquanFoodsList = [
     cuisineCategoryName: '西北菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

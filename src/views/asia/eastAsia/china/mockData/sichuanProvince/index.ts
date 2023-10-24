@@ -1,10 +1,10 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:06:16
- * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-10-11 15:53:19
- * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/fujianProvince/index.ts
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2023-10-24 18:13:47
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/sichuanProvince/index.ts
+ * @Description: 这是默认设置,请设置`customMade`,打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 import { abaFoodsList } from './aba';
 import { bazhongFoodsList } from './bazhong';
@@ -27,6 +27,7 @@ import { yaanFoodsList } from './yaan';
 import { yibinFoodsList } from './yibin';
 import { zigongFoodsList } from './zigong';
 import { ziyangFoodsList } from './ziyang';
+import { othersFoodsList } from './others';
 
 export const siChuanFoodsList = [].concat(
   abaFoodsList,
@@ -50,4 +51,5 @@ export const siChuanFoodsList = [].concat(
   yibinFoodsList,
   zigongFoodsList,
   ziyangFoodsList,
+  othersFoodsList,
 );

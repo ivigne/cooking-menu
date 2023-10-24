@@ -1,22 +1,6 @@
 /**
  * 湖北-咸宁市-特产美食
- * 
-咸宁桂花糕、嘉鱼麻糖、鸡蛋麻花、
-赤壁肉糕
-贺胜鸡汤
-通山包砣
-牌洲圆子
-咸安合菜面
-麦市干子
-咸宁宝塔肉
-赤壁肉糕
-通山腊肉
-嘉鱼麻糖
-嘉鱼藕夹子
-嘉鱼麻花
-簰洲圆子
-鄂南糍粑
-崇阳麻花
+咸宁桂花糕,嘉鱼麻糖,鸡蛋麻花,赤壁肉糕,贺胜鸡汤,通山包砣,牌洲圆子,咸安合菜面,麦市干子,咸宁宝塔肉,赤壁肉糕,通山腊肉,嘉鱼麻糖,嘉鱼藕夹子,嘉鱼麻花,簰洲圆子,鄂南糍粑,崇阳麻花,
 
 
  * 
@@ -76,6 +60,8 @@ export const xianningFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -131,6 +117,8 @@ export const xianningFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

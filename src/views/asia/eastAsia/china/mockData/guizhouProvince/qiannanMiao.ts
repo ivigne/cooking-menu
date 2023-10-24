@@ -1,21 +1,7 @@
 /**
  * 贵州-黔东南苗族侗族自治州-特产美食
  * 
- * 阴辣椒、凉拌折耳根、漤菜、酸大肠等
-荞灰豆腐、荷叶粑、罗甸花米饭等
-榕江卷粉
-锦屏腌鱼
-镇远陈年道菜
-苗乡酸汤鱼饺
-侗家腌鱼
-施秉绿豆粉
-岑巩灰碱粑
-凯里红酸汤
-
- * 
-阴辣椒、凉拌折耳根、漤菜、酸大肠等
-荞灰豆腐、荷叶粑、罗甸花米饭等
-
+* 阴辣椒,凉拌折耳根,漤菜,酸大肠等,荞灰豆腐,荷叶粑,罗甸花米饭,榕江卷粉,锦屏腌鱼,镇远陈年道菜,苗乡酸汤鱼饺,侗家腌鱼,施秉绿豆粉,岑巩灰碱粑,凯里红酸汤,罗甸荞灰豆腐,
 榕江卷粉
 榕江卷粉外型好像一颗软绵省绵的小枕头。吃卷粉也有热冷两种吃法,口感各有不同。
 锦屏腌鱼
@@ -51,6 +37,8 @@ export const qiannanMiaoFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -106,6 +94,8 @@ export const qiannanMiaoFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

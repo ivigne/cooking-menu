@@ -1,7 +1,6 @@
 /**
  * 甘肃-白银市-特产美食
- * 白银传统美食主要有大肉面、酸烂肉、金丝饼、水川长面、靖远羊羔肉、东湾驴肉、搅团、黄米糁饭、扁豆面、麻腐包子等。
- * 大肉面、酸烂肉、金丝饼、水川长面、靖远羊羔肉、东湾驴肉、搅团、黄米糁饭、扁豆面、麻腐包子
+ * 大肉面,酸烂肉,金丝饼,水川长面,靖远羊羔肉,东湾驴肉,搅团,黄米糁饭,扁豆面,麻腐包子,
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';

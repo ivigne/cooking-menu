@@ -1,31 +1,7 @@
 /**
  * 浙江-杭州市-特产美食
  * 
- * 
- * 八宝童鸡
-西湖醋鱼
-杭州卤鸭
-粢毛肉圆
-萧山萝卜干
-千岛湖红烧鱼头
-葱包桧儿
-叫花童鸡
-鱼头浓汤
-糟鸡
-一品南乳肉
-
-蟹酿橙
-火腿蚕豆
-红烧卷鸡
-港汇笋尖虾皇饺
-西湖藕粥
-火蒙鞭笋
-
-春笋步鱼
-宋嫂鱼羹
-栗子炒子鸡
-龙井虾仁
-钱江肉丝
+* 八宝童鸡,西湖醋鱼,杭州卤鸭,粢毛肉圆,萧山萝卜干,千岛湖红烧鱼头,葱包桧儿,叫花童鸡,鱼头浓汤,糟鸡,一品南乳肉,蟹酿橙,火腿蚕豆,红烧卷鸡,港汇笋尖虾皇饺,西湖藕粥,火蒙鞭笋,春笋步鱼,宋嫂鱼羹,栗子炒子鸡,龙井虾仁,钱江肉丝,杭州老鸭煲,杭州虾爆鳝面,
 
  * 
  * 
@@ -96,6 +72,8 @@ export const hangzhouFoodsList = [
     cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -151,6 +129,8 @@ export const hangzhouFoodsList = [
     cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

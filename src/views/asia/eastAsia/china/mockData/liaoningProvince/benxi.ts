@@ -4,7 +4,7 @@
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/liaoningProvince/benxi.ts
  * @Description:
  *
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ * Copyright (c) 2023 by ${git_name_email},All Rights Reserved.
  */
 /**
  * 辽宁-本溪市-特产美食

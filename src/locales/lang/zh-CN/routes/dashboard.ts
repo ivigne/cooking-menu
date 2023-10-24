@@ -1,8 +1,8 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-10-01 10:44:38
- * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2023-08-07 17:22:59
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2023-10-23 10:24:56
  * @FilePath: /cooking-menu/src/locales/lang/zh-CN/routes/dashboard.ts
  * @Description:
  *
@@ -13,5 +13,4 @@ export default {
   about: '关于',
   workbench: '工作台',
   analysis: '分析页',
-  randomOrder: '随机点菜',
 };

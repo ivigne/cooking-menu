@@ -4,33 +4,8 @@
  * 
  * 
  * 
-哈达火烧
-对夹
-宁城老窖酒
-达里湖华子鱼
-锅包肉
-草原肉饼
-哈达饼
-鹿系补品
-红烧牛尾
-红烧牛蹄筋
-干炸华子鱼
-干炒辣椒皮
-敖汉杏仁乳
-喀旗马奶酒
-赤峰啤酒
-白蘑
-沙棘饮料
-厥菜
-黄花
-哈拉海
-排骨蒸饺
-风干牛肉
-山杏仁
-火锅
-烤羊背
-敖汉拨面
-糟米咯咯豆
+哈达火烧,对夹,宁城老窖酒,达里湖华子鱼,锅包肉,草原肉饼,哈达饼,鹿系补品,红烧牛尾,红烧牛蹄筋,干炸华子鱼,干炒辣椒皮,敖汉杏仁乳,喀旗马奶酒,赤峰啤酒,白蘑,沙棘饮料,厥菜,黄花,哈拉海,排骨蒸饺,风干牛肉,山杏仁,火锅,烤羊背,敖汉拨面,糟米咯咯豆,
+
  */
 import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -50,6 +25,8 @@ export const chifengFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -105,6 +82,8 @@ export const chifengFoodsList = [
     cuisineCategoryName: '蒙菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

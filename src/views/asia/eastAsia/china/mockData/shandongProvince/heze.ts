@@ -3,33 +3,7 @@
  * 
  * 
  * 菏泽风味小吃
-单县羊肉汤
-水煎包
-曹州烧饼
-曹县烧牛肉
-芝麻糖
-郓城壮馍
-东明香肚
-成武酱大头
-单县馓子
-面泡子
-什集烧羊肉
-皮家烧鸡
-胡辣汤
-谢集罐子汤
-黄河鲤鱼
-牡丹饼
-巨野罐子汤
-皮家烧鸡
-黄安驴肉
-曹县烧饼
-糖果饯
-耿饼
-成武酱大头
-左营绿豆丸子
-单县羊肉汤
-百寿坊羊肉汤
-郓城壮馍
+单县羊肉汤,水煎包,曹州烧饼,曹县烧牛肉,芝麻糖,郓城壮馍,东明香肚,成武酱大头,单县馓子,面泡子,什集烧羊肉,皮家烧鸡,胡辣汤,谢集罐子汤,黄河鲤鱼,牡丹饼,巨野罐子汤,皮家烧鸡,黄安驴肉,曹县烧饼,糖果饯,耿饼,成武酱大头,左营绿豆丸子,单县羊肉汤,百寿坊羊肉汤,郓城壮馍,
 
  * 
 菏泽风味小吃
@@ -90,6 +64,8 @@ export const hezeFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -145,6 +121,8 @@ export const hezeFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

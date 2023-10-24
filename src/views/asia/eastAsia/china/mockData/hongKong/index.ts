@@ -4,17 +4,13 @@
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/hongKong/index.ts
  * @Description:
  *
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ * Copyright (c) 2023 by ${git_name_email},All Rights Reserved.
  */
 /**
  * 香港特别行政区-香港特别行政区-特产美食
  * 
- * 年糕、粽子、鱼蛋、蛋挞、小桃酥、杏仁饼、盲公饼、鸡仔饼、小椰堆、花生饼、芝麻饼、相思酥、棋子饼、炒米饼、格子饼、花生糖、袋仔面、鸡蛋仔、花生豆、南乳香酥角
-  九记牛腩
-杨枝甘露
-酥皮蛋挞
-鸳鸯奶茶
-丝袜奶茶
+* 年糕,粽子,鱼蛋,蛋挞,小桃酥,杏仁饼,盲公饼,鸡仔饼,小椰堆,花生饼,芝麻饼,相思酥,棋子饼,炒米饼,格子饼,花生糖,袋仔面,鸡蛋仔,花生豆,南乳香酥角,九记牛腩,杨枝甘露,酥皮蛋挞,鸳鸯奶茶,丝袜奶茶,
+
 * 
  * 
 流行于民间的传统食品一直扎根香港，如年糕、粽子、鱼蛋、蛋挞、小桃酥、杏仁饼、盲公饼、鸡仔饼、小椰堆、花生饼、芝麻饼、相思酥、棋子饼、炒米饼、格子饼、花生糖、袋仔面、鸡蛋仔、花生豆、南乳香酥角等
@@ -48,6 +44,8 @@ export const hongKongFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -103,6 +101,8 @@ export const hongKongFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

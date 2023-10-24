@@ -1,14 +1,7 @@
 /**
  * 浙江-衢州市-特产美食
  * 
- * 衢州烤饼、衢州麻饼、八宝菜、龙游米糊、龙游开洋豆腐干、龙游发糕、毛豆腐、衢州油炸果、山粉肉、开化青蛳、开化焙糕、常山胡柚、菱角豆腐、开化板栗、高家萝卜丝、衢州椪柑、衢州柑橘、衢红桔、双桥粉干、常山索面。
-龙游发糕
-开化汽糕
-开化青蛳
-衢式月饼
-常山醅糕
-廿八都铜锣糕
-
+* 衢州烤饼,衢州麻饼,八宝菜,龙游米糊,龙游开洋豆腐干,龙游发糕,毛豆腐,衢州油炸果,山粉肉,开化青蛳,开化焙糕,常山胡柚,菱角豆腐,开化板栗,高家萝卜丝,衢州椪柑,衢州柑橘,衢红桔,双桥粉干,常山索面,开化汽糕,衢式月饼,常山醅糕,廿八都铜锣糕
  * 
  * 
  * 
@@ -48,6 +41,8 @@ export const quzhouFoodsList = [
     cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -103,6 +98,8 @@ export const quzhouFoodsList = [
     cuisineCategoryName: '浙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

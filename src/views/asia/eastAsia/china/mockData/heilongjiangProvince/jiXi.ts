@@ -1,6 +1,6 @@
 /**
  * 黑龙江-鸡西市-特产美食
- * 鸡西冷面、鸡西辣菜、鸡西刀削面
+* 鸡西冷面,鸡西辣菜,鸡西刀削面,
  * 
 鸡西冷面：鸡西冷面是“中朝合壁”的产物。冷面本是朝鲜族的传统食品，是用荞麦面或小麦面加淀粉加水拌匀，压成圆面条，煮熟后浸以冷水，再去冷水伴牛肉片、辣椒、泡菜、梨或苹果片、酱醋、香油等佐料，加入牛肉汤即成。以前汉族人看到压制冷面的器具是木合子，便称为“盒勒面”。 [19]
 鸡西辣菜：由于吃冷面离不开辣菜，又被称为冷面菜，是由传统朝鲜族辣菜发展来的。朝鲜族原只有白菜等几种辣泡菜（也称京渍），而鸡西冷面菜以辣拌为主，有干豆腐，桔梗，豆腐泡，豆圈、海带丝、海桔梗、黄花菜、干鱼丝、蕨菜、牛肉、猪耳朵，岘子等五十多余种。凡常见的蔬菜、肉类和海鲜均可入菜。
@@ -24,6 +24,8 @@ export const jiXiFoodsList = [
     cuisineCategoryName: '龙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -79,6 +81,8 @@ export const jiXiFoodsList = [
     cuisineCategoryName: '龙江菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

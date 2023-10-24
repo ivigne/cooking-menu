@@ -2,9 +2,9 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:06:16
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-10-17 15:32:28
+ * @LastEditTime: 2023-10-24 18:13:56
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/fujianProvince/index.ts
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @Description: 这是默认设置,请设置`customMade`,打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 import { fuzhouFoodsList } from './fuzhou';
 import { xiamenFoodsList } from './xiamen';
@@ -16,6 +16,7 @@ import { nanpingFoodsList } from './nanping';
 import { longyanFoodsList } from './longyan';
 import { ningdeFoodsList } from './ningde';
 import { pingtanFoodsList } from './pingtan';
+import { othersFoodsList } from './others';
 
 export const fuJianFoodsList = [].concat(
   fuzhouFoodsList,
@@ -28,4 +29,5 @@ export const fuJianFoodsList = [].concat(
   longyanFoodsList,
   ningdeFoodsList,
   pingtanFoodsList,
+  othersFoodsList,
 );

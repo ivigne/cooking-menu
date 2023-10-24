@@ -1,17 +1,7 @@
 /**
  * 广东省-汕尾市-特产美食
  * 
- * 汕尾菜果、
-猪油糖、
-韭菜馃、
-陆河年糕、
-小米、
-牛肉饼、
-菜粿（菜包粿）、
-客家娘酒、
-客家米食、
-烧雁鹅、护国莱、清汤蟹丸、油泡螺球、绉纱甜肉、太极芋泥等名菜。汕尾市的小吃有最有地方特色
-菜粿、糯米丸、尖米丸
+* 汕尾菜果,猪油糖,韭菜馃,陆河年糕,小米,牛肉饼,菜粿（菜包粿）,客家娘酒,客家米食,烧雁鹅,护国莱,清汤蟹丸,油泡螺球,绉纱甜肉,太极芋泥等名菜,汕尾市的小吃有最有地方特色,菜粿,糯米丸,尖米丸,
 
  * 
  * 
@@ -53,6 +43,8 @@ export const shanweiFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -108,6 +100,8 @@ export const shanweiFoodsList = [
     cuisineCategoryName: '粤菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

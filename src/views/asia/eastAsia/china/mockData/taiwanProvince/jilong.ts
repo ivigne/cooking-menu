@@ -1,13 +1,8 @@
 /**
  * 台湾-基隆市-特产美食
  * 
- * 鼎边锉
-庙口小吃可以说是基隆的代表作，民间都说，“到基隆不吃庙口小吃，等于没到过基隆”。“
-天妇罗”、“鼎边锉”、“一口吃香肠
-豆签羹、八宝冬粉、营养三明治、泡泡冰
-泡泡冰、三兄弟豆花
-天妇罗（甜不辣）
-卞家牛肉面、虾冰蟹酱、
+* 鼎边锉,庙口小吃可以说是基隆的代表作,民间都说,到基隆不吃庙口小吃,于没到过基隆,天妇罗,鼎边锉,一口吃香肠,豆签羹,八宝冬粉,营养三明治,泡泡冰,泡泡冰,三兄弟豆花,天妇罗（甜不辣）,卞家牛肉面,虾冰蟹酱,鲁肉饼,鸳鸯饼,腰果五仁饼,凤梨酥,芋泥饼,凉糕,水晶饼,沙西饼,口酥,
+
  * 
  * 
  * 
@@ -43,6 +38,8 @@ export const jilongFoodsList = [
     cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -98,6 +95,8 @@ export const jilongFoodsList = [
     cuisineCategoryName: '闽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

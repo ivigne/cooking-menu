@@ -1,7 +1,7 @@
 /**
  * 广西-河池市-特产美食
  * 
- * 烤香猪、五色饭、都安生榨粉、龙岸菜包、七百弄鸡、瑶寨五香熏鱼
+* 烤香猪,五色饭,都安生榨粉,龙岸菜包,七百弄鸡,瑶寨五香熏鱼,
  * 
 01.烤香猪
 这是来自毛南族的传统美食哦。香猪的全名是环江香猪，产自环江县东兴乡、明伦乡。香猪的发源地就是在这里。由于这里有独特的禾草，是专门用来烤香猪的，所以除了本地外，其他地方的烤香猪都远没有其正宗。
@@ -43,6 +43,8 @@ export const hechiFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -98,6 +100,8 @@ export const hechiFoodsList = [
     cuisineCategoryName: '桂菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

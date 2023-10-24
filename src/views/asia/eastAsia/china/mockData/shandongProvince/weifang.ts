@@ -1,16 +1,7 @@
 /**
  * 山东-潍坊市-特产美食
-鸡鸭和乐
-红扒羊头
-潍城火烧
-东方琵琶鸭
-潍城烧饼
-绿豆糕
-马宋饼
-临朐全羊宴
-朝天锅
-芝畔烧肉
-潍县萝卜
+鸡鸭和乐,红扒羊头,潍城火烧,东方琵琶鸭,潍城烧饼,绿豆糕,马宋饼,临朐全羊宴,朝天锅,芝畔烧肉,潍县萝卜,
+
 
 
 */
@@ -32,6 +23,8 @@ export const weifangFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -87,6 +80,8 @@ export const weifangFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

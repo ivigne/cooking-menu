@@ -1,17 +1,7 @@
 /**
  * 湖北-恩施土家族苗族自治州-特产美食
  * 
-张关合渣、土家十大碗、洋芋粑粑、土家油茶汤、
- 鲊广椒炒腊肉
-公婆饼
-大派火腿
-榨辣椒
-腊肉土豆片
-张关合渣
-土家十大碗
-柏杨豆干
-宣恩火腿
-油香儿
+张关合渣,土家十大碗,洋芋粑粑,土家油茶汤,鲊广椒炒腊肉,公婆饼,大派火腿,榨辣椒,腊肉土豆片,张关合渣,土家十大碗,柏杨豆干,宣恩火腿,油香儿,
 
  * 
  * 
@@ -57,6 +47,8 @@ export const enshiFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -112,6 +104,8 @@ export const enshiFoodsList = [
     cuisineCategoryName: '楚菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

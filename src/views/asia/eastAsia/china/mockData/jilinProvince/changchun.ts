@@ -1,7 +1,7 @@
 /**
  * 吉林-长春市-特产美食
  * 
-长春蹄花丝、长春地三鲜、回宝珍饺子、满族八大碗、雪衣豆沙、韭菜烙盒、长春酱肉、翡翠人参茅台鸡、鼎丰真糕点、烧鹿尾、鹿血糕、渍菜白肉火锅、白肉血肠、鸡汤豆腐串
+长春蹄花丝,长春地三鲜,回宝珍饺子,满族八大碗,雪衣豆沙,韭菜烙盒,长春酱肉,翡翠人参茅台鸡,鼎丰真糕点,烧鹿尾,鹿血糕,渍菜白肉火锅,白肉血肠,鸡汤豆腐串,
  * 
 特色名菜：长春蹄花丝、长春地三鲜、回宝珍饺子、满族八大碗、雪衣豆沙、韭菜烙盒、长春酱肉、翡翠人参茅台鸡、鼎丰真糕点、烧鹿尾、鹿血糕、渍菜白肉火锅、白肉血肠、鸡汤豆腐串
  */
@@ -23,6 +23,8 @@ export const changchunFoodsList = [
     cuisineCategoryName: '吉林菜、吉菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -78,6 +80,8 @@ export const changchunFoodsList = [
     cuisineCategoryName: '吉林菜、吉菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

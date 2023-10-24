@@ -1,16 +1,8 @@
 /**
  * 贵州-铜仁市-特产美食
  * 
-江口米豆腐、油香粑、社饭等
-土家灰包豆腐
-思南羊肉粉
-铜仁锅巴粉
-松桃烂糊桥米豆腐
-社饭
-江口米豆腐
-铜仁糍粑
-铜仁社饭
-油炸泡
+江口米豆腐,油香粑,社饭等,土家灰包豆腐,思南羊肉粉,铜仁锅巴粉,松桃烂糊桥米豆腐,社饭,江口米豆腐,铜仁糍粑,铜仁社饭,油炸泡,
+
 
  * 
  * 
@@ -55,6 +47,8 @@ export const tongrenFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -110,6 +104,8 @@ export const tongrenFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

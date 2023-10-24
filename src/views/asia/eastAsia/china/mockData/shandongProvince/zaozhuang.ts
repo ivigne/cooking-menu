@@ -2,12 +2,8 @@
  * 山东-枣庄市-特产美食
  * 
  * 
- * 辣子鸡、菜煎饼、羊肉汤和狗肉、
-黄花牛肉面、薛城糁汤、辣汤、滕州张汪板鸭
-风味小吃
-辣汤
-糁汤
-黄花牛肉面
+* 辣子鸡,菜煎饼,羊肉汤和狗肉,黄花牛肉面,薛城糁汤,辣汤,滕州张汪板鸭,风味小吃,辣汤,糁汤,黄花牛肉面,
+
 
  * 
  * 
@@ -45,6 +41,8 @@ export const zaozhuangFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -100,6 +98,8 @@ export const zaozhuangFoodsList = [
     cuisineCategoryName: '鲁菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

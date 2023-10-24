@@ -1,15 +1,7 @@
 /**
  * 贵州-黔西南布依族苗族自治州-特产美食
  * 
-刷把头、兴义羊肉粉、兴义牛肉粉、鸡肉汤圆、舒记杠子面、聂记凉剪粉、贞丰糯米饭、盒子粑、兴义香酥鸭、三合汤、冲冲糕、邱家鸡蛋糕等
- 安龙凉剪粉
-兴义饵块粑
-兴义羊肉粉
-贞丰糯米饭
-舒家辣子鸡
-晴隆豆沙粑
-兴义刷把头
-鸡肉汤园
+刷把头,兴义羊肉粉,兴义牛肉粉,鸡肉汤圆,舒记杠子面,聂记凉剪粉,贞丰糯米饭,盒子粑,兴义香酥鸭,三合汤,冲冲糕,邱家鸡蛋糕等,安龙凉剪粉,兴义饵块粑,兴义羊肉粉,贞丰糯米饭,舒家辣子鸡,晴隆豆沙粑,兴义刷把头,鸡肉汤园,
 
 * 
 刷把头、兴义羊肉粉、兴义牛肉粉、鸡肉汤圆、舒记杠子面、聂记凉剪粉、贞丰糯米饭、盒子粑、兴义香酥鸭、三合汤、冲冲糕、邱家鸡蛋糕等
@@ -53,6 +45,8 @@ export const qianxinanBuyiFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -108,6 +102,8 @@ export const qianxinanBuyiFoodsList = [
     cuisineCategoryName: '黔菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点

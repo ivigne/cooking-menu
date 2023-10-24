@@ -1,12 +1,7 @@
 /**
  * 河北-衡水市-特产美食
  * 
- * 饶阳豆腐脑
-武邑扣碗
-饶阳金丝杂面
-故城龙凤贡面
-衡水湖烤鸭蛋
-巨鹿香肠
+* 饶阳豆腐脑,武邑扣碗,饶阳金丝杂面,故城龙凤贡面,衡水湖烤鸭蛋,巨鹿香肠,
 
  * 
 饶阳豆腐脑
@@ -36,6 +31,8 @@ export const hengshuiFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
@@ -91,6 +88,8 @@ export const hengshuiFoodsList = [
     cuisineCategoryName: '冀菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
+    menuCategoryCode: '', // 菜品分类编码
+    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
     cookingTypeCode: 'multiple', // 烹饪类型编码
     cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
     featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
