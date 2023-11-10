@@ -7,10 +7,10 @@
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
 /**
- * 安徽省-铜陵市-特产美食
+ * 安徽省-铜陵市-美食
  * 铜陵酥糖
  */
-import { lampshadedBeefScriptsList } from './tonglingFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './tonglingFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const tonglingFoodsList = [
   // 铜陵酥糖

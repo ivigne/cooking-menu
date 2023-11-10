@@ -1,18 +1,18 @@
 /**
- * 广西-贺州市-特产美食
+ * 广西-贺州市-美食
 牛肠酸
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const hezhouFoodsList = [
-  // 灯影牛肉
+  // 牛肠酸
   {
     province: '广西壮族自治区', // 省
     city: '贺州市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '牛肠酸', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称

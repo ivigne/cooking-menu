@@ -1,9 +1,9 @@
 /**
- * 四川-内江市-特产美食
+ * 四川-内江市-美食
  * 大千鸡块、内江牛肉面、内江炝锅面、王记牛肉干、大千干烧鱼、干烧鲟鳇翅、板板桥油炸粑、极品溢香鸡、连界羊肉汤、
  * 资中兔子面、隆昌羊肉汤、罗泉豆腐、甜城蜜饯、黄老五花生酥
  */
-import { lampshadedBeefScriptsList } from './neijiangFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './neijiangFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const neijiangFoodsList = [
   // 大千鸡块

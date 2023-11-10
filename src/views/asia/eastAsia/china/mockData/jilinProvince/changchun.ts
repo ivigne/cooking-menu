@@ -1,125 +1,485 @@
 /**
- * 吉林-长春市-特产美食
+ * 吉林-长春市-美食
  * 
 长春蹄花丝,长春地三鲜,回宝珍饺子,满族八大碗,雪衣豆沙,韭菜烙盒,长春酱肉,翡翠人参茅台鸡,鼎丰真糕点,烧鹿尾,鹿血糕,渍菜白肉火锅,白肉血肠,鸡汤豆腐串,
- * 
-特色名菜：长春蹄花丝、长春地三鲜、回宝珍饺子、满族八大碗、雪衣豆沙、韭菜烙盒、长春酱肉、翡翠人参茅台鸡、鼎丰真糕点、烧鹿尾、鹿血糕、渍菜白肉火锅、白肉血肠、鸡汤豆腐串
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const changchunFoodsList = [
-  // 灯影牛肉
   {
-    province: '吉林省', // 省
-    city: '长春市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'jilinCuisine', // 菜系编码
-    cuisineCategoryName: '吉林菜、吉菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '长春蹄花丝',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
   {
-    province: '吉林省', // 省
-    city: '长春市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'jilinCuisine', // 菜系编码
-    cuisineCategoryName: '吉林菜、吉菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '长春地三鲜',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '回宝珍饺子',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '满族八大碗',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '雪衣豆沙',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '韭菜烙盒',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '长春酱肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '翡翠人参茅台鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '鼎丰真糕点',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '烧鹿尾',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '鹿血糕',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '渍菜白肉火锅',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '白肉血肠',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '吉林省',
+    city: '长春市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '鸡汤豆腐串',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jilinCuisine',
+    cuisineCategoryName: '吉林菜、吉菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

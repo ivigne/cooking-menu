@@ -1,5 +1,5 @@
 /**
- * 四川-广元市-特产美食
+ * 四川-广元市-美食
  * 利州区-蒸凉面、
  * 朝天区-核桃饼、
  * 昭化区-芙蓉糕，油米糖，酸菜牛肉面、
@@ -7,7 +7,7 @@
  * 旺苍县-腊三鲜，根面丸子、
  * 苍溪县-油芍，酸菜豆花稀饭
  */
-import { lampshadedBeefScriptsList } from './guangyuanFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './guangyuanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const guangyuanFoodsList = [
   // 蒸凉面

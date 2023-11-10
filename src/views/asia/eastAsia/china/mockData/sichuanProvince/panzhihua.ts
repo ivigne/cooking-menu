@@ -1,9 +1,9 @@
 /**
- * 四川-攀枝花市-特产美食
+ * 四川-攀枝花市-美食
  * 盐边油底肉、盐边羊肉米线、箐河浑浆豆花、鸡棕卷粉
  */
 
-import { lampshadedBeefScriptsList } from './panzhihuaFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './panzhihuaFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const panzhihuaFoodsList = [
   // 盐边油底肉

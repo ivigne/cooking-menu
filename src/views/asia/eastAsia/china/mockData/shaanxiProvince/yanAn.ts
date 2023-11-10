@@ -1,150 +1,390 @@
-/**
- * 陕西-延安市-特产美食
- * 
- * 
-* 羊腥汤,子长煎饼,黄龙蜂蜜,油馍馍,蜜汁南瓜,黄陵油糕,圪坨,烙饼,摊黄,凉粉,烧肘子,
-
- * 
- * 
-羊腥汤
-羊腥汤是延安特色小吃，主要食材有羊肉，羊杂。
-子长煎饼
-子长煎饼是陕西省延安市子长县著名的传统小吃。饼薄如纸，银白透亮。根据不同需要和不同口味，可制成大饼或小饼，大饼与小盖一样，小饼与手掌一般。其种类有豆腐干煎饼、热豆腐煎饼、凉菜煎饼、酥肉煎饼、鸡肉煎饼等。食用时，根据各自的喜好，配以醋、蒜汤、辣油或凉汤等醇香扑鼻，酸辣味浓，久食不厌。
-黄龙蜂蜜
-黄龙蜂蜜，陕西省延安市黄龙县特产，中国国家地理标志产品。黄龙县位于陕西省中北部、延安市东南缘，是陕北黄土高原与关中平原的结合部，属中国八大防护林区，林草覆盖率达91%，素有“黄河绿洲”“天然氧吧”之美称，被誉为“陕西的一叶肺”。据统计，黄龙境内蜜源植物达300余种，其中刺槐、狼牙刺和漆树等十多种主要蜜源植物流蜜期长且流蜜量大，发展中蜂养殖的条件优越。黄龙蜂蜜气味芳香，口感醇厚，营养丰富。2016年12月28日，原国家质检总局批准对“黄龙蜂蜜”实施地理标志产品保护。
-油馍馍
-陕北的一种风味小吃。饼状，中间有小孔，较小。由土豆、白面、荞面、糖等杂粮和在一起炸制而成。圆形，环状，炸熟后，金黄似铜钱，味道甘甜、可口。是陕北人最喜爱的食品之一，常用于婚宴，过年等场合，于2013年6月被录入“第三批省级非物质文化遗产名录”。
-蜜汁南瓜
-蜜汁南瓜为延安的一道特色小吃，使用陕北优质八棱南瓜为最佳，做法简单，口感绵软，香甜怡人。而且具有解毒，防治糖尿病、降低血糖，保护胃粘膜、帮助消化，消除致癌物质，防治妊娠水肿和高血压，促进生长发育等功效。
-黄陵油糕
-黄陵油糕选料黄陵当地软糜子面粉和食用油。
-
-圪坨
-以荞面为料，掐指蛋大面团在净草帽上搓之为精吃，切厚块以手揉搓为懒吃。主要分布在陕西、甘肃、山西。吃圪坨离不开羊肉汤，民歌就有“荞面圪坨羊腥汤，死死活活紧跟上”之句。圪坨是一种富饭，羊肉汤里有什么好东西皆可放，如黄花、木耳、豆腐、栗子。 [60-61]
-烙饼
-将白面粉一半用开水烫，另一半用温水和，再一块和成面团，然后在面板上撒适量的干面粉，将和好的面团放在面板上，擀成薄皮，撒上适量的油、葱花，精盐、花椒粉，抹匀后，将面皮卷成卷，然后将卷好的面卷揪（切）成小面团，将小面团擀压成圆形的薄饼，锅中加适量的油加温，待油温升至100度左右时将压好的薄饼放入锅中烙，待一面烙至金黄色时翻饼将另一面用同样的方法烙，两面翻覆烙二至三次即可出锅食用。烙出的饼色泽金黄，薄而酥软，味香可口。 [60]
-摊黄
-由米面或玉米面发酵，制成糊状，用专门的螯子慢火烙成。舀一勺面糊，顺凸顶倒下，流到边楞挡住，自然成为圆形，然后盖上盖烙，听的盖上水蒸汽滴下来响三声，就说明熟了，铲在盘中，状如满月，底焦面黄，边厚中薄，香气扑鼻。当地盛产小米，小米是主要原料，所以叫“黄”。后来人们爱吃大米加工的，但并没有叫“白”，依旧叫“黄”。大米的口感细腻、小米的口感香甜。 [60]
-凉粉
-由纯天然绿豆、扁豆、洋芋或荞麦加工而成，清爽可口，酸辣香味俱全，具有清热解毒，消暑止渴之效，尤以子长县的绿豆凉粉和油凉粉为著称。用绿豆粉面制作而成的叫“绿豆凉粉”，用扁豆粉面制作而成的叫“扁豆凉粉”，由洋芋淀粉制作而成的叫“洋芋凉粉”，由荞麦糁子制作而成的叫“荞面凉粉”。凉粉中以绿豆凉粉为上乘，其色泽嫩绿鲜亮，一年四季皆可食用，盛夏时节最佳。 [60]
-烧肘子
-“红烧肘子带把把，香透肠子谁不夸。”两句民谣，道出了甘泉红烧带把猪肘子的奇异所在。在20世纪70年代初，下寺湾人民公社食堂厨师把甘泉历来在红、白喜事宴席上必备的红烧肘块，改为红烧带把肘子，受到食客们的称赞。此法很快被城乡各饭店、餐馆效仿，从而形成一道甘泉特色的风味莱。 [60]
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-10-20 19:04:17
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/shaanxiProvince/yanAn.ts
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+/**
+ * 陕西-延安市-美食
+ * 羊腥汤,子长煎饼,黄龙蜂蜜,油馍馍,蜜汁南瓜,黄陵油糕,圪坨,烙饼,摊黄,凉粉,烧肘子,
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const yanAnFoodsList = [
-  // 灯影牛肉
   {
-    province: '陕西省', // 省
-    city: '延安市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'shaanxiCuisine', // 菜系编码
-    cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '羊腥汤',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
   {
-    province: '陕西省', // 省
-    city: '延安市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'shaanxiCuisine', // 菜系编码
-    cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '子长煎饼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '黄龙蜂蜜',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '油馍馍',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '蜜汁南瓜',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '黄陵油糕',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '圪坨',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '烙饼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '摊黄',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '凉粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '延安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '烧肘子',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

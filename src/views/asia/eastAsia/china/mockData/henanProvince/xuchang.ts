@@ -1,18 +1,26 @@
-/**
- * 河南-许昌市-特产美食
-许昌热豆腐、
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-10-20 19:04:17
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/henanProvince/xuchang.ts
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+/**
+ * 河南-许昌市-美食
+许昌热豆腐
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const xuchangFoodsList = [
-  // 灯影牛肉
+  // 许昌热豆腐
   {
     province: '河南省', // 省
     city: '许昌市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '许昌热豆腐', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称

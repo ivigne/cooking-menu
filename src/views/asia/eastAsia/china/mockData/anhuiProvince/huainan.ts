@@ -1,8 +1,8 @@
 /**
- * 安徽省-淮南市-特产美食
+ * 安徽省-淮南市-美食
  * 八公山豆腐,淮南牛肉汤,寿县大救驾,顾桥陈醋,田家庵老鸭汤,洛河豆饼,金钱饼,
  */
-import { lampshadedBeefScriptsList } from './huainanFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './huainanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const huainanFoodsList = [
   // 八公山豆腐

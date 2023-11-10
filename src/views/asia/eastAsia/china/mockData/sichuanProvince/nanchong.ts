@@ -1,9 +1,9 @@
 /**
- * 四川-南充市-特产美食
+ * 四川-南充市-美食
  * 川北凉粉、大通凉粉、松花皮蛋、营山板鸭、河舒豆腐、张飞牛肉、保宁醋、营山凉面、白糖蒸馍、顺庆卤鸭子、南部肥肠、蓬安方锅盔、西充狮子糕、
  * 腊肉火锅、保宁牛羊杂碎、东观辣子鸡、南充冬菜、阆中油茶、丝丝鳝鱼面、辣子脆肠、干烧四季豆、顺庆羊肉粉、凉热串串、南充米粉
  */
-import { lampshadedBeefScriptsList } from './nanchongFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './nanchongFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const nanchongFoodsList = [
   // 川北凉粉

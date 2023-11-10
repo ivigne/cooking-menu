@@ -1,9 +1,9 @@
 /**
- * 安徽省-黄山市-特产美食
+ * 安徽省-黄山市-美食
  * 腊八豆腐,蝴蝶面,黄山烧饼,沙地马蹄鳖,方腊鱼,苞芦松,歙县豆腐脑髓,黟县香榧,清蒸石鸡,黄山炖鸽,甜酒酿,
  * 徽州状元饭,腌鲜鳜鱼,虎皮毛豆腐,千层锅,观音豆腐,中和汤,臭鳜鱼,
  */
-import { lampshadedBeefScriptsList } from './huangshanFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './huangshanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const huangshanFoodsList = [
   // 腊八豆腐

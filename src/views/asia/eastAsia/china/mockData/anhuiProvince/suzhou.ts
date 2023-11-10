@@ -1,8 +1,8 @@
 /**
- * 安徽省-宿州市-特产美食
+ * 安徽省-宿州市-美食
  * SA汤,符离集烧鸡,萧县面皮,皇藏峪蘑菇鸡,萧县炒碗,
  */
-import { lampshadedBeefScriptsList } from './suzhouFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './suzhouFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const suzhouFoodsList = [
   // SA汤

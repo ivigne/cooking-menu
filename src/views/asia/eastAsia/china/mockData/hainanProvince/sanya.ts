@@ -1,165 +1,612 @@
 /**
- * 海南-三亚市-特产美食
-* 红烧梅花参,红糖年糕,甜酸粉,苗家三色饭,米花糖,姜糖汤圆,爆炒夜光螺,羊栏酸鱼汤,椰肉虾仁猪骨汤,藤桥排骨,槟榔花鸡,南海鲜鲍,疍家咸鱼煲,三亚海鲜火锅,港门粉,猪肠粉,南大辣椒蟹,南山素斋,
+ * 海南-三亚市-美食
+* 红烧梅花参,红糖年糕,甜酸粉,苗家三色饭,米花糖,姜糖汤圆,爆炒夜光螺,羊栏酸鱼汤,椰肉虾仁猪骨汤,藤桥排骨,槟榔花鸡,南海鲜鲍,疍家咸鱼煲,三亚海鲜火锅,港门粉,南大辣椒蟹,南山素斋,
 
 
  * 
-红烧梅花参
-梅花红烧参的主料为水发梅花参，主要配料有油菜和百灵菇等。把泡发后的梅花参从中间切成两半，用开水烫透，然后将水控净。经大厨烹饪，配上新鲜的百灵菇，味道嫩滑鲜甜，具有滋阴补肾，增强机体免疫力之功效。
-红糖年糕
-红糖年糕曾经是三亚人过年时才吃的食品，如今在三亚各个农贸市场均有销售摊点。糯米面加红糖蒸出来的，软软的、粘粘的还具有红糖那种特别的香味，很受女孩子喜爱。
-甜酸粉
-三亚的粉类小食很多，凉拌类的却不多，其中甜酸粉是常见的一种。滑滑的粉丝是地瓜粉做的，几块白白软软的米糕和它构成了甜酸粉的主料，黄色的菠萝块和红色的胡萝卜丝相映生辉，当然吃起来菠萝的酸和胡萝卜独有的甜更是融合到绝妙。炒熟的花生、腌黄瓜丝、萝卜干作为辅料起到“画龙点睛”的作用，让甜酸粉更加香甜可口。凉拌的腌料是红糖水和米醋混合而成的。
-苗家三色饭
-三色饭是苗族最具特色的食品，是用山兰糯米、桑叶、红蓝藤叶、黄姜、椰浆、小山棕叶若干包制而成。
-米花糖
-取糯米、粳米用粗沙渗入铁锅中炒热开出米花；用较浓的红糖水拌均，放在四边围小板的大块长形木板上压实，再加上红浓糖汁铺面，待凉干后即可切块食用；还可用于开水冲，待冷却后食用。
-姜糖汤圆
-选用当地的优质糯米，浸水1小时后捞起晾干，用石磨磨成细粉，压匀成小片粉皮；选用优质花生、芝麻、椰子丝捣成碎细小块，渗入粉红糖，用粉片包紧成手拇指大的圆形汤圆；在铁锅滚水中加入适量的生姜片，汤圆落锅后15分钟便可捞起；在碗里食用，加入适量的姜糖水。
-爆炒夜光螺
-安游夜光螺是海南一带的风味名菜，属于海南菜。产自安游近海，新鲜味美。连着螺壳一起用辣椒爆炒，螺肉爽脆重又带有一股韧劲，甚有嚼头。又有白灼的做法，保留了螺肉的自然鲜美，连外地人也能品得出里面的“甜”。
-羊栏酸鱼汤
-羊栏酸鱼汤是一道美食，制作原料主要有三亚特有的酸杨桃、酸豆及近海鲜鱼。
-椰肉虾仁猪骨汤
-椰肉虾仁猪骨汤是海南三亚的传统特色美食，益气生津，润泽面色。据说，熬了九个小时的猪肉竟然没有变成纤维状物体，已经够奇怪的，而且入口嫩滑，肉味依然香浓，骨头可以外吮内吸，可谓充分利用。
-藤桥排骨
-藤桥排骨是一道色香味俱全的传统名菜，属于海南菜。被称三亚美食一绝，名列三亚10大美食之榜。制品红黄敞亮，外脆里香、味美醇香，老少咸宜。由于放蜂蜜腌制，入口酥脆，味鲜微甜，有点象广味叉烧，可是又不象，归正回味无穷。配上一菜一汤，两小我吃上半斤排骨就饱得不可。那排骨的余香，一向如此残留在唇齿之间，久久未消，实在是爽。
-槟榔花鸡
-槟榔花鸡是一道简单的家常菜，主料是三亚本地农家鸡、槟榔花。
-南海鲜鲍
-南海鲜鲍是三亚十大名菜之一，主要制作材料有新鲜鲍鱼、葱、姜等。
-疍家咸鱼煲
-疍家咸鱼煲是一道美味可口的传统名肴，属于海南菜。三亚十大名菜之之一。疍家渔民常年居于海上，捕到上好的鱼（多以红鱼为主要材料）时，将其放在船只甲板晒制，在海风和海面骄阳的共同作用下，制作出无任何人工添加剂、肉质紧实耐嚼的精品咸鱼干。疍家咸鱼，鱼香浓郁，煲以五花肉，实在是美味无比，佐酒下饭均可称职。
-三亚海鲜火锅
-三亚海鲜火锅是海南一带的传统风味名肴，属于海南菜。三亚十大名菜之三。取材三亚本地海鲜，虾、蟹、螺、贝、鱼应有尽有，各取所好。锅底仅入姜片、蒜苗等调味，旨在保留原汁原味，尤其凸显海鲜特有的清甜和营养，辅以各家秘制蘸酱，尤其美味。
-港门粉
-港门粉是港门的一大特色美食之一，而港门是三亚市的一个小镇又称保港镇现并入崖州区，大家总调侃着这个镇名是：“香港和澳门的简称”。港门粉的汤味道清甜，不是像糖一样甜而是像加了海虾皮一样，正是这样的清才能衬出粉和海鲜辅料的香吧。而且三亚的粉和其他地方相比都是细且软的，轻轻一嚼就咽进肚子里了，和三亚的休闲度假风格相得益彰。
-猪肠粉
-猪肠粉是广东省湛江市地道的传统小吃，猪肠粉的蒸制与沙河粉相似，以竹窝盛稀米浆蒸成薄粉皮，再将粉皮卷起成长条形，因其状如猪肠而得名，也称“卷粉”，白如雪，薄如纸，以特别嫩滑为著称。
-南大辣椒蟹
-海南特色辣味菜．出自三亚市南中国大酒店厨师之手，故以"南大"命名．海南盛产各种花蟹，烹调多以“清蒸”或“姜葱炒”。此菜吸取川湘烹法，结合本地口味，采用辣椒油炸法，成菜焦脆、香辣，余味无穷。
-南山素斋
-“南山素斋”是天下一绝，它集寺庙素斋之精华，融宫廷素斋和民间素斋之风格，兼纳南北地方风味于一体，运用现代烹饪技艺，形成了独特的南山饮食文化，被海南省定为“国宾接待点”。
+// 红烧梅花参
+// 槟榔花鸡
 
 
 
 
 */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const sanyaFoodsList = [
-  // 灯影牛肉
+  // 梅花红烧参的主料为水发梅花参，主要配料有油菜和百灵菇等。把泡发后的梅花参从中间切成两半，用开水烫透，然后将水控净。经大厨烹饪，配上新鲜的百灵菇，味道嫩滑鲜甜，具有滋阴补肾，增强机体免疫力之功效。
   {
-    province: '海南省', // 省
-    city: '三亚市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'qiongCuisine', // 菜系编码
-    cuisineCategoryName: '琼菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '红烧梅花参',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
+  // 红糖年糕曾经是三亚人过年时才吃的食品，如今在三亚各个农贸市场均有销售摊点。糯米面加红糖蒸出来的，软软的、粘粘的还具有红糖那种特别的香味，很受女孩子喜爱。
   {
-    province: '海南省', // 省
-    city: '三亚市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'qiongCuisine', // 菜系编码
-    cuisineCategoryName: '琼菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '红糖年糕',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 三亚的粉类小食很多，凉拌类的却不多，其中甜酸粉是常见的一种。滑滑的粉丝是地瓜粉做的，几块白白软软的米糕和它构成了甜酸粉的主料，黄色的菠萝块和红色的胡萝卜丝相映生辉，当然吃起来菠萝的酸和胡萝卜独有的甜更是融合到绝妙。炒熟的花生、腌黄瓜丝、萝卜干作为辅料起到“画龙点睛”的作用，让甜酸粉更加香甜可口。凉拌的腌料是红糖水和米醋混合而成的。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '甜酸粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 三色饭是苗族最具特色的食品，是用山兰糯米、桑叶、红蓝藤叶、黄姜、椰浆、小山棕叶若干包制而成。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '苗家三色饭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 取糯米、粳米用粗沙渗入铁锅中炒热开出米花；用较浓的红糖水拌均，放在四边围小板的大块长形木板上压实，再加上红浓糖汁铺面，待凉干后即可切块食用；还可用于开水冲，待冷却后食用。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '米花糖',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 选用当地的优质糯米，浸水1小时后捞起晾干，用石磨磨成细粉，压匀成小片粉皮；选用优质花生、芝麻、椰子丝捣成碎细小块，渗入粉红糖，用粉片包紧成手拇指大的圆形汤圆；在铁锅滚水中加入适量的生姜片，汤圆落锅后15分钟便可捞起；在碗里食用，加入适量的姜糖水。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '姜糖汤圆',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 安游夜光螺是海南一带的风味名菜，属于海南菜。产自安游近海，新鲜味美。连着螺壳一起用辣椒爆炒，螺肉爽脆重又带有一股韧劲，甚有嚼头。又有白灼的做法，保留了螺肉的自然鲜美，连外地人也能品得出里面的“甜”。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '爆炒夜光螺',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 羊栏酸鱼汤是一道美食，制作原料主要有三亚特有的酸杨桃、酸豆及近海鲜鱼。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '羊栏酸鱼汤',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 椰肉虾仁猪骨汤是海南三亚的传统特色美食，益气生津，润泽面色。据说，熬了九个小时的猪肉竟然没有变成纤维状物体，已经够奇怪的，而且入口嫩滑，肉味依然香浓，骨头可以外吮内吸，可谓充分利用。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '椰肉虾仁猪骨汤',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 藤桥排骨是一道色香味俱全的传统名菜，属于海南菜。被称三亚美食一绝，名列三亚10大美食之榜。制品红黄敞亮，外脆里香、味美醇香，老少咸宜。由于放蜂蜜腌制，入口酥脆，味鲜微甜，有点象广味叉烧，可是又不象，归正回味无穷。配上一菜一汤，两小我吃上半斤排骨就饱得不可。那排骨的余香，一向如此残留在唇齿之间，久久未消，实在是爽。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '藤桥排骨',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 槟榔花鸡是一道简单的家常菜，主料是三亚本地农家鸡、槟榔花。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '槟榔花鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 南海鲜鲍是三亚十大名菜之一，主要制作材料有新鲜鲍鱼、葱、姜等。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '南海鲜鲍',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 疍家咸鱼煲是一道美味可口的传统名肴，属于海南菜。三亚十大名菜之之一。疍家渔民常年居于海上，捕到上好的鱼（多以红鱼为主要材料）时，将其放在船只甲板晒制，在海风和海面骄阳的共同作用下，制作出无任何人工添加剂、肉质紧实耐嚼的精品咸鱼干。疍家咸鱼，鱼香浓郁，煲以五花肉，实在是美味无比，佐酒下饭均可称职。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '疍家咸鱼煲',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 三亚海鲜火锅是海南一带的传统风味名肴，属于海南菜。三亚十大名菜之三。取材三亚本地海鲜，虾、蟹、螺、贝、鱼应有尽有，各取所好。锅底仅入姜片、蒜苗等调味，旨在保留原汁原味，尤其凸显海鲜特有的清甜和营养，辅以各家秘制蘸酱，尤其美味。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '三亚海鲜火锅',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 港门粉是港门的一大特色美食之一，而港门是三亚市的一个小镇又称保港镇现并入崖州区，大家总调侃着这个镇名是：“香港和澳门的简称”。港门粉的汤味道清甜，不是像糖一样甜而是像加了海虾皮一样，正是这样的清才能衬出粉和海鲜辅料的香吧。而且三亚的粉和其他地方相比都是细且软的，轻轻一嚼就咽进肚子里了，和三亚的休闲度假风格相得益彰。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '港门粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 海南特色辣味菜．出自三亚市南中国大酒店厨师之手，故以"南大"命名．海南盛产各种花蟹，烹调多以“清蒸”或“姜葱炒”。此菜吸取川湘烹法，结合本地口味，采用辣椒油炸法，成菜焦脆、香辣，余味无穷。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '南大辣椒蟹',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // “南山素斋”是天下一绝，它集寺庙素斋之精华，融宫廷素斋和民间素斋之风格，兼纳南北地方风味于一体，运用现代烹饪技艺，形成了独特的南山饮食文化，被海南省定为“国宾接待点”。
+  {
+    province: '海南省',
+    city: '三亚市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '南山素斋',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'qiongCuisine',
+    cuisineCategoryName: '琼菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

@@ -1,8 +1,8 @@
 /**
- * 安徽省-阜阳市-特产美食
+ * 安徽省-阜阳市-美食
  * 太和板面、阜阳市恋思萝卜
  */
-import { lampshadedBeefScriptsList } from './fuyangFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './fuyangFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const fuyangFoodsList = [
   // 太和板面

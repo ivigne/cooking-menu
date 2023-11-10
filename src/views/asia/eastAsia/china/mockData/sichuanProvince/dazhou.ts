@@ -1,12 +1,12 @@
 /**
- * 四川-达州市-特产美食
+ * 四川-达州市-美食
  * 特产：
  * 美食：灯影牛肉、尖椒肥肠、粉蒸鲶鱼、江阳酸辣鸡、大风羊肉、油馃子、羊肉格格、石梯蒸鱼、、麻辣鸡块、干烧岩鲤、牛肉松、什锦烩面、
  * 酸菜鱼、石锅鱼、顺江薄饼、杜仲腰花、宣汉牛肉、小煎仔鸡、古今香丸子、老腊肉、水八块、鱼香茄花、油酥竹鼬、石桥米酒鱼、麻柳蒋氏南瓜鸭、
  * 红海游龙酸辣粉、三圣宫七星椒卤味、凉面锅盔、鸡豆花、五香卤豆干、松菌炖鸡、鸡油大汤圆、米豆腐、沸腾鹅肠、素烧阳鱼、三鲜塔丝饼、功夫牛肉、
  * 清明菜粑粑、口水鸡、开江臊子面、肉丁面、东柳鱼头、石桥米酒鱼、巴山吊锅、糯米油子、东柳醪糟、三汇果醋、呷酒、观音豆干、
  */
-import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './dazhouFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const dazhouFoodsList = [
   // 灯影牛肉

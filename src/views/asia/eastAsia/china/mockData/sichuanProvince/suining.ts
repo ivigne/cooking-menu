@@ -1,8 +1,8 @@
 /**
- * 四川-遂宁市-特产美食
+ * 四川-遂宁市-美食
  * 糍粑块、麦加牛肉、唐糍粑、射洪五香果汁牛肉、蓬溪姜糕、盆盆虾、胡老七五香豆腐干、四川春饼、石磨豆花、老隍城传统锅魁、酸辣汤
  */
-import { lampshadedBeefScriptsList } from './suiningFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './suiningFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const suiningFoodsList = [
   // 糍粑块

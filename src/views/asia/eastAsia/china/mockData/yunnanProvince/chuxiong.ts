@@ -1,19 +1,18 @@
 /**
- * 云南-楚雄彝族自治州-特产美食
+ * 云南-楚雄彝族自治州-美食
  * 野生菌、彝族菜
-
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const chuxiongFoodsList = [
-  // 灯影牛肉
+  // 野生菌
   {
     province: '云南省', // 省
     city: '楚雄彝族自治州', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '野生菌', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
@@ -63,14 +62,14 @@ export const chuxiongFoodsList = [
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
-  // 尖椒肥肠
+  // 彝族菜
   {
     province: '云南省', // 省
     city: '楚雄彝族自治州', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '彝族菜', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称

@@ -1,8 +1,8 @@
 /**
- * 安徽省-芜湖市-特产美食
+ * 安徽省-芜湖市-美食
  * 煮干丝,虾籽面,无为板鸭,奎湖飘鱼,鸠江腐乳,无为送灶粑粑,芥菜圆子,芜湖蟹汤包,海螺沙煲,芜湖臭干,腰子饼,弋江羊肉,肉蒸饭,奎湖漂鱼,芜湖老鸭汤泡锅巴,
  */
-import { lampshadedBeefScriptsList } from './wuhuFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './wuhuFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const wuhuFoodsList = [
   //  煮干丝

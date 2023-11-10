@@ -1,30 +1,7 @@
 /**
- * 云南-保山市-特产美食
- * 
- * 
-* 头脑锅子,永昌板鸭施甸三味,菜花腌菜伴蜂仔,油炸撒撇五滴水,口水羹施甸豆片,春甜黄酒,饵丝透心绿,保山大烧,大救驾,腌菜膏,山林素席,下村豆粉,腾冲果脯,坛子鸡,干腌菜,蒲缥甘蔗,腾冲大救驾（炒饵块）,腾冲饵丝,保山绿豆,卷粉,
-
- * 
- * 
-头脑“锅子”
-永昌板鸭施甸三味
-菜花腌菜伴蜂仔
-油炸撒撇“五滴水”
-“口水羹”施甸豆片
-春甜黄酒
-饵丝“透心绿”
-保山大烧
-“大救驾”
-腌菜膏
-山林素席
-下村豆粉
-腾冲果脯
-坛子鸡
-干腌菜 [1
-  蒲缥甘蔗、腾冲“大救驾”（炒饵块）、腾冲饵丝、保山绿豆、卷粉
-
-
-  */
+ * 云南-保山市-美食
+ * 头脑锅子,永昌板鸭施甸三味,菜花腌菜伴蜂仔,油炸撒撇五滴水,口水羹施甸豆片,春甜黄酒,饵丝透心绿,保山大烧,大救驾,腌菜膏,山林素席,下村豆粉,腾冲果脯,坛子鸡,干腌菜,蒲缥甘蔗,腾冲大救驾（炒饵块）,腾冲饵丝,保山绿豆,卷粉
+ */
 // 蘸水兔
 // 做法：
 
@@ -103,121 +80,687 @@
 
 // 当然，你如果以为这些就是云南蘸水的全部，那真的太小瞧云南人的创意了。据说一个合格的云南人，至少能口述十五种、动手做出五种不同的蘸水。
 
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const baoshanFoodsList = [
-  // 灯影牛肉
   {
-    province: '云南省', // 省
-    city: '保山市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'yunnanCuisine', // 菜系编码
-    cuisineCategoryName: '滇菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '头脑锅子',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
   {
-    province: '云南省', // 省
-    city: '保山市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'yunnanCuisine', // 菜系编码
-    cuisineCategoryName: '滇菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '永昌板鸭施甸三味',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '菜花腌菜伴蜂仔',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '油炸撒撇五滴水',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '口水羹施甸豆片',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '春甜黄酒',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '饵丝透心绿',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '保山大烧',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '大救驾',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '腌菜膏',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '山林素席',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '下村豆粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '腾冲果脯',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '坛子鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '干腌菜',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '蒲缥甘蔗',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '腾冲大救驾（炒饵块）',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '腾冲饵丝',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '保山绿豆',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '云南省',
+    city: '保山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '卷粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryName: '滇菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

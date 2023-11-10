@@ -1,8 +1,8 @@
 /**
- * 四川-自贡市-特产美食
+ * 四川-自贡市-美食
  * 美食：冷吃兔、火边子牛肉、富顺豆花
  */
-import { lampshadedBeefScriptsList } from './zigongFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './zigongFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const zigongFoodsList = [
   // 冷吃兔

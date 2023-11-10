@@ -1,153 +1,463 @@
 /**
- * 广东省-东莞市-特产美食
-* 中堂槎滘鱼包,糖环,长安盆菜,万江龙船饭,塘厦碌鹅,白沙油鸭,道滘肉丸粥,鲜虾荷叶饭,冼沙鱼丸,眉豆糕,中堂槎滘鱼丝面,道滘裹蒸粽,荷叶饭,
-中堂槎滘鱼包
-中堂槎滘鱼包是广东省东莞市中堂镇的一道特色小吃，属于粤菜系，该菜品由鱼肉做成的表皮包住馅料而成，距今有七八十年的历史。最早由广州增城新塘沙村一食家创制，据说其在品尝顺德名吃鱼皮角时认为皮太厚，影响内馅的味道，便在鱼皮角的基础上加工做成早期的鱼包。槎滘与新塘仅一河之隔，两者的生活方式与风俗习惯一肪相承，新塘鱼包的制法很快便传至槎滘，而当时槎滘"苏记酒楼"的厨师又在新塘鱼包的基础上进行再加工，创制成造型奇美、皮薄馅靓、爽滑鲜嫩、口感极佳的槎滘鱼包。
-糖环
-糖环是广东、广西一带富有寓意的客家传统年俗特色小吃之一，属于粤菜系；该小吃流传于广东惠州和原来惠阳地区如东莞、深圳、香港新界等地，该小吃在桂北山区贺州一带也有流传，做法类似，材料有别（广西用糯米粉、惠州用面粉），该小吃曾是过年必然有的小吃，以前惠州人在春节前都要准备大量应节食品。
-长安盆菜
-长安盆菜，是一种传统民俗文化，始于长安乌沙陈屋。1278年4月，南宋朝廷败退到广东，杨太后与弟弟杨亮节携宋帝昰、昺到东莞、香港一带，6月再迁新会崖山，沿路居民纷纷前往勤王，盛情款待。乌沙李佳之母陈氏，为使儿子一心抗敌，而无后顾之忧，毅然投海自尽。乌沙杨侯古庙祭祀杨亮节。由于元朝时纪念陈氏的活动被禁，于是每年农历三月二十三日天后诞，村民们假借天后诞之名来纪念陈氏，一直保存吃盆菜的村俗。
-万江龙船饭
-万江龙船饭又叫龙舟饭，是广东省东莞市万江区的一道特色小吃，属于粤菜系，按东莞的风俗，该菜品一般是在端午节“扒”龙船时慰劳扒龙舟健儿和观赛的村民的一种传统美食。
-塘厦碌鹅
-塘厦碌鹅是广东省东莞市的传统特色小吃之一，属于粤菜系，该菜品是不折不扣的东莞山乡菜。首先，“碌”这个字就是土生的东莞话，外人不明其意，听到“碌鹅”还以为是 “卤鹅”，实际“碌”是煮的意思。塘厦碌鹅是具有客家风味的东莞菜。将鹅放到调制好的汤里面煮，煮熟后，味道就全部进到了鹅肉里。而骨髓则和白切鸡差不多，肉嫩而骨髓带血。
-白沙油鸭
-白沙油鸭是广东省东莞市的一道特色小吃，属于粤菜系，因产自东莞虎门镇白沙村而得名，油鸭在中国北方被称为"板鸭"，相传在明清时期，虎门白沙设立盐埠，官兵多江浙人，善养鸭，喜此地河水纯净，退伍时解甲不归乡，在溪边养鸭，并在江西南安退役者善腊鸭，此地 
-道滘肉丸粥
-道滘肉丸粥是广东省东莞市的一道特色小吃，属于粤菜系，该菜品以肉丸为主料，在岭南粥品中独树一帜，在肉丸粥中独占鳌头。
-鲜虾荷叶饭
-鲜虾荷叶饭是广东省东莞地区名小吃。以东莞太平镇制作的最为著名，因这一代盛产荷叶和优制的丝苗白米。鲜虾荷叶饭清淡爽口，有荷叶的清香味，向来为广州各茶楼酒家著名的点心食谱之一。
-冼沙鱼丸
-冼沙鱼丸是广东省东莞市的一道特色小吃，属于粤菜系-东莞水乡菜，该菜品尤其以高埗镇冼沙村的鱼丸最为出名，也就是冼沙鱼丸。冼沙鱼丸所取的鱼必须是新鲜的鲮鱼，而且鱼塘中不能养鸭鹅，以保持的鱼肉味道的纯净。而且冼沙鱼丸在东莞的各种美食中，可谓最费时费力的菜之一。
-眉豆糕
-眉豆糕是广东省东莞市的一道特色小吃，其主料是糯米、眉豆等等，但入口之后并没有普通糯米制品那种过于粘濡的感觉，而是十分适口，一咬即断，味道则因为眉豆和芝麻的加入而变得很特别。
-中堂槎滘鱼丝面
-中堂槎滘鱼丝面是广东省东莞市的一道特色小吃，属于粤菜系，其食材有鱼肉团、冬菇丝、韭黄、葱花等。
-荷叶饭
-荷叶饭，广东传统小吃。又称荷包饭，以荷叶包裹米饭和肉馅蒸制而成。
-道滘裹蒸粽
-道滘裹蒸粽是一道以咸蛋黄、湘莲、绿豆、五花腩肉为主要原料的小吃。
-
-
-
-
-
-*/
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+ * 广东省-东莞市-美食
+ * 中堂槎滘鱼包,糖环,长安盆菜,万江龙船饭,塘厦碌鹅,白沙油鸭,道滘肉丸粥,鲜虾荷叶饭,冼沙鱼丸,眉豆糕,中堂槎滘鱼丝面,道滘裹蒸粽,荷叶饭,
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const dongguanFoodsList = [
-  // 灯影牛肉
+  // 中堂槎滘鱼包是广东省东莞市中堂镇的一道特色小吃，属于粤菜系，该菜品由鱼肉做成的表皮包住馅料而成，距今有七八十年的历史。最早由广州增城新塘沙村一食家创制，据说其在品尝顺德名吃鱼皮角时认为皮太厚，影响内馅的味道，便在鱼皮角的基础上加工做成早期的鱼包。槎滘与新塘仅一河之隔，两者的生活方式与风俗习惯一肪相承，新塘鱼包的制法很快便传至槎滘，而当时槎滘"苏记酒楼"的厨师又在新塘鱼包的基础上进行再加工，创制成造型奇美、皮薄馅靓、爽滑鲜嫩、口感极佳的槎滘鱼包。
   {
-    province: '广东省', // 省
-    city: '东莞市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'cantoneseCuisine', // 菜系编码
-    cuisineCategoryName: '粤菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '中堂槎滘鱼包',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
+  // 糖环是广东、广西一带富有寓意的客家传统年俗特色小吃之一，属于粤菜系；该小吃流传于广东惠州和原来惠阳地区如东莞、深圳、香港新界等地，该小吃在桂北山区贺州一带也有流传，做法类似，材料有别（广西用糯米粉、惠州用面粉），该小吃曾是过年必然有的小吃，以前惠州人在春节前都要准备大量应节食品。
   {
-    province: '广东省', // 省
-    city: '东莞市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'cantoneseCuisine', // 菜系编码
-    cuisineCategoryName: '粤菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '糖环',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 长安盆菜，是一种传统民俗文化，始于长安乌沙陈屋。1278年4月，南宋朝廷败退到广东，杨太后与弟弟杨亮节携宋帝昰、昺到东莞、香港一带，6月再迁新会崖山，沿路居民纷纷前往勤王，盛情款待。乌沙李佳之母陈氏，为使儿子一心抗敌，而无后顾之忧，毅然投海自尽。乌沙杨侯古庙祭祀杨亮节。由于元朝时纪念陈氏的活动被禁，于是每年农历三月二十三日天后诞，村民们假借天后诞之名来纪念陈氏，一直保存吃盆菜的村俗。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '长安盆菜',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 万江龙船饭又叫龙舟饭，是广东省东莞市万江区的一道特色小吃，属于粤菜系，按东莞的风俗，该菜品一般是在端午节“扒”龙船时慰劳扒龙舟健儿和观赛的村民的一种传统美食。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '万江龙船饭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 塘厦碌鹅是广东省东莞市的传统特色小吃之一，属于粤菜系，该菜品是不折不扣的东莞山乡菜。首先，“碌”这个字就是土生的东莞话，外人不明其意，听到“碌鹅”还以为是 “卤鹅”，实际“碌”是煮的意思。塘厦碌鹅是具有客家风味的东莞菜。将鹅放到调制好的汤里面煮，煮熟后，味道就全部进到了鹅肉里。而骨髓则和白切鸡差不多，肉嫩而骨髓带血。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '塘厦碌鹅',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 白沙油鸭是广东省东莞市的一道特色小吃，属于粤菜系，因产自东莞虎门镇白沙村而得名，油鸭在中国北方被称为"板鸭"，相传在明清时期，虎门白沙设立盐埠，官兵多江浙人，善养鸭，喜此地河水纯净，退伍时解甲不归乡，在溪边养鸭，并在江西南安退役者善腊鸭，此地
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '白沙油鸭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 道滘肉丸粥是广东省东莞市的一道特色小吃，属于粤菜系，该菜品以肉丸为主料，在岭南粥品中独树一帜，在肉丸粥中独占鳌头。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '道滘肉丸粥',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 鲜虾荷叶饭是广东省东莞地区名小吃。以东莞太平镇制作的最为著名，因这一代盛产荷叶和优制的丝苗白米。鲜虾荷叶饭清淡爽口，有荷叶的清香味，向来为广州各茶楼酒家著名的点心食谱之一。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '鲜虾荷叶饭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 冼沙鱼丸是广东省东莞市的一道特色小吃，属于粤菜系-东莞水乡菜，该菜品尤其以高埗镇冼沙村的鱼丸最为出名，也就是冼沙鱼丸。冼沙鱼丸所取的鱼必须是新鲜的鲮鱼，而且鱼塘中不能养鸭鹅，以保持的鱼肉味道的纯净。而且冼沙鱼丸在东莞的各种美食中，可谓最费时费力的菜之一。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '冼沙鱼丸',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 眉豆糕是广东省东莞市的一道特色小吃，其主料是糯米、眉豆等,但入口之后并没有普通糯米制品那种过于粘濡的感觉，而是十分适口，一咬即断，味道则因为眉豆和芝麻的加入而变得很特别。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '眉豆糕',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 中堂槎滘鱼丝面是广东省东莞市的一道特色小吃，属于粤菜系，其食材有鱼肉团、冬菇丝、韭黄、葱花等。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '中堂槎滘鱼丝面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 道滘裹蒸粽是一道以咸蛋黄、湘莲、绿豆、五花腩肉为主要原料的小吃。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '道滘裹蒸粽',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 荷叶饭，广东传统小吃。又称荷包饭，以荷叶包裹米饭和肉馅蒸制而成。
+  {
+    province: '广东省',
+    city: '东莞市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '荷叶饭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

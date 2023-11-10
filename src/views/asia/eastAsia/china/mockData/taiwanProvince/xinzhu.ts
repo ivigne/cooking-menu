@@ -1,156 +1,450 @@
 /**
- * 台湾-新竹市-特产美食
- * 
- * 
+ * 台湾-新竹市-美食
 茶鸡,茶鹅,金宣凤梨虾球,香片蒸鱼,炸粿,炒米粉,贡丸,姜丝大肠,粄条,红糟肉,梅干扣肉,烟肠,桔酱,
-
- * 
- * 
- * 
- * 
- * 
- * 新竹小吃除酸、肥、咸、香一贯的客家菜特色外，各乡镇结合当地特产，发展出一道道令人垂涎的料理，如关西的仙草鸡、峨眉的茶餐、北埔的柿子大餐等，都是极富地方特色的改良式客家美食。 [10]
-关西是岛内主要的仙草产地，所产仙草味甘质纯，当地客家人以仙草入味熬煮鸡肉，开发出仙草鸡这道闻名的关西美食；仙草的甘香，融合鸡肉的匀嫩肉质，馨香爽口，有别于一般口味重的客家菜。关西及其邻近乡镇的客家料理店里，都可以吃到这道佳肴。以茶产闻名的峨眉乡，也推出以东方美人茶入味所炖制的东方美人鸡汤，用乌龙茶熏烤的茶鸡、茶鹅，以及金宣凤梨虾球、香片蒸鱼等茶餐，融合茶香与菜香，不油不腻，滋味绝佳。 [10]
-此外，五峰乡五指山区的农户依旧地利之便，沿途开设土鸡城，衬以季节性采果，形成乡间美食区；这里的土鸡城以各式土鸡料理、新鲜野菜，及客家当地口味取胜，加上土鸡餐厅刻意营造的乡土气息，来此小酌别有远离尘嚣的乡间野趣。而新竹市东部的尖石、秀峦山区，因有泰雅族分布，于乡野小店可品尝到有泰雅风味的美食。 [10]
-传统客家菜肴
-客家移民早期多居住于山坡丘陵地，靠山吃山，故客家菜以山产居多，鸡鸭鹅肉是最常见的主食。山区耕作不易，劳动极耗费体力，酸香咸肥因此成了客家料理的特色，一则以补充劳动流失的盐分，一则口味咸好下饭。勤俭的客家人还利用收割后的稻田，种植萝卜、豆类、芥菜等蔬菜，以充分利用土地；吃不完的菜蔬便加以淹渍，制成福菜、梅干、萝卜干等淹渍物，成为佐菜下饭的最佳菜肴。由梅干、福菜更发展出一道道客家佳肴，如梅干扣肉、福菜汤等，成为客家餐馆必备的菜色。 [10]
-炸粿
-在台湾，用米粉、面粉、薯粉等经过加工制成的食品都称“粿”，可以有各种吃法，其中新竹市城北街的“北门炸粿”名声最为响亮，有地瓜片、芋头片、米糕、肉粿、蒜头、蚵仔嗲等口味。炸出好吃的粿是有诀窍的，除了配方之外，制浆的过程、炸的火候都马虎不得，否则不是口感太硬，就是表面已经焦了而里面尚未熟透。“北门炸粿”卖的粿，外表的颜色都非常一致，放冷了外形也不会变。 [10]
-炒米粉
-新竹米粉是台湾新竹地区的一种知名食材。以米作为原料的米粉，原本是由中国大陆福建地区传入的。由于新竹地区经年强风，独特的气候非常适合制造米粉，因而逐渐发展成为地方性的特产。
-在分类上，新竹米粉又可以区分为“水粉”和“炊粉”两种。其中被称为水粉、形状粗短的粗米粉才是米粉的原型，最常见到的做法是与肉类熬煮成米粉汤。而当前比较广为人知的是成为炊粉的细米粉，是先压制成细粉丝之后，以蒸笼蒸熟，再经过风干以保存。新竹地区的在稻作收获季节过后的10月到12月间盛吹东北季风，由于此时期降雨量少、风势强，适合晒米粉，也是出产的米粉品质最好的季节。在台湾常见的炊粉使用方式，除了煮成汤类似汤面般的料理，先将米粉炒熟之后再浇淋酱油肉汁食用的米粉炒，也是常见的台式菜色。
-贡丸
-“贡丸”是新竹数一数二的小吃，受到新竹男女老少的喜爱。据说新竹最早发明做贡丸的人是连海瑞，后来虽然转手他人，但仍沿用“海瑞”的招牌。
-制作“新竹贡丸”最要紧的是肉的选择，非新鲜猪肉不可。这主要是因为新鲜猪肉的纤维是活的，捣碎槌击后，加强了凝固性，做出的贡丸才有其最显著的特点—有弹性，咬起来才有劲。
-新竹贡丸纯粹以猪肉稍佐酱油、味精制成，本称肉圆，至于后来为什么易名，是因为闽南话“锤”念“贡”，“贡打”出来的丸子，自然就叫贡丸了。
-姜丝大肠
-是一道寻常的客家餐点，作法是先将猪大肠洗净、切段，放入锅中加水，与葱、姜等一起熟煮至烂，再起油锅爆炒即可。姜丝大肠的作法简单，好不好吃，关键在于选料，肥油的猪大肠，加上6、7月盛产的上等嫩姜，酸嫩Q滑，滋味最佳。 [10]
-粄条
-客家食物的代表，北部客家庄称为“粄条”，南部客家聚落则称为“面帕粄”，亦即广东人所称的“河粉”，或台湾人说的“粿仔”。以在来米制成的粄条，烹调很简单，以红葱头爆香，加入厚油高汤、碎葱及青菜、薄切肉片，滚水即成；干炒或者煮汤各具风味，惟一般以煮汤较能吃出原味。由于用料简单，粄条好不好吃，要诀就在粄条的Q度，以及爆香的葱头。新埔粄条以井水制造，有别于其他地区以自来水调制，因此味道较甘甜，而坚持传统的手工制法，使其口感Q韧，在北部客家庄中最负盛名。 [10]
-红糟肉
-亦称糟母肉，系以糯米、红麴加上糖，盐发酵成糟母，再将鸡、鸭等肉类放入其中淹制而成，兼具酒香及肉香，且有滋补之效。红糟肉过去是客家人珍贵的过年菜肴，现则已普遍化，平常日子就可尝其美味。 [10]
-梅干扣肉
-炒、卤、淹是客家菜常用的烹调方法，梅干扣肉就运用了淹、卤两种做法。首先，采摘下来的芥菜先行日晒风干，再涂以盐巴，密封淹制做成梅干；将梅干与卤得熟烂的五花肉或是蹄膀，放在一起蒸煮，梅干菜的酸脆与肥肉的油香融为一体，即成为梅干扣肉这道佳肴，是客家餐馆必备的招牌菜之一。 [10]
-烟肠
-乃客家人所称的香肠，又称为粉肠、水烟肠或白烟肠，其外形虽然类似香肠，但口感却截然不同，吃起来香香软软的，带点Q劲。其制法是将地瓜粉、瘦肉及香料调匀，灌入猪小肠后煮熟，冷却后就可以切成一块块沾酱料吃；以米酱、糖、盐、辣椒等混合而成的沾料，甜中带辣，与烟肠一起入口，最能吃出烟肠的特殊风味。 [10]
-桔酱
-北部客家庄常见的蘸料，酸甜的滋味具开胃效果。桔酱系将酸桔洗净、晾干，然后去籽加入盐、糖等调味料，熟煮至烂，再去除渣滓即成。由于酸桔仅年产一次，客家人利用每年11、12月酸桔产期制作桔酱，然后分装成瓶于一年中食用；因桔酱制作过程多手工，难大量生产，益显珍贵。 [10]
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const xinzhuFoodsList = [
-  // 灯影牛肉
   {
-    province: '台湾省', // 省
-    city: '新竹市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'fujianCuisine', // 菜系编码
-    cuisineCategoryName: '闽菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '茶鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
   {
-    province: '台湾省', // 省
-    city: '新竹市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'fujianCuisine', // 菜系编码
-    cuisineCategoryName: '闽菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '茶鹅',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '金宣凤梨虾球',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '香片蒸鱼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '炸粿',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '炒米粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '贡丸',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '姜丝大肠',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '粄条',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '红糟肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '梅干扣肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '烟肠',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '台湾',
+    city: '新竹市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桔酱',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

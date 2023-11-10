@@ -1,8 +1,8 @@
 /**
- * 安徽省-滁州市-特产美食
+ * 安徽省-滁州市-美食
  * 琅琊酥糖,雷官板鸭,管坝牛肉,秦栏卤鹅,
  */
-import { lampshadedBeefScriptsList } from './chuzhouFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './chuzhouFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const chuzhouFoodsList = [
   // 琅琊酥糖

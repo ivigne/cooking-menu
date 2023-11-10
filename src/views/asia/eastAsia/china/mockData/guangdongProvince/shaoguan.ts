@@ -1,21 +1,18 @@
 /**
- * 广东省-韶关市-特产美食
-
+ * 广东省-韶关市-美食
 冷水猪肚
-冷水猪肚是一道广东省韶关市武江区龙归镇的特色传统名菜，属于粤菜系。原材料为猪肚，其味道鲜香酥嫩，因此冷水猪肚闻名韶关，市民常常会专程去龙归镇品尝这道美食。
-
 */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const shaoguanFoodsList = [
-  // 灯影牛肉
+  // 冷水猪肚是一道广东省韶关市武江区龙归镇的特色传统名菜，属于粤菜系。原材料为猪肚，其味道鲜香酥嫩，因此冷水猪肚闻名韶关，市民常常会专程去龙归镇品尝这道美食。
   {
     province: '广东省', // 省
     city: '韶关市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '冷水猪肚', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称

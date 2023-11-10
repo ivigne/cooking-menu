@@ -1,6 +1,6 @@
 /**
- * 吉林-通化市-特产美食
+ * 吉林-通化市-美食
  */
-// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const tonghuaFoodsList = [];

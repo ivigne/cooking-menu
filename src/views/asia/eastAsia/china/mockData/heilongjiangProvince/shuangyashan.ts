@@ -7,8 +7,8 @@
  * Copyright (c) 2023 by ${git_name_email},All Rights Reserved.
  */
 /**
- * 黑龙江-双鸭山市-特产美食
+ * 黑龙江-双鸭山市-美食
  */
-// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const shuangyashanFoodsList = [];

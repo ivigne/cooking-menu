@@ -1,8 +1,8 @@
 /**
- * 安徽省-马鞍山市-特产美食
+ * 安徽省-马鞍山市-美食
  * 当涂酱菜
  */
-import { lampshadedBeefScriptsList } from './maanshanFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './maanshanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const maanshanFoodsList = [
   // 当涂酱菜

@@ -1,27 +1,18 @@
 /**
- * 台湾-新北市-特产美食
- * 
- * 
+ * 台湾-新北市-美食
  * 石花冻炖土鸡,淡水阿给
-
- * 
- * 
- * 
-石花冻炖土鸡
-淡水阿给
-淡水阿给，是台湾新北市淡水区有名的小吃之一。“阿给”是日文“油豆腐”(油扬げ、abura-age)发音的直接音译。阿给的做法是将油豆腐的中间挖空，然后填充炒过的冬粉（有些店家使用的是没有炒过的冬粉）、浸泡过卤汁，以鱼浆封口，加以蒸熟，食用前淋上甜辣酱或其他特殊酱汁。
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const xinbeiFoodsList = [
-  // 灯影牛肉
+  // 石花冻炖土鸡
   {
     province: '台湾省', // 省
     city: '新北市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '石花冻炖土鸡', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
@@ -71,14 +62,14 @@ export const xinbeiFoodsList = [
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
-  // 尖椒肥肠
+  // 淡水阿给
   {
     province: '台湾省', // 省
     city: '新北市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '石花冻炖土鸡', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称

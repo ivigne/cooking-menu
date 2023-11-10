@@ -7,8 +7,8 @@
  * Copyright (c) 2023 by ${git_name_email},All Rights Reserved.
  */
 /**
- * 新疆维吾尔自治区-吐鲁番市-特产美食
+ * 新疆维吾尔自治区-吐鲁番市-美食
  */
-// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const tulufanFoodsList = [];

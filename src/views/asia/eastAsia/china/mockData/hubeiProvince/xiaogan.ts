@@ -1,150 +1,393 @@
 /**
- * 湖北-孝感市-特产美食
-孝感米酒,汉川荷月,云梦鱼面,宫廷烤鸡,汈汊湖醉鱼,干拨才鱼筒,孝感麻糖,安陆翰林鸡,云梦白花菜,麻花桂鱼,应城扒肉,
-
-
- * 
- * 
- * 
- * 
-孝感米酒、汉川荷月、云梦鱼面、宫廷烤鸡
- * 
+ * 湖北-孝感市-美食
+孝感米酒,汉川荷月,云梦鱼面,宫廷烤鸡,汈汊湖醉鱼,干拨才鱼筒,孝感麻糖,安陆翰林鸡,云梦白花菜,麻花桂鱼,应城扒肉
 云梦鱼面
-云梦鱼面，湖北省云梦县特产，中国国家地理标志产品。云梦鱼面是湖北地区的特色传统名吃之一，采用以鲜鱼（青、鲤、草鱼为佳），除去内脏、鱼鳞、头尾、骨皮，绞成肉浆，与上等面粉、包谷豆粉、海盐、纯碱、清水搅拌均匀，压成薄面皮（每张150—200克，厚度1厘米），上甑蒸熟，取出摊晾，折叠切丝，晒干装盒，便可以贮存携带。食用方法多样，可煮可炒可炸，味道鲜美，营养丰富。2010年12月29日，原国家质检总局批准对“云梦鱼面”实施地理标志产品保护。
-汉川荷月
-汉川荷月，传统名点，约有六百多年的历史。白饼子(即汉川荷月)用水油面和油酥馅，加上陈皮、果脯等料制作而成。食用时用开水冲泡，外皮层层发开如荷花绽放，八月十五中秋节食用象征团圆如意。
-汈汊湖醉鱼
-汈汊湖醉鱼是湖北省孝感市汉川市汈汊湖的特产。汈汊湖醉鱼是以野生鲭鲩为原料，现代设备和科学工艺真空包装、高温灭菌。皮爽肉脆、香酥可口，色泽红亮、风味独特、食用方便。
-干拨才鱼筒
-干拨才鱼筒，鲜嫩适中，味道可口，是湖北省应城市的地方传统名菜。 此菜风味独特，以其刀工之精细，配料适中，讲究火候，味道鲜美而久享盛名.干拔才鱼筒的主要食材为才鱼，置于清水中喂养备用，经过油炸后、加入酱、醋、酱油等调料后爆炒，撒上胡椒粉，葱花后起锅。
-孝感麻糖
-孝感麻糖，是湖北有名的传统小吃之一。配方是以精制糯米、优质芝麻和绵白糖为主料，配以花生，焦盐，杏仁等，经过12道工艺流程、32个环节制成，孝感麻糖外形犹如梳子，色白如霜，香味扑鼻，甘甜可口风味独特，营养丰富，含蛋白质、葡萄糖和多种维生素，有暖肺、养胃、滋肝、补肾等功效。孝感麻糖历史悠久，相传宋太祖赵匡胤曾经吃过并赞不绝口，从而一举成为皇家贡品。成品主产地为孝感城南的八埠口。据说，只有用城关西门外隍潭的”龙吐水”熬糖，才能做出上等的麻糖。
-安陆翰林鸡
-“安陆翰林鸡”，是楚北安陆市太白酒楼烹制的系列太白菜肴之一，此肴得名，是取李白曾供翰林职之意。其制作系用整鸡首先腌渍入味蒸至七成熟，然后去骨切块，上盘整理成原鸡形。另以蛋黄糕雕刻“翰林鸡”三字，置鸡首前，并以鸡汤、蘑菇入味和以若干小虾球点缀，经复蒸烹制成。可谓制工精细，造形生动，形神兼备，质佳味美。
-云梦白花菜
-云梦白花菜，湖北省孝感市云梦县特产，全国农产品地理标志。云梦县为府河冲积平原，耕地以沙壤土或壤土为主，该土壤有机质较为丰富，保水保肥力强，土壤肥力高，土壤pH值6.5左右，属偏酸性土壤，适宜种植白花菜。云梦白花菜为白花菜科白花菜属一年生草本植物，叶三出，叶片绿色，花白色，茎秆白色或紫色，茎秆上有绒毛，根系不发达，植株散发出一股特别的清香味。白花菜不宜鲜食，腌制成熟的云梦白花菜成品呈黄褐色、质地爽脆、酸咸可口、带有独特的清香。2018年2月12日，原中华人民共和国农业部正式批准对“云梦白花菜”实施农产品地理标志登记保护。
-麻花桂鱼
-麻花桂鱼是湖北应城民间喜庆宴席中的一道传统名菜，在江汉平原远近相传。应城盛产桂鱼，而麻花又是本地的风味小吃食品，民间每在举办结婚喜庆时，常以鲜活桂鱼以及麻花之类的食品，于女方出嫁时馈赠。麻花桂鱼以鳜鱼（桂鱼）为主要材料。成菜鱼肉清爽，质地软溶。特别是边吃麻花边品鱼，别有一番风味。
-孝感米酒
-孝感米酒是湖北省孝感市传统的风味小吃，具有千年历史的地方名吃，选料考究，制法独特，价格低廉，它以孝感出产的优质糯米为原料，以孝感历史承传的蜂窝酒曲发酵酿制而成。孝感米酒白如玉液，清香袭人，甜润爽口，浓而不沽，稀而不流，食后生津暖胃，回味深长。
-应城扒肉
-应城扒肉是一道地方传统名菜，主要原料有蹄膀等。由于色香味俱全，味道鲜美，受到人们的喜爱。位于江汉平原中部的应城市，物产丰富，湖泊广布，地下矿产资源丰富。这里的人特别讲究吃，尤其是享誉遐
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const xiaoganFoodsList = [
-  // 灯影牛肉
+  // 孝感米酒是湖北省孝感市传统的风味小吃，具有千年历史的地方名吃，选料考究，制法独特，价格低廉，它以孝感出产的优质糯米为原料，以孝感历史承传的蜂窝酒曲发酵酿制而成。孝感米酒白如玉液，清香袭人，甜润爽口，浓而不沽，稀而不流，食后生津暖胃，回味深长。
   {
-    province: '湖北省', // 省
-    city: '孝感市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'hubeiCuisine', // 菜系编码
-    cuisineCategoryName: '楚菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '孝感米酒',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
+  // 汉川荷月，传统名点，约有六百多年的历史。白饼子(即汉川荷月)用水油面和油酥馅，加上陈皮、果脯等料制作而成。食用时用开水冲泡，外皮层层发开如荷花绽放，八月十五中秋节食用象征团圆如意。
   {
-    province: '湖北省', // 省
-    city: '孝感市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'hubeiCuisine', // 菜系编码
-    cuisineCategoryName: '楚菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '汉川荷月',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 云梦鱼面，湖北省云梦县特产，中国国家地理标志产品。云梦鱼面是湖北地区的特色传统名吃之一，采用以鲜鱼（青、鲤、草鱼为佳），除去内脏、鱼鳞、头尾、骨皮，绞成肉浆，与上等面粉、包谷豆粉、海盐、纯碱、清水搅拌均匀，压成薄面皮（每张150—200克，厚度1厘米），上甑蒸熟，取出摊晾，折叠切丝，晒干装盒，便可以贮存携带。食用方法多样，可煮可炒可炸，味道鲜美，营养丰富。2010年12月29日，原国家质检总局批准对“云梦鱼面”实施地理标志产品保护。
+  {
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '云梦鱼面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '宫廷烤鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 汈汊湖醉鱼是湖北省孝感市汉川市汈汊湖的特产。汈汊湖醉鱼是以野生鲭鲩为原料，现代设备和科学工艺真空包装、高温灭菌。皮爽肉脆、香酥可口，色泽红亮、风味独特、食用方便。
+  {
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '汈汊湖醉鱼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 干拨才鱼筒，鲜嫩适中，味道可口，是湖北省应城市的地方传统名菜。 此菜风味独特，以其刀工之精细，配料适中，讲究火候，味道鲜美而久享盛名.干拔才鱼筒的主要食材为才鱼，置于清水中喂养备用，经过油炸后、加入酱、醋、酱油等调料后爆炒，撒上胡椒粉，葱花后起锅。
+  {
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '干拨才鱼筒',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 孝感麻糖，是湖北有名的传统小吃之一。配方是以精制糯米、优质芝麻和绵白糖为主料，配以花生，焦盐，杏仁,经过12道工艺流程、32个环节制成，孝感麻糖外形犹如梳子，色白如霜，香味扑鼻，甘甜可口风味独特，营养丰富，含蛋白质、葡萄糖和多种维生素，有暖肺、养胃、滋肝、补肾等功效。孝感麻糖历史悠久，相传宋太祖赵匡胤曾经吃过并赞不绝口，从而一举成为皇家贡品。成品主产地为孝感城南的八埠口。据说，只有用城关西门外隍潭的”龙吐水”熬糖，才能做出上等的麻糖。
+  {
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '孝感麻糖',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // “安陆翰林鸡”，是楚北安陆市太白酒楼烹制的系列太白菜肴之一，此肴得名，是取李白曾供翰林职之意。其制作系用整鸡首先腌渍入味蒸至七成熟，然后去骨切块，上盘整理成原鸡形。另以蛋黄糕雕刻“翰林鸡”三字，置鸡首前，并以鸡汤、蘑菇入味和以若干小虾球点缀，经复蒸烹制成。可谓制工精细，造形生动，形神兼备，质佳味美。
+  {
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '安陆翰林鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 云梦白花菜，湖北省孝感市云梦县特产，全国农产品地理标志。云梦县为府河冲积平原，耕地以沙壤土或壤土为主，该土壤有机质较为丰富，保水保肥力强，土壤肥力高，土壤pH值6.5左右，属偏酸性土壤，适宜种植白花菜。云梦白花菜为白花菜科白花菜属一年生草本植物，叶三出，叶片绿色，花白色，茎秆白色或紫色，茎秆上有绒毛，根系不发达，植株散发出一股特别的清香味。白花菜不宜鲜食，腌制成熟的云梦白花菜成品呈黄褐色、质地爽脆、酸咸可口、带有独特的清香。2018年2月12日，原中华人民共和国农业部正式批准对“云梦白花菜”实施农产品地理标志登记保护。
+  {
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '云梦白花菜',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 麻花桂鱼是湖北应城民间喜庆宴席中的一道传统名菜，在江汉平原远近相传。应城盛产桂鱼，而麻花又是本地的风味小吃食品，民间每在举办结婚喜庆时，常以鲜活桂鱼以及麻花之类的食品，于女方出嫁时馈赠。麻花桂鱼以鳜鱼（桂鱼）为主要材料。成菜鱼肉清爽，质地软溶。特别是边吃麻花边品鱼，别有一番风味。
+  {
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '麻花桂鱼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 应城扒肉是一道地方传统名菜，主要原料有蹄膀等。由于色香味俱全，味道鲜美，受到人们的喜爱。位于江汉平原中部的应城市，物产丰富，湖泊广布，地下矿产资源丰富。这里的人特别讲究吃，尤其是享誉遐
+  {
+    province: '湖北省',
+    city: '孝感市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '应城扒肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

@@ -1,170 +1,688 @@
 /**
- * 陕西-西安市-特产美食
- * 
-* 饺子宴,秦镇凉皮,牛羊肉泡馍,老童家腊羊肉,锅盔,肉夹馍,腊汁肉,葫芦头,蜜枣甑糕,石子馍,陕西凉皮,老潼关肉夹馍,肉丸糊辣汤,臊子面,贾三灌汤包子,葫芦鸡,biangbiang面,甑糕,锅盔,荞面饸饹,麻食,
-
- * 
- * 
- * 
-饺子宴
-饺子宴是西安市著名小吃宴席，是在发掘研究唐代和中国传统饺子的基础上研制成功的。西安饺子宴的得名，主要因这种宴宾筵席由千姿百态的饺子组成。
-秦镇凉皮
-秦镇凉皮已有2000余年历史，秦镇本地传说在秦始皇时期已经开始有凉皮，为皇朝供物。以大米粉为原料制成，因主产于户县的秦镇，也叫秦镇米皮，制作时把大米粉调成糊状，平铺在多层竹笼内，旺为蒸熟，做出的凉皮筋、薄、细、软，具有独特风味。
-牛羊肉泡馍
-牛羊肉泡馍是西安市的著名小吃，其选用优质牛羊肉，加佐料入锅煮烂，汤汁备用，再把烙好的“虎背菊花心”——坨坨馍，掰成碎块，加辅料煮制而成，其特点是：肉烂汤浓、香醇味美、粘绵韧滑。
-老童家腊羊肉
-老童家腊羊肉是西安市的著名小吃，相传1900年八国联军攻打北京，慈禧太后携光绪皇帝逃难来西安，品尝了之后大加赞赏。并由兵部尚书赵福桥之师邢庭维手书“辇止坡”三字，制成匾额悬挂门口，从此老童家腊羊肉名闻遐迩，近百年来长盛不衰。
-锅盔
-锅盔是陕西关中地区城乡居民喜食的传统风味面食小吃，源于外婆给外孙贺弥月赠送礼品，后发展成为风味方便食品。
-肉夹馍
-肉夹馍陕西乃至西北大部分地区的著名小吃，其起源于战国，当时称“寒肉”，在西安，老樊家几乎成了腊汁肉的代名词。樊记腊汁肉由樊凤祥父子俩创于1925年，已有70多年历史。于1989年参加商业部“金鼎奖”评选活动，被评为部优产品。
-腊汁肉
-腊汁肉是一种用着锅占制的酱肉，但比一般酱肉酥烂，滋味鲜长。由于选料精细，调料全面，火功到家，加上使用陈年老汤，因此所制的腊汁肉与众不同，有明显的特色，人们称赞它是：“肥肉吃了不腻口，瘦肉无法满嘴油。不用牙咬肉自烂，食后余香久不散。”
-葫芦头
-葫芦头是西安特有的风味小吃，它和羊肉泡馍有相似的地方，即同为掰馍，但主要原料不是羊肉，而是猪肠。其主料由猪大肠头、猪肚头、肥肠去腥臊后加佐料煮成汤，再用汤煮馍而成。
-蜜枣甑糕
-甑糕是陕西关中地区的汉族传统糕类早点食品。以糯米、红枣为原料，相间叠放，铺三四层。用大、小火蒸熟。色泽鲜艳，红白相间，粘甜味美。以糯米和红枣为原料制成的一种甜糕。
-石子馍
-石子馍外观焦黄鲜亮，中凹边突，活像一个椭圆形的小金盆，咬开后层次分明，外酥内软，咸香可口，经久耐贮。这种馍是用上等白面粉，放入油和盐（糖），有的还加入鲜花椒叶，制成馍坯，烙制而成。具有油酥咸香，营养丰富，易于消化，携带方便，经久耐贮的特点。
-陕西凉皮
-陕西凉皮为传统特色小吃之一，多使用小麦面粉制作，也有米粉或其他淀粉制作。一般凉拌食用（但在汉中地区，热食更为广泛），种类繁多，制作方法各异，调拌也各具特色，口味不同。凉皮历史久远，凉皮传说源于秦始皇时期，比较常见的种类有有麻酱凉皮、秦镇米皮、汉中面皮、岐山擀面皮、面筋凉皮等。
-老潼关肉夹馍
-老潼关肉夹馍与其它肉夹馍相比，最具特色。馍干、脆、酥、香，肉是肥而不腻，除此之外，最大的特色是吃老潼关肉夹馍时一定要配鸭片汤。老潼关肉夹馍原名烧饼夹馍
-肉丸糊辣汤
-肉丸胡辣汤是西安回民清真小吃。西安人最受欢迎的早餐之一。吃的时候淋上油泼辣子及香油。及手掰的坨坨馍。味道独特。
-臊子面
-臊（sào）子面是中国北方的特色传统面食之一、是著名小吃，以宝鸡的岐山臊子面和临汾的汾城臊子面最为正宗。在山西晋南地区、陕西关中平原及甘肃陇东等地方流行。臊子面历史悠久，其中含有配菜比如豆腐，鸡蛋等，做法简单。臊子就是肉丁的意思。对于山西人来说，臊子面的配色尤为重要，黄色的鸡蛋皮、黑色的木耳、红色的胡萝卜、绿色的蒜苗、白色的豆腐等材料，既好看又好吃。
-贾三灌汤包子
-贾三灌汤包子是陕西省西安市的一道传统小吃，属于陕菜系。
-葫芦鸡
-葫芦鸡是陕西省西安市传统风味名菜，始于唐代。葫芦鸡的制作分清煮、蒸笼、油炸三道工序。制作时先放在清水中漂洗，除净血污，煮时用麻丝将鸡捆好，以保持鸡的整形，待锅内凉水烧沸，投入鸡，煮半小时取出，盛入盆内，添肉汤、料酒、精盐、酱油、葱、姜、八角、桂皮，入笼蒸透。油炸时，将菜籽油烧八成热投入蒸好的整鸡，用手勺拨动，至鸡是金黄色时，用漏勺捞出，沥油，随即盛盘中，上桌时另带小蝶花椒盐佐食。色泽金红，皮酥肉嫩，香烂味醇，筷到骨脱。含有丰富蛋白质和人体所需的饱和脂肪酸。2018年9月，被评为“中国菜”之陕西十大经典名菜。
-biangbiang面
-𰻞𰻞面（汉语拼音：Biángbiáng miàn，Biáng字是一个合字“𰻞”，常被代替写为BiángBiáng面、奤奤面或彪彪面）是陕西关中地区的汉族传统风味面食，因为制作过程中有biang、biang的声音而得名。制作时用关中麦子磨成的面粉，手工拉成长宽厚的面条，用酱油、醋、味精、花椒等佐料调入面汤，捞入面条，淋上烧热的植物油即成。
-甑糕
-甑糕（zèng gāo），是西安、关中地区、晋南地区的传统风味小吃。用糯米、红枣或蜜枣蒸制而成；有的会加红豆、葡萄干等置铁甑上蒸制而成。甑糕小吃历史悠久。甑，是中国古代一种非常古老的蒸器，有陶制、铜制、木制、铁制等，后经民间传承，将铁甑保留，而用之蒸制的粘糕也别有风味。
-锅盔
-锅盔(英文：guokui)，又叫锅魁、干馍，是陕西省关中地区、山西省北部以及甘肃省地区和四川省的城乡居民喜食的地方传统风味面食小吃。饼大直径二尺外，又圆又厚像锅盖。锅盔源于外婆给外孙贺弥月赠送礼品，后发展成为风味方便食品。料取麦面精粉，压秆和面，浅锅慢火烘烤。省外人编成的顺口溜“陕西十大怪”中，有一怪为“烙馍像锅盖”，指的就是锅盔。关中较为著名的有乾州锅盔、泾阳锅盔.武功县锅盔、长武县锅盔、岐山县锅盔，扶风县锅盔，凤翔县锅盔，西和锅盔。
-荞面饸饹
-荞面饸饹是一道以荞面、羊肉、土豆、香菜等为主要食材制作的美食。是陕西省著名的传统面食小吃。被誉为北方面食三绝之一，与兰州拉面、山西刀削面齐名。
-麻食
-麻食（麻什），原称作“秃秃麻什”或“秃秃麻失”等，北京话也叫作“猫耳朵”，西北地区有的地方叫麻食子、麻绳儿，批耳子，还有的地方称作圪饦儿、饽秃儿、圪团儿、圪垛垛、圪脱、苛秃儿，其历史已经有近
-
-*/
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+ * 陕西-西安市-美食
+ * 饺子宴,秦镇凉皮,牛羊肉泡馍,老童家腊羊肉,锅盔,肉夹馍,腊汁肉,葫芦头,蜜枣甑糕,石子馍,陕西凉皮,老潼关肉夹馍,肉丸糊辣汤,臊子面,贾三灌汤包子,葫芦鸡,biangbiang面,甑糕,锅盔,荞面饸饹,麻食,
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const xiAnFoodsList = [
-  // 灯影牛肉
   {
-    province: '陕西省', // 省
-    city: '西安市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'shaanxiCuisine', // 菜系编码
-    cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '饺子宴',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
   {
-    province: '陕西省', // 省
-    city: '西安市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'shaanxiCuisine', // 菜系编码
-    cuisineCategoryName: '陕西菜、陕菜、秦菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '秦镇凉皮',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '牛羊肉泡馍',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '老童家腊羊肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '锅盔',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '肉夹馍',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '腊汁肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '葫芦头',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '蜜枣甑糕',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '石子馍',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '陕西凉皮',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '老潼关肉夹馍',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '肉丸糊辣汤',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '臊子面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '贾三灌汤包子',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '葫芦鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: 'biangbiang面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '甑糕',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '荞面饸饹',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '陕西省',
+    city: '西安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '麻食',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shaanxiCuisine',
+    cuisineCategoryName: '陕西菜、陕菜、秦菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

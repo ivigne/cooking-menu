@@ -1,8 +1,8 @@
 /**
- * 安徽省-宣城市-特产美食
+ * 安徽省-宣城市-美食
 广德天下第一鲜,绩溪一品锅,琴鱼,桐花鱼,
  */
-import { lampshadedBeefScriptsList } from './xuanchengFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './xuanchengFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const xuanchengFoodsList = [
   // 广德天下第一鲜

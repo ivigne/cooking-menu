@@ -1,8 +1,8 @@
 /**
- * 四川-德阳市-特产美食
+ * 四川-德阳市-美食
  * 绵竹松花皮蛋、什邡板鸭、广汉缠丝兔、果汁牛肉、德阳酱油、罗江豆鸡、连山回锅肉、中江八宝油糕
  */
-import { lampshadedBeefScriptsList } from './deyangFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './deyangFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const deyangFoodsList = [
   // 绵竹松花皮蛋

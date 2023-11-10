@@ -12,4 +12,5 @@ export default {
   tools: '实用工具',
   randomOrder: '随机点菜',
   processData: '数据处理',
+  codeGeneration: '代码生成',
 };

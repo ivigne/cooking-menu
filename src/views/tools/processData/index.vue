@@ -69,8 +69,9 @@
   </PageWrapper>
 </template>
 <script lang="ts" setup>
-  import { ref, Ref, reactive } from 'vue';
+  import { ref, Ref, reactive, unref } from 'vue';
   import { List, Card, Button, Space, Input, Form } from 'ant-design-vue';
+  import { useCopyToClipboard } from '/@/hooks/web/useCopyToClipboard';
   // import { useI18n } from '/@/hooks/web/useI18n';
   // import { useMessage } from '/@/hooks/web/useMessage';
   // const { createMessage } = useMessage();
@@ -98,7 +99,7 @@
   // const arrayData = ref<T>([]);
   // 将字符串分隔符(中文逗号，回车)统一替换成英文分隔符，并转成为数组
   const replaceAndSplitStr = (value: any) => {
-    return value.replace(/，/g, ',').replace(/\n/g, ',').split(',');
+    return value.replace(/、/g, ',').replace(/，/g, ',').replace(/\n/g, ',').split(',');
   };
   // 将数组转成为“英文分隔符”的字符串
   const joinStr = (value: any) => {
@@ -114,6 +115,8 @@
     const setArrBegin = Array.from(new Set(arrBegin));
     if (type === 'deDuplicate') {
       arrayRoutinesResult.value = joinStr(setArrBegin);
+      useCopyToClipboard(JSON.stringify(unref(setArrBegin)));
+
       console.log('changdu:', arrBegin.length, setArrBegin.length);
     }
   };

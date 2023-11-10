@@ -1,154 +1,428 @@
 /**
- * 宁夏回族自治区-固原市-特产美食
- * 
- * 生氽面,馓子,羊羔头,羊杂碎,固原拉皮,羊肉泡馍,荞面油圈,搅团,浆水面,燕面糅糅,荞面饸饹,茹河果脯,
-
-
- * 
- * 
- * 
-生氽面
-生氽面，用加少许食盐的温水和面，然后团在一起揉匀，直到面团表面细腻光滑有弹性，然后用盆子扣住面，或用塑料薄膜包住—“醒面”，10分钟左右面醒好后把它用手掌压扁，并用擀面杖推薄，当然不要太薄，这个根据自己的口味就行，接下来将推开的面划成条，待水开后把一条条的面揪成片下到锅里煮熟，将面片盛到碗里同时拌上事先做好的肉丸或肉丁，将准备好的黄花、木耳、粉条等放入碗里，盛入汤，再根据自己的口味加入醋、食盐、蒜苗、香菜等。 [19]
-馓子
-馓子，是中国一种古老的食品。以糯米粉或是面粉搓成细绳，挽曲如环，入油锅炸成金黄色，香酥无比，为南北之通食。《名义考》云：“绳而食之，曰环饼，又曰寒具，即今馓子。”俗语有点心香。 [19]
-羊羔头
-羊羔头，作为二毛皮和羊羔肉的副产品，已开发成为固原地区非常有名的一种回族风味特色小吃。五香羊羔头一般选用30—35天的小羊羔头，具体做法是将羊羔头洗干净，浸泡一夜，第二天将浸泡好的羊羔头用沸水焯一遍，去掉血沫和杂质，然后加入独家秘制高汤和作料小火慢炖。 [20]
-羊杂碎
-羊杂碎，其制作方法是：用羊的内脏、头蹄肉，经仔细冲洗后，入开水锅煮熟后捞出，切成丝。以原汤下入切好的杂碎丝，加葱、姜、蒜末、红辣油、味精、香菜，即成烩羊杂碎。 [21]
-固原拉皮
-固原拉皮，采用优质土豆粉制成，薄、光、筋道口感爽滑，佐以特色秘制的汁料。 [19]
-羊肉泡馍
-羊肉泡馍，古称“羊羹”，宋代苏轼有“陇馔有熊腊，秦烹唯羊羹”的诗句。羊肉泡馍的烹饪技术要求很严，煮肉的工艺也特别讲究。其制作方法是：先将优质的牛羊肉洗切干净，煮时加葱、姜、花椒、八角、茴香、桂皮等佐料煮烂，汤汁备用。馍，是一种白面烤饼，吃时将其掰碎成黄豆般大小放入碗内，然后交厨师在碗里放一定量的熟肉、原汤，并配以葱末、白菜丝、料酒、粉丝、盐、味精等调料，单勺制作而成。 [19]
-荞面油圈
-荞面油圈，先将荞面用开水冲烫拌匀后，连同面盆放置于80℃水锅中10—15分钟后，取出凉至20℃左右，先搀进黑面粉少许，再加入酵面，用手蘸油做成1—2两的圆饼，中间钻一小孔，入油锅炸熟。 [19]
-搅团
-搅团，为西北一特色吃食，陕甘宁尤好吃。搅团，在60-70年代可以说是农家的救命饭。搅团的吃法有两种，一种是水围城，一种是漂鱼儿。主要包括玉米搅团和洋芋搅团。 [19]
-浆水面
-浆水面，可称一绝。做好的浆水面看上去嫩黄柳绿，红油浮面，酸辣可口，色味俱佳。制作浆水面，面条的种类不拘，擀压拉均可，关键在于浆水沤制的好坏。所谓浆水，是用新鲜的芹菜、白菜、甘兰等叶类蔬菜在开水中略烫，然后浸入盛有凉开水的罐中，加少量旧浆水作“引子”，密闭罐口，经乳酸菌的作用，一周左右菜有浓酸味，并带有清淡的特殊香气，这时便可食用。做浆水面时，先将沤制好的浆水舀一勺入锅，并根据酸味浓度和食用者要求，酌情加清水兑合，烧沸，再加葱花、香菜、食盐、辣椒等调味品，待凉即成。 [19]
-燕面糅糅
-燕面糅糅，即莜麦面，制作方法：将磨好的面用热开水和成面团，并揉匀后取适量填塞在专门加工燕面糅糅的器具内，挤压成圆的细条状，放在笼屉内用旺火蒸熟，吃时配以韭菜、蒜苗丝、辣椒油、蒜泥、醋汁等。
-荞面饸饹
-荞面饸饹，将荞麦面用一种木制的压床压成条状的“饸饹”，蒸熟后柔韧而滑润，拌以葱花、肉丝、辣椒等作料。 [22]
-茹河果脯
-茹河果脯，是将鲜杏去核、晒干后制成的。经糖渍后，再经干燥而成，成品表面不黏不燥，有透明感，无糖霜析出。其营养丰富，含有大量的葡萄糖、果糖，极易被人体吸收利用。杏脯色泽美观，酸甜可口保持了鲜杏的天然色泽和营养成分，并具有生津止渴，去冷热毒之功效。 [19]
-
-
-*/
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+ * 宁夏回族自治区-固原市-美食
+ * 生氽面,馓子,羊羔头,羊杂碎,固原拉皮,羊肉泡馍,荞面油圈,搅团,浆水面,燕面糅糅,荞面饸饹,茹河果脯
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const guyuanFoodsList = [
-  // 灯影牛肉
+  // 生氽面，用加少许食盐的温水和面，然后团在一起揉匀，直到面团表面细腻光滑有弹性，然后用盆子扣住面，或用塑料薄膜包住—“醒面”，10分钟左右面醒好后把它用手掌压扁，并用擀面杖推薄，当然不要太薄，这个根据自己的口味就行，接下来将推开的面划成条，待水开后把一条条的面揪成片下到锅里煮熟，将面片盛到碗里同时拌上事先做好的肉丸或肉丁，将准备好的黄花、木耳、粉条等放入碗里，盛入汤，再根据自己的口味加入醋、食盐、蒜苗、香菜等。 [19]
   {
-    province: '宁夏回族自治区', // 省
-    city: '固原市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
-    cuisineCategoryName: '西北菜、宁夏菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '生氽面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
+  // 馓子，是中国一种古老的食品。以糯米粉或是面粉搓成细绳，挽曲如环，入油锅炸成金黄色，香酥无比，为南北之通食。《名义考》云：“绳而食之，曰环饼，又曰寒具，即今馓子。”俗语有点心香。 [19]
   {
-    province: '宁夏回族自治区', // 省
-    city: '固原市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'northwesternCuisine', // 菜系编码
-    cuisineCategoryName: '西北菜、宁夏菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '馓子',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 羊羔头，作为二毛皮和羊羔肉的副产品，已开发成为固原地区非常有名的一种回族风味特色小吃。五香羊羔头一般选用30—35天的小羊羔头，具体做法是将羊羔头洗干净，浸泡一夜，第二天将浸泡好的羊羔头用沸水焯一遍，去掉血沫和杂质，然后加入独家秘制高汤和作料小火慢炖。 [20]
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '羊羔头',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 羊杂碎，其制作方法是：用羊的内脏、头蹄肉，经仔细冲洗后，入开水锅煮熟后捞出，切成丝。以原汤下入切好的杂碎丝，加葱、姜、蒜末、红辣油、味精、香菜，即成烩羊杂碎。 [21]
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '羊杂碎',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 固原拉皮，采用优质土豆粉制成，薄、光、筋道口感爽滑，佐以特色秘制的汁料。 [19]
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '固原拉皮',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 羊肉泡馍，古称“羊羹”，宋代苏轼有“陇馔有熊腊，秦烹唯羊羹”的诗句。羊肉泡馍的烹饪技术要求很严，煮肉的工艺也特别讲究。其制作方法是：先将优质的牛羊肉洗切干净，煮时加葱、姜、花椒、八角、茴香、桂皮等佐料煮烂，汤汁备用。馍，是一种白面烤饼，吃时将其掰碎成黄豆般大小放入碗内，然后交厨师在碗里放一定量的熟肉、原汤，并配以葱末、白菜丝、料酒、粉丝、盐、味精等调料，单勺制作而成。 [19]
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '羊肉泡馍',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 荞面油圈，先将荞面用开水冲烫拌匀后，连同面盆放置于80℃水锅中10—15分钟后，取出凉至20℃左右，先搀进黑面粉少许，再加入酵面，用手蘸油做成1—2两的圆饼，中间钻一小孔，入油锅炸熟。 [19]
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '荞面油圈',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 搅团，为西北一特色吃食，陕甘宁尤好吃。搅团，在60-70年代可以说是农家的救命饭。搅团的吃法有两种，一种是水围城，一种是漂鱼儿。主要包括玉米搅团和洋芋搅团。 [19]
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '搅团',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 浆水面，可称一绝。做好的浆水面看上去嫩黄柳绿，红油浮面，酸辣可口，色味俱佳。制作浆水面，面条的种类不拘，擀压拉均可，关键在于浆水沤制的好坏。所谓浆水，是用新鲜的芹菜、白菜、甘兰等叶类蔬菜在开水中略烫，然后浸入盛有凉开水的罐中，加少量旧浆水作“引子”，密闭罐口，经乳酸菌的作用，一周左右菜有浓酸味，并带有清淡的特殊香气，这时便可食用。做浆水面时，先将沤制好的浆水舀一勺入锅，并根据酸味浓度和食用者要求，酌情加清水兑合，烧沸，再加葱花、香菜、食盐、辣椒等调味品，待凉即成。 [19]
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '浆水面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 燕面糅糅，即莜麦面，制作方法：将磨好的面用热开水和成面团，并揉匀后取适量填塞在专门加工燕面糅糅的器具内，挤压成圆的细条状，放在笼屉内用旺火蒸熟，吃时配以韭菜、蒜苗丝、辣椒油、蒜泥、醋汁等。
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '燕面糅糅',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 荞面饸饹，将荞麦面用一种木制的压床压成条状的“饸饹”，蒸熟后柔韧而滑润，拌以葱花、肉丝、辣椒等作料。 [22]
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '荞面饸饹',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 茹河果脯，是将鲜杏去核、晒干后制成的。经糖渍后，再经干燥而成，成品表面不黏不燥，有透明感，无糖霜析出。其营养丰富，含有大量的葡萄糖、果糖，极易被人体吸收利用。杏脯色泽美观，酸甜可口保持了鲜杏的天然色泽和营养成分，并具有生津止渴，去冷热毒之功效。 [19]
+  {
+    province: '宁夏回族自治区',
+    city: '固原市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '茹河果脯',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、宁夏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

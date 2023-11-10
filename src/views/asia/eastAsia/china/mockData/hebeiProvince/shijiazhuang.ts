@@ -1,158 +1,499 @@
 /**
- * 河北-石家庄市-特产美食
- * 
-* 烧饼裹肉,高庙扒糕,金毛狮子鱼,石家庄回民扒鸡,金凤扒鸡,黄瓜宴,藁城宫面,疙豆儿,雪桥八仙,抓炒全鱼,正定马家卤鸡,郝家排骨,金凤扒鸡,宫面,六街烧饼,
-
-
- * 
-烧饼裹肉
-烧饼裹肉是河北省深泽民间的传统小吃，深泽美食三绝之一。相传由清代流传。色泽金黄，外脆里嫩，香酥可口。深泽的烧饼裹肉的裹法讲究，肉食以小驴肉、牛肉、猪杂、西河肉糕为主，尤以小驴肉和西河肉糕为上品，最为独特。
-高庙扒糕
-扒糕是一种经典的传统小吃。主料是荞麦面，加上花椒，小茴香等调料，搅拌均匀，开水下锅，煮熟后趁热定型为二两左右的圆饼，凉晒即可食用，食用方法是将扒糕切成小块，沾上以蒜泥、姜末、葱花、香油等配好的调料，具有蒜香可口，绵软有劲的特点。
-金毛狮子鱼
-金毛狮子鱼是一道河北石家庄的传统名菜，属于冀菜系。金毛狮子鱼以鲤鱼 为主要材料。用鲤鱼加工修饰后，炸制而成。色泽金黄，鱼丝蓬松形似狮子，酸甜适口。始于民国初期，最早由石家庄市的中华饭庄名厨
-石家庄回民扒鸡
-回民马鸿昌夫妇在石家庄开办红顺利小店，经营五香烧鸡，闻名华北。50年代该店广取博采外地扒鸡的烹炸技术，将五香烧鸡改制成扒鸡，取名“马家鸡铺”扒鸡。此种扒鸡现由中山路食品商店扒鸡加工厂根据
-金凤扒鸡
-金凤扒鸡最早始于1908年，采用独特的制作工艺，用蜂蜜对鸡进行上色炸制，并用中药秘方老汤煮制。具有一定的药理功效和保健作用，上世纪80年代初，马家鸡的经营者们设计了“金凤”作为商标，并在1
-黄瓜宴
-黄瓜宴是河北省石家庄市名闻遐迩的传统名菜，整个宴席全以黄瓜为主料，分为八道冷拼，12个热炒。
-藁城宫面
-藁城宫面，河北省石家庄市藁城区特产，中国国家地理标志产品。藁城宫面是以精粉、精油、精盐为原料，经独特工艺而制成，条细空心，油亮洁白，粗细均匀整齐。煮熟挑入碗中，半汤半面，汤清味佳，既可作主食，又可佐餐，尤宜病人和产妇食用。因其系手工制作，故耐火而不糟，回锅而不烂，较有口劲，食用简便，富有营养。2017年11月，原国家质检总局批准对“藁城宫面”实施地理标志产品保护。
-疙豆儿
-疙豆儿，面食小吃。山西一带叫圪斗儿，抿尖儿、抿节儿、蝌蚪，唐山东北一带叫疙豆儿、格豆儿，石家庄一带也叫疙豆儿。是一种面食小吃。一般用荞麦面、白薯面、玉米面或豆面等杂粮加少许白面混合而成，为增加黏性，过去用榆树皮晾干磨成面混杂在里面。具体操作方法是：用疙豆儿床架在锅上，水开之后，用力搓压，一节节的疙豆儿就会掉入滚水中，水开即熟，一般做打卤面，炒制各种浇头淋上即可食用。
-雪桥八仙
-雪桥八仙是河北石家庄有一道风格别致的地方传统名肴，属于冀菜系。此菜景中有味，口味纯甜，且具有多种水果的香味。这式菜取材于赵州桥的美丽传说。这则千古佳话，犹在到处传诵。人们品尝“雪桥八仙”这道菜，不仅可以从中得到美美的口味享受，还可以产生不少动人的联想得到精神上的极大愉悦哩。
-抓炒全鱼
-抓炒全鱼是河北省石家庄市的一道传统名菜，属于冀菜系。该菜品以鲤鱼为主料，辅以盐、葱、辣椒粉、五香粉制作而成。
-正定马家卤鸡
-正定马家卤鸡是河北省石家庄市正定县的特产。
-郝家排骨
-郝家排骨是一道色香味俱全的传统名菜。由河北正定郝家传承祖上排骨烹饪秘方而成。其做法是选用新鲜排骨，搭配各种天然中草料及特殊煮制工艺制作而成，其风味独特，肉质爽滑。
-金凤扒鸡
-金凤扒鸡最早始于1908年，采用独特的制作工艺，用蜂蜜对鸡进行上色炸制，并用中药秘方老汤煮制。具有一定的药理功效和保健作用，上世纪80年代初，马家鸡的经营者们设计了“金凤”作为商标，并在1984年正式注册了金凤扒鸡的商标。
-宫面
-宫面是藁城特产之一(另有宫灯、宫酒,民间戏称“三宫”),属河北省传统名产名优食品,亦称贡面。距今有一千五百多年历史,是河北省富有独具地方特点的传统风味食品,全国只有河北省一家出口。藁城宫面荣获“中国国家地理标志产品”“中国藁城宫面之城”“中国非物质文化遗产””燕赵老字号”粮如意荣获“中国名优产品”“中国自主创新产品”“中国绿色环保产品”。该面营养丰富，味道鲜美，面条细匀空心，色泽油亮而洁白，耐火不糟，回锅不烂，食用方便，既可以做为主食，又可以做副食佐餐；吃凉面条，热面汤均可。它是老人，病人，产妇，婴儿常备的滋补食品，也是馈赠亲朋好友的上佳品。藁城宫面制作技艺，已有两千多年的加工历史，古代宫面系乡人所艺，食材考究及粮如意，味极适口，相传数百载，历经不断发展和完善，在藁城形成了完整的加工技艺和独有的膳食文化。由于最初只供给宫廷，也叫藁城宫面，粮如意宫面，贡面、御面，藕面。
-六街烧饼
-鹿泉土生土长的人都知道：好吃的烧饼就在获鹿镇六街。六街在太平河南岸一条小街里边有好几家做烧饼的，家家都很好吃。六街的烧饼是用煮肉的阵年老卤汤和的面，还有说是用上好的植物油和的面。
-
-
-*/
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+ * 河北-石家庄市-美食
+ *
+ * 烧饼裹肉,高庙扒糕,金毛狮子鱼,石家庄回民扒鸡,金凤扒鸡,黄瓜宴,藁城宫面,疙豆儿,雪桥八仙,抓炒全鱼,正定马家卤鸡,郝家排骨,宫面,六街烧饼
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const shijiazhuangFoodsList = [
-  // 灯影牛肉
+  // 烧饼裹肉是河北省深泽民间的传统小吃，深泽美食三绝之一。相传由清代流传。色泽金黄，外脆里嫩，香酥可口。深泽的烧饼裹肉的裹法讲究，肉食以小驴肉、牛肉、猪杂、西河肉糕为主，尤以小驴肉和西河肉糕为上品，最为独特。
   {
-    province: '河北省', // 省
-    city: '石家庄市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'hebeiCuisine', // 菜系编码
-    cuisineCategoryName: '冀菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '烧饼裹肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
+  // 扒糕是一种经典的传统小吃。主料是荞麦面，加上花椒，小茴香等调料，搅拌均匀，开水下锅，煮熟后趁热定型为二两左右的圆饼，凉晒即可食用，食用方法是将扒糕切成小块，沾上以蒜泥、姜末、葱花、香油等配好的调料，具有蒜香可口，绵软有劲的特点。
   {
-    province: '河北省', // 省
-    city: '石家庄市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'hebeiCuisine', // 菜系编码
-    cuisineCategoryName: '冀菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '高庙扒糕',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 金毛狮子鱼是一道河北石家庄的传统名菜，属于冀菜系。金毛狮子鱼以鲤鱼 为主要材料。用鲤鱼加工修饰后，炸制而成。色泽金黄，鱼丝蓬松形似狮子，酸甜适口。始于民国初期，最早由石家庄市的中华饭庄名厨
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '金毛狮子鱼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 回民马鸿昌夫妇在石家庄开办红顺利小店，经营五香烧鸡，闻名华北。50年代该店广取博采外地扒鸡的烹炸技术，将五香烧鸡改制成扒鸡，取名“马家鸡铺”扒鸡。此种扒鸡现由中山路食品商店扒鸡加工厂根据
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '石家庄回民扒鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 金凤扒鸡最早始于1908年，采用独特的制作工艺，用蜂蜜对鸡进行上色炸制，并用中药秘方老汤煮制。具有一定的药理功效和保健作用，上世纪80年代初，马家鸡的经营者们设计了“金凤”作为商标，并在1984年正式注册了金凤扒鸡的商标。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '金凤扒鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 黄瓜宴是河北省石家庄市名闻遐迩的传统名菜，整个宴席全以黄瓜为主料，分为八道冷拼，12个热炒。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '黄瓜宴',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 藁城宫面，河北省石家庄市藁城区特产，中国国家地理标志产品。藁城宫面是以精粉、精油、精盐为原料，经独特工艺而制成，条细空心，油亮洁白，粗细均匀整齐。煮熟挑入碗中，半汤半面，汤清味佳，既可作主食，又可佐餐，尤宜病人和产妇食用。因其系手工制作，故耐火而不糟，回锅而不烂，较有口劲，食用简便，富有营养。2017年11月，原国家质检总局批准对“藁城宫面”实施地理标志产品保护。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '藁城宫面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 疙豆儿，面食小吃。山西一带叫圪斗儿，抿尖儿、抿节儿、蝌蚪，唐山东北一带叫疙豆儿、格豆儿，石家庄一带也叫疙豆儿。是一种面食小吃。一般用荞麦面、白薯面、玉米面或豆面等杂粮加少许白面混合而成，为增加黏性，过去用榆树皮晾干磨成面混杂在里面。具体操作方法是：用疙豆儿床架在锅上，水开之后，用力搓压，一节节的疙豆儿就会掉入滚水中，水开即熟，一般做打卤面，炒制各种浇头淋上即可食用。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '疙豆儿',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 雪桥八仙是河北石家庄有一道风格别致的地方传统名肴，属于冀菜系。此菜景中有味，口味纯甜，且具有多种水果的香味。这式菜取材于赵州桥的美丽传说。这则千古佳话，犹在到处传诵。人们品尝“雪桥八仙”这道菜，不仅可以从中得到美美的口味享受，还可以产生不少动人的联想得到精神上的极大愉悦哩。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '雪桥八仙',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 抓炒全鱼是河北省石家庄市的一道传统名菜，属于冀菜系。该菜品以鲤鱼为主料，辅以盐、葱、辣椒粉、五香粉制作而成。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '抓炒全鱼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 正定马家卤鸡是河北省石家庄市正定县的特产。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '正定马家卤鸡',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 郝家排骨是一道色香味俱全的传统名菜。由河北正定郝家传承祖上排骨烹饪秘方而成。其做法是选用新鲜排骨，搭配各种天然中草料及特殊煮制工艺制作而成，其风味独特，肉质爽滑。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '郝家排骨',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 宫面是藁城特产之一(另有宫灯、宫酒,民间戏称“三宫”),属河北省传统名产名优食品,亦称贡面。距今有一千五百多年历史,是河北省富有独具地方特点的传统风味食品,全国只有河北省一家出口。藁城宫面荣获“中国国家地理标志产品”“中国藁城宫面之城”“中国非物质文化遗产””燕赵老字号”粮如意荣获“中国名优产品”“中国自主创新产品”“中国绿色环保产品”。该面营养丰富，味道鲜美，面条细匀空心，色泽油亮而洁白，耐火不糟，回锅不烂，食用方便，既可以做为主食，又可以做副食佐餐；吃凉面条，热面汤均可。它是老人，病人，产妇，婴儿常备的滋补食品，也是馈赠亲朋好友的上佳品。藁城宫面制作技艺，已有两千多年的加工历史，古代宫面系乡人所艺，食材考究及粮如意，味极适口，相传数百载，历经不断发展和完善，在藁城形成了完整的加工技艺和独有的膳食文化。由于最初只供给宫廷，也叫藁城宫面，粮如意宫面，贡面、御面，藕面。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '宫面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 鹿泉土生土长的人都知道：好吃的烧饼就在获鹿镇六街。六街在太平河南岸一条小街里边有好几家做烧饼的，家家都很好吃。六街的烧饼是用煮肉的阵年老卤汤和的面，还有说是用上好的植物油和的面。
+  {
+    province: '河北省',
+    city: '石家庄市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '六街烧饼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

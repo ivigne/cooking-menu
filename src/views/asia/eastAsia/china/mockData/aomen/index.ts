@@ -1,9 +1,9 @@
 /**
- * 澳门特别行政区-特产美食
+ * 澳门特别行政区-美食
  * 澳门烧肉,葡式蛋挞（葡挞）,马介休,水蟹粥,免治,鲜虾浓汤,椰汁糕,甘薯蛋糕,猪扒包
  */
 
-import { lampshadedBeefScriptsList } from './aomenFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './aomenFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const aoMenFoodsList = [
   // 澳门烧肉

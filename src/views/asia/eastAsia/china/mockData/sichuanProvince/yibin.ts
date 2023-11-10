@@ -1,8 +1,8 @@
 /**
- * 四川-宜宾市-特产美食
+ * 四川-宜宾市-美食
  * 宜宾燃面、竹海名菜、李庄白肉、鸭儿粑，又名叶儿粑、少数人称猪儿粑。柏溪潮糕、南溪豆腐干、芽菜、宜宾糟蛋、宜宾兰香斋熏肉、
  */
-import { lampshadedBeefScriptsList } from './yibinFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './yibinFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const yibinFoodsList = [
   // 宜宾燃面

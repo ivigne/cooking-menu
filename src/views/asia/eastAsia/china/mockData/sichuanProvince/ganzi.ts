@@ -1,8 +1,8 @@
 /**
- * 四川-甘孜藏族自治州-特产美食
+ * 四川-甘孜藏族自治州-美食
  * 美食：丹巴香猪腿、岚安腊肉粉皮、水淘糌粑、牛肉血肠、火烧子馍馍
  */
-import { lampshadedBeefScriptsList } from './ganziFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './ganziFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const ganziFoodsList = [
   // 丹巴香猪腿

@@ -1,8 +1,8 @@
 /**
- * 四川-泸州市-特产美食
+ * 四川-泸州市-美食
  * 泸州肥儿粉、先市酱油、护国陈醋、泸州白糕、猪儿耙、泸州黄粑、泸州凉糕、古蔺麻辣鸡、殷家坡醪糟、纳溪泡糖、白果鸡、观音月母鸡汤、泸州烤鱼
  */
-import { lampshadedBeefScriptsList } from './luzhouFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './luzhouFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const luzhouFoodsList = [
   // 泸州肥儿粉

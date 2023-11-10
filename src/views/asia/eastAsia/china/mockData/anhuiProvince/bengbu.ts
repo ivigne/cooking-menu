@@ -1,8 +1,8 @@
 /**
- * 安徽省-蚌埠市-特产美食
+ * 安徽省-蚌埠市-美食
  * 龙亢泡条馓子,河溜小豆饼,怀远五岔烧全鸡,老任桥牛肉,湖沟烧饼,
  */
-import { lampshadedBeefScriptsList } from './bengbuFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './bengbuFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const bengbuFoodsList = [
   // 龙亢泡条馓子

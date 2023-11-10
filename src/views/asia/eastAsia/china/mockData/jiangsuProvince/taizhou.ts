@@ -1,147 +1,417 @@
 /**
- * 江苏-泰州市-特产美食
+ * 江苏-泰州市-美食
  * 
 靖江蟹黄汤包,沙沟大鱼圆,靖江肉脯,九丝汤,烫干丝,黄桥烧饼,中庄醉蟹,泰州鱼汤面,靖江扒凤腿,曲霞蟹黄汤包,桂香糖,荞麦扁团,
-
-* 烫干丝
- * 
-靖江蟹黄汤包是“中华四大名点”之一，至今已有近二百年的历史。靖江汤包因皮薄、馅汁特多,有着独特的个性，一是制作绝，二是吃法绝。馅心精选金秋时节大河蟹、新鲜猪肉皮、正宗老母草鸡特制而成，皮薄，汤清不腻，稠而不油。品尝汤包一定要记住十二字要领：轻轻提、快快移、先开窗、后吮汤。 [63]
-沙沟大鱼圆已有300多年历史，以沙沟河湖中的青鱼、草鱼为主要原料加工而成。鱼圆制作时，须经过调味搅拌、甩打上劲、静置松身、油氽入锅、文火慢养等几个步骤。鱼圆外形圆滑、饱满，呈乳白色或芽黄色，里面肉色雪白，吃起来鲜嫩爽口、油而不腻。 [70]
-靖江肉脯始创于1936年，选料精细，采用传统工艺，配以多种天然香料，经过10多道工序精心加工而成。产品色泽鲜艳、味道鲜美、食用方便、回味无穷，曾2次荣获国家金质奖，远销日本、俄罗斯、东南亚及港澳地区。 [67]
-泰州干丝分为煮干丝和烫干丝。煮干丝在清乾隆时期名“九丝汤”，即干丝加火腿丝、笋丝、口蘑丝、木耳丝、银鱼丝、紫菜丝、蛋皮丝、鸡丝，高档的还要加海参丝或燕窝丝。烫干丝、是用洁白大干劈成细丝，用开水烫泡装盘，然后用芽姜切成细丝，覆于盘顶，干丝洁白，姜丝金黄，另加一小撮虾米，浇上黄豆酱油和纯香小磨麻油，一经拌和，黄白相间，一碟食毕，齿颊留香。 [66]
-黄桥烧饼制作工艺比较独特，从揣酵（和面）开始就很讲究，天冷烫酵，天热“雪花籽”，不冷不热 “老鼠喷沙”。兑碱也要因时而定，飘碱面起泡，反之则粘牙。馅和酥分别用猪油和花生油拌面粉擦酥，做烧饼时，酥搭于面团上，用手搓长再卷起，然后用响子轻捶一下，翻转至底上再捶一下，调转方向再捶，然后将底翻朝下，刷上糖稀，撒上去皮芝麻，贴入桶炉烤。 [64]
-泰兴白果具有果大，壳薄，出核率高，出仁率高，仁饱满，浆水足，种壳结构细密，糯性强，贮藏期长（常规可贮5个月）等特点，泰兴白果中含有丰富的淀粉、蛋白质、脂肪、黄酮、萜内酯，特别要提到的是种仁中含有人体需要的各种氨基酸，其中包括9种人体不能合成或不能完全合成的亮氨酸、异亮氨酸、赖氨酸、蛋氨酸、苯丙氨酸、色氨酸、缬氨酸、精氨酸及婴儿必须的组氨酸。1999年，泰兴白果被昆明世界园艺博览会指定为全国唯一无公害白果，享有永久冠名权。2004年9月，通过国家有机食品和绿色食品双认证。2004年08月31日，原国家质检总局批准对“泰兴白果”实施原产地域产品保护。 [69]
-中庄醉蟹为兴化传统名产，历史悠久，最早制作此蟹而又做得最好的为兴化中堡庄一带，故人称“中庄醉蟹”。制作醉蟹一般选用蜈蚣湖、大纵湖出产的上等淡水蟹，经过选料、浸养、干放、去绒毛、灌料、封缸、装坛、封口等二十一道工序．以特制的秘方、名贵药材等封缸浸泡而成。中庄醉蟹，色如鲜蟹，栩栩如生，肉质细嫩，味道鲜美。1915年，中庄醉蟹在巴拿马国际博览会上赢得食品类金奖。 [65]
-兴化大闸蟹，江苏省兴化市特产，中国地理标志产品。兴化市内湖荡密布，河道纵横交织，湖荡内水草丰美，为优质淡水螃蟹的生长提供了得天独厚的良好条件。有4乡镇被授予“中国河蟹之乡”称号，兴化市被授予“中国河蟹养殖第一县”称号。所产大闸蟹具有“青壳、白肚、金爪、黄毛、博螯、捷足”的特点，脂膏丰满纯正、肉质玉白爽嫩、蟹黄晶红油润、入口鲜香溢甜，深受海内外消费者的青睐。多个品牌的大闸蟹入选“中国十大名蟹”、荣获“中国名蟹金奖”。
-溱湖出产的簖蟹、银鱼、青虾、甲鱼、“四喜”（大四喜：青鱼、白鱼、鲤鱼、鳜鱼，小四喜：昂刺、鳑鲏、罗汉、鲹鱼）、螺贝、水禽以及水生蔬菜等，统称为溱湖八鲜。溱湖八鲜大多单独加工，也可多种湖鲜烩成一道菜。 [70]
-泰州三麻指麻油、麻糕、麻饼。有关资料显示，泰州生产小磨麻油已有三百多年历史，它不仅质纯、香浓、味醇，而且对延缓皮肤衰老和烫（烧）伤后的皮肤再生有特效。泰州生产麻糕历史悠久，尤其是“嵌桃麻糕”，素享盛誉。双色麻饼始创于清代，兼甜、咸两味，色泽金黄，质地酥脆。 [70]
-泰州鱼汤面的特点是：汤浓、味鲜、面香。虽是区区一碗汤面，却是处处考究，煞费苦心。最为关键的则是制作鱼汤。取鳝鱼骨用荤油反复烹炒后，加进大块猪肉，同锅猛火煮烧，小火煨煮。经过熬制后，鱼汤醇厚，色白如乳，肥而不腻，鲜而不腥。面条下熟后，以冷水“过桥”。碗中放好底料，再舀两勺鱼汤。 [68]
-
-靖江扒凤腿
-靖江扒凤腿是江苏省靖江地区特色传统名菜，炸锅留少许油，加葱姜煸出香味，加入高汤、香料（茴香、八角、丁香、桂皮、花椒等，用纱布包起）、酱油、鸡腿、绍酒、精盐和适量的糖，用大火烧沸，去除浮沫，转小火烧焖30分钟左右至酥烂后，再用大火，加熟猪油、菜心和鸡蛋同锅收稠汤汁，淋上芝麻油起锅装盘（去除捆扎鸡大腿皮的绳线，去掉香料袋、葱姜）。装盘时把菜心放在中间摆齐，鸡腿放在四周，围成一圈，点缀鸡蛋，形色更佳，因古代把鸡比作凤凰，故称为凤腿。
-曲霞蟹黄汤包
-蟹黄汤包是泰兴市曲霞镇特色汤包，曾流传着“泰兴汤包出曲霞”之说。
-桂香糖
-桂香糖是一道以生仁、芝麻、桂花等为主要原料的小吃。
-荞麦扁团
-荞麦扁团，江苏著名的传统小吃，是泰兴城乡老少喜爱的食品。黄泥置成的鼓形土炉，上面放着一个平板铁锅。扁团是用豆油煎熬的，离老远都能闻见那浓浓的香味。其中的馅料大都为青菜、白菜、菠菜、芹菜或
-
 */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const taizhouFoodsList = [
-  // 灯影牛肉
   {
-    province: '江苏省', // 省
-    city: '泰州市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'jiangsuCuisine', // 菜系编码
-    cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '靖江蟹黄汤包',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
   {
-    province: '江苏省', // 省
-    city: '泰州市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'jiangsuCuisine', // 菜系编码
-    cuisineCategoryName: '江苏菜、苏菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '沙沟大鱼圆',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '靖江肉脯',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '九丝汤',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '烫干丝',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '黄桥烧饼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '中庄醉蟹',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '泰州鱼汤面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '靖江扒凤腿',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '曲霞蟹黄汤包',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂香糖',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '江苏省',
+    city: '泰州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '荞麦扁团',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'jiangsuCuisine',
+    cuisineCategoryName: '江苏菜、苏菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

@@ -1,8 +1,8 @@
 /**
- * 安徽省-亳州市-特产美食
+ * 安徽省-亳州市-美食
  * 华佗药膳,牛肉馍,锅盔,粉皮,蒙城油酥烧饼,利辛贡馍,蒙城撒汤,涡阳干扣面,
  */
-import { lampshadedBeefScriptsList } from './bozhouFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './bozhouFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const bozhouFoodsList = [
   // 华佗药膳

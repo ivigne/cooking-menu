@@ -1,8 +1,8 @@
 /**
- * 四川-凉山彝族自治州-特产美食
+ * 四川-凉山彝族自治州-美食
  * 彝族砣砣肉、西昌火盆烧烤、冕宁火腿、会理土火锅
  */
-import { lampshadedBeefScriptsList } from './liangshanFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './liangshanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const liangshanFoodsList = [
   //彝族砣砣肉

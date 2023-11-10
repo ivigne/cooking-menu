@@ -7,9 +7,9 @@
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
 /**
- * 台湾-其他县市-特产美食
+ * 台湾-其他县市-美食
  */
 
-// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const othersCountyFoodsList = [];

@@ -1,161 +1,670 @@
 /**
- * 广西-南宁市-特产美食
- * 
-* 柠檬鸭,老友粉,粉饺,卷筒粉,粉虫,生榨米粉,酸野,五色糯米饭,老友面（粉）,八仙粉,干捞粉,卷筒粉,八宝饭,柠檬鸭,酸品,王府牛杂,生榨米粉,瘦肉粥,猪红粥,鱼片粥,红豆粥,皮蛋粥,田鸡粥,
-
- * 
-柠檬鸭
-柠檬鸭是广西南宁武鸣一带的特色菜肴，属于桂菜，是广西十大经典名菜之一。柠檬鸭的主料是鸭子，配料是酸藠头、酸姜和酸辣椒，以及山黄皮和咸柠檬。柠檬鸭最早出现于20世纪80年代初期，南宁邕武路的界牌旁有一家小店，常年为来往司机提供菜品，经过不断发展，便有了这道名菜。
-老友粉
-老友粉是广西南宁市及周边地区的地方风味小吃，是南宁传统小吃的金字招牌，其口味鲜辣、汤料香浓，具有开胃解腻、驱风散寒、通窍醒脑的独特功效，属于桂菜。老友粉源于老友面，其名来自一段两位老友间的故事。南宁老友粉与柳州螺蛳粉、桂林米粉同为广西"三大米粉"。2007年，入选南宁公布的首批26项非物质文化遗产名录。2008年，入选第二批自治区级非物质文化遗产名录。
-粉饺
-粉饺是以米粉皮包裹馅料制成的饺子。是南宁市传统的名小吃，其米香浓郁，味美爽口。粉饺的馅料是油炸叉烧、猪肉、冬菇、马蹄、葱花切丁、剁碎，搅拌而成。
-卷筒粉
-卷筒粉是广西南宁等地的一道小吃，其制作原料有米浆、肉末等，主要流行于隆安县等临近越南的地区的小吃，其做法是用磨成的米浆放进托盘摊成一张薄饼蒸熟，撒一些肉末、葱花或其他食料在上面，卷成卷即可上碟，佐以酱料、香油等拌以食用。
-粉虫
-粉虫是广西传统小吃之一，因其形似虫草故名，食之韧软，可配以猪肉、牛肉或杂烩做成炒粉虫、粉虫汤。
-生榨米粉
-生榨米粉又称榨粉、生榨粉，是使用发酵后的米浆辅以肉末等配料使用榨粉器压榨制成的米粉。生榨米粉是广西壮族自治区的一道特色小吃，在南宁武鸣区、邕宁区及马山县、河池市都安瑶族自治县、河池市大化瑶族自治县等地区最为常见。这其中，又以蒲庙镇、那楼镇为代表的邕宁生榨粉最为出名。生榨米粉软、滑、香，并以与众不同的微酸而闻名。
-酸野
-酸菜，是地方传统名小吃。南宁方言称其为“酸野”，是采用当地产的萝卜、黄瓜等时令果蔬，配以酸醋、辣椒、白糖等腌制而成。粤语地区用果蔬腌制而成的四季酸品小吃。遍布广西全境地区。桂北以腌制时间长、辣烈、酸浓、品陈为特色。桂南以生冷、 新鲜、淡酸、微甜、带辣为特色，尤以南宁最为著名，已有300年历史。南宁酸品一般以木 瓜、芒果、扁桃、菠萝、桃子、李果、梨子、豆角、萝卜、黄瓜、莲藕、杨桃、椰菜、芥菜 、头菜、生姜、大蒜等新鲜果蔬，佐以食醋食盐腌制1小时即成(豆类、菜类要腌制1～3天) 。有的配以适量的白糖和辣椒粉。城乡街头巷尾随处可见流动酸品摊。摊上备有辣椒酸醋水 、椒盐，供食客随意蘸用。
-五色糯米饭
-五色糯米饭是布依族、壮族等许多民族的传统风味小吃。因糯米饭一般呈黑、红、黄、白、紫5种色彩而得名。每年农历三月初三或清明节时节，广西各族人民普遍制作五色糯米饭。壮家人十分喜爱五色糯米饭，
-老友面（粉）
-这是有着百年历史的面食。主要以精制面条，佐以爆香的蒜末、豆豉、辣椒、酸笋、牛肉末、胡椒粉等，老友粉已成为去南宁旅游的客人的一道必吃的小吃。
-八仙粉
-相传是清宫食谱之一，因其配有山珍、海味、时鲜八味以上，味道相异相辅，如“八仙过海，各显神通”，故而得名。八仙粉以鲜滑清爽为特点。
-干捞粉
-把米浆蒸熟后切成条形，拌以调制好的叉烧、肉末、葱花、炸花生、酱料、香油等即可食用。特点是香、酸、脆、甜、咸适度，食而不腻。
-卷筒粉
-用磨成的米浆放进托盘摊成一张薄饼，撒一些肉末、葱花在上面，蒸熟后卷成卷即可上碟，佐以酱料、香油等拌以食用。特点是软滑爽口。
-八宝饭
-将糯米泡湿，拌以食用油、绿豆、百合、莲子、白果、蜜枣、山黄皮、冬瓜糖等近十种清补原料，蒸熟即成。以其香溢软滑，甜而不腻著称。
-粥
-南宁人早餐除了粉还爱吃粥，粥也有十几个品种之多，有瘦肉粥、猪红粥、鱼片粥、红豆粥、皮蛋粥、田鸡粥等。特点是现做现吃。
-柠檬鸭
-是武鸣区一带的特色菜肴。其味酸辣适宜，鲜香可口，极其开胃。
-酸品
-南宁方言叫“酸嘢”。南宁有句俗话称“英雄难过美人关，好女难过酸嘢摊”，即将“酸嘢”描述得惟妙惟肖。制作是采用当地物产马蹄，木瓜、萝卜、黄瓜、莲藕、椰菜、菠萝等时令果蔬，配以酸醋、辣椒、白糖等腌制而成。吃起来酸、甜、香、辣味味俱到，脆爽可口，生津开胃。
-王府牛杂
-吴圩王府牛杂口味出众，响誉区内外，曾荣获国家贸易局评为中国名菜，牛杂都是采用新鲜的原材料，而紫苏等也是本地盛产的材料，很适合南宁人的口味。
-生榨米粉
-发源地是南宁老城——邕宁。
+ * 广西-南宁市-美食
+ *
+ * 柠檬鸭,老友粉,粉饺,卷筒粉,粉虫,生榨米粉,酸野,五色糯米饭,老友面（粉）,八仙粉,干捞粉,卷筒粉,八宝饭,柠檬鸭,酸品,王府牛杂,生榨米粉,瘦肉粥,猪红粥,鱼片粥,红豆粥,皮蛋粥,田鸡粥,
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const nanningFoodsList = [
-  // 灯影牛肉
+  // 柠檬鸭是广西南宁武鸣一带的特色菜肴，属于桂菜，是广西十大经典名菜之一。柠檬鸭的主料是鸭子，配料是酸藠头、酸姜和酸辣椒，以及山黄皮和咸柠檬。柠檬鸭最早出现于20世纪80年代初期，南宁邕武路的界牌旁有一家小店，常年为来往司机提供菜品，经过不断发展，便有了这道名菜。
   {
-    province: '广西壮族自治区', // 省
-    city: '南宁市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'guiCuisine', // 菜系编码
-    cuisineCategoryName: '桂菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '柠檬鸭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
+  // 老友粉是广西南宁市及周边地区的地方风味小吃，是南宁传统小吃的金字招牌，其口味鲜辣、汤料香浓，具有开胃解腻、驱风散寒、通窍醒脑的独特功效，属于桂菜。老友粉源于老友面，其名来自一段两位老友间的故事。南宁老友粉与柳州螺蛳粉、桂林米粉同为广西"三大米粉"。2007年，入选南宁公布的首批26项非物质文化遗产名录。2008年，入选第二批自治区级非物质文化遗产名录。
   {
-    province: '广西壮族自治区', // 省
-    city: '南宁市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'guiCuisine', // 菜系编码
-    cuisineCategoryName: '桂菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '老友粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 粉饺是以米粉皮包裹馅料制成的饺子。是南宁市传统的名小吃，其米香浓郁，味美爽口。粉饺的馅料是油炸叉烧、猪肉、冬菇、马蹄、葱花切丁、剁碎，搅拌而成。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '粉饺',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 卷筒粉是广西南宁等地的一道小吃，其制作原料有米浆、肉末,主要流行于隆安县等临近越南的地区的小吃，其做法是用磨成的米浆放进托盘摊成一张薄饼蒸熟，撒一些肉末、葱花或其他食料在上面，卷成卷即可上碟，佐以酱料、香油等拌以食用。
+  // 用磨成的米浆放进托盘摊成一张薄饼，撒一些肉末、葱花在上面，蒸熟后卷成卷即可上碟，佐以酱料、香油等拌以食用。特点是软滑爽口。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '卷筒粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 粉虫是广西传统小吃之一，因其形似虫草故名，食之韧软，可配以猪肉、牛肉或杂烩做成炒粉虫、粉虫汤。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '粉虫',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 生榨米粉又称榨粉、生榨粉，是使用发酵后的米浆辅以肉末等配料使用榨粉器压榨制成的米粉。生榨米粉是广西壮族自治区的一道特色小吃，在南宁武鸣区、邕宁区及马山县、河池市都安瑶族自治县、河池市大化瑶族自治县等地区最为常见。这其中，又以蒲庙镇、那楼镇为代表的邕宁生榨粉最为出名。生榨米粉软、滑、香，并以与众不同的微酸而闻名。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '生榨米粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 酸菜，是地方传统名小吃。南宁方言称其为“酸野”，是采用当地产的萝卜、黄瓜等时令果蔬，配以酸醋、辣椒、白糖等腌制而成。粤语地区用果蔬腌制而成的四季酸品小吃。遍布广西全境地区。桂北以腌制时间长、辣烈、酸浓、品陈为特色。桂南以生冷、 新鲜、淡酸、微甜、带辣为特色，尤以南宁最为著名，已有300年历史。南宁酸品一般以木 瓜、芒果、扁桃、菠萝、桃子、李果、梨子、豆角、萝卜、黄瓜、莲藕、杨桃、椰菜、芥菜 、头菜、生姜、大蒜等新鲜果蔬，佐以食醋食盐腌制1小时即成(豆类、菜类要腌制1～3天) 。有的配以适量的白糖和辣椒粉。城乡街头巷尾随处可见流动酸品摊。摊上备有辣椒酸醋水 、椒盐，供食客随意蘸用。
+  // 南宁方言叫“酸嘢”。南宁有句俗话称“英雄难过美人关，好女难过酸嘢摊”，即将“酸嘢”描述得惟妙惟肖。制作是采用当地物产马蹄，木瓜、萝卜、黄瓜、莲藕、椰菜、菠萝等时令果蔬，配以酸醋、辣椒、白糖等腌制而成。吃起来酸、甜、香、辣味味俱到，脆爽可口，生津开胃。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '酸野',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 五色糯米饭是布依族、壮族等许多民族的传统风味小吃。因糯米饭一般呈黑、红、黄、白、紫5种色彩而得名。每年农历三月初三或清明节时节，广西各族人民普遍制作五色糯米饭。壮家人十分喜爱五色糯米饭，
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '五色糯米饭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 这是有着百年历史的面食。主要以精制面条，佐以爆香的蒜末、豆豉、辣椒、酸笋、牛肉末、胡椒粉,老友粉已成为去南宁旅游的客人的一道必吃的小吃。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '老友面（粉）',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 相传是清宫食谱之一，因其配有山珍、海味、时鲜八味以上，味道相异相辅，如“八仙过海，各显神通”，故而得名。八仙粉以鲜滑清爽为特点。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '八仙粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 把米浆蒸熟后切成条形，拌以调制好的叉烧、肉末、葱花、炸花生、酱料、香油等即可食用。特点是香、酸、脆、甜、咸适度，食而不腻。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '干捞粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 将糯米泡湿，拌以食用油、绿豆、百合、莲子、白果、蜜枣、山黄皮、冬瓜糖等近十种清补原料，蒸熟即成。以其香溢软滑，甜而不腻著称。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '八宝饭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 吴圩王府牛杂口味出众，响誉区内外，曾荣获国家贸易局评为中国名菜，牛杂都是采用新鲜的原材料，而紫苏等也是本地盛产的材料，很适合南宁人的口味。
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '王府牛杂',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '瘦肉粥',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '猪红粥',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '鱼片粥',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '红豆粥',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '皮蛋粥',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广西壮族自治区',
+    city: '南宁市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '田鸡粥',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

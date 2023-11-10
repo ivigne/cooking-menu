@@ -1,160 +1,675 @@
 /**
- * 广西-桂林市-特产美食
+ * 广西-桂林市-美食
  * 
-* 桂林米粉,荔浦扣肉,阳朔啤酒鱼,桂林灵川狗肉,桂林田螺酿,恭城油茶,全州醋血鸭,临桂两江松花糖,马蹄蒸肉饼,毛秀才炒辣椒,桂林水糍粑,桂林马肉米粉,全州红油米粉,桂林打油茶,桂林酥糖,酸炒干鱼仔,干锅鲜栗鸭,桂林两江松花糖,桂林辣椒酱
-// 宾阳白切狗,宾阳酸粉,牛腊巴,三江油茶,
+* 桂林米粉,荔浦扣肉,阳朔啤酒鱼,桂林灵川狗肉,桂林田螺酿,恭城油茶,全州醋血鸭,临桂两江松花糖,马蹄蒸肉饼,毛秀才炒辣椒,桂林水糍粑,桂林马肉米粉,全州红油米粉,桂林打油茶,桂林酥糖,酸炒干鱼仔,干锅鲜栗鸭,桂林两江松花糖,桂林辣椒酱,宾阳白切狗,宾阳酸粉,牛腊巴,三江油茶,
 
  * 
-桂林米粉
-桂林米粉是广西地区历史悠久的特色传统名小吃。其做工考究，先将上好的早籼米磨成浆，装袋滤干，揣成粉团煮熟后压榨成圆根或片状即成。圆的称米粉，片状的称切粉，通称米粉，其特点是洁白、细嫩、软滑、爽口。其吃法多样。制作最最讲究卤水的制作，其工艺各家有异，大致以猪、牛骨、罗汉果和各式佐料熬煮而成，香味浓郁。卤水的用料和做法不同，米粉的风味也不同。大致有生菜粉、牛腩粉、三鲜粉、原汤粉、卤菜粉、酸辣粉、马肉米粉、担子米粉等。
-荔浦扣肉
-荔浦扣肉是一道色香味俱全的地方名菜。此菜色泽金黄，芋片肉片松软爽口，油而不腻，浓香四溢。具有清热祛火、滋润肤色功能。桂林特色名菜，以正宗桂林荔浦芋、带皮五花肉、桂林腐乳为主要材料，烹饪以蒸菜为主，咸甜口味。传统宴席名菜，采用正宗桂林荔浦芋、带皮五花肉、桂林腐乳和各式佐料。将带皮五花肉和切块荔浦芋分过油炸黄，然后将五花肉块皮朝下，与芋块相间排放碗中蒸熟，翻扣入另一盘中即成。
-阳朔啤酒鱼
-阳朔“啤酒鱼”，是阳朔有名的地方特色菜，鱼肉鲜辣可口，无一丝鱼本身的腥味，啤酒和鱼肉的香味可以让人胃口大开。阳朔的啤酒鱼是选用阳朔漓江里鲜活的大鲤鱼，先用桂北山区出产的生茶油烹炸，然后放入桂林产的上等啤酒红焖而成，具有独特的香酥鲜嫩风味。2002年5月阳朔啤酒鱼以外香内嫩，皮黄汁浓，入口唇齿留香在“奇山杯全国迷宗菜交流比赛研讨会”上一举夺得金奖。由此，阳朔啤酒鱼堂堂正正地“游”进了京城。
-桂林灵川狗肉
-灵川狗肉有“天下第一美味”之誉。狗肉肉质鲜美，营养丰富。有滋阴补肾，祛寒健胃等大补之功，以秋初至春末食之最佳。灵川狗肉烹调工艺独特，从选狗、杀狗、切狗烹调到品尝皆有讲究，食后余香满口，通体舒泰，令人百吃不厌，回味无穷。
-桂林田螺酿
-桂林的田螺非常特别。首先是大，最大的差不多有乒乓球大小了；其次是它的味道，完全不像螺肉本身的味道。里面的肉并不全是螺肉，而是先把螺肉掏出来，混合猪肉、香菜及其它调味品一起剁碎，再填入螺的空壳里混合汤汁一起烧制。
-恭城油茶
-恭城人每天早餐都要“打油茶”，有的家庭甚至三餐离不开油茶。油茶不说煮而称“打”，是各地的统一称法，而各地的油茶却各有其不同的风味。油茶的统—制作方法是以老叶红茶为主料，用油炒至微焦而香，放入食盐加水煮沸，多数加生姜同煮，味浓而涩，涩中带辣。恭城一带还再加磨醉的花生粉，使味道多了醇厚少了涩，并因煮的时间恰到好处，使恭城油茶被举为各地油茶之冠，享誉桂北和广西各地。喝油茶不分季节，一年四季、一天早晚都喝。客人到来则不分早晚，随时煮好奉客，而且更为丰盛。恭城被评为中国长寿之乡，长寿的秘诀跟油茶也有莫大的关系
-全州醋血鸭
-全州醋血鸭是桂林全州的一个地方特色美食，采用盛夏上市的子鸭为原料，杀鸭留血、注入酸醋，以嫩姜或苦瓜为配料，将鸭肉先武、再文火焖熟，在出锅前倒入醋血。成品上桌，清香沁人心脾、美味让人难忘。俗话说湘南永州之血鸭，桂北全州之醋血鸭。醋血鸭这道菜看着惊人，吃起来却没什么血腥气，倒是醋香扑鼻，而且鸭肉绵软入味，酸辣鲜香，开胃可口。
-临桂两江松花糖
-松花糖发源自位于桂林市临桂区两江镇民国代总统李宗仁故居中的私人厨房，由李宗仁家中的一名厨师发明。近百年传承创新，风味愈加诱人，甜而不腻，入口酥化不粘牙，流行于桂北地区。松花糖去古已远，名称的由来，一说是由于松花糖粒粒金黄色如松花；二说源自于松花糖“酥脆清甜，入口即化”，是“酥化糖”的讹误；也有说因其作为桂林市临桂区两江镇的传统年货，寓意着“轻松花钱”的新年愿望。
 马蹄蒸肉饼
-马蹄蒸肉饼是一道桂林地区的传统菜，以马蹄、瘦肉、盐等为主要食材制作而成。
-毛秀才炒辣椒
-毛秀才炒辣椒是广西桂林的的一个特色菜。传说从前桂林有个姓毛的秀才，因科考落榜而回家种田，经过精心栽培，他种出的西红柿个大饱满，吃起来口感好，渐渐的就在附近村镇小有名气，每到赶集时，人们都愿
-桂林水糍粑
-水糍粑，如趁出笼时热气腾腾， 再裹上点白糖或熟豆粉，更是色美味鲜，口感细滑沁甜。桂林水糍粑是将上好糯米蒸熟后杵打成团后入笼蒸熟而成，里面要包上豆蓉、莲蓉、芝麻桂花糖等馅料，出笼时还要裹上些许白糖或熟豆粉，色泽晶莹洁白，口感细滑沁甜。
-桂林马肉米粉
-桂林马肉米粉以独特的风味而闻名。粉条圆细而柔韧，卤水鲜美芳纯，肉菜香松而爽口。马肉米粉大约始于清道光年间，鼎盛时期是解放前，马肉米粉确实与众不同。首先是马肉的制备就很奇特，先将马肉下水腌
-全州红油米粉
-全州红油米粉系全州县人民喜闻乐见的传统食品。它既可作主食，也是理想的风味小吃。 在广西的米粉种类中，能与柳州螺蛳粉比红的，全州红油米粉算一个；能与各地汤粉比鲜的，全州红油米粉也算一个。
-桂林打油茶
-“打油茶”的工具、选料、制法、喝法都非常独特。桂林打油茶则是桂林地区特有的一种打油茶。
-桂林酥糖
-桂林酥糖具有酥、松、香、甜的特点。入口便能酥化，又香又甜，甜而不腻，食后口齿留香，深受国内外顾客欢迎。桂林生产酥糖始于清乾隆年间，距今已有200多年的历史。
-酸炒干鱼仔
-酸炒干鱼仔是一道由干鱼仔、姜、蒜等食材制成的食品。
-干锅鲜栗鸭
-干锅鲜栗鸭是以鸭为主料制作的菜品。
 */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const guilinFoodsList = [
-  // 灯影牛肉
+  // 桂林米粉是广西地区历史悠久的特色传统名小吃。其做工考究，先将上好的早籼米磨成浆，装袋滤干，揣成粉团煮熟后压榨成圆根或片状即成。圆的称米粉，片状的称切粉，通称米粉，其特点是洁白、细嫩、软滑、爽口。其吃法多样。制作最最讲究卤水的制作，其工艺各家有异，大致以猪、牛骨、罗汉果和各式佐料熬煮而成，香味浓郁。卤水的用料和做法不同，米粉的风味也不同。大致有生菜粉、牛腩粉、三鲜粉、原汤粉、卤菜粉、酸辣粉、马肉米粉、担子米粉等。
   {
-    province: '广西壮族自治区', // 省
-    city: '桂林市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'guiCuisine', // 菜系编码
-    cuisineCategoryName: '桂菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂林米粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
+  // 荔浦扣肉是一道色香味俱全的地方名菜。此菜色泽金黄，芋片肉片松软爽口，油而不腻，浓香四溢。具有清热祛火、滋润肤色功能。桂林特色名菜，以正宗桂林荔浦芋、带皮五花肉、桂林腐乳为主要材料，烹饪以蒸菜为主，咸甜口味。传统宴席名菜，采用正宗桂林荔浦芋、带皮五花肉、桂林腐乳和各式佐料。将带皮五花肉和切块荔浦芋分过油炸黄，然后将五花肉块皮朝下，与芋块相间排放碗中蒸熟，翻扣入另一盘中即成。
   {
-    province: '广西壮族自治区', // 省
-    city: '桂林市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'guiCuisine', // 菜系编码
-    cuisineCategoryName: '桂菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '荔浦扣肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 阳朔“啤酒鱼”，是阳朔有名的地方特色菜，鱼肉鲜辣可口，无一丝鱼本身的腥味，啤酒和鱼肉的香味可以让人胃口大开。阳朔的啤酒鱼是选用阳朔漓江里鲜活的大鲤鱼，先用桂北山区出产的生茶油烹炸，然后放入桂林产的上等啤酒红焖而成，具有独特的香酥鲜嫩风味。2002年5月阳朔啤酒鱼以外香内嫩，皮黄汁浓，入口唇齿留香在“奇山杯全国迷宗菜交流比赛研讨会”上一举夺得金奖。由此，阳朔啤酒鱼堂堂正正地“游”进了京城。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '阳朔啤酒鱼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 灵川狗肉有“天下第一美味”之誉。狗肉肉质鲜美，营养丰富。有滋阴补肾，祛寒健胃等大补之功，以秋初至春末食之最佳。灵川狗肉烹调工艺独特，从选狗、杀狗、切狗烹调到品尝皆有讲究，食后余香满口，通体舒泰，令人百吃不厌，回味无穷。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂林灵川狗肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 桂林的田螺非常特别。首先是大，最大的差不多有乒乓球大小了；其次是它的味道，完全不像螺肉本身的味道。里面的肉并不全是螺肉，而是先把螺肉掏出来，混合猪肉、香菜及其它调味品一起剁碎，再填入螺的空壳里混合汤汁一起烧制。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂林田螺酿',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 恭城人每天早餐都要“打油茶”，有的家庭甚至三餐离不开油茶。油茶不说煮而称“打”，是各地的统一称法，而各地的油茶却各有其不同的风味。油茶的统—制作方法是以老叶红茶为主料，用油炒至微焦而香，放入食盐加水煮沸，多数加生姜同煮，味浓而涩，涩中带辣。恭城一带还再加磨醉的花生粉，使味道多了醇厚少了涩，并因煮的时间恰到好处，使恭城油茶被举为各地油茶之冠，享誉桂北和广西各地。喝油茶不分季节，一年四季、一天早晚都喝。客人到来则不分早晚，随时煮好奉客，而且更为丰盛。恭城被评为中国长寿之乡，长寿的秘诀跟油茶也有莫大的关系
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '恭城油茶',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 全州醋血鸭是桂林全州的一个地方特色美食，采用盛夏上市的子鸭为原料，杀鸭留血、注入酸醋，以嫩姜或苦瓜为配料，将鸭肉先武、再文火焖熟，在出锅前倒入醋血。成品上桌，清香沁人心脾、美味让人难忘。俗话说湘南永州之血鸭，桂北全州之醋血鸭。醋血鸭这道菜看着惊人，吃起来却没什么血腥气，倒是醋香扑鼻，而且鸭肉绵软入味，酸辣鲜香，开胃可口。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '全州醋血鸭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 松花糖发源自位于桂林市临桂区两江镇民国代总统李宗仁故居中的私人厨房，由李宗仁家中的一名厨师发明。近百年传承创新，风味愈加诱人，甜而不腻，入口酥化不粘牙，流行于桂北地区。松花糖去古已远，名称的由来，一说是由于松花糖粒粒金黄色如松花；二说源自于松花糖“酥脆清甜，入口即化”，是“酥化糖”的讹误；也有说因其作为桂林市临桂区两江镇的传统年货，寓意着“轻松花钱”的新年愿望。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '临桂两江松花糖',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 马蹄蒸肉饼是一道桂林地区的传统菜，以马蹄、瘦肉、盐等为主要食材制作而成。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '马蹄蒸肉饼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 毛秀才炒辣椒是广西桂林的的一个特色菜。传说从前桂林有个姓毛的秀才，因科考落榜而回家种田，经过精心栽培，他种出的西红柿个大饱满，吃起来口感好，渐渐的就在附近村镇小有名气，每到赶集时，人们都愿
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '毛秀才炒辣椒',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 水糍粑，如趁出笼时热气腾腾， 再裹上点白糖或熟豆粉，更是色美味鲜，口感细滑沁甜。桂林水糍粑是将上好糯米蒸熟后杵打成团后入笼蒸熟而成，里面要包上豆蓉、莲蓉、芝麻桂花糖等馅料，出笼时还要裹上些许白糖或熟豆粉，色泽晶莹洁白，口感细滑沁甜。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂林水糍粑',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 桂林马肉米粉以独特的风味而闻名。粉条圆细而柔韧，卤水鲜美芳纯，肉菜香松而爽口。马肉米粉大约始于清道光年间，鼎盛时期是解放前，马肉米粉确实与众不同。首先是马肉的制备就很奇特，先将马肉下水腌
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂林马肉米粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 全州红油米粉系全州县人民喜闻乐见的传统食品。它既可作主食，也是理想的风味小吃。 在广西的米粉种类中，能与柳州螺蛳粉比红的，全州红油米粉算一个；能与各地汤粉比鲜的，全州红油米粉也算一个。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '全州红油米粉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // “打油茶”的工具、选料、制法、喝法都非常独特。桂林打油茶则是桂林地区特有的一种打油茶。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂林打油茶',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 桂林酥糖具有酥、松、香、甜的特点。入口便能酥化，又香又甜，甜而不腻，食后口齿留香，深受国内外顾客欢迎。桂林生产酥糖始于清乾隆年间，距今已有200多年的历史。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂林酥糖',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 酸炒干鱼仔是一道由干鱼仔、姜、蒜等食材制成的食品。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '酸炒干鱼仔',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 干锅鲜栗鸭是以鸭为主料制作的菜品。
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '干锅鲜栗鸭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂林两江松花糖',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广西壮族自治区',
+    city: '桂林市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '桂林辣椒酱',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'guiCuisine',
+    cuisineCategoryName: '桂菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

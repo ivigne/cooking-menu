@@ -2,8 +2,8 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-08-07 17:19:18
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-10-23 10:31:38
- * @FilePath: /cooking-menu/src/router/routes/modules/randomOrder.ts
+ * @LastEditTime: 2023-11-09 09:41:13
+ * @FilePath: /cooking-menu/src/router/routes/modules/practicalTools.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
@@ -58,6 +58,14 @@ const tools: AppRouteModule = {
       component: () => import('/@/views/tools/processData/index.vue'),
       meta: {
         title: t('routes.tools.processData'),
+      },
+    },
+    {
+      path: 'codeGeneration',
+      name: 'CodeGeneration',
+      component: () => import('/@/views/tools/codeGeneration/index.vue'),
+      meta: {
+        title: t('routes.tools.codeGeneration'),
       },
     },
   ],

@@ -1,155 +1,484 @@
 /**
- * 山东-淄博市-特产美食
- * 
- * 
-* 道口咸菜,软烧豆腐,金丝鸭蛋,箱中藏宝,周村烧饼,博山酥锅,豆腐箱,博山烤肉,博山粥,博山炸肉,酥鱼锅,欢喜团子,淄川肉烧饼,周村煮锅,
-
- * 
- * 
-道口咸菜
-道口咸菜是淄博地区具有悠久历史的一种汉族传统名吃，用料考究，工艺复杂，成品具有鲜、香、辣、甜等多种口味，香脆适口。道口咸菜具有300多年的腌制历史，道口咸菜以时令蔬菜瓜果等为原料，辅以糖、酒、盐、酱油等精制而成。
-软烧豆腐
-软烧豆腐，是山东省淄博市（博山地区）的特色美食，博山自古就以生产豆腐而闻名，豆腐色泽淡黄，软嫩适口，味美清香。采用“酸浆”点脑，而不用普通的“盐卤”点浆法，因而成品外黄内白，无卤苦味，细嫩瓷实，宜于造型。
-金丝鸭蛋
-金丝鸭蛋民间又叫缠丝鸭蛋，是山东淄博传统名菜，产于桓台起凤镇鱼龙一带。古代起凤泉水众多，河汊交错，近水人家多养鸭。大路家庄是安次水注入水（今乌河 ）之处，河内多产螺丝以及鱼、虾等。鸭食之，所产之蛋“卵黄层层， 紫赤相间”。剖之，如金丝缠绕，其味异常。如盐渍近月时间，煮熟刀切时，黄油顺刃流出，入口有奇香。
-箱中藏宝
-箱中藏宝，传统名菜，属鲁菜系。是在淄博豆腐箱的基础上的一个创新菜，相传淄博豆腐箱始于汉淮南王刘安时期，历史悠久，内装馅心，色泽鲜艳，味道清香可口。
-周村烧饼
-周村烧饼是山东省淄博市的一种传统小吃，因产于淄博周村区而得名，其源于汉代，成于晚清，是山东省名优特产之一。该小吃以山东省传统工艺精工制作而成，为纯手工制品，拥有“酥、香、薄、脆”四大特点。其外形圆而色黄，正面贴满芝麻仁，背面酥孔罗列，薄似杨叶，酥脆异常。入口一嚼即碎，香满口腹，若失手落地，则会皆成碎片，俗称“山东瓜拉叶子烧饼”。山东周村烧饼以小麦粉、白砂糖、芝麻为原料，以传统工艺制作而成。制成后，薄如秋叶，形似满月；落地珠散玉碎，入口回味无穷。
-博山酥锅
-博山酥锅是山东省淄博市博山地区特色传统名吃，属于鲁菜系；博山人对于过年(春节)，是特别的重视。过去人穷，过年就特别的隆重——早早的就准备年货，早早的就开始准备年节大菜。在各种各样的博山年节菜中，有一样菜是必不可少的，那就是著名的“博山酥锅”。博山人对于做酥锅，有一种近乎神圣的意思——家家都做，好像没有了酥锅就不是过年。所谓“穷也酥锅，富也酥锅”，那是说做酥锅的原料可以根据自己的条件来搭配。来客人了，盛上一盘：尝尝俺家酥锅！所以有“家家做酥锅，一家一个味”之说。
-豆腐箱
-豆腐箱又名山东豆腐箱，齐国豆腐箱、是山东省淄博市的传统名菜，属于鲁菜系。主要原料是豆腐，相传清乾隆帝南巡时，曾“临幸”博山，招待用膳时，上有豆腐箱这道菜，乾隆食后赞不绝口。口感细腻，浓香满口，皮韧馅嫩，回味无穷。其香其美，是语言和文字表达不出来的。2018年9月10日，“中国菜”正式发布，“博山豆腐箱“被评为山东十大经典名菜。
-博山烤肉
-博山烤肉是山东省淄博市的一种传统名菜，属于鲁菜系，该菜品也是一种历史悠久，绝无仅有的传统名吃，色美、味香、气正。距现今已有100多年的历史。如今博山烤肉已名扬省内外，成为迎宾的佳肴，馈宾赠友的礼品。 解放后，博山食品公司将博山烤肉作为一个重要熟制品种纳入正常生产，并进一步地研制了配方和提高了操作工艺。规定每小块烤肉长15～30厘米，宽约5厘米。1972年又由原来的先烤后剔骨，改为先剔骨后烤肉。近几年有关部门更进一步重视这一传统名吃的制作和发展，使这一传统名吃在产品质量和加工技艺上有了新的提高，并获得了商业部和山东省优质产品称号。
-博山粥
-博山粥，山东省地方名点，属鲁菜系。
-博山炸肉
-博山炸肉是以猪肉、面粉为主料的食品。
-酥鱼锅
-酥鱼锅简称酥锅，山东淄博博山区传统名吃，结合了圣旨骨酥鱼的做法，几乎是博山人过年家家必备的一个菜，因为制作有些麻烦费时，且量大储藏也不方便，除了饭店一般人家只有到了过年才做。
-欢喜团子
-欢喜团子，山东省淄博市桓台县及周边地区的一种民俗小吃。在大型庙会（如梧台庙会）和年关大集上，是一种美观美味又有美好寓意的美食。大团如桔子，中团似核桃，小团像山楂。它在儿童手中可玩可吃，也可悬挂室内作装饰品观赏。
-淄川肉烧饼
-淄川肉烧饼是山东省淄博市的一道传统小吃，属于鲁菜系，其做法简单，特点是饼皮香脆、馅味鲜美。
-周村煮锅
-周村煮锅是山东淄博汉族风味小吃之一。1910年左右由周村三星庙前徐方明、镇西桥李六所创始。当时煮锅比较简单，设一直径约120厘米中间有孔的圆木盘，砂锅放在中间孔内，锅底点火。顾客围坐四周，把
+ * 山东-淄博市-美食
+ * 道口咸菜,软烧豆腐,金丝鸭蛋,箱中藏宝,周村烧饼,博山酥锅,豆腐箱,博山烤肉,博山粥,博山炸肉,酥鱼锅,欢喜团子,淄川肉烧饼,周村煮锅,
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const ziboFoodsList = [
-  // 灯影牛肉
   {
-    province: '山东省', // 省
-    city: '淄博市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'shangdongCuisine', // 菜系编码
-    cuisineCategoryName: '鲁菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '道口咸菜',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
   {
-    province: '山东省', // 省
-    city: '淄博市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'shangdongCuisine', // 菜系编码
-    cuisineCategoryName: '鲁菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '软烧豆腐',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '金丝鸭蛋',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '箱中藏宝',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '周村烧饼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '博山酥锅',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '豆腐箱',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '博山烤肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '博山粥',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '博山炸肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '酥鱼锅',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '欢喜团子',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '淄川肉烧饼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '山东省',
+    city: '淄博市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '周村煮锅',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'shangdongCuisine',
+    cuisineCategoryName: '鲁菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

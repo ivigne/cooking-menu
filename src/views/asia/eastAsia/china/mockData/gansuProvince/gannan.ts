@@ -1,8 +1,8 @@
 /**
- * 甘肃-甘南藏族自治州-特产美食
+ * 甘肃-甘南藏族自治州-美食
  * 甘南藏包子
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const gannanFoodsList = [
   // 灯影牛肉
@@ -12,7 +12,7 @@ export const gannanFoodsList = [
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '甘南藏包子', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称

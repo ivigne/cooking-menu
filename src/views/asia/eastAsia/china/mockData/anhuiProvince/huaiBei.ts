@@ -1,8 +1,8 @@
 /**
- * 安徽省-淮北市-特产美食
+ * 安徽省-淮北市-美食
  * 龟汁狗肉,鱼咬羊,临涣酱菜,地锅鸡,临涣烧饼,
  */
-import { lampshadedBeefScriptsList } from './huaibeiFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './huaibeiFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const huaibeiFoodsList = [
   // 龟汁狗肉

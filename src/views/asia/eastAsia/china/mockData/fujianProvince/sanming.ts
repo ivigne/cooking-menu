@@ -1,5 +1,5 @@
 /**
- * 福建-三明市-特产美食
+ * 福建-三明市-美食
  * 三明腊鸭
  */
 import { lampshadedBeefScriptsList } from './sanmingFoodScriptContent/lampshadedBeef';

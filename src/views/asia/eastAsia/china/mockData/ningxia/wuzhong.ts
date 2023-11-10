@@ -1,28 +1,18 @@
 /**
- * 宁夏回族自治区-吴忠市-特产美食
- * 
-* 炒糊饽,吴忠白水鸡,
-
-
- * 
- * 
-炒糊饽
-炒糊饽即炒饼，在西北一般被称作炒糊饽，流行于宁夏银川、吴忠等地。特点是制作方便，配菜丰富，香、辣，嚼起来很有口感。
-吴忠白水鸡
-用老汤（即经常煮白水鸡的汤）加清水，还有调料包，把母鸡放入锅内，先用旺火烧开，再用文火慢炖。待鸡肉煮熟（以能用筷子扎进鸡肉为宜），捞出晾凉，再取鸡油抹遍全身，使鸡皮发亮。吃时将熟鸡带骨剁
-
-*/
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+ * 宁夏回族自治区-吴忠市-美食
+ * 炒糊饽,吴忠白水鸡,
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const wuzhongFoodsList = [
-  // 灯影牛肉
+  // 炒糊饽即炒饼，在西北一般被称作炒糊饽，流行于宁夏银川、吴忠等地。特点是制作方便，配菜丰富，香、辣，嚼起来很有口感。
   {
     province: '宁夏回族自治区', // 省
     city: '吴忠市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '炒糊饽', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
@@ -72,14 +62,14 @@ export const wuzhongFoodsList = [
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
-  // 尖椒肥肠
+  // 用老汤（即经常煮白水鸡的汤）加清水，还有调料包，把母鸡放入锅内，先用旺火烧开，再用文火慢炖。待鸡肉煮熟（以能用筷子扎进鸡肉为宜），捞出晾凉，再取鸡油抹遍全身，使鸡皮发亮。吃时将熟鸡带骨剁
   {
     province: '宁夏回族自治区', // 省
     city: '吴忠市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '炒糊饽', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称

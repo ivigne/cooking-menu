@@ -1,8 +1,8 @@
 /**
- * 安徽省-池州市-特产美食
+ * 安徽省-池州市-美食
  * 东至麦鱼、池州小粑
  */
-import { lampshadedBeefScriptsList } from './chizhouFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './chizhouFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const chizhouFoodsList = [
   // 东至麦鱼

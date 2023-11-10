@@ -1,162 +1,601 @@
 /**
- * 湖南-岳阳市-特产美食
- * 
- * 
-* 平江酱干,麻辣野鸭,南江黄鳝面,龙窖酱菜,平江炸肉,巴陵全鱼席,翠竹粉蒸鱼,岳阳三蒸,君山银针鸡片,蝴蝶飘海,湘北田螺,洞庭金龟,洞庭银鱼,龙窖腐乳,醋水豆腐,汨罗粽子,岳阳王鸽,
-
-
- * 
- * 
- * 
-平江酱干
-平江酱干是一道美味可口的传统小吃，属于湘菜系。起源于湘鄂赣边塞重镇岳阳市平江县长寿街，又名长寿酱干，是清咸丰年间百岁老人何维丰（1847—1947）首创。采用长寿街传统卤制与烘烤食品工艺相结合手法，烧制出具有方寸大小、铜钱厚薄、乌黑油亮、芳香四溢的豆腐干，取名“多珍酱干”。每十片用棉线一匝，谓之一筒。味道醇美，耐嚼爽口，到民国年间，长寿酱干已是香遍湘鄂赣边区，成了平江的一大特产。
-麻辣野鸭
-麻辣野鸭是湖南湘阴的传统名菜，属于湘菜系。主要材料是野鸭条、花椒粉、白糖、酱油、精盐和适量清水。麻辣野鸭适用于脾胃虚弱、脱肛、子宫脱垂、乏力、体倦等病患者食用。
-南江黄鳝面
-南江黄鳝面的大体做法是，把干净的小黄鳝，趁活拍打，使骨粉碎，再剁成肉末，制成汤羹，佐以芹菜、姜、葱、椒、小茴香等多种香料。然后把煮熟的面条掺和一起，既可作菜肴又可作主食。吃起来鲜美异常，风味独特
-龙窖酱菜
-龙窖酱菜，湖南省临湘市特产，中国国家地理标志产品。龙窖酱菜因产于龙窖山而得名，据宋代范致明《岳阳风土记》记载：“龙窖山在（临湘）县东南，以耕畲为业，磨豆腌菜为食。”表明了当地居民以豆类制品和腌菜为主要食品。2015年08月10日，原国家质检总局批准对“龙窖酱菜”实施地理标志产品保护。
-平江炸肉
-平江炸肉，即油炸面粉坨，外脆内酥，金黄盖色，是平江情席头碗菜。
-巴陵全鱼席
-巴陵全鱼席是湖南岳阳特色传统名菜，属于湘菜系。岳阳古称巴陵。由12盘至20盘洞庭湖产的银鱼、鳜鱼、鳊鱼、草鱼、青鱼、鲫鱼、水鱼、金鱼、鳝鱼、泥鳅、河鲜等为主料，配以洞庭湖优质特色蔬菜和珍贵茶叶，加工刀法各有变化，烹调方法有20余种；佐以葱、姜、蒜、干椒、胡椒、酱油等20余种；口味多样，在色彩方面注意红、绿、蓝、白、青和谐统一，菜品达2000多个。每桌全鱼席一般由一花拼、八围碟、四热炒、八大菜、一座汤、四点心、四随菜等30个菜点组成，一菜一格，多菜多法，加工精细，讲究滋味，注重营养，使人食鱼不见鱼，知其味不见其形，一鱼一形，一形一味。
-翠竹粉蒸鱼
-翠竹粉蒸鱼是一道湖南省的特色传统名菜，属于湘菜系。此菜选用新鲜翠竹筒，盛鱼后密封蒸之，既保留了粉蒸鱼的传统风味，又增加了翠竹本身的淡淡清香，菜型别具一格，回味悠长。鮰鱼，又名肥坨黄鳄鱼
-岳阳三蒸
-岳阳三蒸是湖南岳阳所特有的一道特色传统名菜，属于湘菜蒸菜。三蒸搭配合理，三种口味，牛肉是家常味，丸子是咸鲜味，南瓜是本味。做法很简单。但创意非常的新颖。把单一的蒸菜组合起来。就成了一道宴会上的大菜。真的非常的有创意。
-君山银针鸡片
-君山银针鸡片是一道美味可口的传统名菜，属于湘菜系。
-蝴蝶飘海
-蝴蝶飘海，是一道菜肴。1.鱼肉洗净，切·. 8厘米左右段，顺纹路用斜刀法横向片成长·. 8厘米、宽·. 5厘米、厚·. 0.5厘米的薄片，盛入碗中。大白菜心、豆苗洗净，姜切成丝，冬笋切成长·. 6厘米，宽·. 3厘米
-湘北田螺
-湘北田螺是一道菜品，主料是田螺肉，配料是五花猪肉等，调料为精盐、料酒、味精等，通过猛火炒制的做法而成。
-洞庭金龟
-洞庭金龟，是湖南岳阳"味腴酒家"的特色传统名肴，属于湘菜系。
-洞庭银鱼
-洞庭银鱼又称面条鱼，形呈圆条状，长约6.6厘米，通体透明，洁白如银，无鳞无刺，是国内外享有盛名的珍贵鱼种。洞庭银鱼营养价值高，具有滋阴补肾的功效。相传，清雍正、乾隆二帝先后微服游江南时，均在岳阳品尝过此鱼。1918年在巴拿马国际名产会上，洞庭银鱼被列为世界名产之一。
-龙窖腐乳
-龙窖腐乳，湖南省临湘市特产，中国国家地理标志产品。龙窖腐乳切面呈乳黄色或者淡黄色，均匀一致，块形整齐，厚薄均匀，质地细腻，具有“内色杏黄、沉香细嫩、鲜香浓郁、咸淡适口”的独有特征。2015年08月10日，原国家质检总局批准对“龙窖腐乳”实施地理标志产品保护。
-醋水豆腐
-醋水豆腐是湖南省岳阳市的一道传统特色名菜，属于湘菜系。醋水豆腐与其他豆腐相比，没有石膏豆腐的硬、老，也没有以葡萄糖内脂作为凝固剂的豆腐的涩；醋水豆腐由于以食醋为凝固剂，在家庭中制作豆腐简单、方便、易行，具有一定的推广价值；醋水豆腐质地细嫩，软硬适宜，有弹性，无杂质。
-汨罗粽子
-汨罗粽子，湖南省汨罗市特产，中国国家地理标志产品。粽子，古称“角黍”。粽子最早记载于1600年前西晋新平太守周处所写的《风土记》，其云：“仲夏端五，方伯协极。享用角黍，龟鳞顺德。”于是口口
-岳阳王鸽是中国农产品地理标志产品，人工饲养历史超过2000年。胴体皮白，略带黄色，烹调后肉质细腻，皮脆肉嫩，鲜香多汁，略带甜味。“一鸽胜九鸡”，对病后体弱、血虚闭经、头晕神疲、记忆力衰退等有很好的补益作用。
-*/
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+ * 湖南-岳阳市-美食
+ * 平江酱干,麻辣野鸭,南江黄鳝面,龙窖酱菜,平江炸肉,巴陵全鱼席,翠竹粉蒸鱼,岳阳三蒸,君山银针鸡片,蝴蝶飘海,湘北田螺,洞庭金龟,洞庭银鱼,龙窖腐乳,醋水豆腐,汨罗粽子,岳阳王鸽
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const yueyangFoodsList = [
-  // 灯影牛肉
+  // 平江酱干是一道美味可口的传统小吃，属于湘菜系。起源于湘鄂赣边塞重镇岳阳市平江县长寿街，又名长寿酱干，是清咸丰年间百岁老人何维丰（1847—1947）首创。采用长寿街传统卤制与烘烤食品工艺相结合手法，烧制出具有方寸大小、铜钱厚薄、乌黑油亮、芳香四溢的豆腐干，取名“多珍酱干”。每十片用棉线一匝，谓之一筒。味道醇美，耐嚼爽口，到民国年间，长寿酱干已是香遍湘鄂赣边区，成了平江的一大特产。
   {
-    province: '湖南省', // 省
-    city: '岳阳市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'hunanCuisine', // 菜系编码
-    cuisineCategoryName: '湘菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '平江酱干',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
+  // 麻辣野鸭是湖南湘阴的传统名菜，属于湘菜系。主要材料是野鸭条、花椒粉、白糖、酱油、精盐和适量清水。麻辣野鸭适用于脾胃虚弱、脱肛、子宫脱垂、乏力、体倦等病患者食用。
   {
-    province: '湖南省', // 省
-    city: '岳阳市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'hunanCuisine', // 菜系编码
-    cuisineCategoryName: '湘菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '麻辣野鸭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 南江黄鳝面的大体做法是，把干净的小黄鳝，趁活拍打，使骨粉碎，再剁成肉末，制成汤羹，佐以芹菜、姜、葱、椒、小茴香等多种香料。然后把煮熟的面条掺和一起，既可作菜肴又可作主食。吃起来鲜美异常，风味独特
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '南江黄鳝面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 龙窖酱菜，湖南省临湘市特产，中国国家地理标志产品。龙窖酱菜因产于龙窖山而得名，据宋代范致明《岳阳风土记》记载：“龙窖山在（临湘）县东南，以耕畲为业，磨豆腌菜为食。”表明了当地居民以豆类制品和腌菜为主要食品。2015年08月10日，原国家质检总局批准对“龙窖酱菜”实施地理标志产品保护。
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '龙窖酱菜',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 平江炸肉，即油炸面粉坨，外脆内酥，金黄盖色，是平江情席头碗菜。
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '平江炸肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 巴陵全鱼席是湖南岳阳特色传统名菜，属于湘菜系。岳阳古称巴陵。由12盘至20盘洞庭湖产的银鱼、鳜鱼、鳊鱼、草鱼、青鱼、鲫鱼、水鱼、金鱼、鳝鱼、泥鳅、河鲜等为主料，配以洞庭湖优质特色蔬菜和珍贵茶叶，加工刀法各有变化，烹调方法有20余种；佐以葱、姜、蒜、干椒、胡椒、酱油等20余种；口味多样，在色彩方面注意红、绿、蓝、白、青和谐统一，菜品达2000多个。每桌全鱼席一般由一花拼、八围碟、四热炒、八大菜、一座汤、四点心、四随菜等30个菜点组成，一菜一格，多菜多法，加工精细，讲究滋味，注重营养，使人食鱼不见鱼，知其味不见其形，一鱼一形，一形一味。
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '巴陵全鱼席',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 翠竹粉蒸鱼是一道湖南省的特色传统名菜，属于湘菜系。此菜选用新鲜翠竹筒，盛鱼后密封蒸之，既保留了粉蒸鱼的传统风味，又增加了翠竹本身的淡淡清香，菜型别具一格，回味悠长。鮰鱼，又名肥坨黄鳄鱼
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '翠竹粉蒸鱼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 岳阳三蒸是湖南岳阳所特有的一道特色传统名菜，属于湘菜蒸菜。三蒸搭配合理，三种口味，牛肉是家常味，丸子是咸鲜味，南瓜是本味。做法很简单。但创意非常的新颖。把单一的蒸菜组合起来。就成了一道宴会上的大菜。真的非常的有创意。
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '岳阳三蒸',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '君山银针鸡片',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 蝴蝶飘海，是一道菜肴。1.鱼肉洗净，切·. 8厘米左右段，顺纹路用斜刀法横向片成长·. 8厘米、宽·. 5厘米、厚·. 0.5厘米的薄片，盛入碗中。大白菜心、豆苗洗净，姜切成丝，冬笋切成长·. 6厘米，宽·. 3厘米
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '蝴蝶飘海',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 湘北田螺是一道菜品，主料是田螺肉，配料是五花猪肉,调料为精盐、料酒、味精,通过猛火炒制的做法而成。
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '湘北田螺',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '洞庭金龟',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 洞庭银鱼又称面条鱼，形呈圆条状，长约6.6厘米，通体透明，洁白如银，无鳞无刺，是国内外享有盛名的珍贵鱼种。洞庭银鱼营养价值高，具有滋阴补肾的功效。相传，清雍正、乾隆二帝先后微服游江南时，均在岳阳品尝过此鱼。1918年在巴拿马国际名产会上，洞庭银鱼被列为世界名产之一。
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '洞庭银鱼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 龙窖腐乳，湖南省临湘市特产，中国国家地理标志产品。龙窖腐乳切面呈乳黄色或者淡黄色，均匀一致，块形整齐，厚薄均匀，质地细腻，具有“内色杏黄、沉香细嫩、鲜香浓郁、咸淡适口”的独有特征。2015年08月10日，原国家质检总局批准对“龙窖腐乳”实施地理标志产品保护。
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '龙窖腐乳',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 醋水豆腐是湖南省岳阳市的一道传统特色名菜，属于湘菜系。醋水豆腐与其他豆腐相比，没有石膏豆腐的硬、老，也没有以葡萄糖内脂作为凝固剂的豆腐的涩；醋水豆腐由于以食醋为凝固剂，在家庭中制作豆腐简单、方便、易行，具有一定的推广价值；醋水豆腐质地细嫩，软硬适宜，有弹性，无杂质。
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '醋水豆腐',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 汨罗粽子，湖南省汨罗市特产，中国国家地理标志产品。粽子，古称“角黍”。粽子最早记载于1600年前西晋新平太守周处所写的《风土记》，其云：“仲夏端五，方伯协极。享用角黍，龟鳞顺德。”于是口口
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '汨罗粽子',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 岳阳王鸽是中国农产品地理标志产品，人工饲养历史超过2000年。胴体皮白，略带黄色，烹调后肉质细腻，皮脆肉嫩，鲜香多汁，略带甜味。“一鸽胜九鸡”，对病后体弱、血虚闭经、头晕神疲、记忆力衰退等有很好的补益作用。
+  {
+    province: '湖南省',
+    city: '岳阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '岳阳王鸽',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

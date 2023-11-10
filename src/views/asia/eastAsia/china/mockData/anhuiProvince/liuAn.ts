@@ -7,9 +7,9 @@
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
 /**
- * 安徽省-六安市-特产美食
+ * 安徽省-六安市-美食
  */
-import { lampshadedBeefScriptsList } from './liuanFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './liuanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const liuanFoodsList = [
   // 灯影牛肉

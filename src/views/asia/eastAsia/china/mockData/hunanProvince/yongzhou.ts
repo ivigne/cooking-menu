@@ -1,136 +1,155 @@
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-10-20 19:04:17
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/hunanProvince/yongzhou.ts
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ */
 /**
- * 湖南-永州市-特产美食
- * 
-* 永州血鸭,柚皮红烧肉,什锦火锅,道州喝螺,
-
- * 
- * 
-
-永州血鸭
-永州血鸭是湖南省永州市的一道特色名菜，属于湘菜系；永州血鸭分为多种，有江永，道县，新田、宁远、蓝山、东安、双牌等多个说法，在当地，几乎家家户户都会制作此菜，其具有美味、开胃凉血的特点，
-柚皮红烧肉
-柚皮红烧肉是由柚皮等制作的食物，口味清爽。
-什锦火锅
-什锦火锅是一道色香味俱全的名肴，属于津菜系冬令时菜。火锅食材包括各种肉类、海鲜类、蔬菜类、豆制品类、菌菇类、蛋类制品等，将其放入煮开的清水或特制的高汤锅底烫熟后食用。有些吃法还会蘸上调味料 一起食用。由于食材、配料、使用方法丰富多彩，故名“什锦火锅”。老少咸宜，至冬之佳品。什锦火锅选料精细、品种多样、色彩缤纷、汤鲜味醇、营养丰富，是家宴不可缺少的一道佳肴。其中大同、上海的“什锦火锅”尤为出名。
-道州喝螺
-道州喝螺是选用本地所产铁螺加工烹调而成，具有哺香脆嫩、汤鲜味美等特点，带有浓厚的地方风味。
-
-*/
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+ * 湖南-永州市-美食
+ * 永州血鸭,柚皮红烧肉,什锦火锅,道州喝螺
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const yongzhouFoodsList = [
-  // 灯影牛肉
+  // 永州血鸭是湖南省永州市的一道特色名菜，属于湘菜系；永州血鸭分为多种，有江永，道县，新田、宁远、蓝山、东安、双牌等多个说法，在当地，几乎家家户户都会制作此菜，其具有美味、开胃凉血的特点，
   {
-    province: '湖南省', // 省
-    city: '永州市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'hunanCuisine', // 菜系编码
-    cuisineCategoryName: '湘菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '湖南省',
+    city: '永州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '永州血鸭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
   {
-    province: '湖南省', // 省
-    city: '永州市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'hunanCuisine', // 菜系编码
-    cuisineCategoryName: '湘菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '湖南省',
+    city: '永州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '柚皮红烧肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 什锦火锅是一道色香味俱全的名肴，属于津菜系冬令时菜。火锅食材包括各种肉类、海鲜类、蔬菜类、豆制品类、菌菇类、蛋类制品,将其放入煮开的清水或特制的高汤锅底烫熟后食用。有些吃法还会蘸上调味料 一起食用。由于食材、配料、使用方法丰富多彩，故名“什锦火锅”。老少咸宜，至冬之佳品。什锦火锅选料精细、品种多样、色彩缤纷、汤鲜味醇、营养丰富，是家宴不可缺少的一道佳肴。其中大同、上海的“什锦火锅”尤为出名。
+  {
+    province: '湖南省',
+    city: '永州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '什锦火锅',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  // 道州喝螺是选用本地所产铁螺加工烹调而成，具有哺香脆嫩、汤鲜味美等特点，带有浓厚的地方风味。
+  {
+    province: '湖南省',
+    city: '永州市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '道州喝螺',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

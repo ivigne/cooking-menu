@@ -1,157 +1,586 @@
 /**
- * 广东省-揭阳市-特产美食
-* 乒乓粿,红桃粿,粿条,草粿豆腐花,蚝烙,埔田笋粿,揭阳粿汁,普宁豆干,朴籽粿,尖米丸,乒乓果,凉冻五果,揭阳乒乓果,成顺菊花糕,惠来绿豆饼,砲台南糖,里湖凉果,
- * 
-乒乓粿
-也称槟醅粿，是揭阳的传统小吃。由于潮汕话发音上的相近，潮汕民众大致称为“乒乓粿”。作为相传南宋末年，战乱四起，民不聊生，揭阳从民为抵御饥饿，用鼠曲草混合糯米碾成糯粉，制成粿品充饥。后来，人们又用这种粉擀成皮，用爆米粉做馅，制成了独具风味的槟醅粿。1997年，被认定为中国首批“中华名小吃”。
-红桃粿
-红桃粿又名红曲桃，是广东揭阳潮汕著名的小吃。取桃果造型而得名。桃果象征长寿，故制桃粿正反映祈福祈寿的愿望。有些地方叫做粿桃和红桃粿，因为外形像个平面的红桃子。潮汕家庭妇女，一般都能掌握这类食品工艺。由于整个过程必须从舂捣米粉开始，故又称为舂粿，潮汕民间习俗，凡时年八节，几乎家家户户都要做红桃粿、酵粿、白饭桃。红桃粿、酵粿做完后，要放在祖宗灵位前祭拜，白饭桃则只是拿来吃，那是因为潮汕人认为红色是吉祥如意、好意头的象征，而酵粿在制作过程需要发酵，故取其“发”的好意义。 [68]
-粿条
-潮汕人将用米碾成粉末后做成的食品称为粿，粿条就是其中的一种。粿条可以有许多吃法，或炒、或汤，伴以各种配料，口味可以因人而异。其中揭阳粿条，桐杭粿条（桐杭是揭东县的一个小村），还有汕头牛肉粿是广东地区闻名的美食。
-草粿豆腐花
-豆腐花和草粿被潮汕人誉为“姐妹小吃”，一般售卖草粿的摊档就有豆腐花。潮汕城乡街头巷尾的叫卖，几乎都是“草粿、豆腐花”，或“豆腐花、草粿”，想吃哪种挑哪种，白色的是豆腐花，黑色的是草粿，然后还有一钵糖粉，豆腐花或者草粿装在碗里后，洒上一勺糖粉，搅拌均匀就可以吃了。在潮汕地区，草粿、豆腐花是经久不衰的小食，除了在村头路尾能见人“落巷”叫卖外，如今，许多小食坊也增加了草粿、豆腐花供人选择。 [67]
-蚝烙
-蚝烙是揭阳久负盛名的传统小吃，它以海产品“蚝”（即牡蛎）为主要原料，加上适量的生粉和黄花，加水拌匀，然后用慢火煎烙而成。它既可作小吃，也可入宴席。
-埔田笋粿
-竹笋炒粿条，选用鲜竹笋切丝，粿条亦切成细丝，慢火翻炒至粿条略带赤色，笋香和粿条的米香同时溢出，非常诱人。埔田当地盛产竹笋，是竹笋之乡，因为竹笋讲究新鲜，当天早晨打的竹笋中午吃和晚上吃就是两个味，因此埔田当地的笋粿享尽地利之边，既有上好的粿条，又有最新鲜的竹笋，大受欢迎，近年来揭阳市区乃至潮州、汕头、梅州等地的游客趋之若鹜。 [66]
-揭阳粿汁
-粿汁原是潮汕地区大众化的地方民间小食，具有香馥的稻米香味，吃起来柔韧适度，不油不腻，给人一种清香隽郁的感觉，广受海内外潮人的喜爱。潮汕粿汁的做法看似简单，但很讲究。一般都是用浸洗过的糯米加水磨成米粉浆，再将适量的米粉浆倒入蒸具蒸制。在将米粉浆倒入蒸具之前，蒸具的底部要用食用油搽均衡，以免蒸熟的米粉浆与蒸具粘结在一起。蒸熟的粿汁片还要掀起来收烟，挂于专制的晾“粿汁”片架上晾。粿汁皮要晾干点，一般要晾三个小时，这样吃起来好吃，而且不容易发霉。晾干后的粿汁皮晶莹剔透，米香浓郁。 [65]
-普宁豆干
-普宁豆干制作工序是：磨浆、除渣、煮浆、配膏、试粉、掺膏粉、拌和定卤、包块、压块、煮熟，有的煮熟后还用栀子上色。特点是外皮柔韧，内肉嫩滑。油炸豆干更是普宁的民俗风味。其皮酥脆，肉嫩滑，清中有香。蘸以辣椒醋，更觉可口。 [64]
-朴籽粿
-清明节前，榕城区新河肉菜市场内，应节朴籽粿因色美味甘，颇受市民喜爱。朴籽粿是潮汕人喜欢的一种特色小吃，一个个翠绿的朴籽粿散发出淡淡的清香，很是诱人。 [29]
-尖米丸
-尖米丸是广东潮汕地区（ 汕头市、揭阳市、汕尾市、潮州市 ）著名的传统小吃，是用当地优质稻米做成的圆形两头尖的米类小吃。粤东人将平时煮饭吃的米称为“尖米”，故名。因形似老鼠的尾巴，尖米丸也
-乒乓果
-乒乓果，是以鼠曲草、糯米为原料制作的一道潮汕传统名小吃。
-凉冻五果
-凉冻五果是广东揭阳地区传统的小吃，属于粤菜系。主要原料有：西瓜、猕猴桃、菠萝肉、苹果、山东梨冰糖，具有解暑、减肥、美容等功效。
-揭阳乒乓果
-揭阳乒乓果是一道潮州特色小吃，属于粤菜系。
-成顺菊花糕
-菊花糕是广东潮汕地区传统名点之一，菊花糕在潮汕已有一百多年的历史。有“糜饭食会饱，菊花糕孬巧”的俗语.揭东云路镇北洋利“成顺”店是福揭阳糕点糖食的“老字号”之一。它生产的菊花糕以其新鲜、清甜
-惠来绿豆饼
-惠来绿豆饼是广东省惠来县隆江镇的特产。是盛行于潮汕地区的风味小吃。惠来绿豆饼又名神仙眷侣饼，已有上百年历史。成品呈浅黄色，无壳、无粒、无杂质，松软可口，饼皮由多重薄皮叠成，色、香、味俱佳。惠来绿豆饼用料精细，制作讲究，以其酥皮清晰多层、入口即融、馅心冰甜而闻名。绿豆饼选用绿豆粉、白砂糖、花生油、杏仁、芝麻等主要材料，采取人工的方式精制而成，口味香浓、松化，以其酥皮清晰多层、入口即融、馅心冰甜而闻名。成品呈浅黄色，无壳、无粒、无杂质，松软可口，饼皮由多重薄皮叠成，色、香、味俱佳。食时起酥、绵软、润滑，甜而不腻，凉爽适口。饼内含大量蛋白质、脂肪等营养成份，深受人们喜爱，尤其适合老年人及儿童食用。产品不但畅销于国内各大中城市，在港、澳及东南亚地区也普遍受到欢迎。绿豆饼的制作历史悠久，有部分饼家更是从18世纪初期开始制作绿豆饼，他们凭着数代人传授下来的秘方，经反复推敲改良研制而成。现做现卖，新鲜出炉，是最传统的美食之一， 也是潮汕人最喜欢的点心之一。
-砲台南糖
-炮台南糖产于揭东县炮台镇（炮台镇当地有人叫炮台镇），炮台南糖又名蛋面南糖，是广东潮汕地区传统名点之一，已有近百年生产历史。
-里湖凉果
-里湖凉果是潮汕一种特色小吃。
-*/
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+ * 广东省-揭阳市-美食
+ * 乒乓粿,红桃粿,粿条,草粿豆腐花,蚝烙,埔田笋粿,揭阳粿汁,普宁豆干,朴籽粿,尖米丸,乒乓果,凉冻五果,揭阳乒乓果,成顺菊花糕,惠来绿豆饼,砲台南糖,里湖凉果,
+ */
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const jieyangFoodsList = [
-  // 灯影牛肉
   {
-    province: '广东省', // 省
-    city: '揭阳市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'cantoneseCuisine', // 菜系编码
-    cuisineCategoryName: '粤菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '乒乓粿',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
-  // 尖椒肥肠
   {
-    province: '广东省', // 省
-    city: '揭阳市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'cantoneseCuisine', // 菜系编码
-    cuisineCategoryName: '粤菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '红桃粿',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
     detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
     },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '粿条',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '草粿豆腐花',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '蚝烙',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '埔田笋粿',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '揭阳粿汁',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '普宁豆干',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '朴籽粿',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '尖米丸',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '乒乓果',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '凉冻五果',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '揭阳乒乓果',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '成顺菊花糕',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '惠来绿豆饼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '砲台南糖',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '广东省',
+    city: '揭阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '里湖凉果',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'cantoneseCuisine',
+    cuisineCategoryName: '粤菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [{ stepDesc: '' }],
+      nutritionalValue: [{ stepDesc: '' }],
+      edibleEffects: [{ stepDesc: '' }],
+      practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

@@ -7,16 +7,16 @@
  * Copyright (c) 2023 by ${git_name_email},All Rights Reserved.
  */
 /**
- * 福建-平潭-特产美食
+ * 福建-平潭-美食
  * 生鱼面
  */
-import { lampshadedBeefScriptsList } from './pingtanFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './pingtanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const pingtanFoodsList = [
   // 生鱼面
   {
     province: '福建省', // 省
-    city: '莆田市', // 市
+    city: '平潭', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片

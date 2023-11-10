@@ -1,8 +1,8 @@
 /**
- * 四川-雅安市-特产美食
+ * 四川-雅安市-美食
  * 椒麻鸡、山椒脆肠
  */
-import { lampshadedBeefScriptsList } from './yaanFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './yaanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const yaanFoodsList = [
   // 椒麻鸡

@@ -1,8 +1,8 @@
 /**
- * 安徽省-安庆市-特产美食
+ * 安徽省-安庆市-美食
  * 胡玉美蚕豆酱,墨子酥,柏兆记,江毛水饺,麦陇香,怀宁贡糕,长铺条子,
  */
-import { lampshadedBeefScriptsList } from './anqingFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './anqingFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const anqingFoodsList = [
   // 胡玉美蚕豆酱

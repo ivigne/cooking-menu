@@ -2,7 +2,7 @@
  * 四川-阿坝藏族羌族自治州-美食
  * 蒸牦牛肉、松潘土火锅、青稞酥油饼、牦牛酸奶
  */
-import { lampshadedBeefScriptsList } from './abaFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './abaFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const abaFoodsList = [
   // 蒸牦牛肉

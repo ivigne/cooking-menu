@@ -1,8 +1,8 @@
 /**
- * 四川-广安市-特产美食
+ * 四川-广安市-美食
  * 盐皮蛋、岳池米粉、麻辣牛肉、三巴汤、西板豆豉、顾县豆干
  */
-import { lampshadedBeefScriptsList } from './guanganFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './guanganFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const guanganFoodsList = [
   // 盐皮蛋

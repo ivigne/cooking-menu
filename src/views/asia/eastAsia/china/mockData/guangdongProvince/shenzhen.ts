@@ -1,18 +1,18 @@
 /**
- * 广东省-深圳市-特产美食
+ * 广东省-深圳市-美食
 下沙大盆菜
  */
-import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
+// import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const shenzhenFoodsList = [
-  // 灯影牛肉
+  // 下沙大盆菜
   {
     province: '广东省', // 省
     city: '深圳市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
-    foodName: '灯影牛肉', // 美食名称
+    foodName: '下沙大盆菜', // 美食名称
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
