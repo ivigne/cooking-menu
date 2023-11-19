@@ -1,3 +1,11 @@
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-10-20 19:04:17
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/liaoningProvince/dalian.ts
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ */
 /**
  * 辽宁-大连市-美食
  * 灯笼海参,海鲜焖子,炒焖子,咸鱼饼子,拌蚬子
@@ -83,41 +91,6 @@ export const dalianFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '炒焖子',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
-    cuisineCategoryName: '辽宁菜、辽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  // 咸鱼饼子是北方沿海的特色传统名小吃 ，属于鲁菜系胶东帮中的大连菜。新鲜的海鱼用盐腌过，在阳光下晒干，然后放在铁锅里，搁少许油，煎得外焦里嫩，和玉米面饼子一起吃味道独特。渔家风味，咸鲜味美。独具特色的大连小吃依然离不开海的味道，它不仅鲜美可口，而且经济实惠。
-  {
-    province: '辽宁省',
-    city: '大连市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '咸鱼饼子',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

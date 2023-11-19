@@ -102,7 +102,7 @@
             deepMerge(values, getFieldsValue());
           }
 
-          console.log('submit values: ', values);
+          console.log('submit values:', values);
           createMessage.success('提交成功！请打开控制台查看');
         } catch (e) {
           // 验证失败或出错，切换到对应标签页
@@ -114,7 +114,7 @@
       }
 
       async function handleSetValues() {
-        console.log('默认值为: ', mockDefaultValue);
+        console.log('默认值为:', mockDefaultValue);
         for (const item of tabsFormSchema) {
           const { setFieldsValue } = item.Form[1];
           await setFieldsValue(mockDefaultValue);

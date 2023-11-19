@@ -1,6 +1,6 @@
 /**
  * 安徽省-黄山市-美食
- * 腊八豆腐,蝴蝶面,黄山烧饼,沙地马蹄鳖,方腊鱼,苞芦松,歙县豆腐脑髓,黟县香榧,清蒸石鸡,黄山炖鸽,甜酒酿,
+ * 腊八豆腐,沙地马蹄鳖,方腊鱼,苞芦松,歙县豆腐脑髓,黟县香榧,清蒸石鸡,黄山炖鸽,甜酒酿,
  * 徽州状元饭,腌鲜鳜鱼,虎皮毛豆腐,千层锅,观音豆腐,中和汤,臭鳜鱼,
  */
 // import { lampshadedBeefScriptsList } from './huangshanFoodScriptContent/lampshadedBeef';
@@ -59,123 +59,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
-  },
-  // 蝴蝶面
-  // 蝴蝶面又叫花型面，源自意大利。蝴蝶面的面质以两侧较为细柔，中间较厚实。
-  {
-    province: '安徽省', // 省
-    city: '黄山市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '蝴蝶面', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
-    cuisineCategoryName: '徽菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
-    detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
-    },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
-  },
-  // 黄山烧饼
-  // 黄山烧饼又名皇印烧饼、救驾烧饼、蟹壳黄烧饼，是安徽省黄山市的一种特色传统小吃。刚出炉的黄山烧饼色泽金黄，吃起来酥脆爽口，油而不腻，令人回味无穷。通常以面粉、肥肉、梅干菜、芝麻、盐、菜油为原材制作皮、馅，经泡面、揉面、搓酥、摘坯、制皮、包馅、收口、擀饼、刷饴、撒麻、烘烤等工序制成，烘烤在炉中进行，内燃木炭，将饼坯贴于炉的内壁，经烘烤、焖烘及将炉火退净后再焙烤，前后数小时而成。
-  {
-    province: '安徽省', // 省
-    city: '黄山市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '黄山烧饼', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
-    cuisineCategoryName: '徽菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
-    detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
-    },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -233,7 +117,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -291,7 +175,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -349,7 +233,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -407,7 +291,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -465,7 +349,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -523,7 +407,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -581,123 +465,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
-  },
-  // 甜酒酿
-  // 甜酒酿是江南地区传统小吃。是用蒸熟的江米(糯米)拌上酒酵（一种特殊的微生物酵母）发酵而成的一种甜米酒。酒酿也叫醪糟。甜酒酿属于徽州等地风味小吃，它不完全属于酒的类别，却有着酒的芳香，因其由糯米制就，因此有滋润了淳淳米香，是江苏、浙江、上海、安徽等地极具盛名的风味小吃。
-  {
-    province: '安徽省', // 省
-    city: '黄山市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '甜酒酿', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
-    cuisineCategoryName: '徽菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
-    detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
-    },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
-  },
-  // 徽州状元饭
-  // 徽州状元饭又名枣子饭，安徽省黄山市传统小吃，据说是从明朝末期状元刘若宰家里出来的。普通状元饭是一种鲜红色的油糯米饭。用红米苋煮出苋菜汤，加熟猪油拌饭而成。这据说是清朝末期名女赛金花从小爱吃的饭。徽州状元饭做法完全不一样，虽然也是红色油饭，可是加了很多干果和水果，比较象八宝饭。
-  {
-    province: '安徽省', // 省
-    city: '黄山市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '徽州状元饭', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
-    cuisineCategoryName: '徽菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
-    detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
-    },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -755,7 +523,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -813,7 +581,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -871,7 +639,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -929,65 +697,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
-  },
-  // 中和汤
-  // 中和汤是地道的安徽祁门传统名菜，属徽菜系，清澈味香，鲜嫩不腻，稀稠适中，老少皆宜。祁门人每逢置办酒席，都少不了中和汤，而且是上桌的第一道菜。中和原叫作“中河”。中河是发源于祁门流入江西鄱阳县境的一条河。
-  {
-    province: '安徽省', // 省
-    city: '黄山市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '中和汤', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'anhuiCuisine', // 菜系编码
-    cuisineCategoryName: '徽菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    menuCategoryCode: '', // 菜品分类编码
-    menuCategoryName: '', // 菜品分类名称，比如：早餐，米，面，饼，菜肴，酱，酒，醋等
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
-    detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
-    },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -1044,7 +754,7 @@ export const huangshanFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成

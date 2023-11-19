@@ -65,7 +65,7 @@ export const kashiFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成

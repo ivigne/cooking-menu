@@ -1,76 +1,15 @@
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-10-20 19:04:17
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/liaoningProvince/anshan.ts
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ */
 /**
  * 辽宁-鞍山市-美食
  * 云友米线、牛庄馅饼
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
-export const anshanFoodsList = [
-  {
-    province: '辽宁省',
-    city: '鞍山市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '云友米线',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
-    cuisineCategoryName: '辽宁菜、辽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '辽宁省',
-    city: '鞍山市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '牛庄馅饼',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
-    cuisineCategoryName: '辽宁菜、辽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-];
+export const anshanFoodsList = [];

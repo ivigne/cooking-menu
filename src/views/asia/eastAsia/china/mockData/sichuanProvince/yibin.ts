@@ -5,62 +5,6 @@
 // import { lampshadedBeefScriptsList } from './yibinFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const yibinFoodsList = [
-  // 宜宾燃面
-  // 宜宾人最喜爱吃面，常见的有，炖鸡面，咸鲜面，肥肠面，牛肉面，京酱面，口蘑面，三鲜面，辣鸡面，鳝鱼面，龙凤面。其中燃面是宜宾最具特色的小吃，原名叙府燃面，早在清光绪年间，便开始有人经营。
-  {
-    province: '四川省', // 省
-    city: '宜宾市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '宜宾燃面', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
-    detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
-    },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
-  },
   // 竹海名菜
   // 该菜以竹笋、竹荪蛋、竹荪菜、竹菌、竹海腊肉、竹筒豆花、竹筒竹、竹荪酒、竹泡菜等“竹”菜汇成的“全竹宴”。可谓满桌皆是竹，无竹不成席，令人大开眼界、垂涎欲滴。
   {
@@ -112,7 +56,7 @@ export const yibinFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -168,174 +112,7 @@ export const yibinFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
-  },
-  // 鸭儿粑，又名叶儿粑、少数人称猪儿粑。其主要原料为大米和糯米按一定的比例掺杂在一起，经浸泡后，用传统石磨磨成粉，过掉多余水分，并手工揉搓至一定的柔软度备用。
-  {
-    province: '四川省', // 省
-    city: '宜宾市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '鸭儿粑', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
-    detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
-    },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
-  },
-  // 柏溪潮糕
-  // 四川宜宾“柏溪潮糕”又叫“柏溪糕点”为当地四大名吃之一，起源于清朝同治时期（1866年）。
-  {
-    province: '四川省', // 省
-    city: '宜宾市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '柏溪潮糕', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
-    detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
-    },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
-    remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
-  },
-  // 南溪豆腐干
-  // 位于中国四川南部万里长江第一县、文明古城南溪（已为南溪区），是生产豆腐干之传统企业，南溪豆腐干始于清光绪年间（1875年至1908年）。
-  {
-    province: '四川省', // 省
-    city: '宜宾市', // 市
-    district: '', // 区
-    address: '', // 地方名称
-    foodAvatar: '', // 美食图片
-    foodName: '南溪豆腐干', // 美食名称
-    foodName_en: '', // 美食英文名称
-    foodCategoryCode: 'beef', // 食材类别编码
-    foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
-    cuisineCategoryName: '川菜', // 所属菜系
-    tasteCode: 'spicy', // 口味编码
-    tasteName: '麻辣', // 口味名称
-    cookingTypeCode: 'multiple', // 烹饪类型编码
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒', // 烹饪类型名称
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆', // 特色、特点
-    // 美食详情
-    detail: {
-      introduction: '', // 简介
-      storyBackground: '', // 故事背景
-      ingredients: '', // 原料
-      // 制作过程
-      productionProcess: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 营养价值
-      nutritionalValue: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 食用功效
-      edibleEffects: [
-        {
-          stepDesc: '', // 步骤描述
-        },
-      ],
-      // 做法
-      practiceList: [
-        {
-          way: '1', // 步骤名称
-          practiceDesc: '1', // 做法详情介绍
-        },
-      ],
-    },
-    shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -391,7 +168,7 @@ export const yibinFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -447,7 +224,7 @@ export const yibinFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
@@ -503,7 +280,7 @@ export const yibinFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成

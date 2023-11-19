@@ -1,46 +1,12 @@
 /**
  * 河北-廊坊市-美食
  *
- * 香河肉饼,大城驴肉,薛家窝头,永清胡记烧鸡,清真八大碗
+ * 大城驴肉,
+ * 永清胡记烧鸡,清真八大碗
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const langfangFoodsList = [
-  // 香河肉饼是河北省廊坊市香河县特产。特点是皮薄，肉厚，油香，吃起来面质软和，肉鲜细嫩，符合北方人的吃喝习惯，既可当菜，也可做主食。有两百多年的历史了。
-  {
-    province: '河北省',
-    city: '廊坊市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '香河肉饼',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hebeiCuisine',
-    cuisineCategoryName: '冀菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
   // 大城驴肉是河北大城县汉族传统名吃，属于地方特产。俗称“天上龙肉、地下驴肉”。大城驴肉源于晚清，祖传方法制作，配料讲究，风味独特，有清香怡人，美而不腻之感，是大城饮食“三宝”之一。清朝总管太监李莲英（大城籍）曾将大城驴肉献予慈禧太后，得誉“地上珍品”之称，从此大城驴肉名声大振。改革开放以来，大城驴肉得以开发，采用传统加工制作方法，经高温消毒，真空包装后行销全国。
   {
     province: '河北省',
@@ -49,41 +15,6 @@ export const langfangFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '大城驴肉',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hebeiCuisine',
-    cuisineCategoryName: '冀菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  // 百年传统、宫廷贡品―里坦薛家窝头。清朝道光年间，直隶省顺天府大城县里坦（古）镇，薛氏独辟蹊径，制做窝头。
-  {
-    province: '河北省',
-    city: '廊坊市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '薛家窝头',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

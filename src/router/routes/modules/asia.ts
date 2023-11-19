@@ -7,9 +7,9 @@ const asia: AppRouteModule = {
   path: '/asia',
   name: 'Asia',
   component: LAYOUT,
-  redirect: '/asia/eastAsia',
+  // redirect: '/asia/eastAsia',
   meta: {
-    orderNo: 10,
+    orderNo: 11,
     icon: 'ion:grid-outline',
     title: t('routes.asia.asia'),
   },
@@ -17,14 +17,14 @@ const asia: AppRouteModule = {
     {
       path: 'eastAsia',
       name: 'EastAsia',
-      redirect: '/asia/eastAsia/china',
+      // redirect: '/asia/eastAsia/china',
       meta: {
         title: t('routes.asia.eastAsia'),
       },
       children: [
         {
           path: 'china',
-          name: 'china',
+          name: 'China',
           component: () => import('/@/views/asia/eastAsia/china/index.vue'),
           meta: {
             // affix: true,

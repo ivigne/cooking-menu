@@ -101,7 +101,7 @@
 
       const tree = ref([
         {
-          title: 'parent ',
+          title: 'parent',
           key: '0-0',
         },
       ]);

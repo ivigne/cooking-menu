@@ -8,7 +8,7 @@
  */
 /**
  * 广西-来宾市-美食
- * 红糟酸、忻城肉粽
+ * 红糟酸、
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -21,41 +21,6 @@ export const laibinFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '红糟酸',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'guiCuisine',
-    cuisineCategoryName: '桂菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  // 中国传统食物，由糯米、猪肉制成。
-  {
-    province: '广西壮族自治区',
-    city: '来宾市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '忻城肉粽',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

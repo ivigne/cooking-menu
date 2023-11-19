@@ -99,7 +99,7 @@
   // const arrayData = ref<T>([]);
   // 将字符串分隔符(中文逗号，回车)统一替换成英文分隔符，并转成为数组
   const replaceAndSplitStr = (value: any) => {
-    return value.replace(/、/g, ',').replace(/，/g, ',').replace(/\n/g, ',').split(',');
+    return value.replace(/、/g, '').replace(/，/g, '').replace(/\n/g, '').split(',');
   };
   // 将数组转成为“英文分隔符”的字符串
   const joinStr = (value: any) => {

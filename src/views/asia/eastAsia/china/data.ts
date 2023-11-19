@@ -1,9 +1,9 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:06:16
- * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2022-10-13 14:54:16
- * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/fujianProvince/index.ts
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2023-11-19 21:32:18
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/data.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 
@@ -78,3 +78,76 @@ export const chinaTableData = {
   yunNan: yunNanFoodsList,
   zheJiang: zheJiangFoodsList,
 };
+export const fffoodsList = [].concat(
+  anHuiFoodsList,
+  aoMenFoodsList,
+  beiJingFoodsList,
+  chongQingFoodsList,
+  fuJianFoodsList,
+  ganSuFoodsList,
+  guangDongFoodsList,
+  guangXiFoodsList,
+  guiZhouFoodsList,
+  haiNanFoodsList,
+  heBeiFoodsList,
+  heiLongJiangFoodsList,
+  heNanFoodsList,
+  hongKongFoodsList,
+  huBeiFoodsList,
+  huNanFoodsList,
+  innerMongoliaFoodsList,
+  jiangSuFoodsList,
+  jiangXiFoodsList,
+  jiLinFoodsList,
+  liaoNingFoodsList,
+  ningXiaFoodsList,
+  qingHaiFoodsList,
+  shaanXiFoodsList,
+  shanDongFoodsList,
+  shangHaiFoodsList,
+  shanXiFoodsList,
+  siChuanFoodsList,
+  taiWanFoodsList,
+  tianJinFoodsList,
+  tibetFoodsList,
+  xinJiangFoodsList,
+  yunNanFoodsList,
+  zheJiangFoodsList,
+);
+
+const chinaKeys = Object.keys(chinaTableData);
+const allname = fffoodsList.map((item) => item.foodName);
+
+console.log('所有菜名：', allname);
+function unipFunc(arr) {
+  const newArr = [];
+  arr.forEach((item: never) => {
+    if (arr.indexOf(item) !== arr.lastIndexOf(item) && newArr.indexOf(item) === -1) {
+      newArr.push(item);
+      return newArr;
+    }
+  });
+  console.log('重复菜名菜名：', newArr);
+}
+unipFunc(allname);
+console.log('useCopyToClipboard', Array.from(new Set(allname)));
+
+const chinaKeysArr = [] as any;
+chinaKeys.map((item) => {
+  // console.log(item, chinaTableData[item].length);
+  chinaKeysArr.push({ name: item, length: chinaTableData[item].length });
+});
+chinaKeysArr.sort((a: any, b: any) => {
+  // console.log('排序', a, b);
+  return a.length - b.length;
+});
+// keys.sort((a, b) => {
+//   console.log('排序', a, b);
+//   return chinaTableData[a] - chinaTableData[b];
+// });
+const chinaSum = chinaKeysArr.reduce((prev, cur) => {
+  // console.log(prev, cur, index);
+  console.log('----begin------' + cur.name + ': ' + cur.length + '-----end-----');
+  return prev + Number(cur.length);
+}, 0);
+console.log('中国有：', chinaSum, ' 道菜', chinaKeys);

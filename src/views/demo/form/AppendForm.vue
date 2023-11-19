@@ -44,7 +44,7 @@
           {
             field: '0',
             component: 'Input',
-            label: ' ',
+            label: '',
             colProps: {
               span: 8,
             },
@@ -96,7 +96,7 @@
           {
             field: `${n.value}`,
             component: 'Input',
-            label: ' ',
+            label: '',
             colProps: {
               span: 8,
             },

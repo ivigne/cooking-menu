@@ -1,9 +1,9 @@
 <!--
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-08-24 09:46:17
- * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2023-09-07 10:57:22
- * @FilePath: /cooking-menu/src/views/asia/eastAsia/Japan/index.vue
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2023-11-19 21:30:26
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/japan/index.vue
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 <template>
@@ -31,18 +31,18 @@
 <script lang="ts" setup>
   // import { unref } from 'vue';
   import { formConfig, tableColumnsConfig } from './config';
-  import { chinaTableData } from './data';
+  // import { chinaTableData } from './data';
   import { BasicTable, useTable } from '/@/components/Table';
   // import { useMessage } from '/@/hooks/web/useMessage';
   import { useI18n } from '/@/hooks/web/useI18n';
   import { router } from '/@/router';
 
   const { t } = useI18n();
-  console.log('tableData', chinaTableData['siChuan']);
+  console.log('tableData');
   // const { createConfirm, createMessage } = useMessage();
 
   const [registerTable] = useTable({
-    dataSource: chinaTableData['siChuan'],
+    dataSource: [],
     columns: tableColumnsConfig,
     formConfig: formConfig,
     isTreeTable: true,

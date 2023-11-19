@@ -2,7 +2,7 @@ import { TreeItem } from '/@/components/Tree/index';
 
 export const treeData: TreeItem[] = [
   {
-    title: 'parent ',
+    title: 'parent',
     key: '0-0',
     children: [
       { title: 'leaf', key: '0-0-0' },
@@ -36,7 +36,7 @@ export const treeData: TreeItem[] = [
 
 export const treeData2: any[] = [
   {
-    name: 'parent ',
+    name: 'parent',
     id: '0-0',
 
     children: [
@@ -79,7 +79,7 @@ export const treeData2: any[] = [
 
 export const treeData3: any[] = [
   {
-    name: 'parent ',
+    name: 'parent',
     key: '0-0',
     children: [
       { name: 'leaf', key: '0-0-0' },

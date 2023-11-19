@@ -109,7 +109,7 @@ export const schemas: FormSchema[] = [
   {
     field: 'disclosure',
     component: 'Select',
-    label: ' ',
+    label: '',
     colProps: {
       span: 8,
     },

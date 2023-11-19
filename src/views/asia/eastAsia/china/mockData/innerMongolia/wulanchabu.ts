@@ -6,6 +6,14 @@
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-10-20 19:04:17
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/innerMongolia/wulanchabu.ts
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ */
 /**
  * 内蒙古自治区-乌兰察布市-美食
  * 卓资熏鸡
@@ -65,7 +73,7 @@ export const wulanchabuFoodsList = [
       ],
     },
     shootingStatus: 0, // 拍摄状态
-    scripts: lampshadedBeefScriptsList,
+    scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成

@@ -1,7 +1,15 @@
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-10-20 19:04:17
+ * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/henanProvince/zhoukou.ts
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ */
 /**
  * 河南-周口市-美食
  *
- * 烧蒲菜,邓城叶氏猪蹄,太康肘子,孔集卤鸡,固墙热豆腐,逍遥镇胡辣汤,邓城猪蹄
+ * 烧蒲菜,邓城叶氏猪蹄,太康肘子,孔集卤鸡,固墙热豆腐,邓城猪蹄
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
@@ -156,41 +164,6 @@ export const zhoukouFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '固墙热豆腐',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  // 逍遥镇胡辣汤是中华风味名吃之一，色香味俱佳，且能醒酒提神，开胃健脾，源于河南省周口市西华县逍遥镇。正宗的胡辣汤中只用胡椒不用辣椒，即“胡乱辣”，各种辣味加在一起。经过民间若干年的加工发展，一种以适合北方人口味、辣味醇郁、汤香扑鼻的胡辣汤在逍遥镇诞生。
-  {
-    province: '河南省',
-    city: '周口市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '逍遥镇胡辣汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

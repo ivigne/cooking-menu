@@ -1,0 +1,16 @@
+export default {
+  more: '更多',
+  dipping: '蘸水系列',
+  ingredientsTypes: '食材种类系列',
+  kitchenware: '厨具系列',
+  orphaned: '孤陋寡闻系列',
+  spice: '香料系列',
+  chutney: '酱、酱菜',
+  essert: '酥点',
+  sugar: '糖',
+  tea: '茶',
+  wine: '酒',
+  dessert: '糕点',
+  meatballs: '丸子',
+  flavoring: '调味料',
+};

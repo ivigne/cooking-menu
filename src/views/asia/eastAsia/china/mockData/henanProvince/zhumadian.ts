@@ -1,81 +1,11 @@
 /**
  * 河南-驻马店市-美食
  *
- * 马家灌汤包,马家羊肉水饺,明宫三茹鸭
+ * 明宫三茹鸭
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const zhumadianFoodsList = [
-  // 灌汤包是传统特色小吃。早在北宋市场上已有售卖，当时称灌浆馒头或灌汤包子。著名产地有开封，西安等地。薄馅大，汤汁鲜美、外表玲珑剔透、汤汁醇正浓郁、入口油而不腻。
-  {
-    province: '河南省',
-    city: '驻马店市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '马家灌汤包',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  // 马家羊肉水饺是由精羊肉、姜、味精、马家香料、葱、鸡蛋、面粉、小磨香油、鸡汤等主要食材制作的一种食品。
-  {
-    province: '河南省',
-    city: '驻马店市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '马家羊肉水饺',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
   // 三菇炖鸭是一道河南省的传统名菜，属于豫菜系。相传为明代宰相徐达从宫中带回的秘方。河南驻马店市文明路中段天中伊园代表菜。汤味清香淡雅，肉细嫩爽口，营养丰富。
   {
     province: '河南省',
