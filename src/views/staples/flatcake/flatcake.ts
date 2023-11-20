@@ -1,7 +1,7 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-11-14 18:14:33
- * @FilePath: /cooking-menu/src/views/staples/mockData/flatcake/data.ts
+ * @FilePath: /cooking-menu/src/views/staples/flatcake/flatcake.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
@@ -119,111 +119,12 @@ export const flatcakeFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '糍粑',
-    foodName_en: 'mochi',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fujianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
     foodName: '豆沙糍粑',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'fujianCuisine',
     cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '广东省',
-    city: '河源市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '糍粑',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'cantoneseCuisine',
-    cuisineCategoryName: '粤菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     menuCategoryCode: '',
@@ -1778,54 +1679,6 @@ export const flatcakeFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '豌豆粑',
-    foodName_en: 'peaPaste',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hubeiCuisine',
-    cuisineCategoryName: '楚菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '湖北省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
     foodName: '柴灶豆米粑',
     foodName_en: 'woodcutterBeanRiceCake',
     foodCategoryCode: 'beef',
@@ -1867,57 +1720,6 @@ export const flatcakeFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
-  },
-  {
-    province: '湖北省',
-    city: '恩施土家族苗族自治州',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '洋芋粑粑',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hubeiCuisine',
-    cuisineCategoryName: '楚菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -2233,54 +2035,6 @@ export const flatcakeFoodsList = [
     foodAvatar: '',
     foodName: '薯丁粑粑',
     foodName_en: 'potatoPoop',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hunanCuisine',
-    cuisineCategoryName: '湘菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '湖南省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '糖油粑粑',
-    foodName_en: 'sweetenedOilPoop',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'hunanCuisine',
@@ -2667,7 +2421,7 @@ export const flatcakeFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '糖油粑粑',
-    foodName_en: '',
+    foodName_en: 'sweetenedOilPoop',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'hunanCuisine',
@@ -2820,57 +2574,6 @@ export const flatcakeFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '穇子粑',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hunanCuisine',
-    cuisineCategoryName: '湘菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '湖南省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '薯丁粑粑',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -3733,159 +3436,6 @@ export const flatcakeFoodsList = [
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '四川省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '黄粑',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
-    cuisineCategoryName: '川菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '四川省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '黄粑',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
-    cuisineCategoryName: '川菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '四川省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '猪儿粑',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
-    cuisineCategoryName: '川菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
     cookingTypeCode: 'multiple',
     cookingTypeName: '腌、晾、烘、蒸、炸、炒',
     featuresName: '薄如纸，色红亮，味麻辣鲜脆',

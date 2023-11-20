@@ -364,7 +364,7 @@ export const potHelmetFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '荆州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -457,57 +457,6 @@ export const potHelmetFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
-  },
-  {
-    province: '湖北省',
-    city: '荆州市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '公安锅盔',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hubeiCuisine',
-    cuisineCategoryName: '楚菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -1124,57 +1073,6 @@ export const potHelmetFoodsList = [
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'jiangxiCuisine',
     cuisineCategoryName: '赣菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '陕西省',
-    city: '咸阳市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '乾州锅盔',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shaanxiCuisine',
-    cuisineCategoryName: '陕西菜、陕菜、秦菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     menuCategoryCode: '',

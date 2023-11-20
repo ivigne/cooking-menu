@@ -1,5 +1,13 @@
 /*
  * @Author: vigne 1186963387@qq.com
+ * @Date: 2023-11-19 21:36:14
+ * @FilePath: /cooking-menu/src/views/staples/soup/soup.ts
+ * @Description:
+ *
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
+ */
+/*
+ * @Author: vigne 1186963387@qq.com
  * @Date: 2023-11-14 18:14:33
  * @FilePath: /cooking-menu/src/views/staples/soup/soup.ts
  * @Description:
@@ -11,54 +19,6 @@
  */
 // import { lampshadedBeefScriptsList } from './riceFoodScriptContent/lampshadedBeef';
 export const soupFoodsList = [
-  {
-    province: '安徽省',
-    city: '三沙市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '牛肉汤',
-    foodName_en: 'beefSoup',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
-    cuisineCategoryName: '徽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
   {
     province: '北京',
     city: '北京',
@@ -106,57 +66,6 @@ export const soupFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
-  },
-  {
-    province: '北京市',
-    city: '北京市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '酸梅汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'beijingCuisine',
-    cuisineCategoryName: '京菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
   },
   {
     province: '北京',
@@ -205,57 +114,6 @@ export const soupFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
-  },
-  {
-    province: '北京市',
-    city: '北京市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '茶汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'beijingCuisine',
-    cuisineCategoryName: '京菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
   },
   {
     province: '福建省',
@@ -455,57 +313,6 @@ export const soupFoodsList = [
   {
     province: '福建省',
     city: '泉州市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '四果汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fujianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '漳州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -759,108 +566,6 @@ export const soupFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '疙星汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '河南省',
-    city: '开封市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '逍遥镇胡辣汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '河南省',
-    city: '漯河市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '北舞渡胡辣汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -1209,57 +914,6 @@ export const soupFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '湖北省',
-    city: '襄阳市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '胡辣汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hubeiCuisine',
-    cuisineCategoryName: '楚菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
     province: '湖南省',
     city: '',
     district: '',
@@ -1309,60 +963,12 @@ export const soupFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '南京市',
     district: '',
     address: '',
     foodAvatar: '',
     foodName: '鸭血粉丝汤',
     foodName_en: 'duckBloodVermicelliSoup',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jiangsuCuisine',
-    cuisineCategoryName: '江苏菜、苏菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '江苏省',
-    city: '南京市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '牛肉汤',
-    foodName_en: 'beefSoup',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'jiangsuCuisine',
@@ -1452,54 +1058,6 @@ export const soupFoodsList = [
     tags: null,
   },
   {
-    province: '山东省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '菏泽的单县羊汤',
-    foodName_en: 'shanxianMuttonSoup',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shangdongCuisine',
-    cuisineCategoryName: '鲁菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
     province: '陕西省',
     city: '西安市',
     district: '',
@@ -1511,54 +1069,6 @@ export const soupFoodsList = [
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'shaanxiCuisine',
     cuisineCategoryName: '陕西菜、陕菜、秦菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '天津',
-    city: '天津市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '茶汤',
-    foodName_en: 'teaSoup',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'tianjinCuisine',
-    cuisineCategoryName: '天津菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     cookingTypeCode: 'multiple',
@@ -1698,58 +1208,7 @@ export const soupFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '淮南牛肉汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
-    cuisineCategoryName: '徽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '安徽省',
-    city: '淮南市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '田家庵老鸭汤',
-    foodName_en: '',
+    foodName_en: 'beefSoup',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'anhuiCuisine',
@@ -1958,57 +1417,6 @@ export const soupFoodsList = [
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'cantoneseCuisine',
     cuisineCategoryName: '粤菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '重庆市',
-    city: '重庆市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '老鸭汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
-    cuisineCategoryName: '川菜、渝菜（重庆菜、渝派川菜）',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     menuCategoryCode: '',
@@ -4345,57 +3753,6 @@ export const soupFoodsList = [
   },
   {
     province: '广东省',
-    city: '河源市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '全猪汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'cantoneseCuisine',
-    cuisineCategoryName: '粤菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '广东省',
     city: '',
     district: '',
     address: '',
@@ -5160,57 +4517,6 @@ export const soupFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '河北省',
-    city: '沧州市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '羊肠汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hebeiCuisine',
-    cuisineCategoryName: '冀菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
     province: '黑龙江省',
     city: '牡丹江市',
     district: '',
@@ -5268,57 +4574,6 @@ export const soupFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '羊肉汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '河南省',
-    city: '洛阳市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '牛肉汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -5620,108 +4875,6 @@ export const soupFoodsList = [
   },
   {
     province: '河南省',
-    city: '南阳市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '羊肉汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '河南省',
-    city: '南阳市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '牛肉汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '河南省',
     city: '商丘市',
     district: '',
     address: '',
@@ -5879,57 +5032,6 @@ export const soupFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '老鸭汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '河南省',
-    city: '信阳市',
-    district: '',
-    address: '',
-    foodAvatar: '',
     foodName: '大肠汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
@@ -6033,57 +5135,6 @@ export const soupFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '罗山大肠汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'henanCuisine',
-    cuisineCategoryName: '豫菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '河南省',
-    city: '信阳市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '商城老鸭汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -6844,57 +5895,6 @@ export const soupFoodsList = [
   },
   {
     province: '江苏省',
-    city: '南京市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '鸭血粉丝汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jiangsuCuisine',
-    cuisineCategoryName: '江苏菜、苏菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '江苏省',
     city: '徐州市',
     district: '',
     address: '',
@@ -7307,211 +6307,7 @@ export const soupFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '丸子汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jiangsuCuisine',
-    cuisineCategoryName: '江苏菜、苏菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '江苏省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '牛肉汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jiangsuCuisine',
-    cuisineCategoryName: '江苏菜、苏菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '江苏省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '老鸭汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jiangsuCuisine',
-    cuisineCategoryName: '江苏菜、苏菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '江苏省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
     foodName: '莼菜银鱼汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jiangsuCuisine',
-    cuisineCategoryName: '江苏菜、苏菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '江苏省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '辣汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -7869,57 +6665,6 @@ export const soupFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '民间瓦罐煨汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jiangxiCuisine',
-    cuisineCategoryName: '赣菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '江西省',
-    city: '吉安市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '酱萝卜老鸭汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -8429,57 +7174,6 @@ export const soupFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '酸辣汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jilinCuisine',
-    cuisineCategoryName: '吉林菜、吉菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '吉林省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
     foodName: '飞龙汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
@@ -8537,57 +7231,6 @@ export const soupFoodsList = [
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'jilinCuisine',
     cuisineCategoryName: '吉林菜、吉菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '青海省',
-    city: '西宁市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '羊肉汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'northwesternCuisine',
-    cuisineCategoryName: '西北菜、青海菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     menuCategoryCode: '',
@@ -8782,57 +7425,6 @@ export const soupFoodsList = [
   },
   {
     province: '山东省',
-    city: '济南市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '羊汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shangdongCuisine',
-    cuisineCategoryName: '鲁菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '山东省',
     city: '枣庄市',
     district: '',
     address: '',
@@ -8889,57 +7481,6 @@ export const soupFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '辣汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shangdongCuisine',
-    cuisineCategoryName: '鲁菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '山东省',
-    city: '枣庄市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '糁汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -9292,113 +7833,11 @@ export const soupFoodsList = [
   },
   {
     province: '山东省',
-    city: '德州市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '羊肠汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shangdongCuisine',
-    cuisineCategoryName: '鲁菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '山东省',
     city: '菏泽市',
     district: '',
     address: '',
     foodAvatar: '',
     foodName: '单县羊肉汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shangdongCuisine',
-    cuisineCategoryName: '鲁菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '山东省',
-    city: '菏泽市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '胡辣汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -10210,108 +8649,6 @@ export const soupFoodsList = [
   },
   {
     province: '山西',
-    city: '长治市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '丸子汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jinCuisine',
-    cuisineCategoryName: '晋菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '山西',
-    city: '长治市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '羊汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jinCuisine',
-    cuisineCategoryName: '晋菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '山西',
     city: '晋城市',
     district: '',
     address: '',
@@ -10869,57 +9206,6 @@ export const soupFoodsList = [
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'sichuanCuisine',
     cuisineCategoryName: '川菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '天津市',
-    city: '天津市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '羊汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'tianjinCuisine',
-    cuisineCategoryName: '天津菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     menuCategoryCode: '',
@@ -11973,40 +10259,6 @@ export const soupFoodsList1 = [
     address: '',
     foodAvatar: '',
     foodName: '生炒鸭肉羹',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fujianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '台湾',
-    city: '基隆市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '豆签羹',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

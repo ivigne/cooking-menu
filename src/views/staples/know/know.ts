@@ -1,7 +1,7 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-11-14 18:14:33
- * @FilePath: /cooking-menu/src/views/staples/mockData/Know.ts
+ * @FilePath: /cooking-menu/src/views/staples/know/know.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
@@ -11,57 +11,6 @@
  */
 // import { lampshadedBeefScriptsList } from './riceFoodScriptContent/lampshadedBeef';
 export const knowFoodsList = [
-  {
-    province: '广东省',
-    city: '河源市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '艾粄',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'cantoneseCuisine',
-    cuisineCategoryName: '粤菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
   {
     province: '广东省',
     city: '河源市',
@@ -171,7 +120,7 @@ export const knowFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '仙人粄',
-    foodName_en: '',
+    foodName_en: 'immortalConfessions',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'cantoneseCuisine',
@@ -375,7 +324,7 @@ export const knowFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '黄粄',
-    foodName_en: '',
+    foodName_en: 'yellowConfessions',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'cantoneseCuisine',
@@ -1344,7 +1293,7 @@ export const knowFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '萝卜粄',
-    foodName_en: '',
+    foodName_en: 'turnipConfessions',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'cantoneseCuisine',
@@ -1548,7 +1497,7 @@ export const knowFoodsList = [
     address: '',
     foodAvatar: '',
     foodName: '簸箕粄',
-    foodName_en: '',
+    foodName_en: 'buckwheatConfessions',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'cantoneseCuisine',
@@ -2108,200 +2057,8 @@ export const knowFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '簸箕粄',
-    foodName_en: 'buckwheatConfessions',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hakkaCuisine',
-    cuisineCategoryName: '客家菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '广东省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '仙人粄',
-    foodName_en: 'immortalConfessions',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hakkaCuisine',
-    cuisineCategoryName: '客家菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '广东省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '萝卜粄',
-    foodName_en: 'turnipConfessions',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hakkaCuisine',
-    cuisineCategoryName: '客家菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '广东省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
     foodName: '芋子粄',
     foodName_en: 'taroConfessions',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hakkaCuisine',
-    cuisineCategoryName: '客家菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '广东省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '黄粄',
-    foodName_en: 'yellowConfessions',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'hakkaCuisine',
