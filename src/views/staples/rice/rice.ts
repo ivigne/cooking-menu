@@ -13,7 +13,7 @@
 export const riceFoodsList = [
   {
     province: '安徽省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2243,54 +2243,6 @@ export const riceFoodsList = [
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'shaanxiCuisine',
     cuisineCategoryName: '陕西菜、陕菜、秦菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '浙江省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '紫米八宝饭',
-    foodName_en: 'purpleRiceEightTreasuresRice',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'zhejiangCuisine',
-    cuisineCategoryName: '浙江菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     cookingTypeCode: 'multiple',
@@ -4632,6 +4584,108 @@ export const riceFoodsList = [
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'zhejiangCuisine',
     cuisineCategoryName: '浙江菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '',
+    city: '',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '咖喱鸡肉饭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: '',
+    cuisineCategoryName: '',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '福建省',
+    city: '',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '红米饭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'fujianCuisine',
+    cuisineCategoryName: '闽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     menuCategoryCode: '',

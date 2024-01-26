@@ -464,7 +464,7 @@ export const othersFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '土椒烧桂鱼',
+    foodName: '土椒烧鳜鱼',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

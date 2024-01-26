@@ -61,7 +61,7 @@
       const emitData = ref<any[]>([]);
       const attrs = useAttrs();
       const { t } = useI18n();
-      // Embedded in the form, just use the hook binding to perform form verification
+      // 嵌入到表单中，只需使用钩子绑定来执行表单验证 Embedded in the form, just use the hook binding to perform form verification
       const [state] = useRuleFormItem(props);
 
       // Processing options value

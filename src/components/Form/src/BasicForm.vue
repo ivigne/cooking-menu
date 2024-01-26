@@ -58,17 +58,16 @@
   import { createFormContext } from './hooks/useFormContext';
   import { useAutoFocus } from './hooks/useAutoFocus';
   import { useModalContext } from '/@/components/Modal';
-  import { useDebounceFn } from '@vueuse/core';
 
   import { basicProps } from './props';
   import { useDesign } from '/@/hooks/web/useDesign';
-  import { cloneDeep } from 'lodash-es';
+  import dayjs from 'dayjs';
 
   export default defineComponent({
     name: 'BasicForm',
     components: { FormItem, Form, Row, FormAction },
     props: basicProps,
-    emits: ['advanced-change', 'reset', 'submit', 'register', 'field-value-change'],
+    emits: ['advanced-change', 'reset', 'submit', 'register'],
     setup(props, { emit, attrs }) {
       const formModel = reactive<Recordable>({});
       const modalFn = useModalContext();
@@ -88,7 +87,7 @@
 
       const { prefixCls } = useDesign('basic-form');
 
-      // Get the basic configuration of the form
+      // Get the basic configuration of the form 获取表单的基本配置
       const getProps = computed((): FormProps => {
         return { ...props, ...unref(propsRef) } as FormProps;
       });
@@ -102,7 +101,7 @@
         ];
       });
 
-      // Get uniform row style and Row configuration for the entire form
+      // 为整个表单获取统一的行样式和行配置 Get uniform row style and Row configuration for the entire form
       const getRow = computed((): Recordable => {
         const { baseRowStyle = {}, rowProps } = unref(getProps);
         return {
@@ -124,20 +123,19 @@
             if (!Array.isArray(defaultValue)) {
               schema.defaultValue = dateUtil(defaultValue);
             } else {
-              const def: any[] = [];
+              const def: dayjs.ConfigType[] = [];
               defaultValue.forEach((item) => {
-                def.push(dateUtil(item));
+                // def.push(dateUtil(item))
+                def.push(item);
               });
               schema.defaultValue = def;
             }
           }
         }
         if (unref(getProps).showAdvancedButton) {
-          return cloneDeep(
-            schemas.filter((schema) => schema.component !== 'Divider') as FormSchema[],
-          );
+          return schemas.filter((schema) => schema.component !== 'Divider') as FormSchema[];
         } else {
-          return cloneDeep(schemas as FormSchema[]);
+          return schemas as FormSchema[];
         }
       });
 
@@ -216,7 +214,7 @@
         () => getSchema.value,
         (schema) => {
           nextTick(() => {
-            //  Solve the problem of modal adaptive height calculation when the form is placed in the modal
+            //  解决模板放置在模态中时的模态自适应高度计算问题 Solve the problem of modal adaptive height calculation when the form is placed in the modal
             modalFn?.redoModalHeight?.();
           });
           if (unref(isInitedDefaultRef)) {
@@ -229,14 +227,6 @@
         },
       );
 
-      watch(
-        () => formModel,
-        useDebounceFn(() => {
-          unref(getProps).submitOnChange && handleSubmit();
-        }, 300),
-        { deep: true },
-      );
-
       async function setProps(formProps: Partial<FormProps>): Promise<void> {
         propsRef.value = deepMerge(unref(propsRef) || {}, formProps);
       }
@@ -247,7 +237,6 @@
         if (!validateTrigger || validateTrigger === 'change') {
           validateFields([key]).catch((_) => {});
         }
-        emit('field-value-change', key, value);
       }
 
       function handleEnterPress(e: KeyboardEvent) {

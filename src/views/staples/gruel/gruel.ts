@@ -61,7 +61,7 @@ export const gruelFoodsList = [
   },
   {
     province: '安徽省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',

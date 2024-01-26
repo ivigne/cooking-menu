@@ -102,7 +102,7 @@
 export const henanFoodsList = [
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -150,7 +150,7 @@ export const henanFoodsList = [
   },
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -198,7 +198,7 @@ export const henanFoodsList = [
   },
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -246,7 +246,7 @@ export const henanFoodsList = [
   },
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -294,7 +294,7 @@ export const henanFoodsList = [
   },
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -342,7 +342,7 @@ export const henanFoodsList = [
   },
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -390,7 +390,7 @@ export const henanFoodsList = [
   },
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -486,7 +486,7 @@ export const henanFoodsList = [
   },
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',

@@ -10,6 +10,7 @@ const media: AppRouteModule = {
   component: LAYOUT,
   redirect: '/media/anime',
   meta: {
+    orderNo: 4,
     icon: 'ion:grid-outline',
     title: t('routes.media.media'),
   },

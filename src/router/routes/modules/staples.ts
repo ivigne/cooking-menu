@@ -18,6 +18,7 @@ const staples: AppRouteModule = {
   component: LAYOUT,
   redirect: '/staples/rice',
   meta: {
+    orderNo: 3,
     icon: 'ion:grid-outline',
     title: t('routes.staples.staples'),
   },

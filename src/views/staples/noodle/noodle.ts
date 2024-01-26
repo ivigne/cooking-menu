@@ -5627,54 +5627,6 @@ export const noodleFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '拉面',
-    foodName_en: 'ramen',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jiangsuCuisine',
-    cuisineCategoryName: '江苏菜、苏菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-  },
-  {
-    province: '江苏省',
-    city: '南京市',
-    district: '',
-    address: '',
-    foodAvatar: '',
     foodName: '压面',
     foodName_en: 'pressedNoodle',
     foodCategoryCode: 'beef',
@@ -12393,6 +12345,108 @@ export const noodleFoodsList = [
       nutritionalValue: [{ stepDesc: '' }],
       edibleEffects: [{ stepDesc: '' }],
       practiceList: [{ way: '1', practiceDesc: '1' }],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '',
+    city: '',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '四川担担面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: '',
+    cuisineCategoryName: '',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '',
+    city: '',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '南宁老友猪杂面',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: '',
+    cuisineCategoryName: '',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
     },
     shootingStatus: 0,
     scripts: 'lampshadedBeefScriptsList',

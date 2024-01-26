@@ -2032,4 +2032,157 @@ export const ricedumplingsFoodsList = [
     tags: null,
     isCookFlag: 0,
   },
+  {
+    province: '',
+    city: '',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '蛋黄五香咸肉粽子',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: '',
+    cuisineCategoryName: '',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '',
+    city: '',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '广式粽子',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: '',
+    cuisineCategoryName: '',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '',
+    city: '',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '八宝粽',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: '',
+    cuisineCategoryName: '',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
 ];

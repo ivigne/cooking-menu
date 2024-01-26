@@ -12,7 +12,7 @@
 export const anhuiFoodsList = [
   {
     province: '安徽省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -60,7 +60,7 @@ export const anhuiFoodsList = [
   },
   {
     province: '安徽省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -108,7 +108,7 @@ export const anhuiFoodsList = [
   },
   {
     province: '安徽省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',

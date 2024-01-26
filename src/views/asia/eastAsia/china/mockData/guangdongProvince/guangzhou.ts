@@ -79,7 +79,7 @@ export const guangzhouFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '烤乳猪',
+    foodName: '脆皮烤乳猪',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

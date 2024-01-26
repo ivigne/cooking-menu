@@ -24,13 +24,15 @@ import {
 import ApiRadioGroup from './components/ApiRadioGroup.vue';
 import RadioButtonGroup from './components/RadioButtonGroup.vue';
 import ApiSelect from './components/ApiSelect.vue';
-import ApiTree from './components/ApiTree.vue';
 import ApiTreeSelect from './components/ApiTreeSelect.vue';
 import ApiCascader from './components/ApiCascader.vue';
 import { BasicUpload } from '/@/components/Upload';
 import { StrengthMeter } from '/@/components/StrengthMeter';
 import { IconPicker } from '/@/components/Icon';
 import { CountdownInput } from '/@/components/CountDown';
+import { BasicDivider } from '/@/components/Divider';
+
+import RecordSelect from './components/RecordSelect.vue';
 
 const componentMap = new Map<ComponentType, Component>();
 
@@ -44,7 +46,6 @@ componentMap.set('AutoComplete', AutoComplete);
 
 componentMap.set('Select', Select);
 componentMap.set('ApiSelect', ApiSelect);
-componentMap.set('ApiTree', ApiTree);
 componentMap.set('TreeSelect', TreeSelect);
 componentMap.set('ApiTreeSelect', ApiTreeSelect);
 componentMap.set('ApiRadioGroup', ApiRadioGroup);
@@ -69,6 +70,9 @@ componentMap.set('InputCountDown', CountdownInput);
 
 componentMap.set('Upload', BasicUpload);
 componentMap.set('Divider', Divider);
+componentMap.set('BasicDivider', BasicDivider);
+
+componentMap.set('RecordSelect', RecordSelect);
 
 export function add(compName: ComponentType, component: Component) {
   componentMap.set(compName, component);

@@ -1059,7 +1059,7 @@ export const cityList = [
       },
       {
         code: '460300',
-        value: '三沙市',
+        value: '',
       },
       {
         code: '460400',

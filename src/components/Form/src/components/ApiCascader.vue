@@ -24,9 +24,12 @@
   import { propTypes } from '/@/utils/propTypes';
   import { isFunction } from '/@/utils/is';
   import { get, omit } from 'lodash-es';
+  import { useAttrs } from '/@/hooks/core/useAttrs';
   import { useRuleFormItem } from '/@/hooks/component/useFormItem';
   import { LoadingOutlined } from '@ant-design/icons-vue';
   import { useI18n } from '/@/hooks/web/useI18n';
+  const { t } = useI18n();
+
   interface Option {
     value: string;
     label: string;
@@ -45,7 +48,7 @@
         type: Array,
       },
       api: {
-        type: Function as PropType<(arg?: Recordable) => Promise<Option[]>>,
+        type: Function as PropType<(arg: Recordable, selectedOptions?: any) => Promise<Option[]>>,
         default: null,
       },
       numberToString: propTypes.bool,
@@ -69,16 +72,19 @@
         type: Array,
       },
     },
-    emits: ['change', 'defaultChange'],
+    emits: ['change', 'defaultChange', 'update:value'],
     setup(props, { emit }) {
       const apiData = ref<any[]>([]);
       const options = ref<Option[]>([]);
       const loading = ref<boolean>(false);
       const emitData = ref<any[]>([]);
       const isFirstLoad = ref(true);
-      const { t } = useI18n();
-      // Embedded in the form, just use the hook binding to perform form verification
-      const [state] = useRuleFormItem(props, 'value', 'change', emitData);
+      const attrs = useAttrs();
+
+      // 嵌入到表单中，只需使用钩子绑定来执行表单验证 Embedded in the form, just use the hook binding to perform form verification
+      const [state] = (attrs as Recordable).value?.vxeItem
+        ? useRuleFormItem(props, 'value', 'update:value')
+        : useRuleFormItem(props, 'value', 'change', emitData);
 
       watch(
         apiData,
@@ -138,17 +144,26 @@
         const api = props.api;
         if (!api || !isFunction(api)) return;
         try {
-          const res = await api({
-            [props.asyncFetchParamKey]: Reflect.get(targetOption, 'value'),
-          });
+          const res = await api(
+            {
+              [props.asyncFetchParamKey]: Reflect.get(targetOption, 'value'),
+            },
+            selectedOptions,
+          );
           if (Array.isArray(res)) {
             const children = generatorOptions(res);
             targetOption.children = children;
+            if (children.length == 0) {
+              targetOption.isLeaf = true;
+            }
             return;
           }
           if (props.resultField) {
             const children = generatorOptions(get(res, props.resultField) || []);
             targetOption.children = children;
+            if (children.length == 0) {
+              targetOption.isLeaf = true;
+            }
           }
         } catch (e) {
           console.error(e);
@@ -188,10 +203,10 @@
         state,
         options,
         loading,
-        t,
         handleChange,
         loadData,
         handleRenderDisplay,
+        t,
       };
     },
   });

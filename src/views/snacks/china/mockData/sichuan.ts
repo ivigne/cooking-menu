@@ -119,7 +119,7 @@ export const sichuanFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '小笼粉蒸牛肉',
+    foodName: '粉蒸牛肉',
     foodName_en: 'steamedBeef',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

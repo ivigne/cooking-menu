@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:06:16
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-11-19 21:32:18
+ * @LastEditTime: 2023-12-21 16:23:22
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/data.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -41,6 +41,7 @@ import { tibetFoodsList } from './mockData/tibet/index';
 import { xinJiangFoodsList } from './mockData/xinjiang/index';
 import { yunNanFoodsList } from './mockData/yunnanProvince/index';
 import { zheJiangFoodsList } from './mockData/zhejiangProvince/index';
+import { othersFoodsList } from './mockData/others/others';
 
 export const chinaTableData = {
   anHui: anHuiFoodsList,
@@ -77,6 +78,7 @@ export const chinaTableData = {
   xinJiang: xinJiangFoodsList,
   yunNan: yunNanFoodsList,
   zheJiang: zheJiangFoodsList,
+  others: othersFoodsList,
 };
 export const fffoodsList = [].concat(
   anHuiFoodsList,
@@ -113,6 +115,7 @@ export const fffoodsList = [].concat(
   xinJiangFoodsList,
   yunNanFoodsList,
   zheJiangFoodsList,
+  othersFoodsList,
 );
 
 const chinaKeys = Object.keys(chinaTableData);

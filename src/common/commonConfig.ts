@@ -1,29 +1,419 @@
+import { ref } from 'vue';
+import { CustomColumns, VxeFormItemProps } from '/@/components/VxeTable';
+
 // 食材类别-集合
+// 鱼、虾、蟹、贝、蛙、猪、牛、羊、鸡、鸭、鸽、米、面、酱、其他、
+// const str = '';
+// const enstr = '';
+// const strarr = str.split('、');
+// const enstrarr = enstr.split(',');
+// const arr = [];
+// strarr.map((i, j) => {
+//   arr.push({
+//     label: i,
+//     value: enstrarr[j],
+//   });
+// });
+// console.log('commonConfigcommonConfigcommonConfig', arr);
+
 export const foodCategoryList = [
   {
-    label: '牛肉',
+    label: '鱼',
+    value: 'fish',
+  },
+  {
+    label: '虾',
+    value: 'shrimp',
+  },
+  {
+    label: '蟹',
+    value: 'crab',
+  },
+  {
+    label: '贝',
+    value: 'shellfish',
+  },
+  {
+    label: '蛙',
+    value: 'frog',
+  },
+  {
+    label: '猪',
+    value: 'pig',
+  },
+  {
+    label: '牛',
     value: 'beef',
   },
+  {
+    label: '羊',
+    value: 'sheep',
+  },
+  {
+    label: '鸡',
+    value: 'chicken',
+  },
+  {
+    label: '鸭',
+    value: 'duck',
+  },
+  {
+    label: '鸽',
+    value: 'pigeon',
+  },
+  {
+    label: '米',
+    value: 'rice',
+  },
+  {
+    label: '面',
+    value: 'noodles',
+  },
+  {
+    label: '酱',
+    value: 'sauce',
+  },
+  {
+    label: '其他',
+    value: 'others',
+  },
 ];
+
 // 菜系-集合
+// 全球十大菜系（法国菜、意大利、印度、泰国、墨西哥、西班牙、黎巴嫩、希腊、中国、日本）
 export const cuisineCategoryList = [
   {
-    label: '川菜',
-    value: 'sichuanCuisine',
+    label: '中国',
+    value: 'china',
+    children: [
+      {
+        label: '鲁菜',
+        value: 'shandongCuisine',
+      },
+      {
+        label: '粤菜',
+        value: 'cantoneseCuisine',
+      },
+      {
+        label: '川菜',
+        value: 'sichuanCuisine',
+      },
+      {
+        label: '苏菜',
+        value: 'jiangsuCuisine',
+      },
+      {
+        label: '浙菜',
+        value: 'zhejiangCuisine',
+      },
+      {
+        label: '闽菜',
+        value: 'fujianCuisine',
+      },
+      {
+        label: '湘菜',
+        value: 'hunanCuisine',
+      },
+      {
+        label: '徽菜',
+        value: 'anhuiCuisine',
+      },
+      {
+        label: '京菜',
+        value: 'beijingCuisine',
+      },
+      {
+        label: '鄂菜',
+        value: 'hubeiCuisine',
+      },
+      {
+        label: '西北菜',
+        value: 'northwesternCuisine',
+      },
+      {
+        label: '桂菜',
+        value: 'guiCuisine',
+      },
+      {
+        label: '黔菜',
+        value: 'qianCuisine',
+      },
+      {
+        label: '冀菜',
+        value: 'hebeiCuisine',
+      },
+      {
+        label: '龙江菜',
+        value: 'longjiangCuisine',
+      },
+      {
+        label: '豫菜',
+        value: 'henanCuisine',
+      },
+      {
+        label: '赣菜',
+        value: 'jiangxiCuisine',
+      },
+      {
+        label: '吉林菜',
+        value: 'jilinCuisine',
+      },
+      {
+        label: '辽宁菜',
+        value: 'liaoningCuisine',
+      },
+      {
+        label: '陕西菜',
+        value: 'shaanxiCuisine',
+      },
+      {
+        label: '晋菜',
+        value: 'jinCuisine',
+      },
+      {
+        label: '上海菜',
+        value: 'shanghaiCuisine',
+      },
+      {
+        label: '天津菜',
+        value: 'tianjinCuisine',
+      },
+      {
+        label: '新疆菜',
+        value: 'xinjiangCuisine',
+      },
+      {
+        label: '滇菜',
+        value: 'yunnanCuisine',
+      },
+      {
+        label: '琼菜',
+        value: 'qiongCuisine',
+      },
+    ],
   },
 ];
 // 口味-集合
 export const tasteList = [
   {
+    label: '酸甜',
+    value: 'sweetSour',
+  },
+  {
+    label: '浓油赤酱',
+    value: 'thickOilSauce',
+  },
+  {
+    label: '咸鲜',
+    value: 'salty',
+  },
+  {
+    label: '咸甜',
+    value: 'savory',
+  },
+  {
+    label: '鲜甜',
+    value: 'saltySweet',
+  },
+  {
     label: '麻辣',
+    value: 'freshSweet',
+  },
+  {
+    label: '酸辣',
     value: 'spicy',
+  },
+  {
+    label: '甜辣',
+    value: 'sourSpicy',
+  },
+  {
+    label: '香辣',
+    value: 'sweetSpicy',
+  },
+  {
+    label: '椒麻',
+    value: 'tangySpicy',
+  },
+  {
+    label: '微苦',
+    value: 'peppery',
+  },
+  {
+    label: '酱香',
+    value: 'slightlyBitter',
   },
 ];
 // 烹饪类型-集合
+// 炒、爆、熘、炸、烹、煎、贴、烧、焖、炖、蒸、汆、煮、烩、炝、拌、腌、烤、烘、卤、熏、风、焗、卷、滑、煨、烫、涮、滚、羮、酱、泡、拼、冻、扣、醉、糟、酥、甜、拔丝、蜜汁、沾糖
 export const cookingTypeList = [
   {
-    label: '腌、晾、烘、蒸、炸、炒',
-    value: 'multiple',
+    label: '炒',
+    value: 'stirFry',
+  },
+  {
+    label: '爆',
+    value: 'stirFryPop',
+  },
+  {
+    label: '熘',
+    value: 'stirFrying',
+  },
+  {
+    label: '炸',
+    value: 'deepFry',
+  },
+  {
+    label: '烹',
+    value: 'cook',
+  },
+  {
+    label: '煎',
+    value: 'panFry',
+  },
+  {
+    label: '贴',
+    value: 'stick',
+  },
+  {
+    label: '烧',
+    value: 'broil',
+  },
+  {
+    label: '焖',
+    value: 'stew',
+  },
+  {
+    label: '炖',
+    value: 'braise',
+  },
+  {
+    label: '蒸',
+    value: 'steam',
+  },
+  {
+    label: '汆',
+    value: 'boil',
+  },
+  {
+    label: '煮',
+    value: 'boil',
+  },
+  {
+    label: '烩',
+    value: 'chowder',
+  },
+  {
+    label: '炝',
+    value: 'stirFry',
+  },
+  {
+    label: '拌',
+    value: 'mix',
+  },
+  {
+    label: '腌',
+    value: 'pickle',
+  },
+  {
+    label: '烤',
+    value: 'grill',
+  },
+  {
+    label: '烘',
+    value: 'bake',
+  },
+  {
+    label: '卤',
+    value: 'brine',
+  },
+  {
+    label: '熏',
+    value: 'smoke',
+  },
+  {
+    label: '风',
+    value: 'wind',
+  },
+  {
+    label: '焗',
+    value: 'bake',
+  },
+  {
+    label: '卷',
+    value: 'roll',
+  },
+  {
+    label: '滑',
+    value: 'slide',
+  },
+  {
+    label: '煨',
+    value: 'simmer',
+  },
+  {
+    label: '烫',
+    value: 'scald',
+  },
+  {
+    label: '涮',
+    value: 'shabu',
+  },
+  {
+    label: '滚',
+    value: 'roll',
+  },
+  {
+    label: '羮',
+    value: 'glutinousDrink',
+  },
+  {
+    label: '酱',
+    value: 'sauce',
+  },
+  {
+    label: '泡',
+    value: 'bubbles',
+  },
+  {
+    label: '拼',
+    value: 'spices',
+  },
+  {
+    label: '冻',
+    value: 'jelly',
+  },
+  {
+    label: '扣',
+    value: 'buckle',
+  },
+  {
+    label: '醉',
+    value: 'drunkenness',
+  },
+  {
+    label: '糟',
+    value: 'bad',
+  },
+  {
+    label: '酥',
+    value: 'crispy',
+  },
+  {
+    label: '甜',
+    value: 'sweet',
+  },
+  {
+    label: '拔丝',
+    value: 'pulling',
+  },
+  {
+    label: '蜜汁',
+    value: 'honeySauce',
+  },
+  {
+    label: '沾糖',
+    value: 'dippingSugar',
   },
 ];
 // 省下拉项
@@ -163,5 +553,156 @@ export const provinceOptions = [
   {
     label: '浙江省（浙）',
     value: 'zheJiang',
+  },
+];
+
+export const tableColumnsConfig: CustomColumns = [
+  // export const tableColumnsConfig: BasicColumn[] = [
+  {
+    title: '美食名称',
+    dataIndex: 'foodName',
+    width: 120,
+    fixed: 'left',
+  },
+  {
+    title: '美食英文名称',
+    dataIndex: 'foodName_en',
+    width: 100,
+  },
+  {
+    title: '美食图片',
+    dataIndex: 'foodAvatar',
+    width: 100,
+  },
+  {
+    title: '省',
+    dataIndex: 'province',
+    width: 80,
+  },
+  {
+    title: '市',
+    dataIndex: 'city',
+    width: 80,
+  },
+  {
+    title: '区',
+    dataIndex: 'district',
+    width: 80,
+  },
+  {
+    title: '地方名称',
+    dataIndex: 'address',
+    width: 80,
+  },
+  {
+    title: '食材类别',
+    dataIndex: 'foodCategoryName',
+    width: 80,
+  },
+  {
+    title: '所属菜系',
+    dataIndex: 'cuisineCategoryName',
+    width: 100,
+  },
+  {
+    title: '口味名称',
+    dataIndex: 'tasteName',
+    width: 100,
+  },
+  {
+    title: '烹饪类型',
+    dataIndex: 'cookingTypeName',
+    width: 100,
+  },
+  {
+    title: '特色/特点',
+    dataIndex: 'featuresName',
+    width: 100,
+  },
+  {
+    title: '标签',
+    dataIndex: 'tags',
+    width: 120,
+  },
+  {
+    title: '备注',
+    dataIndex: 'remark',
+  },
+];
+export const provinceCode = ref('');
+export const formConfig: VxeFormItemProps[] = [
+  {
+    field: 'provinceCode',
+    label: '省/市/自治州:',
+    labelWidth: 120,
+    defaultValue: 'siChuan',
+    component: 'Select',
+    componentProps: {
+      options: provinceOptions,
+      onChange: (val) => {
+        provinceCode.value = val;
+      },
+    },
+    colProps: {
+      span: 6,
+    },
+  },
+  {
+    field: 'foodName',
+    label: '美食名称:',
+    labelWidth: 120,
+    defaultValue: '',
+    component: 'Input',
+    colProps: {
+      span: 6,
+    },
+  },
+  {
+    field: 'foodCategoryCode',
+    label: '食材类别：',
+    labelWidth: 120,
+    component: 'Select',
+    componentProps: {
+      options: foodCategoryList,
+    },
+    colProps: {
+      span: 6,
+    },
+  },
+  {
+    field: 'cookingTypeCode',
+    label: '烹饪类型：',
+    labelWidth: 120,
+    component: 'Select',
+    componentProps: {
+      options: cookingTypeList,
+    },
+    colProps: {
+      span: 6,
+    },
+  },
+  {
+    field: 'cuisineCategoryCode',
+    label: '菜系：',
+    labelWidth: 120,
+    component: 'Select',
+    componentProps: {
+      options: cuisineCategoryList,
+    },
+    colProps: {
+      span: 6,
+    },
+  },
+  {
+    field: 'tasteCode',
+    label: '口味：',
+    labelWidth: 120,
+    component: 'Select',
+    componentProps: {
+      options: tasteList,
+    },
+    colProps: {
+      span: 6,
+    },
   },
 ];

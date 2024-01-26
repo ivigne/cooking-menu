@@ -148,8 +148,8 @@ export const xiningFoodsList = [
   // 里脊肉剁碎，加盐、姜末、花椒少许，调制成丸子，用蛋清涂抹在丸子上，文火炸熟，浇上味精、糖、醋等配好的芡汁，出锅时淋几滴香油。此菜既有肉又不腻，好吃。
   // 蜂尔里脊是青海西宁的一道名菜。它是用猪里脊肉烹制的，是由西宁饭庄名厨师张有诚于解放前创制而成的。此菜具有强身补肺益肾的药膳作用。因为实在刚出锅的热肉丸浇上烫芡汁，而立马会发出似蜂鸣般的响声，故称“蜂尔里脊”。此菜既有肉又不腻，好吃。
   {
-    province: '广西壮族自治区',
-    city: '崇左市',
+    province: '青海省',
+    city: '西宁市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -157,8 +157,8 @@ export const xiningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'guiCuisine',
-    cuisineCategoryName: '桂菜',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、青海菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     menuCategoryCode: '',
@@ -184,8 +184,8 @@ export const xiningFoodsList = [
   // 是当地农村较流行的一种油饼。用青油煎的薄饼。有只加一点酵子的“半死面”和不加酵子的“死面”两种。
   // 将小麦面和好揉匀，撒上香豆粉，浇少许青油抹匀，卷成长卷。再顺面卷方向探成螺丝状，切成小段，擀开擀薄。在烧烫的烙馍锅中倒上青油，待青油烧熟，将饼放进锅里，再沿锅边浇上一圈青油，并不停转动薄饼，使其颜色均匀。待饼上了火色，立即翻过来，再沿锅边浇一圈青油，并不断转动饼子，煎熟即可食用。
   {
-    province: '广西壮族自治区',
-    city: '崇左市',
+    province: '青海省',
+    city: '西宁市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -193,8 +193,8 @@ export const xiningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'guiCuisine',
-    cuisineCategoryName: '桂菜',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、青海菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     menuCategoryCode: '',
@@ -219,8 +219,8 @@ export const xiningFoodsList = [
   },
   // “甜醅”是青海东北部地区的特色小吃之一，该菜品主要用青稞制作。在高原古城西宁及其周边地区，随处都可以看到这种独特的民间小吃“甜醅”。在甘肃宁夏等地区也存在少量由燕麦制成的甜醅。
   {
-    province: '广西壮族自治区',
-    city: '崇左市',
+    province: '青海省',
+    city: '西宁市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -228,8 +228,8 @@ export const xiningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'guiCuisine',
-    cuisineCategoryName: '桂菜',
+    cuisineCategoryCode: 'northwesternCuisine',
+    cuisineCategoryName: '西北菜、青海菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     menuCategoryCode: '',

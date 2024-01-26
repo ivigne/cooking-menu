@@ -632,7 +632,7 @@ export const othersFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '珊瑚桂鱼',
+    foodName: '珊瑚鳜鱼',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

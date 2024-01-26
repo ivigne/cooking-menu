@@ -19,6 +19,7 @@ const snacks: AppRouteModule = {
   component: LAYOUT,
   redirect: '/snacks/china',
   meta: {
+    orderNo: 2,
     icon: 'ion:grid-outline',
     title: t('routes.snacks.snack'),
   },

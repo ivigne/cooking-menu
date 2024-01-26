@@ -187,7 +187,7 @@ export const xiaoganFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '麻花桂鱼',
+    foodName: '麻花鳜鱼',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

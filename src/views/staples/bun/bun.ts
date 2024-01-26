@@ -1124,7 +1124,7 @@ export const bunFoodsList = [
   },
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3576,57 +3576,6 @@ export const bunFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '小笼包子',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'jiangsuCuisine',
-    cuisineCategoryName: '江苏菜、苏菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    isCookFlag: 0,
-  },
-  {
-    province: '江苏省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
     foodName: '文楼汤包',
     foodName_en: '',
     foodCategoryCode: 'beef',
@@ -5810,5 +5759,107 @@ export const bunFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+  },
+  {
+    province: '',
+    city: '',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '巧克力大理石面包',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: '',
+    cuisineCategoryName: '',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
+  },
+  {
+    province: '',
+    city: '',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '南翔小笼包',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: '',
+    cuisineCategoryName: '',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    isCookFlag: 0,
   },
 ];

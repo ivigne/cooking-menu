@@ -1,6 +1,6 @@
 <template>
   <Select
-    @dropdown-visible-change="handleFetch"
+    @dropdownVisibleChange="handleFetch"
     v-bind="$attrs"
     @change="handleChange"
     :options="getOptions"
@@ -52,14 +52,18 @@
         type: Object as PropType<Recordable>,
         default: () => ({}),
       },
+      // 兼容VxeBasicTable
+      searchParams: {
+        type: Object as PropType<Recordable>,
+        default: () => ({}),
+      },
       // support xxx.xxx.xx
       resultField: propTypes.string.def(''),
       labelField: propTypes.string.def('label'),
       valueField: propTypes.string.def('value'),
       immediate: propTypes.bool.def(true),
-      alwaysLoad: propTypes.bool.def(false),
     },
-    emits: ['options-change', 'change'],
+    emits: ['options-change', 'change', 'update:value'],
     setup(props, { emit }) {
       const options = ref<OptionsItem[]>([]);
       const loading = ref(false);
@@ -68,8 +72,8 @@
       const attrs = useAttrs();
       const { t } = useI18n();
 
-      // Embedded in the form, just use the hook binding to perform form verification
-      const [state] = useRuleFormItem(props, 'value', 'change', emitData);
+      // 嵌入到表单中，只需使用钩子绑定来执行表单验证 Embedded in the form, just use the hook binding to perform form verification
+      const [state] = useRuleFormItem(props, 'value', ['change', 'update:value'], emitData);
 
       const getOptions = computed(() => {
         const { labelField, valueField, numberToString } = props;
@@ -88,11 +92,11 @@
       });
 
       watchEffect(() => {
-        props.immediate && !props.alwaysLoad && fetch();
+        props.immediate && fetch();
       });
 
       watch(
-        () => props.params,
+        () => ({ ...props.params, ...props.searchParams }),
         () => {
           !unref(isFirstLoad) && fetch();
         },
@@ -105,7 +109,7 @@
         options.value = [];
         try {
           loading.value = true;
-          const res = await api(props.params);
+          const res = await api({ ...props.params, ...props.searchParams });
           if (Array.isArray(res)) {
             options.value = res;
             emitChange();
@@ -122,14 +126,10 @@
         }
       }
 
-      async function handleFetch(visible) {
-        if (visible) {
-          if (props.alwaysLoad) {
-            await fetch();
-          } else if (!props.immediate && unref(isFirstLoad)) {
-            await fetch();
-            isFirstLoad.value = false;
-          }
+      async function handleFetch() {
+        if (!props.immediate && unref(isFirstLoad)) {
+          await fetch();
+          isFirstLoad.value = false;
         }
       }
 

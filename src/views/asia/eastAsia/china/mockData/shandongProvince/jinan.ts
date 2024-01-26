@@ -45,7 +45,7 @@ export const jinanFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '烧烤',
+    foodName: '济南烧烤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

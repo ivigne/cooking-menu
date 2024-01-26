@@ -10,7 +10,7 @@
  * 主食-烧麦，烧卖，稍美
  */
 // import { lampshadedBeefScriptsList } from './riceFoodScriptContent/lampshadedBeef';
-export const siuMaiFoodsList = [
+export const siumaiFoodsList = [
   {
     province: '广东省',
     city: '',
@@ -281,7 +281,7 @@ export const siuMaiFoodsList = [
   // 蟹黄烧麦
   {
     province: '海南省', // 省
-    city: '三沙市', // 市
+    city: '', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片

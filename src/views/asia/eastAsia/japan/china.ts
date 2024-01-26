@@ -9569,7 +9569,7 @@ export const china = [
       },
       {
         code: '460300',
-        value: '三沙市',
+        value: '',
         children: [
           {
             code: '460321',

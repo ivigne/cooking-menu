@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-08-07 17:19:18
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-11-09 09:41:13
+ * @LastEditTime: 2023-12-22 10:05:34
  * @FilePath: /cooking-menu/src/router/routes/modules/practicalTools.ts
  * @Description:
  *
@@ -40,6 +40,7 @@ const tools: AppRouteModule = {
   component: LAYOUT,
   redirect: '/tools/randomOrder',
   meta: {
+    orderNo: 6,
     icon: 'ion:grid-outline',
     title: t('routes.tools.tools'),
   },

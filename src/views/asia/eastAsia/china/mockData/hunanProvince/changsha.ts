@@ -604,7 +604,7 @@ export const changshaFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '开屏柴把桂鱼',
+    foodName: '开屏柴把鳜鱼',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

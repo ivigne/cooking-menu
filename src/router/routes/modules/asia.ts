@@ -9,7 +9,7 @@ const asia: AppRouteModule = {
   component: LAYOUT,
   // redirect: '/asia/eastAsia',
   meta: {
-    orderNo: 11,
+    orderNo: 1,
     icon: 'ion:grid-outline',
     title: t('routes.asia.asia'),
   },

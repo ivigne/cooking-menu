@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-11-15 11:51:08
  * @FilePath: /cooking-menu/src/router/routes/modules/more.ts
- * @Description:
+ * @Description: 5
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
@@ -18,6 +18,7 @@ const more: AppRouteModule = {
   component: LAYOUT,
   redirect: '/more/randomOrder',
   meta: {
+    orderNo: 5,
     icon: 'ion:grid-outline',
     title: t('routes.more.more'),
   },

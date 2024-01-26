@@ -365,7 +365,7 @@ export const suzhouFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '松鼠桂鱼',
+    foodName: '松鼠鳜鱼',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

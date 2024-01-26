@@ -166,7 +166,7 @@ export const potHelmetFoodsList = [
   },
   {
     province: '海南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
@@ -214,7 +214,7 @@ export const potHelmetFoodsList = [
   },
   {
     province: '河南省',
-    city: '三沙市',
+    city: '',
     district: '',
     address: '',
     foodAvatar: '',
