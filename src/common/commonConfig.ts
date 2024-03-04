@@ -1,6 +1,6 @@
 import { ref } from 'vue';
 import { CustomColumns, VxeFormItemProps } from '/@/components/VxeTable';
-
+import { BasicColumn, FormSchema } from '/@/components/Table';
 // 食材类别-集合
 // 鱼、虾、蟹、贝、蛙、猪、牛、羊、鸡、鸭、鸽、米、面、酱、其他、
 // const str = '';
@@ -556,8 +556,168 @@ export const provinceOptions = [
   },
 ];
 
-export const tableColumnsConfig: CustomColumns = [
-  // export const tableColumnsConfig: BasicColumn[] = [
+export const tableColumnsConfigVxe: CustomColumns = [
+  {
+    title: '美食名称',
+    dataIndex: 'foodName',
+    width: 120,
+    fixed: 'left',
+  },
+  {
+    title: '美食英文名称',
+    dataIndex: 'foodName_en',
+    width: 100,
+  },
+  {
+    title: '美食图片',
+    dataIndex: 'foodAvatar',
+    width: 100,
+  },
+  {
+    title: '省',
+    dataIndex: 'province',
+    width: 80,
+  },
+  {
+    title: '市',
+    dataIndex: 'city',
+    width: 80,
+  },
+  {
+    title: '区',
+    dataIndex: 'district',
+    width: 80,
+  },
+  {
+    title: '地方名称',
+    dataIndex: 'address',
+    width: 80,
+  },
+  {
+    title: '食材类别',
+    dataIndex: 'foodCategoryName',
+    width: 80,
+  },
+  {
+    title: '所属菜系',
+    dataIndex: 'cuisineCategoryName',
+    width: 100,
+  },
+  {
+    title: '口味名称',
+    dataIndex: 'tasteName',
+    width: 100,
+  },
+  {
+    title: '烹饪类型',
+    dataIndex: 'cookingTypeName',
+    width: 100,
+  },
+  {
+    title: '特色/特点',
+    dataIndex: 'featuresName',
+    width: 100,
+  },
+  {
+    title: '标签',
+    dataIndex: 'tags',
+    width: 120,
+  },
+  {
+    title: '备注',
+    dataIndex: 'remark',
+  },
+];
+export const formConfigVxe: VxeFormItemProps[] = [
+  {
+    field: 'provinceCode',
+    title: '省/市/自治州:',
+    titleWidth: 120,
+    itemRender: {
+      name: 'ASelect',
+      defaultValue: 'siChuan',
+      props: {
+        options: provinceOptions,
+        onChange: (val) => {
+          provinceCode.value = val;
+        },
+      },
+    },
+    span: 6,
+  },
+  {
+    field: 'foodName',
+    title: '美食名称:',
+    titleWidth: 120,
+    itemRender: {
+      name: 'AInput',
+    },
+    span: 6,
+  },
+  {
+    field: 'foodCategoryCode',
+    title: '食材类别：',
+    titleWidth: 120,
+    itemRender: {
+      name: 'ASelect',
+      props: {
+        options: foodCategoryList,
+      },
+    },
+    span: 6,
+  },
+  {
+    field: 'cookingTypeCode',
+    title: '烹饪类型：',
+    titleWidth: 120,
+    itemRender: {
+      name: 'ASelect',
+      props: {
+        options: cookingTypeList,
+      },
+    },
+    span: 6,
+  },
+  {
+    field: 'cuisineCategoryCode',
+    title: '菜系：',
+    titleWidth: 120,
+    itemRender: {
+      name: 'ASelect',
+      props: {
+        options: cuisineCategoryList,
+      },
+    },
+    span: 6,
+  },
+  {
+    field: 'tasteCode',
+    title: '口味：',
+    titleWidth: 120,
+    itemRender: {
+      name: 'ASelect',
+      props: {
+        options: tasteList,
+      },
+    },
+    span: 6,
+  },
+  {
+    span: 6,
+    align: 'right',
+    itemRender: {
+      name: 'AButtonGroup',
+      children: [
+        {
+          props: { type: 'primary', content: '查询', htmlType: 'submit' },
+          attrs: { class: 'mr-2' },
+        },
+        { props: { type: 'default', htmlType: 'reset', content: '重置' } },
+      ],
+    },
+  },
+];
+export const tableColumnsConfig: BasicColumn[] = [
   {
     title: '美食名称',
     dataIndex: 'foodName',
@@ -630,7 +790,7 @@ export const tableColumnsConfig: CustomColumns = [
   },
 ];
 export const provinceCode = ref('');
-export const formConfig: VxeFormItemProps[] = [
+export const formConfig: FormSchema[] = [
   {
     field: 'provinceCode',
     label: '省/市/自治州:',

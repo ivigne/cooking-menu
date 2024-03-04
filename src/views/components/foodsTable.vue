@@ -8,7 +8,7 @@
 -->
 <template>
   <div>
-    <!-- <BasicTable @register="registerTable" /> -->
+    <BasicTable @register="registerTable" />
     <VxeBasicTable
       ref="tableRef"
       v-bind="gridOptions"
@@ -28,9 +28,15 @@
   };
 </script> -->
 <script lang="ts" setup>
-  // import { BasicTable, useTable } from '/@/components/Table';
+  import { BasicTable, useTable } from '/@/components/Table';
   import { ref, unref, toRefs, watch, reactive, onMounted } from 'vue';
-  import { formConfig, tableColumnsConfig, provinceCode } from '/@/common/commonConfig';
+  import {
+    formConfig,
+    tableColumnsConfig,
+    provinceCode,
+    tableColumnsConfigVxe,
+    formConfigVxe,
+  } from '/@/common/commonConfig';
   import { VxeBasicTable, BasicTableProps, CustomVxeGridInstance } from '/@/components/VxeTable';
   // import { useMessage } from '/@/hooks/web/useMessage';
   import { ActionItem, TableAction } from '/@/components/Table';
@@ -54,16 +60,19 @@
       data.value = unref(data).filter((i) => i.province === val);
     }
   });
-  // const [registerTable] = useTable({
-  //   title: '多级表头示例',
-  //   immediate: false,
-  //   columns: tableColumnsConfig,
-  //   dataSource: props.data,
-  // });
+  const [registerTable] = useTable({
+    title: '多级表头示例',
+    immediate: false,
+    columns: tableColumnsConfig,
+    dataSource: props.data,
+    formConfig: {
+      schemas: formConfig,
+    },
+  });
 
   const gridOptions = reactive<BasicTableProps>({
     height: 'auto',
-    columns: tableColumnsConfig,
+    columns: tableColumnsConfigVxe,
     toolbarConfig: {
       slots: {
         tools: 'tools_button',
@@ -71,7 +80,7 @@
     },
     formConfig: {
       enabled: false,
-      items: formConfig,
+      items: formConfigVxe,
     },
     checkboxConfig: {
       checkField: '_checked',
