@@ -11,8 +11,8 @@
  * 竹筒饭,
  * 陵水酸粉,
 */
-// import { lampshadedBeefScriptsList } from './hainanFoodScriptContent/lampshadedBeef';
-export const hainanFoodsList = [
+// import { lampshadedBeefScriptsList } from './haiNanFoodScriptContent/lampshadedBeef';
+export const haiNanSnacksFoodsList = [
   {
     province: '海南省',
     city: '',
@@ -404,4 +404,4 @@ export const hainanFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('海南小吃:', hainanFoodsList, hainanFoodsList.length);
+console.log('海南小吃:', haiNanSnacksFoodsList, haiNanSnacksFoodsList.length);

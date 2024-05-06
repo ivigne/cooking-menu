@@ -6,7 +6,7 @@
  *
  */
 // import { lampshadedBeefScriptsList } from './beijingFoodScriptContent/lampshadedBeef';
-export const beijingFoodsList = [
+export const beiJingSnacksFoodsList = [
   {
     province: '北京',
     city: '北京',
@@ -918,4 +918,4 @@ export const beijingFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('北京小吃:', beijingFoodsList, beijingFoodsList.length);
+console.log('北京小吃:', beiJingSnacksFoodsList, beiJingSnacksFoodsList.length);

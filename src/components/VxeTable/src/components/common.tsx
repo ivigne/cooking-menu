@@ -313,7 +313,6 @@ export function createFormItemRender(
     const itemValue = XEUtils.get(data, property);
 
     const Component = getComponent(name);
-
     return [
       h(Component, {
         ...attrs,
@@ -334,51 +333,6 @@ export function createFormItemRender(
             });
           },
         ),
-      }),
-    ];
-  };
-}
-
-/**
- * @description: 创建 form表单自定义组件渲染
- */
-export function createFormItemCustomRender(
-  defaultProps?: { [key: string]: any },
-  callBack?: (
-    renderOpts: FormItemRenderOptions,
-    params: FormItemContentRenderParams,
-  ) => Record<string, any>,
-) {
-  return function (renderOpts: FormItemRenderOptions, params: FormItemContentRenderParams) {
-    const args = (callBack && callBack(renderOpts, params)) ?? {};
-    const { data, field, $form } = params;
-    const { name } = renderOpts;
-    const { attrs } = renderOpts;
-    const itemValue = XEUtils.get(data, field);
-
-    const Component = getComponent(name);
-
-    return [
-      h(Component, {
-        ...attrs,
-        ...createProps(renderOpts, itemValue, defaultProps),
-        ...args,
-        ...createEvents(
-          renderOpts,
-          params,
-          (value: any) => {
-            // 处理 model 值双向绑定
-            XEUtils.set(data, field, value);
-          },
-          () => {
-            // 处理 change 事件相关逻辑
-            $form.updateStatus({
-              ...params,
-              field: field,
-            });
-          },
-        ),
-        vxeItem: true, // 非常重要，RecordSlect组件需要兼容update:value和change两个事件
       }),
     ];
   };

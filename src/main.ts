@@ -1,6 +1,15 @@
+/*
+ * @Author: vigne 1186963387@qq.com
+ * @Date: 2022-10-01 10:44:38
+ * @FilePath: /cooking-menu/src/main.ts
+ * @Description:
+ *
+ * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved.
+ */
 import 'virtual:windi-base.css';
 import 'virtual:windi-components.css';
 import '/@/design/index.less';
+import '/@/components/VxeTable/src/css/index.scss';
 import 'virtual:windi-utilities.css';
 // Register icon sprite
 import 'virtual:svg-icons-register';

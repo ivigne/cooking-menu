@@ -3,8 +3,8 @@
  * 水煎包、沂蒙山煎饼、枣庄菜煎饼、油炸山山牛、红烧兔子头、糁、淄博的周村烧饼、菏泽的单县羊汤，济南草包包子，油旋、瓦罐小吃、朝天锅、
  * 临清烧卖、烟台的福山拉面、聊城呱嗒、曲阜熏豆腐、青岛锅贴、商河老豆腐、芝泮烧肉、潍坊肉火烧、济南把子肉、枣庄辣子鸡
  */
-// import { lampshadedBeefScriptsList } from './shandongFoodScriptContent/lampshadedBeef';
-export const shandongFoodsList = [
+// import { lampshadedBeefScriptsList } from './shanDongFoodScriptContent/lampshadedBeef';
+export const shanDongSnacksFoodsList = [
   {
     province: '山东省',
     city: '',
@@ -1109,4 +1109,4 @@ export const shandongFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('山东小吃:', shandongFoodsList, shandongFoodsList.length);
+console.log('山东小吃:', shanDongSnacksFoodsList, shanDongSnacksFoodsList.length);

@@ -5,7 +5,7 @@
  * 
  */
 // import { lampshadedBeefScriptsList } from './aomenFoodScriptContent/lampshadedBeef';
-export const aomenFoodsList = [
+export const aoMenSnacksFoodsList = [
   {
     province: '澳门',
     city: '澳门',
@@ -353,4 +353,4 @@ export const aomenFoodsList = [
   },
 ];
 
-console.log('澳门小吃:', aomenFoodsList, aomenFoodsList.length);
+console.log('澳门小吃:', aoMenSnacksFoodsList, aoMenSnacksFoodsList.length);

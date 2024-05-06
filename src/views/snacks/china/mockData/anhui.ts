@@ -8,8 +8,8 @@
 // 胡玉美蚕豆酱,墨子酥,江毛水饺,怀宁贡糕,长铺条子,龙亢泡条馓子,池州小粑,琅琊酥糖,太和板面、三河米饺,虾子面,蝴蝶面,
 // 萧县面皮,铜陵酥糖,虾籽面,无为送灶粑粑,芥菜圆子,芜湖蟹汤包,
 
-// import { lampshadedBeefScriptsList } from './anhuiFoodScriptContent/lampshadedBeef';
-export const anhuiFoodsList = [
+// import { lampshadedBeefScriptsList } from './anHuiFoodScriptContent/lampshadedBeef';
+export const anHuiSnacksFoodsList = [
   {
     province: '安徽省',
     city: '',
@@ -20,7 +20,7 @@ export const anhuiFoodsList = [
     foodName_en: 'theGreatHelper',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -68,7 +68,7 @@ export const anhuiFoodsList = [
     foodName_en: 'gafferTape',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -116,7 +116,7 @@ export const anhuiFoodsList = [
     foodName_en: 'huiXiangYuanRoastedChicken',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -164,7 +164,7 @@ export const anhuiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -215,7 +215,7 @@ export const anhuiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -266,7 +266,7 @@ export const anhuiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -317,7 +317,7 @@ export const anhuiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -368,7 +368,7 @@ export const anhuiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -419,7 +419,7 @@ export const anhuiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -470,7 +470,7 @@ export const anhuiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -521,7 +521,7 @@ export const anhuiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'anhuiCuisine',
+    cuisineCategoryCode: 'anHuiCuisine',
     cuisineCategoryName: '徽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -564,4 +564,4 @@ export const anhuiFoodsList = [
   },
 ];
 
-console.log('安徽小吃:', anhuiFoodsList, anhuiFoodsList.length);
+console.log('安徽小吃:', anHuiSnacksFoodsList, anHuiSnacksFoodsList.length);

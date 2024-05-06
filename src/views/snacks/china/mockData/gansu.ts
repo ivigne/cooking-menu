@@ -23,7 +23,7 @@
  */
 // import { lampshadedBeefScriptsList } from './lanzhouFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
-export const gansuFoodsList = [
+export const ganSuSnacksFoodsList = [
   {
     province: '甘肃省',
     city: '定西市',
@@ -2781,4 +2781,4 @@ export const gansuFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('甘肃小吃:', gansuFoodsList, gansuFoodsList.length);
+console.log('甘肃小吃:', ganSuSnacksFoodsList, ganSuSnacksFoodsList.length);

@@ -9,8 +9,8 @@
 /**
  * 辽宁小吃
  */
-// import { lampshadedBeefScriptsList } from './liaoningFoodScriptContent/lampshadedBeef';
-export const liaoningFoodsList = [
+// import { lampshadedBeefScriptsList } from './liaoNingFoodScriptContent/lampshadedBeef';
+export const liaoNingSnacksFoodsList = [
   {
     province: '辽宁省',
     city: '鞍山市',
@@ -21,7 +21,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -55,7 +55,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -89,7 +89,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -124,7 +124,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -159,7 +159,7 @@ export const liaoningFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'liaoningCuisine', // 菜系编码
+    cuisineCategoryCode: 'liaoNingCuisine', // 菜系编码
     cuisineCategoryName: '辽宁菜、辽菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -215,7 +215,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -250,7 +250,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -284,7 +284,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -318,7 +318,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -352,7 +352,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -386,7 +386,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -420,7 +420,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -454,7 +454,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -488,7 +488,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -522,7 +522,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -556,7 +556,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -590,7 +590,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -624,7 +624,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -658,7 +658,7 @@ export const liaoningFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'liaoningCuisine',
+    cuisineCategoryCode: 'liaoNingCuisine',
     cuisineCategoryName: '辽宁菜、辽菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -683,4 +683,4 @@ export const liaoningFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('辽宁小吃:', liaoningFoodsList, liaoningFoodsList.length);
+console.log('辽宁小吃:', liaoNingSnacksFoodsList, liaoNingSnacksFoodsList.length);

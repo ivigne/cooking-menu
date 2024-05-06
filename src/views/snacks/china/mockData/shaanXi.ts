@@ -15,7 +15,7 @@
  * 8、葫芦头：源于唐代 　 9、肉夹馍：起源于战国。 　 10、饺子宴：唐代。
  */
 // import { lampshadedBeefScriptsList } from './xianFoodScriptContent/lampshadedBeef';
-export const shannxiFoodsList = [
+export const shaanXiSnacksFoodsList = [
   {
     province: '陕西省',
     city: '西安市',
@@ -1199,4 +1199,4 @@ export const shannxiFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('陕西小吃:', shannxiFoodsList, shannxiFoodsList.length);
+console.log('陕西小吃:', shaanXiSnacksFoodsList, shaanXiSnacksFoodsList.length);

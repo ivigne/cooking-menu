@@ -9,8 +9,8 @@
 /**
  * 宁夏小吃
  */
-// import { lampshadedBeefScriptsList } from './ningxiaFoodScriptContent/lampshadedBeef';
-export const ningxiaFoodsList = [
+// import { lampshadedBeefScriptsList } from './ningXiaFoodScriptContent/lampshadedBeef';
+export const ningXiaSnacksFoodsList = [
   {
     province: '宁夏回族自治区',
     city: '固原市',
@@ -165,4 +165,4 @@ export const ningxiaFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('宁夏小吃:', ningxiaFoodsList, ningxiaFoodsList.length);
+console.log('宁夏小吃:', ningXiaSnacksFoodsList, ningXiaSnacksFoodsList.length);

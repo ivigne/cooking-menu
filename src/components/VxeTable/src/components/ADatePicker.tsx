@@ -8,12 +8,16 @@ import {
 } from './common';
 
 export function getDatePickerCellValue(
-  _renderOpts: VxeGlobalRendererHandles.RenderOptions,
+  renderOpts: VxeGlobalRendererHandles.RenderOptions,
   params: VxeGlobalRendererHandles.RenderCellParams | VxeGlobalRendererHandles.ExportMethodParams,
+  defaultFormat: string,
 ) {
+  const { props = {} } = renderOpts;
   const { row, column } = params;
-  const cellValue = XEUtils.get(row, column.field as string);
-
+  let cellValue = XEUtils.get(row, column.field as string);
+  if (cellValue) {
+    cellValue = cellValue.format(props.format || defaultFormat);
+  }
   return cellValue;
 }
 

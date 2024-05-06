@@ -1,7 +1,7 @@
 import type { Component } from 'vue';
 
 import type { ComponentType } from './componentType';
-import { ApiSelect, ApiTreeSelect, RecordSelect, ApiCascader } from '/@/components/Form';
+import { ApiSelect, ApiTreeSelect } from '/@/components/Form';
 import {
   Input,
   Select,
@@ -24,7 +24,6 @@ const componentMap = new Map<ComponentType, Component>();
 componentMap.set('AButton', Button);
 
 componentMap.set('AInput', Input);
-componentMap.set('AInputTextArea', Input.TextArea);
 componentMap.set('AInputSearch', Input.Search);
 componentMap.set('AInputNumber', InputNumber);
 componentMap.set('AAutoComplete', AutoComplete);
@@ -46,11 +45,8 @@ componentMap.set('ATimePicker', TimePicker);
 
 componentMap.set('AApiSelect', ApiSelect);
 componentMap.set('AApiTreeSelect', ApiTreeSelect);
-componentMap.set('AApiCascader', ApiCascader);
 
 componentMap.set('AEmpty', Empty);
-
-componentMap.set('RecordSelect', RecordSelect);
 
 export function add(compName: ComponentType, component: Component) {
   componentMap.set(compName, component);

@@ -25,8 +25,8 @@
  * 最后再将包覆玉米的叶子拿掉，将玉米放上特别订制的烤炉，以木炭取代瓦斯，烤个 3 到 5 分钟，再刷上独门配方的酱料，就是香气十足、富有玉米鲜味与嚼劲的珍珠烤玉米。
  * 还有：度小月担仔面、鳝鱼伊面、金爪米粉。
  */
-// import { lampshadedBeefScriptsList } from './taiwanFoodScriptContent/lampshadedBeef';
-export const taiwanFoodsList = [
+// import { lampshadedBeefScriptsList } from './taiWanFoodScriptContent/lampshadedBeef';
+export const taiWanSnacksFoodsList = [
   {
     province: '台湾',
     city: '桃园市',
@@ -147,4 +147,4 @@ export const taiwanFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('台湾小吃:', taiwanFoodsList, taiwanFoodsList.length);
+console.log('台湾小吃:', taiWanSnacksFoodsList, taiWanSnacksFoodsList.length);

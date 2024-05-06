@@ -28,8 +28,8 @@
  * 蜜糕方糕条头糕，猪油年糕糖年糕。汤团麻团粢毛团，双酿团子南瓜团。酒酿园子甜酒酿，定胜糕来梅花糕。笃笃笃笃卖糖粥，小囡吃仔勿想跑。
  * 赤豆粽子有营养，肉粽咸鲜味道好。鸡头米、莲子羹，糖炒栗子桂花香。枣泥麻饼是特产，卤汁豆干名气响。
  */
-// import { lampshadedBeefScriptsList } from './jiangshuFoodScriptContent/lampshadedBeef';
-export const jiangshuFoodsList = [
+// import { lampshadedBeefScriptsList } from './jiangSuFoodScriptContent/lampshadedBeef';
+export const jiangSuSnacksFoodsList = [
   {
     province: '江苏省',
     city: '',
@@ -3074,4 +3074,4 @@ export const jiangshuFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('江苏小吃:', jiangshuFoodsList, jiangshuFoodsList.length);
+console.log('江苏小吃:', jiangSuSnacksFoodsList, jiangSuSnacksFoodsList.length);

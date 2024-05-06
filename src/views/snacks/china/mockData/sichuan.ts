@@ -16,7 +16,7 @@
  * 油炸粑、四喜汤圆、俄罗酥、敦教糕等。
  */
 // import { lampshadedBeefScriptsList } from './zigongFoodScriptContent/lampshadedBeef';
-export const sichuanFoodsList = [
+export const siChuanSnacksFoodsList = [
   {
     province: '四川省',
     city: '',
@@ -27,7 +27,7 @@ export const sichuanFoodsList = [
     foodName_en: 'eggBakedCake',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -75,7 +75,7 @@ export const sichuanFoodsList = [
     foodName_en: 'fireWhipBeef',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -123,7 +123,7 @@ export const sichuanFoodsList = [
     foodName_en: 'steamedBeef',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -171,7 +171,7 @@ export const sichuanFoodsList = [
     foodName_en: 'laiTangyuan',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -219,7 +219,7 @@ export const sichuanFoodsList = [
     foodName_en: 'dragonDumplings',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -267,7 +267,7 @@ export const sichuanFoodsList = [
     foodName_en: 'vinegarPepperDumplings',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -315,7 +315,7 @@ export const sichuanFoodsList = [
     foodName_en: 'xianghexiangSnacks',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -363,7 +363,7 @@ export const sichuanFoodsList = [
     foodName_en: 'threeGreatCannons',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -411,7 +411,7 @@ export const sichuanFoodsList = [
     foodName_en: 'husbandWifeLungSlices',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -459,7 +459,7 @@ export const sichuanFoodsList = [
     foodName_en: 'luojiangBeanChicken',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -507,7 +507,7 @@ export const sichuanFoodsList = [
     foodName_en: 'fishSkinPeanuts',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -555,7 +555,7 @@ export const sichuanFoodsList = [
     foodName_en: 'eelEggRolls',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -603,7 +603,7 @@ export const sichuanFoodsList = [
     foodName_en: 'birdNestShreds',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -651,7 +651,7 @@ export const sichuanFoodsList = [
     foodName_en: 'ginsengFruit',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -699,7 +699,7 @@ export const sichuanFoodsList = [
     foodName_en: 'fiveSpiceTofuJerky',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -747,7 +747,7 @@ export const sichuanFoodsList = [
     foodName_en: 'brushHandleHead',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -795,7 +795,7 @@ export const sichuanFoodsList = [
     foodName_en: 'chickenHead',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -843,7 +843,7 @@ export const sichuanFoodsList = [
     foodName_en: 'fourJoysSoupDumplings',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -891,7 +891,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -940,7 +940,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -991,7 +991,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1042,7 +1042,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1093,7 +1093,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1144,7 +1144,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1193,7 +1193,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1242,7 +1242,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1291,7 +1291,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1340,7 +1340,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1389,7 +1389,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1438,7 +1438,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1487,7 +1487,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1536,7 +1536,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1585,7 +1585,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1634,7 +1634,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1683,7 +1683,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1732,7 +1732,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1783,7 +1783,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1834,7 +1834,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1886,7 +1886,7 @@ export const sichuanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'siChuanCuisine', // 菜系编码
     cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -1943,7 +1943,7 @@ export const sichuanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'siChuanCuisine', // 菜系编码
     cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -1997,7 +1997,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -2031,7 +2031,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -2065,7 +2065,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -2099,7 +2099,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -2133,7 +2133,7 @@ export const sichuanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryCode: 'siChuanCuisine',
     cuisineCategoryName: '川菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -2169,7 +2169,7 @@ export const sichuanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'siChuanCuisine', // 菜系编码
     cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -2224,7 +2224,7 @@ export const sichuanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'siChuanCuisine', // 菜系编码
     cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -2280,7 +2280,7 @@ export const sichuanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'siChuanCuisine', // 菜系编码
     cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -2338,7 +2338,7 @@ export const sichuanFoodsList = [
     foodName_en: 'potChicken',
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'siChuanCuisine', // 菜系编码
     cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -2396,7 +2396,7 @@ export const sichuanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'siChuanCuisine', // 菜系编码
     cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -2452,7 +2452,7 @@ export const sichuanFoodsList = [
     foodName_en: '', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'sichuanCuisine', // 菜系编码
+    cuisineCategoryCode: 'siChuanCuisine', // 菜系编码
     cuisineCategoryName: '川菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -2497,4 +2497,4 @@ export const sichuanFoodsList = [
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];
-console.log('四川小吃:', sichuanFoodsList, sichuanFoodsList.length);
+console.log('四川小吃:', siChuanSnacksFoodsList, siChuanSnacksFoodsList.length);

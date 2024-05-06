@@ -12,8 +12,8 @@
  * 四是主食，即用水略烫过的米线。鹅油封面，汤汁滚烫，但不冒热气。
  * 气锅鸡：因用汽锅蒸制而得名。主要食材是鸡肉，主要烹饪工艺是煮，有补虚养身、补血、健脾开胃的功效。
  */
-// import { lampshadedBeefScriptsList } from './yunnanFoodScriptContent/lampshadedBeef';
-export const yunnanFoodsList = [
+// import { lampshadedBeefScriptsList } from './yunNanFoodScriptContent/lampshadedBeef';
+export const yunNanSnacksFoodsList = [
   // 烧饵块
   {
     province: '云南省', // 省
@@ -25,7 +25,7 @@ export const yunnanFoodsList = [
     foodName_en: 'stewedBait', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'yunnanCuisine', // 菜系编码
+    cuisineCategoryCode: 'yunNanCuisine', // 菜系编码
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -79,7 +79,7 @@ export const yunnanFoodsList = [
     foodName_en: 'overpassRiceNoodle', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'yunnanCuisine', // 菜系编码
+    cuisineCategoryCode: 'yunNanCuisine', // 菜系编码
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -133,7 +133,7 @@ export const yunnanFoodsList = [
     foodName_en: 'hotPotChicken', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'yunnanCuisine', // 菜系编码
+    cuisineCategoryCode: 'yunNanCuisine', // 菜系编码
     cuisineCategoryName: '滇菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -186,7 +186,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -220,7 +220,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -271,7 +271,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -322,7 +322,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -373,7 +373,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -424,7 +424,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -475,7 +475,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -526,7 +526,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -577,7 +577,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -628,7 +628,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -679,7 +679,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -730,7 +730,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -781,7 +781,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -832,7 +832,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -883,7 +883,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -934,7 +934,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -985,7 +985,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1036,7 +1036,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1087,7 +1087,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1121,7 +1121,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1155,7 +1155,7 @@ export const yunnanFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'yunnanCuisine',
+    cuisineCategoryCode: 'yunNanCuisine',
     cuisineCategoryName: '滇菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -1180,4 +1180,4 @@ export const yunnanFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('云南小吃:', yunnanFoodsList, yunnanFoodsList.length);
+console.log('云南小吃:', yunNanSnacksFoodsList, yunNanSnacksFoodsList.length);

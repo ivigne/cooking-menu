@@ -21,9 +21,6 @@ import AApiTreeSelect from './AApiTreeSelect';
 import AEmpty from './AEmpty';
 import AInputSearch from './AInputSearch';
 import AYearPicker from './AYearPicker';
-import RecordSelect from './RecordSelect';
-import AApiCascader from './AApiCascader';
-import AInputTextArea from './AInputTextArea';
 
 /**
  * 检查触发源是否属于目标节点
@@ -102,9 +99,6 @@ export const VXETablePluginAntd = {
       AEmpty,
       AInputSearch,
       AYearPicker,
-      RecordSelect,
-      AApiCascader,
-      AInputTextArea,
     });
 
     interceptor.add('event.clearFilter', handleClearEvent);

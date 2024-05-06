@@ -1,7 +1,7 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-09-21 18:34:06
- * @FilePath: /cooking-menu/src/views/snacks/china/mockData/guangdong.ts
+ * @FilePath: /cooking-menu/src/views/snacks/china/mockData/guangDong.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
@@ -163,7 +163,7 @@
  * 石膏粉加适量水调均匀，豆浆煮好后直接冲进去，略搅拌，静置 5 至 15 分钟待豆腐花凝固即可。
  */
 // import { lampshadedBeefScriptsList } from './kejiaFoodScriptContent/lampshadedBeef';
-export const guangdongFoodsList = [
+export const guangDongSnacksFoodsList = [
   {
     province: '广东省',
     city: '',
@@ -5823,4 +5823,4 @@ export const guangdongFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('广东小吃:', guangdongFoodsList, guangdongFoodsList.length);
+console.log('广东小吃:', guangDongSnacksFoodsList, guangDongSnacksFoodsList.length);

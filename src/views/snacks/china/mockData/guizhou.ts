@@ -39,8 +39,8 @@
 遵义黄粑
  
  */
-// import { lampshadedBeefScriptsList } from './guizhouFoodScriptContent/lampshadedBeef';
-export const guizhouFoodsList = [
+// import { lampshadedBeefScriptsList } from './guiZhouFoodScriptContent/lampshadedBeef';
+export const guiZhouSnacksFoodsList = [
   {
     province: '贵州省',
     city: '贵阳市',
@@ -2090,4 +2090,4 @@ export const guizhouFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('贵州小吃:', guizhouFoodsList, guizhouFoodsList.length);
+console.log('贵州小吃:', guiZhouSnacksFoodsList, guiZhouSnacksFoodsList.length);

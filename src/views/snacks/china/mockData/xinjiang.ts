@@ -2,8 +2,8 @@
  * 新疆小吃
  * 烤羊肉、烤馕、
  */
-// import { lampshadedBeefScriptsList } from './xinjiangFoodScriptContent/lampshadedBeef';
-export const xinjiangFoodsList = [
+// import { lampshadedBeefScriptsList } from './xinJiangFoodScriptContent/lampshadedBeef';
+export const xinJiangSnacksFoodsList = [
   // 用鲜羊肉切成薄片，用铁扦串上羊肉片，蘸上调料液，在火炉上烧熟，待表面脆黄、香味浓烈时即可食用。烤羊肉要趁热吃。烤羊肉原为穆斯林的传统小吃，已经成为青海的一种地方风味小吃。
   {
     province: '新疆', // 省
@@ -15,7 +15,7 @@ export const xinjiangFoodsList = [
     foodName_en: 'roastLamb', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'xinjiangCuisine', // 菜系编码
+    cuisineCategoryCode: 'xinJiangCuisine', // 菜系编码
     cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -69,7 +69,7 @@ export const xinjiangFoodsList = [
     foodName_en: 'Naan', // 美食英文名称
     foodCategoryCode: 'beef', // 食材类别编码
     foodCategoryName: '牛肉', // 食材类别名称
-    cuisineCategoryCode: 'xinjiangCuisine', // 菜系编码
+    cuisineCategoryCode: 'xinJiangCuisine', // 菜系编码
     cuisineCategoryName: '新疆菜', // 所属菜系
     tasteCode: 'spicy', // 口味编码
     tasteName: '麻辣', // 口味名称
@@ -123,7 +123,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -157,7 +157,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -191,7 +191,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -225,7 +225,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -259,7 +259,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -293,7 +293,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -327,7 +327,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -361,7 +361,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -395,7 +395,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -429,7 +429,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -463,7 +463,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -497,7 +497,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -531,7 +531,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -565,7 +565,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -599,7 +599,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -633,7 +633,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -667,7 +667,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -701,7 +701,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -735,7 +735,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -769,7 +769,7 @@ export const xinjiangFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'xinjiangCuisine',
+    cuisineCategoryCode: 'xinJiangCuisine',
     cuisineCategoryName: '新疆菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -794,4 +794,4 @@ export const xinjiangFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('新疆小吃:', xinjiangFoodsList, xinjiangFoodsList.length);
+console.log('新疆小吃:', xinJiangSnacksFoodsList, xinJiangSnacksFoodsList.length);

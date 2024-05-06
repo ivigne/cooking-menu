@@ -1,7 +1,7 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-09-21 18:34:06
- * @FilePath: /cooking-menu/src/views/snacks/china/mockData/heilongjiang.ts
+ * @FilePath: /cooking-menu/src/views/snacks/china/mockData/heiLongJiang.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
@@ -20,8 +20,8 @@
  * 炸三角,
  * 粘豆包,
  * */
-// import { lampshadedBeefScriptsList } from './heilongjiangFoodScriptContent/lampshadedBeef';
-export const heilongjiangFoodsList = [
+// import { lampshadedBeefScriptsList } from './heiLongJiangFoodScriptContent/lampshadedBeef';
+export const heiLongJiangSnacksFoodsList = [
   {
     province: '黑龙江省',
     city: '',
@@ -317,4 +317,4 @@ export const heilongjiangFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('黑龙江小吃:', heilongjiangFoodsList, heilongjiangFoodsList.length);
+console.log('黑龙江小吃:', heiLongJiangSnacksFoodsList, heiLongJiangSnacksFoodsList.length);

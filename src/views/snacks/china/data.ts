@@ -1,68 +1,78 @@
 // import { useCopyToClipboard } from '/@/hooks/web/useCopyToClipboard';
-import { anhuiFoodsList } from './mockData/anhui';
-import { aomenFoodsList } from './mockData/aomen';
-import { beijingFoodsList } from './mockData/beijing';
-import { chongqingFoodsList } from './mockData/chongqing';
-import { fujianFoodsList } from './mockData/fujian';
-import { gansuFoodsList } from './mockData/gansu';
-import { guangdongFoodsList } from './mockData/guangdong';
-import { guangxiFoodsList } from './mockData/guangxi';
-import { guizhouFoodsList } from './mockData/guizhou';
-import { hainanFoodsList } from './mockData/hainan';
-import { hebeiFoodsList } from './mockData/hebei';
-import { heilongjiangFoodsList } from './mockData/heilongjiang';
-import { henanFoodsList } from './mockData/henan';
-import { hubeiFoodsList } from './mockData/hubei';
-import { hunanFoodsList } from './mockData/hunan';
-import { innerMongoliaFoodsList } from './mockData/innerMongolia';
-import { jiangshuFoodsList } from './mockData/jiangshu';
-import { shandongFoodsList } from './mockData/shandong';
-import { shanghaiFoodsList } from './mockData/shanghai';
-import { sichuanFoodsList } from './mockData/sichuan';
-import { taiwanFoodsList } from './mockData/taiwan';
-import { shanxiFoodsList } from './mockData/shanxi';
-import { tianjinFoodsList } from './mockData/tianjin';
-import { shannxiFoodsList } from './mockData/shannxi';
-import { hongKongFoodsList } from './mockData/hongKong';
-import { xinjiangFoodsList } from './mockData/xinjiang';
-import { yunnanFoodsList } from './mockData/yunnan';
-import { zhejiangFoodsList } from './mockData/zhejiang';
-import { othersFoodsList } from './mockData/others';
+import { anHuiSnacksFoodsList } from './mockData/anHui';
+import { aoMenSnacksFoodsList } from './mockData/aoMen';
+import { beiJingSnacksFoodsList } from './mockData/beiJing';
+import { chongQingSnacksFoodsList } from './mockData/chongQing';
+import { fuJianSnacksFoodsList } from './mockData/fuJian';
+import { ganSuSnacksFoodsList } from './mockData/ganSu';
+import { guangDongSnacksFoodsList } from './mockData/guangDong';
+import { guangXiSnacksFoodsList } from './mockData/guangXi';
+import { guiZhouSnacksFoodsList } from './mockData/guiZhou';
+import { haiNanSnacksFoodsList } from './mockData/haiNan';
+import { heBeiSnacksFoodsList } from './mockData/heBei';
+import { heiLongJiangSnacksFoodsList } from './mockData/heiLongJiang';
+import { heNanSnacksFoodsList } from './mockData/heNan';
+import { huBeiSnacksFoodsList } from './mockData/huBei';
+import { huNanSnacksFoodsList } from './mockData/huNan';
+import { innerMongoliaSnacksFoodsList } from './mockData/innerMongolia';
+import { jiangSuSnacksFoodsList } from './mockData/jiangSu';
+import { jiangXiSnacksFoodsList } from './mockData/jiangXi';
+import { liaoNingSnacksFoodsList } from './mockData/liaoNing';
+import { ningXiaSnacksFoodsList } from './mockData/ningXia';
+import { shangHaiSnacksFoodsList } from './mockData/shangHai';
+import { siChuanSnacksFoodsList } from './mockData/siChuan';
+import { taiWanSnacksFoodsList } from './mockData/taiWan';
+import { shanDongSnacksFoodsList } from './mockData/shanDong';
+import { shanXiSnacksFoodsList } from './mockData/shanXi';
+import { tianJinSnacksFoodsList } from './mockData/tianJin';
+import { shaanXiSnacksFoodsList } from './mockData/shaanXi';
+import { hongKongSnacksFoodsList } from './mockData/hongKong';
+import { xinJiangSnacksFoodsList } from './mockData/xinJiang';
+import { yunNanSnacksFoodsList } from './mockData/yunNan';
+import { zheJiangSnacksFoodsList } from './mockData/zheJiang';
+import { othersSnacksFoodsList } from './mockData/others';
 
-export const chinaSnacksFoodsList = [].concat(
-  anhuiFoodsList,
-  aomenFoodsList,
-  hebeiFoodsList,
-  beijingFoodsList,
-  chongqingFoodsList,
-  fujianFoodsList,
-  guangdongFoodsList,
-  guangxiFoodsList,
-  guizhouFoodsList,
-  hainanFoodsList,
-  heilongjiangFoodsList,
-  henanFoodsList,
-  hunanFoodsList,
-  hubeiFoodsList,
-  jiangshuFoodsList,
-  shandongFoodsList,
-  shanghaiFoodsList,
-  gansuFoodsList,
-  sichuanFoodsList,
-  hongKongFoodsList,
-  taiwanFoodsList,
-  shanxiFoodsList,
-  tianjinFoodsList,
-  shannxiFoodsList,
-  innerMongoliaFoodsList,
-  xinjiangFoodsList,
-  yunnanFoodsList,
-  zhejiangFoodsList,
-  othersFoodsList,
+export const chinaSnacksFoodsList = {
+  anHui: anHuiSnacksFoodsList,
+  aoMen: aoMenSnacksFoodsList,
+  beiJing: beiJingSnacksFoodsList,
+  chongQing: chongQingSnacksFoodsList,
+  fuJian: fuJianSnacksFoodsList,
+  ganSu: ganSuSnacksFoodsList,
+  guangDong: guangDongSnacksFoodsList,
+  guangXi: guangXiSnacksFoodsList,
+  guiZhou: guiZhouSnacksFoodsList,
+  haiNan: haiNanSnacksFoodsList,
+  heBei: heBeiSnacksFoodsList,
+  heiLongJiang: heiLongJiangSnacksFoodsList,
+  heNan: heNanSnacksFoodsList,
+  hongKong: hongKongSnacksFoodsList,
+  huBei: huBeiSnacksFoodsList,
+  huNan: huNanSnacksFoodsList,
+  innerMongolia: innerMongoliaSnacksFoodsList,
+  jiangSu: jiangSuSnacksFoodsList,
+  jiangXi: jiangXiSnacksFoodsList,
+  liaoNing: liaoNingSnacksFoodsList,
+  ningXia: ningXiaSnacksFoodsList,
+  shaanXi: shaanXiSnacksFoodsList,
+  shangDong: shanDongSnacksFoodsList,
+  shangHai: shangHaiSnacksFoodsList,
+  shanXi: shanXiSnacksFoodsList,
+  siChuan: siChuanSnacksFoodsList,
+  taiWan: taiWanSnacksFoodsList,
+  tianJin: tianJinSnacksFoodsList,
+  xinJiang: xinJiangSnacksFoodsList,
+  yunNan: yunNanSnacksFoodsList,
+  zheJiang: zheJiangSnacksFoodsList,
+  others: othersSnacksFoodsList,
+};
+
+// console.log('----------安徽小吃:', anHuiSnacksFoodsList.length);
+const chinaSnacksFoodsListName = Object.keys(chinaSnacksFoodsList);
+const foodNames = chinaSnacksFoodsListName.map((name) =>
+  chinaSnacksFoodsList[name]?.map((item) => item?.foodName),
 );
-// console.log('----------安徽小吃:', anhuiFoodsList.length);
-console.log('----------中国小吃:', chinaSnacksFoodsList.length);
-const foodNames = chinaSnacksFoodsList.map((item) => item?.foodName);
+console.log('----------中国小吃:', foodNames.length);
 console.log('----------小吃所有名字:', foodNames);
 
 function unipFunc(arr) {

@@ -36,8 +36,8 @@
  * 鲍鱼酥, 玉林云吞,玉林酸料
 
  */
-// import { lampshadedBeefScriptsList } from './guangxiFoodScriptContent/lampshadedBeef';
-export const guangxiFoodsList = [
+// import { lampshadedBeefScriptsList } from './guangXiFoodScriptContent/lampshadedBeef';
+export const guangXiSnacksFoodsList = [
   {
     province: '广西省',
     city: '',
@@ -1866,4 +1866,4 @@ export const guangxiFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('广西小吃:', guangxiFoodsList, guangxiFoodsList.length);
+console.log('广西小吃:', guangXiSnacksFoodsList, guangXiSnacksFoodsList.length);

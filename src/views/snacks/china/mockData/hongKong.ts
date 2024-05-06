@@ -5,7 +5,7 @@
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
-export const hongKongFoodsList = [
+export const hongKongSnacksFoodsList = [
   {
     province: '香港特别行政区',
     city: '香港特别行政区',
@@ -559,4 +559,4 @@ export const hongKongFoodsList = [
     tags: null,
   },
 ];
-console.log('安徽小吃:', hongKongFoodsList, hongKongFoodsList.length);
+console.log('安徽小吃:', hongKongSnacksFoodsList, hongKongSnacksFoodsList.length);

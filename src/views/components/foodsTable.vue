@@ -7,19 +7,23 @@
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
 -->
 <template>
-  <div>
-    <BasicTable @register="registerTable" />
+  <PageWrapper v-loading="loadingRef" contentFullHeight fixedHeight loading-tip="请求中...">
+    <!-- <BasicTable @register="registerTable" /> -->
     <VxeBasicTable
       ref="tableRef"
       v-bind="gridOptions"
       @checkbox-change="onSelectChange"
       @checkbox-all="onSelectChange"
     >
+      <!-- <template #tools_buttons>
+        <Button type="primary" @click="editBomRelationship(0, {})">新增</Button>
+      </template> -->
       <template #action="{ row }">
         <TableAction outside :actions="createActions(row)" />
+        <!-- <Button type="link" @click="editBomRelationship(1, row)">编辑</Button> -->
       </template>
     </VxeBasicTable>
-  </div>
+  </PageWrapper>
 </template>
 
 <!-- <script lang="ts">
@@ -28,11 +32,12 @@
   };
 </script> -->
 <script lang="ts" setup>
-  import { BasicTable, useTable } from '/@/components/Table';
+  import { PageWrapper } from '/@/components/Page';
+  // import { BasicTable, useTable } from '/@/components/Table';
   import { ref, unref, toRefs, watch, reactive, onMounted } from 'vue';
   import {
-    formConfig,
-    tableColumnsConfig,
+    // formConfig,
+    // tableColumnsConfig,
     provinceCode,
     tableColumnsConfigVxe,
     formConfigVxe,
@@ -43,6 +48,9 @@
   import { useI18n } from '/@/hooks/web/useI18n';
   import { router } from '/@/router';
   const tableRef = ref<CustomVxeGridInstance>();
+  const checkedKeys = ref<(string | number)[]>([]); // 选中的行keys
+  const checkedRows = ref<Record<string, any>[]>([]); // 选中的行
+  const loadingRef = ref(false); // 页面Loading
 
   const { t } = useI18n();
   // const { createConfirm, createMessage } = useMessage();
@@ -60,26 +68,26 @@
       data.value = unref(data).filter((i) => i.province === val);
     }
   });
-  const [registerTable] = useTable({
-    title: '多级表头示例',
-    immediate: false,
-    columns: tableColumnsConfig,
-    dataSource: props.data,
-    formConfig: {
-      schemas: formConfig,
-    },
-  });
+  // const [registerTable] = useTable({
+  //   title: '多级表头示例',
+  //   immediate: false,
+  //   columns: tableColumnsConfig,
+  //   dataSource: props.data,
+  //   formConfig: {
+  //     schemas: formConfig,
+  //   },
+  // });
 
   const gridOptions = reactive<BasicTableProps>({
     height: 'auto',
     columns: tableColumnsConfigVxe,
-    toolbarConfig: {
-      slots: {
-        tools: 'tools_button',
-      },
-    },
+    // toolbarConfig: {
+    //   slots: {
+    //     tools: 'tools_button',
+    //   },
+    // },
     formConfig: {
-      enabled: false,
+      enabled: true,
       items: formConfigVxe,
     },
     checkboxConfig: {
@@ -115,6 +123,15 @@
     router.push(url);
   };
   onMounted(() => {
-    tableRef.value?.loadData(props.data);
+    tableRef.value?.reloadData(props.data);
   });
+
+  /**
+   * 表格选中监听
+   * @param selectedRowRows 选中的行数据
+   */
+  const onSelectChange = ({ records }) => {
+    checkedRows.value = records;
+    checkedKeys.value = records.map((i) => i.id);
+  };
 </script>

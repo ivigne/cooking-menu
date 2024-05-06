@@ -1,6 +1,10 @@
-@import './common.scss';
-@import './variable.scss';
-@import './scrollbar.scss';
-@import './toolbar.scss';
-@import './component.scss';
-@import 'vxe-table/styles/index.scss';
+// $vxe-font-size-mini: 14px;
+$vxe-pager-perfect-button-background-color: #fff;
+$vxe-primary-color: #436ff6;
+$vxe-font-size: 16px;
+
+@import './common';
+@import './variable';
+@import './toolbar';
+@import './component';
+@import 'vxe-table/styles/index';

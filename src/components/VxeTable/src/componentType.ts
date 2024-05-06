@@ -1,7 +1,6 @@
 export type ComponentType =
   | 'AInput'
   | 'AInputNumber'
-  | 'AInputTextArea'
   | 'ASelect'
   | 'AApiSelect'
   | 'ATreeSelect'
@@ -20,6 +19,4 @@ export type ComponentType =
   | 'ARate'
   | 'AInputSearch'
   | 'AButton'
-  | 'AEmpty'
-  | 'RecordSelect'
-  | 'AApiCascader';
+  | 'AEmpty';

@@ -11,7 +11,7 @@
  * 栲栳、刀削面、揪片、疤饼，碗托，荞面河捞,焖面,荞面鱼鱼,太谷饼,平遥牛肉,过油肉,羊杂碎,凉粉,猫耳朵
  */
 // import { lampshadedBeefScriptsList } from './taiyuanFoodScriptContent/lampshadedBeef';
-export const shanxiFoodsList = [
+export const shanXiSnacksFoodsList = [
   {
     province: '山西省',
     city: '太原市',
@@ -839,4 +839,4 @@ export const shanxiFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('山西小吃:', shanxiFoodsList, shanxiFoodsList.length);
+console.log('山西小吃:', shanXiSnacksFoodsList, shanXiSnacksFoodsList.length);

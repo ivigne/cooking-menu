@@ -2,8 +2,8 @@
  * 重庆小吃
  * 酸辣粉、小面、麻辣烫、串串香、兔头、重庆小面,
  */
-// import { lampshadedBeefScriptsList } from './chongqingFoodScriptContent/lampshadedBeef';
-export const chongqingFoodsList = [
+// import { lampshadedBeefScriptsList } from './chongQingFoodScriptContent/lampshadedBeef';
+export const chongQingSnacksFoodsList = [
   {
     province: '重庆',
     city: '重庆',
@@ -107,4 +107,4 @@ export const chongqingFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('重庆小吃:', chongqingFoodsList, chongqingFoodsList.length);
+console.log('重庆小吃:', chongQingSnacksFoodsList, chongQingSnacksFoodsList.length);

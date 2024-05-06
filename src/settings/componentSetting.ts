@@ -9,20 +9,21 @@ export default {
     // support xxx.xxx.xxx
     fetchSetting: {
       // The field name of the current page passed to the background
-      pageField: 'page',
+      pageField: 'pages',
       // The number field name of each page displayed in the background
       sizeField: 'pageSize',
       // Field name of the form data returned by the interface
-      listField: 'items',
+      listField: 'list',
       // Total number of tables returned by the interface field name
       totalField: 'total',
     },
     // Number of pages that can be selected
-    pageSizeOptions: ['10', '50', '80', '100'],
+    pageSizeOptions: ['20', '50', '100', '500'],
     // Default display quantity on one page
-    defaultPageSize: 10,
+    defaultPageSize: 20,
     // Default Size
-    defaultSize: 'middle',
+    defaultSize: 'small',
+    showTableSetting: false,
     // Custom general sort function
     defaultSortFn: (sortInfo: SorterResult) => {
       const { field, order } = sortInfo;
@@ -40,6 +41,62 @@ export default {
     // Custom general filter function
     defaultFilterFn: (data: Partial<Recordable<string[]>>) => {
       return data;
+    },
+  },
+  vxeTable: {
+    size: 'large',
+    table: {
+      border: true,
+      stripe: true,
+      columnConfig: {
+        resizable: true,
+        isCurrent: true,
+        isHover: true,
+      },
+      rowConfig: {
+        isCurrent: true,
+        isHover: true,
+      },
+      emptyRender: {
+        name: 'AEmpty',
+      },
+      printConfig: {},
+      exportConfig: {},
+      customConfig: {
+        storage: true,
+      },
+    },
+    grid: {
+      toolbarConfig: {
+        enabled: true,
+        export: false,
+        zoom: false,
+        print: false,
+        refresh: false,
+        custom: false,
+      },
+      formConfig: {
+        titleColon: true,
+      },
+      checkboxConfig: {
+        checkField: '_checked',
+      },
+      pagerConfig: {
+        background: true,
+        layouts: ['PrevPage', 'JumpNumber', 'NextPage', 'Sizes', 'FullJump', 'Total'],
+        pageSizes: [20, 50, 100, 500],
+        pageSize: 20,
+        autoHidden: false,
+        align: 'center',
+      },
+      proxyConfig: {
+        form: true,
+        props: {
+          result: 'list',
+          total: 'total',
+        },
+      },
+      zoomConfig: {},
     },
   },
   // scrollbar setting

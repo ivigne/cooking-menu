@@ -19,7 +19,7 @@
  */
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
-export const innerMongoliaFoodsList = [
+export const innerMongoliaSnacksFoodsList = [
   {
     province: '内蒙古自治区',
     city: '巴彦淖尔市',
@@ -1908,4 +1908,4 @@ export const innerMongoliaFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('内蒙古小吃:', innerMongoliaFoodsList, innerMongoliaFoodsList.length);
+console.log('内蒙古小吃:', innerMongoliaSnacksFoodsList, innerMongoliaSnacksFoodsList.length);

@@ -88,7 +88,7 @@
   // import { aomenFoodsList } from '/@/views/snacks/china/mockData/aomen';
   // import { beijingFoodsList } from '/@/views/snacks/china/mockData/beijing';
   // import { chongqingFoodsList } from '/@/views/snacks/china/mockData/chongqing';
-  import { fujianFoodsList } from '/@/views/snacks/china/mockData/fujian';
+  import { fujianFoodsList } from '../../snacks/china/mockData/fuJian';
   // import { gansuFoodsList } from '/@/views/snacks/china/mockData/gansu';
   // import { guangdongFoodsList } from '/@/views/snacks/china/mockData/guangdong';
   // import { guangxiFoodsList } from '/@/views/snacks/china/mockData/guangxi';
@@ -301,3 +301,4 @@
     );
   };
 </script>
+../../snacks/china/mockData/fuJian

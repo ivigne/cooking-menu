@@ -1,3 +1,4 @@
+/* stylelint-disable scss/percent-placeholder-pattern */
 %ResetBorder {
   border: 0;
   box-shadow: none;
@@ -13,16 +14,21 @@
     width: 100%;
   }
 }
+
 .vxe-form {
-  .vxe-form--item-content {
-    @extend %CompWidth;
-    overflow: hidden;
+  .vxe-form--item-inner {
+    position: inherit !important;
+    overflow: hidden; // 解决select option内容超长引起外层漫出formItem边界问题
   }
 
-  .vxe-form--item {
-    padding: 0 0.8em 0.4em 0 !important;
+  .vxe-form--item-content {
+    @extend %CompWidth;
+
+    position: inherit !important;
+    overflow: hidden; // 解决select option内容超长引起外层漫出formItem边界问题，否则会缺失右边框
   }
 }
+
 .vxe-table--filter-antd-wrapper {
   & > .ant-input,
   & > .ant-input-number,
@@ -31,16 +37,20 @@
     width: 180px;
   }
 }
+
 .vxe-cell,
 .vxe-tree-cell {
   @extend %CompWidth;
+
   & > .ant-rate {
     vertical-align: bottom;
+
     .anticon-star {
       display: block;
     }
   }
 }
+
 .col--valid-error {
   & > .vxe-cell,
   & > .vxe-tree-cell {
@@ -50,69 +60,88 @@
     & > .ant-input-number,
     & > .ant-cascader-picker .ant-cascader-input,
     & > .ant-calendar-picker .ant-calendar-picker-input {
-      // border-color: $vxe-table-validate-error-color;
       box-shadow: none;
     }
   }
 }
+
 .vxe-table.cell--highlight {
   .vxe-cell,
   .vxe-tree-cell {
     & > .ant-input,
     & > .ant-input-number {
-      padding: 0;
       @extend %ResetBorder;
+
+      padding: 0;
     }
+
     & > .ant-select {
       .ant-input {
-        padding: 0;
         @extend %ResetBorder;
-      }
-    }
-    & > .ant-input-number {
-      .ant-input-number-input {
+
         padding: 0;
       }
-      .ant-input-number-handler-wrap,
-      .ant-input-number-handler-down {
-        @extend %ResetBorder;
-      }
-    }
-    & > .ant-select {
+
       .ant-select-selection {
         @extend %ResetBorder;
+
         .ant-select-selection__rendered {
           margin: 0;
         }
       }
     }
+
+    & > .ant-input-number {
+      .ant-input-number-input {
+        padding: 0;
+      }
+
+      .ant-input-number-handler-wrap,
+      .ant-input-number-handler-down {
+        @extend %ResetBorder;
+      }
+    }
+
     & > .ant-cascader-picker {
       .ant-input {
         @extend %ResetBorder;
       }
+
       .ant-cascader-picker-label {
         padding: 0;
       }
     }
+
     & > .ant-calendar-picker {
       .ant-calendar-picker-input {
-        padding: 0;
         @extend %ResetBorder;
+
+        padding: 0;
       }
     }
+
     & > .ant-time-picker {
       .ant-time-picker-input {
-        padding: 0;
         @extend %ResetBorder;
+
+        padding: 0;
       }
     }
   }
 }
 
-.vxe-table--render-default {
-  &.size--small {
-    .vxe-body--column {
-      height: 32px !important;
-    }
-  }
+// 自定义 form表单 label的字体大小
+.vxe-form--item-title-label {
+  font-size: 16px;
+}
+
+// 自定义分隔 form和table
+.vxe-grid--form-wrapper {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e8eaec;
+}
+
+.vxe-pager--num-btn {
+  border: 1px solid #e8eaec !important;
 }

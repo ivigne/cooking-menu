@@ -2,8 +2,8 @@
  * 上海小吃
  * 南翔小笼，满园春的百果酒酿圆子、八宝饭、甜酒酿，湖滨点心店的重油酥饼，绿波廊餐厅的枣泥酥饼、三丝眉毛酥、生煎馒头、
  * 上海香嫩咖喱肉串、三鲜小馄饨、蟹壳黄、面筋百叶、汤包、油面筋、南翔小笼馒头、白斩三黄鸡。*/
-// import { lampshadedBeefScriptsList } from './shanghaiFoodScriptContent/lampshadedBeef';
-export const shanghaiFoodsList = [
+// import { lampshadedBeefScriptsList } from './shangHaiFoodScriptContent/lampshadedBeef';
+export const shangHaiSnacksFoodsList = [
   {
     province: '上海',
     city: '上海市',
@@ -14,7 +14,7 @@ export const shanghaiFoodsList = [
     foodName_en: 'nanxiangXiaoLong,',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shanghaiCuisine',
+    cuisineCategoryCode: 'shangHaiCuisine',
     cuisineCategoryName: '上海菜、沪菜、本帮菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -62,7 +62,7 @@ export const shanghaiFoodsList = [
     foodName_en: 'hundredFruitWineDumplings',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shanghaiCuisine',
+    cuisineCategoryCode: 'shangHaiCuisine',
     cuisineCategoryName: '上海菜、沪菜、本帮菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -111,7 +111,7 @@ export const shanghaiFoodsList = [
     foodName_en: 'sweetWineDumplings',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shanghaiCuisine',
+    cuisineCategoryCode: 'shangHaiCuisine',
     cuisineCategoryName: '上海菜、沪菜、本帮菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -159,7 +159,7 @@ export const shanghaiFoodsList = [
     foodName_en: 'tenderCurryKebabs',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shanghaiCuisine',
+    cuisineCategoryCode: 'shangHaiCuisine',
     cuisineCategoryName: '上海菜、沪菜、本帮菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -207,7 +207,7 @@ export const shanghaiFoodsList = [
     foodName_en: 'glutenAndHundredLeaf',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shanghaiCuisine',
+    cuisineCategoryCode: 'shangHaiCuisine',
     cuisineCategoryName: '上海菜、沪菜、本帮菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -255,7 +255,7 @@ export const shanghaiFoodsList = [
     foodName_en: 'oilGluten',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shanghaiCuisine',
+    cuisineCategoryCode: 'shangHaiCuisine',
     cuisineCategoryName: '上海菜、沪菜、本帮菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -303,7 +303,7 @@ export const shanghaiFoodsList = [
     foodName_en: 'whiteChoppedChicken',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shanghaiCuisine',
+    cuisineCategoryCode: 'shangHaiCuisine',
     cuisineCategoryName: '上海菜、沪菜、本帮菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -351,7 +351,7 @@ export const shanghaiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shanghaiCuisine',
+    cuisineCategoryCode: 'shangHaiCuisine',
     cuisineCategoryName: '上海菜、沪菜、本帮菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -402,7 +402,7 @@ export const shanghaiFoodsList = [
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shanghaiCuisine',
+    cuisineCategoryCode: 'shangHaiCuisine',
     cuisineCategoryName: '上海菜、沪菜、本帮菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
@@ -444,4 +444,4 @@ export const shanghaiFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('上海小吃:', shanghaiFoodsList, shanghaiFoodsList.length);
+console.log('上海小吃:', shangHaiSnacksFoodsList, shangHaiSnacksFoodsList.length);

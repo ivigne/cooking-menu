@@ -48,7 +48,7 @@
 
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
-export const othersFoodsList = [
+export const othersSnacksFoodsList = [
   {
     province: '',
     city: '',
@@ -5660,4 +5660,4 @@ export const othersFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('其他小吃:', othersFoodsList, othersFoodsList.length);
+console.log('其他小吃:', othersSnacksFoodsList, othersSnacksFoodsList.length);

@@ -2,9 +2,8 @@ import {
   GridMethods,
   TableMethods,
   TableEditMethods,
-  TableExportMethods,
   TableValidatorMethods,
-  VxeGridPrivateMethods,
+  VxeGridConstructor,
 } from 'vxe-table';
 
 export const gridComponentMethodKeys: (
@@ -12,10 +11,11 @@ export const gridComponentMethodKeys: (
   | keyof TableMethods
   | keyof TableEditMethods
   | keyof TableValidatorMethods
-  | keyof VxeGridPrivateMethods
-  | keyof TableExportMethods
+  | keyof VxeGridConstructor
 )[] = [
   // vxe-grid 部分
+  'getRefMaps',
+  'getComputeMaps',
   'dispatchEvent',
   'commitProxy',
   'getFormItems',
@@ -25,7 +25,6 @@ export const gridComponentMethodKeys: (
   'maximize',
   'revert',
   'getProxyInfo',
-  'triggerToolbarCommitEvent', // 私有方法，可以强制提升
 
   // vxe-table和vxe-grid公共部分
   'clearAll',
@@ -159,6 +158,7 @@ export const gridComponentMethodKeys: (
   'setEditRow',
   'setEditCell',
   'setSelectCell',
+  'clearEdit',
 
   // vxe-table-validator
   'clearValidate',
@@ -166,5 +166,5 @@ export const gridComponentMethodKeys: (
   'validate',
 
   //... 如有缺少在此处追加
-  'readFile',
+  // xxx
 ];

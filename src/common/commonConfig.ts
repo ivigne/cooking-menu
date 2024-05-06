@@ -559,80 +559,81 @@ export const provinceOptions = [
 export const tableColumnsConfigVxe: CustomColumns = [
   {
     title: '美食名称',
-    dataIndex: 'foodName',
+    field: 'foodName',
     width: 120,
     fixed: 'left',
   },
   {
     title: '美食英文名称',
-    dataIndex: 'foodName_en',
+    field: 'foodName_en',
     width: 100,
   },
   {
     title: '美食图片',
-    dataIndex: 'foodAvatar',
+    field: 'foodAvatar',
     width: 100,
   },
   {
     title: '省',
-    dataIndex: 'province',
+    field: 'province',
     width: 80,
   },
   {
     title: '市',
-    dataIndex: 'city',
+    field: 'city',
     width: 80,
   },
   {
     title: '区',
-    dataIndex: 'district',
+    field: 'district',
     width: 80,
   },
   {
     title: '地方名称',
-    dataIndex: 'address',
+    field: 'address',
     width: 80,
   },
   {
     title: '食材类别',
-    dataIndex: 'foodCategoryName',
+    field: 'foodCategoryName',
     width: 80,
   },
   {
     title: '所属菜系',
-    dataIndex: 'cuisineCategoryName',
+    field: 'cuisineCategoryName',
     width: 100,
   },
   {
     title: '口味名称',
-    dataIndex: 'tasteName',
+    field: 'tasteName',
     width: 100,
   },
   {
     title: '烹饪类型',
-    dataIndex: 'cookingTypeName',
+    field: 'cookingTypeName',
     width: 100,
   },
   {
     title: '特色/特点',
-    dataIndex: 'featuresName',
+    field: 'featuresName',
     width: 100,
   },
   {
     title: '标签',
-    dataIndex: 'tags',
+    field: 'tags',
     width: 120,
   },
   {
     title: '备注',
-    dataIndex: 'remark',
+    field: 'remark',
   },
 ];
 export const formConfigVxe: VxeFormItemProps[] = [
   {
     field: 'provinceCode',
-    title: '省/市/自治州:',
+    title: '省/市/自治州',
     titleWidth: 120,
+    titleAlign: 'right',
     itemRender: {
       name: 'ASelect',
       defaultValue: 'siChuan',
@@ -647,8 +648,9 @@ export const formConfigVxe: VxeFormItemProps[] = [
   },
   {
     field: 'foodName',
-    title: '美食名称:',
+    title: '美食名称',
     titleWidth: 120,
+    titleAlign: 'right',
     itemRender: {
       name: 'AInput',
     },
@@ -656,8 +658,9 @@ export const formConfigVxe: VxeFormItemProps[] = [
   },
   {
     field: 'foodCategoryCode',
-    title: '食材类别：',
+    title: '食材类别',
     titleWidth: 120,
+    titleAlign: 'right',
     itemRender: {
       name: 'ASelect',
       props: {
@@ -668,8 +671,9 @@ export const formConfigVxe: VxeFormItemProps[] = [
   },
   {
     field: 'cookingTypeCode',
-    title: '烹饪类型：',
+    title: '烹饪类型',
     titleWidth: 120,
+    titleAlign: 'right',
     itemRender: {
       name: 'ASelect',
       props: {
@@ -680,8 +684,9 @@ export const formConfigVxe: VxeFormItemProps[] = [
   },
   {
     field: 'cuisineCategoryCode',
-    title: '菜系：',
+    title: '菜系',
     titleWidth: 120,
+    titleAlign: 'right',
     itemRender: {
       name: 'ASelect',
       props: {
@@ -692,8 +697,9 @@ export const formConfigVxe: VxeFormItemProps[] = [
   },
   {
     field: 'tasteCode',
-    title: '口味：',
+    title: '口味',
     titleWidth: 120,
+    titleAlign: 'right',
     itemRender: {
       name: 'ASelect',
       props: {
@@ -705,6 +711,7 @@ export const formConfigVxe: VxeFormItemProps[] = [
   {
     span: 6,
     align: 'right',
+    titleAlign: 'right',
     itemRender: {
       name: 'AButtonGroup',
       children: [
@@ -793,7 +800,7 @@ export const provinceCode = ref('');
 export const formConfig: FormSchema[] = [
   {
     field: 'provinceCode',
-    label: '省/市/自治州:',
+    label: '省/市/自治州',
     labelWidth: 120,
     defaultValue: 'siChuan',
     component: 'Select',
@@ -809,7 +816,7 @@ export const formConfig: FormSchema[] = [
   },
   {
     field: 'foodName',
-    label: '美食名称:',
+    label: '美食名称',
     labelWidth: 120,
     defaultValue: '',
     component: 'Input',
@@ -819,7 +826,7 @@ export const formConfig: FormSchema[] = [
   },
   {
     field: 'foodCategoryCode',
-    label: '食材类别：',
+    label: '食材类别',
     labelWidth: 120,
     component: 'Select',
     componentProps: {
@@ -831,7 +838,7 @@ export const formConfig: FormSchema[] = [
   },
   {
     field: 'cookingTypeCode',
-    label: '烹饪类型：',
+    label: '烹饪类型',
     labelWidth: 120,
     component: 'Select',
     componentProps: {
@@ -843,7 +850,7 @@ export const formConfig: FormSchema[] = [
   },
   {
     field: 'cuisineCategoryCode',
-    label: '菜系：',
+    label: '菜系',
     labelWidth: 120,
     component: 'Select',
     componentProps: {
@@ -855,7 +862,7 @@ export const formConfig: FormSchema[] = [
   },
   {
     field: 'tasteCode',
-    label: '口味：',
+    label: '口味',
     labelWidth: 120,
     component: 'Select',
     componentProps: {
