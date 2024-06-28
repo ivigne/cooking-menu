@@ -98,6 +98,7 @@
       checkField: '_checked',
     },
     pagerConfig: {
+      pageSize: 300,
       // enabled: false,
     },
     proxyConfig: {
@@ -156,7 +157,7 @@
     if (tasteCode) {
       result.value = result.value?.filter((item) => item?.tasteCode.includes(tasteCode));
     }
-    console.log('handleResult', provinceCode, result.value, typeof result.value);
+    console.log('handleResult', provinceCode, foodName, result.value, typeof result.value);
     const res = {
       list: result.value?.length > 0 ? result.value : null,
       total: result.value?.length | 0,

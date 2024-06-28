@@ -1,4 +1,4 @@
-import { ref } from 'vue';
+import { computed, ref } from 'vue';
 import { CustomColumns, CustomVxeFormItemProps } from '/@/components/VxeTable';
 import { BasicColumn, FormSchema } from '/@/components/Table';
 export const provinceName = ref('');
@@ -73,6 +73,10 @@ export const foodCategoryList = [
   {
     label: '酱',
     value: 'sauce',
+  },
+  {
+    label: '蔬菜',
+    value: 'vegetables',
   },
   {
     label: '其他',
@@ -640,10 +644,14 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
     titleWidth: 120,
     titleAlign: 'right',
     itemRender: {
+      // name: 'AApiSelect',
       name: 'ASelect',
-      defaultValue: 'siChuan',
+      defaultValue: 'jiangSu',
       props: {
-        options: provinceOptions,
+        options: computed(() => provinceOptions),
+        // immediate: true,
+        optionFilterProp: 'label',
+        filterOption: true,
         // fieldNames: {
         //   value: 'label',
         // },
@@ -676,6 +684,7 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
       name: 'ASelect',
       props: {
         options: foodCategoryList,
+        optionFilterProp: 'label',
       },
     },
     span: 6,
@@ -689,6 +698,7 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
       name: 'ASelect',
       props: {
         options: cookingTypeList,
+        optionFilterProp: 'label',
       },
     },
     span: 6,
@@ -702,6 +712,7 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
       name: 'ASelect',
       props: {
         options: cuisineCategoryList,
+        optionFilterProp: 'label',
       },
     },
     span: 6,
@@ -715,6 +726,7 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
       name: 'ASelect',
       props: {
         options: tasteList,
+        optionFilterProp: 'label',
       },
     },
     span: 6,
