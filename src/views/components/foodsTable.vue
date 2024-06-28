@@ -15,6 +15,7 @@
       @checkbox-change="onSelectChange"
       @checkbox-all="onSelectChange"
     >
+      <!-- @form-submit="handleResult" -->
       <!-- <template #tools_buttons>
         <Button type="primary" @click="editBomRelationship(0, {})">新增</Button>
       </template> -->
@@ -34,13 +35,14 @@
 <script lang="ts" setup>
   import { PageWrapper } from '/@/components/Page';
   // import { BasicTable, useTable } from '/@/components/Table';
-  import { ref, unref, toRefs, watch, reactive, onMounted } from 'vue';
+  import { ref, toRefs, reactive, onMounted } from 'vue';
   import {
     // formConfig,
     // tableColumnsConfig,
-    provinceCode,
     tableColumnsConfigVxe,
     formConfigVxe,
+    provinceName,
+    provinceOptions,
   } from '/@/common/commonConfig';
   import { VxeBasicTable, BasicTableProps, CustomVxeGridInstance } from '/@/components/VxeTable';
   // import { useMessage } from '/@/hooks/web/useMessage';
@@ -56,18 +58,20 @@
   // const { createConfirm, createMessage } = useMessage();
   const props = defineProps({
     data: ref([]),
-    type: ref(''),
+    objData: reactive({}),
+    type: { type: String, default: 'other' },
   });
-  console.log(props.data);
-  const { data, type = 'other' } = toRefs(props);
-  const emit = defineEmits(['filter-province']);
-  watch(provinceCode, (val) => {
-    if (val && type !== 'other') {
-      emit('filter-province', val);
-    } else {
-      data.value = unref(data).filter((i) => i.province === val);
-    }
-  });
+  const { data, objData, type } = toRefs(props);
+  console.log('props', data.value, objData.value, type);
+
+  // const emit = defineEmits(['filter-province']);
+  // watch(provinceCode, (val) => {
+  //   if (val && type !== 'other') {
+  //     emit('filter-province', val);
+  //   } else {
+  //     data.value = unref(data).filter((i) => i.province === val);
+  //   }
+  // });
   // const [registerTable] = useTable({
   //   title: '多级表头示例',
   //   immediate: false,
@@ -93,11 +97,73 @@
     checkboxConfig: {
       checkField: '_checked',
     },
+    pagerConfig: {
+      // enabled: false,
+    },
     proxyConfig: {
-      enabled: false,
-      autoLoad: false,
+      // enabled: false,
+      // autoLoad: false,
+      ajax: {
+        query: async ({ page, form }) => {
+          console.log('page, form', page, form);
+          const params = { ...form };
+          const result = await handleResult(page, params);
+          console.log('query', result);
+          return result;
+        },
+      },
     },
   });
+  const handleResult = (page, params) => {
+    const {
+      provinceCode,
+      foodName,
+      foodCategoryCode,
+      cookingTypeCode,
+      cuisineCategoryCode,
+      tasteCode,
+    } = params;
+    const result = ref<Recordable[]>([]);
+    if (provinceCode) {
+      if (type.value != 'other') {
+        result.value = objData.value[provinceCode];
+      } else {
+        provinceOptions.filter((item) => {
+          if (item.value === provinceCode) return (provinceName.value = item.label);
+        });
+        // console.log(provinceName.value);
+        result.value = data.value.filter((item) => provinceName.value?.includes(item.province));
+      }
+    }
+    if (foodName) {
+      result.value = result.value?.filter((item) => item?.foodName.includes(foodName));
+    }
+    if (foodCategoryCode) {
+      result.value = result.value?.filter((item) =>
+        item?.foodCategoryCode.includes(foodCategoryCode),
+      );
+    }
+    if (cookingTypeCode) {
+      result.value = result.value?.filter((item) =>
+        item?.cookingTypeCode.includes(cookingTypeCode),
+      );
+    }
+    if (cuisineCategoryCode) {
+      result.value = result.value?.filter((item) =>
+        item?.cuisineCategoryCode.includes(cuisineCategoryCode),
+      );
+    }
+    if (tasteCode) {
+      result.value = result.value?.filter((item) => item?.tasteCode.includes(tasteCode));
+    }
+    console.log('handleResult', provinceCode, result.value, typeof result.value);
+    const res = {
+      list: result.value?.length > 0 ? result.value : null,
+      total: result.value?.length | 0,
+    };
+
+    return res;
+  };
   const createActions = (row) => {
     const actions: ActionItem[] = [
       {
@@ -123,7 +189,8 @@
     router.push(url);
   };
   onMounted(() => {
-    tableRef.value?.reloadData(props.data);
+    // tableRef.value?.reloadData(objData.value['siChuan']);
+    // console.log('onMounted', objData.value['siChuan']);
   });
 
   /**

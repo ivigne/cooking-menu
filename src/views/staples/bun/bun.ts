@@ -5761,7 +5761,7 @@ export const bunFoodsList = [
     tags: null,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',
@@ -5812,7 +5812,7 @@ export const bunFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',

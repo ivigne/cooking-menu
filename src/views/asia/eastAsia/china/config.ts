@@ -2,14 +2,11 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-08-25 11:46:22
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-02-04 10:58:42
+ * @LastEditTime: 2024-05-28 16:43:01
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/config.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
-// 将字符串分隔符(中文逗号，回车)统一替换成英文分隔符，并转成为数组
-const replaceAndSplitStr = (value: any) => {
-  return value.replace(/、/g, '').replace(/，/g, '').replace(/\n/g, '').split(',');
-};
+import { replaceAndSplitStr } from '/@/utils/general';
 const mainCook = '酸辣士豆丝,鸡米花,香辣鸡腿堡,牛肉面,提拉米苏,牛排,骨肉相连';
 const heimaCook =
   '酸甜士豆,椒盐水煮鱼,秦川黄牛肚,香酥大鲫鱼,黄金龙骨,火锅卤肥肠,大片牛腱牛肉面,真空烤卤鸭舌,果木风味鸡腿堡,盘龙东星斑,血旺烤鱼,香醋黃瓜,牛肉船面,牛肠锅,松针鲜肉包,白玉爆浆麻礨';

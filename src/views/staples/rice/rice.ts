@@ -4624,7 +4624,7 @@ export const riceFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',

@@ -10650,7 +10650,7 @@ export const soupFoodsList1 = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',
@@ -10701,7 +10701,7 @@ export const soupFoodsList1 = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',

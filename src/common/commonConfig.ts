@@ -1,6 +1,7 @@
 import { ref } from 'vue';
-import { CustomColumns, VxeFormItemProps } from '/@/components/VxeTable';
+import { CustomColumns, CustomVxeFormItemProps } from '/@/components/VxeTable';
 import { BasicColumn, FormSchema } from '/@/components/Table';
+export const provinceName = ref('');
 // 食材类别-集合
 // 鱼、虾、蟹、贝、蛙、猪、牛、羊、鸡、鸭、鸽、米、面、酱、其他、
 // const str = '';
@@ -554,6 +555,10 @@ export const provinceOptions = [
     label: '浙江省（浙）',
     value: 'zheJiang',
   },
+  {
+    label: '未知地方',
+    value: 'unkown',
+  },
 ];
 
 export const tableColumnsConfigVxe: CustomColumns = [
@@ -628,7 +633,7 @@ export const tableColumnsConfigVxe: CustomColumns = [
     field: 'remark',
   },
 ];
-export const formConfigVxe: VxeFormItemProps[] = [
+export const formConfigVxe: CustomVxeFormItemProps[] = [
   {
     field: 'provinceCode',
     title: '省/市/自治州',
@@ -639,11 +644,17 @@ export const formConfigVxe: VxeFormItemProps[] = [
       defaultValue: 'siChuan',
       props: {
         options: provinceOptions,
-        onChange: (val) => {
-          provinceCode.value = val;
-        },
+        // fieldNames: {
+        //   value: 'label',
+        // },
       },
     },
+    rules: [
+      {
+        required: true,
+        content: '请选择',
+      },
+    ],
     span: 6,
   },
   {
@@ -796,10 +807,9 @@ export const tableColumnsConfig: BasicColumn[] = [
     dataIndex: 'remark',
   },
 ];
-export const provinceCode = ref('');
 export const formConfig: FormSchema[] = [
   {
-    field: 'provinceCode',
+    field: 'provinceName',
     label: '省/市/自治州',
     labelWidth: 120,
     defaultValue: 'siChuan',
@@ -807,7 +817,7 @@ export const formConfig: FormSchema[] = [
     componentProps: {
       options: provinceOptions,
       onChange: (val) => {
-        provinceCode.value = val;
+        provinceName.value = val;
       },
     },
     colProps: {

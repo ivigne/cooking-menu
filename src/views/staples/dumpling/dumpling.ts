@@ -4520,7 +4520,7 @@ export const dumplingFoodsList = [
     tags: null,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',
@@ -4571,7 +4571,7 @@ export const dumplingFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',
@@ -4622,7 +4622,7 @@ export const dumplingFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',
@@ -4673,7 +4673,7 @@ export const dumplingFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',

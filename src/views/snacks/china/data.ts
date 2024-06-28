@@ -1,35 +1,35 @@
 // import { useCopyToClipboard } from '/@/hooks/web/useCopyToClipboard';
-import { anHuiSnacksFoodsList } from './mockData/anHui';
-import { aoMenSnacksFoodsList } from './mockData/aoMen';
-import { beiJingSnacksFoodsList } from './mockData/beiJing';
-import { chongQingSnacksFoodsList } from './mockData/chongQing';
+import { anHuiSnacksFoodsList } from './mockData/anhui';
+import { aoMenSnacksFoodsList } from './mockData/aomen';
+import { beiJingSnacksFoodsList } from './mockData/beijing';
+import { chongQingSnacksFoodsList } from './mockData/chongqing';
 import { fuJianSnacksFoodsList } from './mockData/fuJian';
-import { ganSuSnacksFoodsList } from './mockData/ganSu';
-import { guangDongSnacksFoodsList } from './mockData/guangDong';
-import { guangXiSnacksFoodsList } from './mockData/guangXi';
-import { guiZhouSnacksFoodsList } from './mockData/guiZhou';
-import { haiNanSnacksFoodsList } from './mockData/haiNan';
-import { heBeiSnacksFoodsList } from './mockData/heBei';
-import { heiLongJiangSnacksFoodsList } from './mockData/heiLongJiang';
-import { heNanSnacksFoodsList } from './mockData/heNan';
-import { huBeiSnacksFoodsList } from './mockData/huBei';
-import { huNanSnacksFoodsList } from './mockData/huNan';
+import { ganSuSnacksFoodsList } from './mockData/gansu';
+import { guangDongSnacksFoodsList } from './mockData/guangdong';
+import { guangXiSnacksFoodsList } from './mockData/guangxi';
+import { guiZhouSnacksFoodsList } from './mockData/guizhou';
+import { haiNanSnacksFoodsList } from './mockData/hainan';
+import { heBeiSnacksFoodsList } from './mockData/hebei';
+import { heiLongJiangSnacksFoodsList } from './mockData/heilongjiang';
+import { heNanSnacksFoodsList } from './mockData/henan';
+import { huBeiSnacksFoodsList } from './mockData/hubei';
+import { huNanSnacksFoodsList } from './mockData/hunan';
 import { innerMongoliaSnacksFoodsList } from './mockData/innerMongolia';
 import { jiangSuSnacksFoodsList } from './mockData/jiangSu';
-import { jiangXiSnacksFoodsList } from './mockData/jiangXi';
-import { liaoNingSnacksFoodsList } from './mockData/liaoNing';
-import { ningXiaSnacksFoodsList } from './mockData/ningXia';
-import { shangHaiSnacksFoodsList } from './mockData/shangHai';
-import { siChuanSnacksFoodsList } from './mockData/siChuan';
-import { taiWanSnacksFoodsList } from './mockData/taiWan';
-import { shanDongSnacksFoodsList } from './mockData/shanDong';
-import { shanXiSnacksFoodsList } from './mockData/shanXi';
-import { tianJinSnacksFoodsList } from './mockData/tianJin';
+import { jiangXiSnacksFoodsList } from './mockData/jiangxi';
+import { liaoNingSnacksFoodsList } from './mockData/liaoning';
+import { ningXiaSnacksFoodsList } from './mockData/ningxia';
+import { shangHaiSnacksFoodsList } from './mockData/shanghai';
+import { siChuanSnacksFoodsList } from './mockData/sichuan';
+import { taiWanSnacksFoodsList } from './mockData/taiwan';
+import { shanDongSnacksFoodsList } from './mockData/shandong';
+import { shanXiSnacksFoodsList } from './mockData/shanxi';
+import { tianJinSnacksFoodsList } from './mockData/tianjin';
 import { shaanXiSnacksFoodsList } from './mockData/shaanXi';
 import { hongKongSnacksFoodsList } from './mockData/hongKong';
-import { xinJiangSnacksFoodsList } from './mockData/xinJiang';
-import { yunNanSnacksFoodsList } from './mockData/yunNan';
-import { zheJiangSnacksFoodsList } from './mockData/zheJiang';
+import { xinJiangSnacksFoodsList } from './mockData/xinjiang';
+import { yunNanSnacksFoodsList } from './mockData/yunnan';
+import { zheJiangSnacksFoodsList } from './mockData/zhejiang';
 import { othersSnacksFoodsList } from './mockData/others';
 
 export const chinaSnacksFoodsList = {
@@ -67,17 +67,24 @@ export const chinaSnacksFoodsList = {
   others: othersSnacksFoodsList,
 };
 
-// console.log('----------安徽小吃:', anHuiSnacksFoodsList.length);
-const chinaSnacksFoodsListName = Object.keys(chinaSnacksFoodsList);
-const foodNames = chinaSnacksFoodsListName.map((name) =>
-  chinaSnacksFoodsList[name]?.map((item) => item?.foodName),
+const chinaSnacksFoodsListName = Object.keys(chinaSnacksFoodsList).sort(
+  (a, b) => chinaSnacksFoodsList[a].length - chinaSnacksFoodsList[b].length,
 );
-console.log('----------中国小吃:', foodNames.length);
-console.log('----------小吃所有名字:', foodNames);
+
+const foodNames = {};
+chinaSnacksFoodsListName.map((name) => {
+  foodNames[name] = chinaSnacksFoodsList[name]?.map((item) => item.foodName);
+  console.log(name, foodNames[name]);
+});
+const foodNameList = Object.values(foodNames).reduce((prev: any, cur: any) => {
+  return prev && prev.concat(cur);
+});
+console.log('----------中国小吃:', foodNameList);
+// console.log('----------小吃所有名字:', foodNames);
 
 function unipFunc(arr) {
   const newArr = [];
-  arr.forEach((item: never) => {
+  arr?.forEach((item: never) => {
     if (arr.indexOf(item) !== arr.lastIndexOf(item) && newArr.indexOf(item) === -1) {
       newArr.push(item);
       return newArr;
@@ -85,10 +92,9 @@ function unipFunc(arr) {
   });
   console.log('重复菜名菜名：', newArr);
 }
-unipFunc(foodNames);
+unipFunc(foodNameList);
 
 // useCopyToClipboard(JSON.stringify());
-console.log('useCopyToClipboard', Array.from(new Set(foodNames)));
 
 import { chutneyFoodsList } from '/@/views/more/chutney/chutney';
 import { dessertFoodsList } from '/@/views/more/dessert/dessert';

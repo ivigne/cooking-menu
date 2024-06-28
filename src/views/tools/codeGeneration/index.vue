@@ -77,6 +77,7 @@
   </PageWrapper>
 </template>
 <script lang="ts" setup>
+  import { replaceAndSplitStr } from '/@/utils/general';
   import { ref, Ref, reactive, unref } from 'vue';
   import { List, Card, Button, Space, Input, Form } from 'ant-design-vue';
   // import { lampshadedBeefScriptsList } from './lampshadedBeef';
@@ -84,37 +85,37 @@
   // import { useI18n } from '/@/hooks/web/useI18n';
   // import { useMessage } from '/@/hooks/web/useMessage';
   // const { createMessage } = useMessage();
-  // import { anhuiFoodsList } from '/@/views/snacks/china/mockData/anhui';
-  // import { aomenFoodsList } from '/@/views/snacks/china/mockData/aomen';
-  // import { beijingFoodsList } from '/@/views/snacks/china/mockData/beijing';
-  // import { chongqingFoodsList } from '/@/views/snacks/china/mockData/chongqing';
-  import { fujianFoodsList } from '../../snacks/china/mockData/fuJian';
-  // import { gansuFoodsList } from '/@/views/snacks/china/mockData/gansu';
-  // import { guangdongFoodsList } from '/@/views/snacks/china/mockData/guangdong';
-  // import { guangxiFoodsList } from '/@/views/snacks/china/mockData/guangxi';
-  // import { guizhouFoodsList } from '/@/views/snacks/china/mockData/guizhou';
-  // import { hainanFoodsList } from '/@/views/snacks/china/mockData/hainan';
-  // import { hebeiFoodsList } from '/@/views/snacks/china/mockData/hebei';
-  // import { heilongjiangFoodsList } from '/@/views/snacks/china/mockData/heilongjiang';
-  // import { henanFoodsList } from '/@/views/snacks/china/mockData/henan';
-  // import { hubeiFoodsList } from '/@/views/snacks/china/mockData/hubei';
-  // import { hunanFoodsList } from '/@/views/snacks/china/mockData/hunan';
-  // import { innerMongoliaFoodsList } from '/@/views/snacks/china/mockData/innerMongolia';
-  // import { jiangshuFoodsList } from '/@/views/snacks/china/mockData/jiangshu';
-  // import { shandongFoodsList } from '/@/views/snacks/china/mockData/shandong';
-  // import { shanghaiFoodsList } from '/@/views/snacks/china/mockData/shanghai';
-  // import { sichuanFoodsList } from '/@/views/snacks/china/mockData/sichuan';
-  // import { taiwanFoodsList } from '/@/views/snacks/china/mockData/taiwan';
-  // import { shanxiFoodsList } from '/@/views/snacks/china/mockData/shanxi';
-  // import { tianjinFoodsList } from '/@/views/snacks/china/mockData/tianjin';
-  // import { shannxiFoodsList } from '/@/views/snacks/china/mockData/shannxi';
-  // import { hongKongFoodsList } from '/@/views/snacks/china/mockData/hongKong';
-  // import { xinjiangFoodsList } from '/@/views/snacks/china/mockData/xinjiang';
-  // import { yunnanFoodsList } from '/@/views/snacks/china/mockData/yunnan';
-  // import { zhejiangFoodsList } from '/@/views/snacks/china/mockData/zhejiang';
-  // import { othersFoodsList } from '/@/views/snacks/china/mockData/others';
-  // import { chinaSnacksFoodsList } from '/@/views/snacks/china/data';
-  // import { huNanFoodsList } from '/@/views/asia/eastAsia/china/mockData/hunanProvince';
+  // import { anhuiSnacksFoodsList } from '/@/views/snacks/china/mockData/anhui';
+  // import { aomenSnacksFoodsList } from '/@/views/snacks/china/mockData/aomen';
+  // import { beijingSnacksFoodsList } from '/@/views/snacks/china/mockData/beijing';
+  // import { chongqingSnacksFoodsList } from '/@/views/snacks/china/mockData/chongqing';
+  import { fuJianSnacksFoodsList } from '../../snacks/china/mockData/fuJian';
+  // import { gansuSnacksFoodsList } from '/@/views/snacks/china/mockData/gansu';
+  // import { guangdongSnacksFoodsList } from '/@/views/snacks/china/mockData/guangdong';
+  // import { guangxiSnacksFoodsList } from '/@/views/snacks/china/mockData/guangxi';
+  // import { guizhouSnacksFoodsList } from '/@/views/snacks/china/mockData/guizhou';
+  // import { hainanSnacksFoodsList } from '/@/views/snacks/china/mockData/hainan';
+  // import { hebeiSnacksFoodsList } from '/@/views/snacks/china/mockData/hebei';
+  // import { heilongjiangSnacksFoodsList } from '/@/views/snacks/china/mockData/heilongjiang';
+  // import { henanSnacksFoodsList } from '/@/views/snacks/china/mockData/henan';
+  // import { hubeiSnacksFoodsList } from '/@/views/snacks/china/mockData/hubei';
+  // import { hunanSnacksFoodsList } from '/@/views/snacks/china/mockData/hunan';
+  // import { innerMongoliaSnacksFoodsList } from '/@/views/snacks/china/mockData/innerMongolia';
+  // import { jiangshuSnacksFoodsList } from '/@/views/snacks/china/mockData/jiangshu';
+  // import { shandongSnacksFoodsList } from '/@/views/snacks/china/mockData/shandong';
+  // import { shanghaiSnacksFoodsList } from '/@/views/snacks/china/mockData/shanghai';
+  // import { sichuanSnacksFoodsList } from '/@/views/snacks/china/mockData/sichuan';
+  // import { taiwanSnacksFoodsList } from '/@/views/snacks/china/mockData/taiwan';
+  // import { shanxiSnacksFoodsList } from '/@/views/snacks/china/mockData/shanxi';
+  // import { tianjinSnacksFoodsList } from '/@/views/snacks/china/mockData/tianjin';
+  // import { shannxiSnacksFoodsList } from '/@/views/snacks/china/mockData/shannxi';
+  // import { hongKongSnacksFoodsList } from '/@/views/snacks/china/mockData/hongKong';
+  // import { xinjiangSnacksFoodsList } from '/@/views/snacks/china/mockData/xinjiang';
+  // import { yunnanSnacksFoodsList } from '/@/views/snacks/china/mockData/yunnan';
+  // import { zhejiangSnacksFoodsList } from '/@/views/snacks/china/mockData/zhejiang';
+  // import { othersSnacksFoodsList } from '/@/views/snacks/china/mockData/others';
+  // import { chinaSnacksSnacksFoodsList } from '/@/views/snacks/china/data';
+  // import { huNanSnacksFoodsList } from '/@/views/asia/eastAsia/china/mockData/hunanProvince';
   // import { fffoodsList } from '/@/views/asia/eastAsia/china/data';
 
   // const { t } = useI18n();
@@ -163,7 +164,7 @@
     //   });
     // }
 
-    const dataList = fujianFoodsList;
+    const dataList = fuJianSnacksFoodsList;
     const data = dataList.filter((item) => reg.test(item.foodName));
     const data1 = dataList.filter((item) => reg1.test(item.foodName));
     const data2 = dataList.filter((item) => reg2.test(item.foodName));
@@ -222,10 +223,6 @@
   const codeResultStr = ref('');
 
   // const arrayData = ref<T>([]);
-  // 将字符串分隔符(中文逗号，回车)统一替换成英文分隔符，并转成为数组
-  const replaceAndSplitStr = (value: any) => {
-    return value.replace(/、/g, ',').replace(/，/g, '').replace(/\n/g, '').split(',');
-  };
   // 代码生成
   const handleArrayRoutines = () => {
     arrayData.value = [];
@@ -234,7 +231,7 @@
     const setArrBegin = Array.from(new Set(arrBegin));
     setArrBegin.map((item) => {
       arrayData.value.push({
-        province: '',
+        province: '未知',
         city: '', // 市
         district: '', // 区
         address: '', // 地方名称

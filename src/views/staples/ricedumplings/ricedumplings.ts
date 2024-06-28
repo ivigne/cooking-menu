@@ -2033,7 +2033,7 @@ export const ricedumplingsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',
@@ -2084,7 +2084,7 @@ export const ricedumplingsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',
@@ -2135,7 +2135,7 @@ export const ricedumplingsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '',
+    province: '未知',
     city: '',
     district: '',
     address: '',
