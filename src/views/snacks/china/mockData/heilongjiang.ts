@@ -1,7 +1,7 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-09-21 18:34:06
- * @FilePath: /cooking-menu/src/views/snacks/china/mockData/heiLongJiang.ts
+ * @FilePath: /cooking-menu/src/views/snacks/china/mockData/heilongjiang.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
@@ -69,6 +69,7 @@ export const heiLongJiangSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '黑龙江省',
@@ -117,6 +118,7 @@ export const heiLongJiangSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '黑龙江省',
@@ -165,6 +167,7 @@ export const heiLongJiangSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '黑龙江省',
@@ -213,6 +216,7 @@ export const heiLongJiangSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '黑龙江省',

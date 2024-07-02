@@ -8,7 +8,6 @@
 -->
 <template>
   <PageWrapper v-loading="loadingRef" contentFullHeight fixedHeight loading-tip="请求中...">
-    <!-- <BasicTable @register="registerTable" /> -->
     <VxeBasicTable
       ref="tableRef"
       v-bind="gridOptions"
@@ -41,11 +40,9 @@
     // tableColumnsConfig,
     tableColumnsConfigVxe,
     formConfigVxe,
-    provinceName,
-    provinceOptions,
   } from '/@/common/commonConfig';
   import { VxeBasicTable, BasicTableProps, CustomVxeGridInstance } from '/@/components/VxeTable';
-  // import { useMessage } from '/@/hooks/web/useMessage';
+  import { useMessage } from '/@/hooks/web/useMessage';
   import { ActionItem, TableAction } from '/@/components/Table';
   import { useI18n } from '/@/hooks/web/useI18n';
   import { router } from '/@/router';
@@ -55,17 +52,23 @@
   const loadingRef = ref(false); // 页面Loading
 
   const { t } = useI18n();
-  // const { createConfirm, createMessage } = useMessage();
+  const { createMessage } = useMessage();
   const props = defineProps({
-    data: ref([]),
-    objData: reactive({}),
+    data: {
+      type: [String, Array, Object],
+      default: () => [],
+    },
+    objData: {
+      type: Object as PropType<Recordable>,
+      default: () => ({}),
+    },
     type: { type: String, default: 'other' },
   });
   const { data, objData, type } = toRefs(props);
   console.log('props', data.value, objData.value, type);
 
   // const emit = defineEmits(['filter-province']);
-  // watch(provinceCode, (val) => {
+  // watch(province, (val) => {
   //   if (val && type !== 'other') {
   //     emit('filter-province', val);
   //   } else {
@@ -92,72 +95,83 @@
     // },
     formConfig: {
       enabled: true,
+      titleWidth: 120,
+      titleAlign: 'right',
       items: formConfigVxe,
     },
     checkboxConfig: {
       checkField: '_checked',
     },
     pagerConfig: {
-      pageSize: 300,
+      pageSize: 500,
       // enabled: false,
     },
     proxyConfig: {
       // enabled: false,
       // autoLoad: false,
       ajax: {
-        query: async ({ page, form }) => {
-          console.log('page, form', page, form);
+        query: async ({ form }) => {
+          console.log(' form', form);
           const params = { ...form };
-          const result = await handleResult(page, params);
+          const result = await handleResult(params);
           console.log('query', result);
           return result;
         },
       },
     },
   });
-  const handleResult = (page, params) => {
+  const handleResult = (params) => {
     const {
-      provinceCode,
+      province,
       foodName,
       foodCategoryCode,
       cookingTypeCode,
       cuisineCategoryCode,
       tasteCode,
+      isCookFlag,
     } = params;
     const result = ref<Recordable[]>([]);
-    if (provinceCode) {
-      if (type.value != 'other') {
-        result.value = objData.value[provinceCode];
-      } else {
-        provinceOptions.filter((item) => {
-          if (item.value === provinceCode) return (provinceName.value = item.label);
-        });
-        // console.log(provinceName.value);
-        result.value = data.value.filter((item) => provinceName.value?.includes(item.province));
-      }
+    // 根据省过滤数据
+
+    if (type.value != 'other') {
+      if (!province) return createMessage.warning('请选择省市区');
+      result.value = objData.value[province?.value];
+    } else {
+      result.value = !province
+        ? data.value
+        : data.value.filter((item) => province?.label.includes(item.province));
     }
-    if (foodName) {
+    // 根据食物名称过滤数据
+    if (foodName && foodName.length > 0) {
       result.value = result.value?.filter((item) => item?.foodName.includes(foodName));
     }
-    if (foodCategoryCode) {
+    // 根据“是否已烹饪”过滤数据
+    if (isCookFlag && isCookFlag.length > 0) {
+      result.value = result.value?.filter((item) => item?.isCookFlag === isCookFlag);
+    }
+    // 根据“食材类别”过滤数据
+    if (foodCategoryCode && foodCategoryCode.length > 0) {
       result.value = result.value?.filter((item) =>
         item?.foodCategoryCode.includes(foodCategoryCode),
       );
     }
-    if (cookingTypeCode) {
+    // 根据“烹饪方式”过滤数据
+    if (cookingTypeCode && cookingTypeCode.length > 0) {
       result.value = result.value?.filter((item) =>
         item?.cookingTypeCode.includes(cookingTypeCode),
       );
     }
-    if (cuisineCategoryCode) {
+    // 根据“菜系”过滤数据
+    if (cuisineCategoryCode && cuisineCategoryCode.length > 0) {
       result.value = result.value?.filter((item) =>
         item?.cuisineCategoryCode.includes(cuisineCategoryCode),
       );
     }
-    if (tasteCode) {
+    // 根据“口味类型”过滤数据
+    if (tasteCode && tasteCode.length > 0) {
       result.value = result.value?.filter((item) => item?.tasteCode.includes(tasteCode));
     }
-    console.log('handleResult', provinceCode, foodName, result.value, typeof result.value);
+    console.log('handleResult', province, foodName, result.value, typeof result.value);
     const res = {
       list: result.value?.length > 0 ? result.value : null,
       total: result.value?.length | 0,

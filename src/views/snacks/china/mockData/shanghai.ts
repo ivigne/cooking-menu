@@ -51,6 +51,7 @@ export const shangHaiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '上海',
@@ -99,6 +100,7 @@ export const shangHaiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   // 甜酒酿是江南地区传统小吃。是用蒸熟的江米(糯米)拌上酒酵（一种特殊的微生物酵母）发酵而成的一种甜米酒。酒酿也叫醪糟。甜酒酿属于徽州等地风味小吃，它不完全属于酒的类别，却有着酒的芳香，因其由糯米制就，因此有滋润了淳淳米香，是江苏、浙江、上海、安徽等地极具盛名的风味小吃。
   {
@@ -148,6 +150,7 @@ export const shangHaiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '上海',
@@ -196,6 +199,7 @@ export const shangHaiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '上海',
@@ -244,6 +248,7 @@ export const shangHaiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '上海',
@@ -292,6 +297,7 @@ export const shangHaiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '上海',
@@ -340,6 +346,7 @@ export const shangHaiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '上海',

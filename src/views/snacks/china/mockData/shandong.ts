@@ -52,6 +52,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -100,6 +101,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -148,6 +150,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -196,6 +199,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -244,6 +248,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -292,6 +297,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -340,6 +346,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -388,6 +395,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -436,6 +444,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -484,6 +493,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -532,6 +542,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -580,6 +591,7 @@ export const shanDongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',

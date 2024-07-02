@@ -160,6 +160,7 @@ export const pastryFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '甘肃省',
@@ -973,6 +974,7 @@ export const pastryFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -1021,6 +1023,7 @@ export const pastryFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -1069,6 +1072,7 @@ export const pastryFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',

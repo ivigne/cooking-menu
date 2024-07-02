@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:06:16
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-03-04 18:04:56
+ * @LastEditTime: 2024-07-02 16:44:49
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/data.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -120,7 +120,7 @@ export const fffoodsList = [].concat(
 );
 
 const chinaKeys = Object.keys(chinaTableData);
-const allname = fffoodsList.map((item) => item.foodName) || [];
+const allname = fffoodsList.map((item) => item['foodName']) || [];
 
 console.log('所有菜名：', allname);
 let repeatData = [];

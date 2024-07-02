@@ -58,6 +58,7 @@ export const siumaiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -174,6 +175,7 @@ export const siumaiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   // 清光绪年间，方城县城内开化寺街马玉亮（回族），始创'烧麦'。最初不叫'烧麦'叫'撮子包'，因感其名不雅。又因其边象快熟的麦穗，随改名为'烧麦”。
   {
@@ -330,7 +332,8 @@ export const siumaiFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
+    tags: null,
+    isCookFlag: 0, // 标签
   },
   // 玻璃烧麦
   {
@@ -384,7 +387,8 @@ export const siumaiFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
+    tags: null,
+    isCookFlag: 0, // 标签
   },
   {
     province: '广东省',

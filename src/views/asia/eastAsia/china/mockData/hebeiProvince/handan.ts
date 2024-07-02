@@ -58,6 +58,7 @@ export const handanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0,
   },
   {
     province: '河北省',

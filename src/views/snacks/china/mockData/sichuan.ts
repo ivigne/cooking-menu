@@ -64,6 +64,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -112,6 +113,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -160,6 +162,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -208,6 +211,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -256,6 +260,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -304,6 +309,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -352,6 +358,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -400,6 +407,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -448,6 +456,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -496,6 +505,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -544,6 +554,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -592,6 +603,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -640,6 +652,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -688,6 +701,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -736,6 +750,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -784,6 +799,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -832,6 +848,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -880,6 +897,7 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -1929,8 +1947,9 @@ export const siChuanSnacksFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    tags: null,
+    isCookFlag: 0, // 标签
+    // 是否已完成烹饪标记，0是否，1是完成
   },
   // 石磨豆花是四川及重庆常见的汉族小吃。是嫩豆花的一种吃法，它与运用特殊工艺加工而成的豆花蘸水和大米饭配合食用，因其鲜嫩可口而流传广、影响大，在中国餐饮文化中占有一席之地。垫江石磨豆花的配方、制作，自有其历史渊...
   {
@@ -1984,8 +2003,9 @@ export const siChuanSnacksFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    tags: null,
+    isCookFlag: 0, // 标签
+    // 是否已完成烹饪标记，0是否，1是完成
   },
   {
     province: '四川省',
@@ -2210,8 +2230,9 @@ export const siChuanSnacksFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    tags: null,
+    isCookFlag: 0, // 标签
+    // 是否已完成烹饪标记，0是否，1是完成
   },
   // 富顺豆花
   {
@@ -2265,8 +2286,9 @@ export const siChuanSnacksFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    tags: null,
+    isCookFlag: 0, // 标签
+    // 是否已完成烹饪标记，0是否，1是完成
   },
   // 豆腐脑
   // 乐山豆腐脑是四川乐山特色风味小吃之一，豆花上有深红的辣椒配着翠绿香菜或芹菜，色香味俱全。
@@ -2323,8 +2345,9 @@ export const siChuanSnacksFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    tags: null,
+    isCookFlag: 0, // 标签
+    // 是否已完成烹饪标记，0是否，1是完成
   },
   // 钵钵鸡
   // 钵钵鸡，是源于四川乐山的汉族特色小吃，属于川菜系。此菜一听其名，就觉得很新奇，“钵钵”其实就是瓦罐，钵外面是画着红黄相间的瓷质龙纹，钵内盛放配以麻辣为主的佐料，菜品在特珠殊加工后用签串制，晾冷浸于各种口味的佐料中，食用时自取自食，除味道悠长外更添情趣盎然。
@@ -2381,8 +2404,9 @@ export const siChuanSnacksFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    tags: null,
+    isCookFlag: 0, // 标签
+    // 是否已完成烹饪标记，0是否，1是完成
   },
   // 油旋子锅魁
   // 锅魁中间有一个“龙眼睛”似的锅魁头，把龙眼牵出、提出来，整个锅魁一层层旋开而不会断，锅魁则层层都酥；混堂锅魁：其特色是泡，锅魁泡得老高；脆皮锅魁：以香味闻名，有各种馅，锅魁上有一个红印，油亮亮的；另还有芝麻锅魁、糯米锅魁、腌肉或卤肉夹锅魁以及各种味道与肉馅的锅魁，可达20多个品种。其独特风味与地域特色，将吸引众多本地和外地的食客。 [22]
@@ -2437,8 +2461,9 @@ export const siChuanSnacksFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    tags: null,
+    isCookFlag: 0, // 标签
+    // 是否已完成烹饪标记，0是否，1是完成
   },
   // 老隍城传统锅魁
   // 老隍城传统锅魁总店经营的锅魁品味多样，风味独特，鸡片锅魁、牛肉锅魁、蒸肉锅魁、肺片锅魁、素菜锅魁都是其特色品种，另外，老隍城传统锅魁总店的牛尾汤也很有特色。虽然老隍城经营的是传统小吃，但它透明的餐桌、白色的...
@@ -2493,8 +2518,9 @@ export const siChuanSnacksFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
-    isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
+    tags: null,
+    isCookFlag: 0, // 标签
+    // 是否已完成烹饪标记，0是否，1是完成
   },
 ];
 console.log('四川小吃:', siChuanSnacksFoodsList, siChuanSnacksFoodsList.length);

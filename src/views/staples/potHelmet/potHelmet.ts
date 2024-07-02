@@ -211,6 +211,7 @@ export const potHelmetFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '河南省',
@@ -259,6 +260,7 @@ export const potHelmetFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '河南省',
@@ -409,6 +411,7 @@ export const potHelmetFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -457,6 +460,7 @@ export const potHelmetFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -913,6 +917,7 @@ export const potHelmetFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -961,6 +966,7 @@ export const potHelmetFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -1009,6 +1015,7 @@ export const potHelmetFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '安徽省',

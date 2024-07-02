@@ -86,6 +86,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -134,6 +135,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -182,6 +184,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -230,6 +233,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -278,6 +282,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -326,6 +331,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -374,6 +380,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -422,6 +429,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -470,6 +478,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -518,6 +527,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -566,6 +576,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -614,6 +625,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -662,6 +674,7 @@ export const huBeiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',

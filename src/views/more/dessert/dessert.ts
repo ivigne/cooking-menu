@@ -109,6 +109,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '福建省',
@@ -1330,6 +1331,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '广西壮族自治区',
@@ -2092,6 +2094,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '海南省',
@@ -2140,6 +2143,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '海南省',
@@ -2800,6 +2804,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖北省',
@@ -3358,6 +3363,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',
@@ -3406,6 +3412,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',
@@ -3454,6 +3461,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',
@@ -3502,6 +3510,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',
@@ -3550,6 +3559,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -3598,6 +3608,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -3646,6 +3657,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -3694,6 +3706,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -3742,6 +3755,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -3790,6 +3804,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -3838,6 +3853,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -3886,6 +3902,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '天津',
@@ -3934,6 +3951,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '天津',
@@ -3982,6 +4000,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '天津',
@@ -4030,6 +4049,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '天津',
@@ -4078,6 +4098,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '浙江省',
@@ -4126,6 +4147,7 @@ export const dessertFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '澳门特别行政区',
@@ -8702,7 +8724,8 @@ export const dessertFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
+    tags: null,
+    isCookFlag: 0, // 标签
   },
   {
     province: '浙江省',

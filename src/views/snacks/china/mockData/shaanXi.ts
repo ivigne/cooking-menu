@@ -1,7 +1,7 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-10-16 18:05:18
- * @FilePath: /cooking-menu/src/views/snacks/china/mockData/shannxi.ts
+ * @FilePath: /cooking-menu/src/views/snacks/china/mockData/shaanxi.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
@@ -63,6 +63,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -111,6 +112,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -159,6 +161,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -207,6 +210,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -255,6 +259,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -303,6 +308,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -351,6 +357,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -399,6 +406,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -447,6 +455,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -495,6 +504,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -543,6 +553,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -591,6 +602,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -639,6 +651,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',
@@ -687,6 +700,7 @@ export const shaanXiSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '陕西省',

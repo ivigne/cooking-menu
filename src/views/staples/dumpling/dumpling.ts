@@ -160,6 +160,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '福建省',
@@ -310,6 +311,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '福建省',
@@ -358,6 +360,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '福建省',
@@ -406,6 +409,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '甘肃省',
@@ -505,6 +509,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '广东省',
@@ -1136,7 +1141,8 @@ export const dumplingFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
+    tags: null,
+    isCookFlag: 0, // 标签
   },
   // 锅底饺子
   {
@@ -1190,7 +1196,8 @@ export const dumplingFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
+    tags: null,
+    isCookFlag: 0, // 标签
   },
   // 香菜饺子
   {
@@ -1244,7 +1251,8 @@ export const dumplingFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
+    tags: null,
+    isCookFlag: 0, // 标签
   },
   // 萝卜饺子虽然也叫饺子，但其制作原料以及制作方法却与北方水饺大相径庭。北方水饺主要原料为面粉、瘦肉和蔬菜，而萝卜饺子主要原料为大米、黄豆和萝卜。北方水饺多为下水煮熟，而萝卜饺子则非下油锅炸不可，否则就不能成形。所以吃起来的时候，水饺要输萝卜饺子一段香脆。
   // 萝卜饺子是湖北宜昌市著名的传统小吃之一。萝卜饺子虽然也叫饺子，但其制作原料以及制作方法却与北方水饺大相径庭。萝卜饺子将萝卜切成丝拌上辣椒面、花椒粉、蒜（葱）苗、精盐等调料、油炸时，先在特制的弯月状铁勺中放入底浆，再放上拌好的萝卜丝作馅，再盖上浆，放入油锅中炸至金黄色即成。食之外酥内软、辣而不刺，味鲜可口。在江西赣南地区有一种萝卜馅蒸饺，用蕃薯粉做饺子皮，用萝卜剁成丁做馅，做好后清蒸即可食用，皮是透明状的。
@@ -1331,6 +1339,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '河南省',
@@ -1583,6 +1592,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -1631,6 +1641,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',
@@ -1679,6 +1690,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',
@@ -1727,6 +1739,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',
@@ -1775,6 +1788,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',
@@ -1823,6 +1837,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '山东省',
@@ -1871,6 +1886,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '四川省',
@@ -1919,6 +1935,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '北京市',
@@ -4518,6 +4535,7 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '未知',

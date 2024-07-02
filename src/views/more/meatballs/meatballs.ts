@@ -58,6 +58,7 @@ export const meatballsFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '福建省',
@@ -973,6 +974,7 @@ export const meatballsFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '广西壮族自治区',

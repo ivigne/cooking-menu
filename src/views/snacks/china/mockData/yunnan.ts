@@ -67,6 +67,7 @@ export const yunNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0,
   },
   // 过桥米线
   {
@@ -121,6 +122,7 @@ export const yunNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0,
   },
   // 气锅鸡
   {
@@ -175,6 +177,7 @@ export const yunNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    isCookFlag: 0,
   },
   {
     province: '云南省',
