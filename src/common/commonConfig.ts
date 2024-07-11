@@ -2,7 +2,6 @@ import { computed, ref } from 'vue';
 import { CustomColumns, CustomVxeFormItemProps } from '/@/components/VxeTable';
 // import { BasicColumn, FormSchema } from '/@/components/Table';
 // import { values } from 'xe-utils';
-export const objectFlag = ref(false);
 // 食材类别-集合
 // 鱼、虾、蟹、贝、蛙、猪、牛、羊、鸡、鸭、鸽、米、面、酱、其他、
 // const str = '';
@@ -17,6 +16,8 @@ export const objectFlag = ref(false);
 //   });
 // });
 // console.log('commonConfigcommonConfigcommonConfig', arr);
+// import objectFlag from '/@/views/components/foodsTable.vue';
+export const objectFlag = ref(false);
 
 export const foodCategoryList = [
   {
@@ -640,18 +641,36 @@ export const tableColumnsConfigVxe: CustomColumns = [
 ];
 export const formConfigVxe: CustomVxeFormItemProps[] = [
   {
+    field: 'objectFlag',
+    title: '数据来源类型',
+    itemRender: {
+      name: 'AInput',
+    },
+    visible: false,
+    span: 6,
+  },
+  {
     field: 'province',
     title: '省/市/自治州',
     itemRender: {
       // name: 'AApiSelect',
       name: 'ASelect',
       // defaultValue: 'jiangSu',
-      defaultValue: objectFlag.value
-        ? {
-            label: '江苏省（苏）',
-            value: 'jiangSu',
-          }
-        : null,
+      defaultValue: ({ item }) => {
+        console.log('gbuho', objectFlag.value);
+        return (item.resetValue = objectFlag.value
+          ? {
+              label: '江苏省（苏）',
+              value: 'jiangSu',
+            }
+          : '');
+      },
+      // computed(() => objectFlag.value
+      //   ? {
+      //     label: '江苏省（苏）',
+      //     value: 'jiangSu',
+      //   }
+      //   : null),
       props: {
         options: computed(() => provinceOptions),
         optionFilterProp: 'label',
@@ -698,6 +717,12 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
         filterOption: true,
       },
     },
+    rules: [
+      {
+        required: true,
+        content: '请选择',
+      },
+    ],
     span: 6,
   },
 

@@ -40,6 +40,7 @@
     // tableColumnsConfig,
     tableColumnsConfigVxe,
     formConfigVxe,
+    objectFlag,
   } from '/@/common/commonConfig';
   import { VxeBasicTable, BasicTableProps, CustomVxeGridInstance } from '/@/components/VxeTable';
   import { useMessage } from '/@/hooks/web/useMessage';
@@ -55,7 +56,7 @@
   const { createMessage } = useMessage();
   const props = defineProps({
     data: {
-      type: [String, Array, Object],
+      type: [Array, Object],
       default: () => [],
     },
     objData: {
@@ -66,7 +67,7 @@
   });
   const { data, objData, type } = toRefs(props);
   console.log('props', data.value, objData.value, type);
-
+  objectFlag.value = type.value != 'other' ? true : false;
   // const emit = defineEmits(['filter-province']);
   // watch(province, (val) => {
   //   if (val && type !== 'other') {
