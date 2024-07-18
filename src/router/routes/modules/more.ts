@@ -127,6 +127,14 @@ const more: AppRouteModule = {
         title: t('routes.more.flavoring'),
       },
     },
+    {
+      path: 'formulasConversion',
+      name: 'FormulasConversion',
+      component: () => import('/@/views/more/formulasConversion/index.vue'),
+      meta: {
+        title: t('routes.more.formulasConversion'),
+      },
+    },
   ],
 };
 

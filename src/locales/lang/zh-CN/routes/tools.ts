@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-10-01 10:44:38
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-11-15 16:28:28
+ * @LastEditTime: 2024-07-17 15:48:44
  * @FilePath: /cooking-menu/src/locales/lang/zh-CN/routes/tools.ts
  * @Description:
  *

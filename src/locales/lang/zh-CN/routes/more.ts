@@ -13,4 +13,5 @@ export default {
   dessert: '糕点',
   meatballs: '丸子',
   flavoring: '调味料',
+  formulasConversion: '配方换算',
 };
