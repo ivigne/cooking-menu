@@ -56,6 +56,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -104,6 +105,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -152,6 +154,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -200,6 +203,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   // 口味虾，又名麻辣小龙虾、长沙口味虾、香辣小龙虾,是湖南省的一道传统名菜，属于湘菜系，该菜品以小龙虾制成，口味麻辣鲜香，色泽红亮，质地滑嫩，滋味香辣。20世纪末开始传遍全国，成为人们夏夜街边啤酒摊的经典小吃。主料所用龙虾原产自北美洲，1918年由美国引入日本，1929年再由日本引入中国，生长在中国南方的河湖池沼中。
   {
@@ -249,6 +253,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -297,6 +302,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -345,6 +351,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -393,6 +400,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -441,6 +449,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -489,6 +498,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '湖南省',
@@ -537,6 +547,7 @@ export const huNanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   // 长沙臭豆腐是湖南省长沙市的一道传统特色小吃，属于湘菜。长沙臭豆腐以臭豆腐等食材用料烹制，其色墨黑，外焦里嫩，鲜而香辣， 焦脆而不糊、细嫩而不腻、初闻臭气扑鼻，细嗅浓香诱人。2021年6月，火宫殿臭豆腐制作技艺入选国家级非遗名录。
   // 火宫殿臭豆腐是湖南省长沙市的一道传统名小吃，该菜品属于湘菜系；此菜用黄豆为原料的水豆腐，经过专用卤水浸泡半月，再以茶油经文火炸焦，佐以麻油，辣酱。它具有"黑如墨，香如醇，嫩如酥，软如绒"的特点，奇在以臭命名，不同于其它食卤以香自翊。闻起来臭，吃起来香，外焦微脆，内软味鲜。这是因为卤水中放有鲜冬笋、浏阳豆豉、香菇、上等白酒等多种上乘原料，故味道特别鲜香。

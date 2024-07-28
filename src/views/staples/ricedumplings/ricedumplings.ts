@@ -58,6 +58,7 @@ export const ricedumplingsFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '福建省',
@@ -463,6 +464,7 @@ export const ricedumplingsFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '广东省',
@@ -1247,7 +1249,8 @@ export const ricedumplingsFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
+    tags: null,
+    isCookFlag: 0, // 标签
   },
   {
     province: '湖南省',
@@ -1574,7 +1577,8 @@ export const ricedumplingsFoodsList = [
     shootingStatus: 0, // 拍摄状态
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
-    tags: null, // 标签
+    tags: null,
+    isCookFlag: 0, // 标签
   },
   {
     province: '浙江省',
@@ -1623,6 +1627,7 @@ export const ricedumplingsFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '江苏省',

@@ -1,7 +1,7 @@
 import { computed, ref } from 'vue';
 import { CustomColumns, CustomVxeFormItemProps } from '/@/components/VxeTable';
-import { BasicColumn, FormSchema } from '/@/components/Table';
-export const provinceName = ref('');
+// import { BasicColumn, FormSchema } from '/@/components/Table';
+// import { values } from 'xe-utils';
 // 食材类别-集合
 // 鱼、虾、蟹、贝、蛙、猪、牛、羊、鸡、鸭、鸽、米、面、酱、其他、
 // const str = '';
@@ -16,6 +16,8 @@ export const provinceName = ref('');
 //   });
 // });
 // console.log('commonConfigcommonConfigcommonConfig', arr);
+// import objectFlag from '/@/views/components/foodsTable.vue';
+export const objectFlag = ref(false);
 
 export const foodCategoryList = [
   {
@@ -639,30 +641,48 @@ export const tableColumnsConfigVxe: CustomColumns = [
 ];
 export const formConfigVxe: CustomVxeFormItemProps[] = [
   {
-    field: 'provinceCode',
+    field: 'objectFlag',
+    title: '数据来源类型',
+    itemRender: {
+      name: 'AInput',
+    },
+    visible: false,
+    span: 6,
+  },
+  {
+    field: 'province',
     title: '省/市/自治州',
-    titleWidth: 120,
-    titleAlign: 'right',
     itemRender: {
       // name: 'AApiSelect',
       name: 'ASelect',
-      defaultValue: 'jiangSu',
+      // defaultValue: 'jiangSu',
+      defaultValue: ({ item }) => {
+        console.log('gbuho', objectFlag.value);
+        return (item.resetValue = objectFlag.value
+          ? {
+              label: '江苏省（苏）',
+              value: 'jiangSu',
+            }
+          : '');
+      },
+      // computed(() => objectFlag.value
+      //   ? {
+      //     label: '江苏省（苏）',
+      //     value: 'jiangSu',
+      //   }
+      //   : null),
       props: {
         options: computed(() => provinceOptions),
-        // immediate: true,
         optionFilterProp: 'label',
-        filterOption: true,
-        // fieldNames: {
-        //   value: 'label',
-        // },
+        labelInValue: true,
       },
     },
-    rules: [
-      {
-        required: true,
-        content: '请选择',
-      },
-    ],
+    // rules: [
+    //   {
+    //     required: true,
+    //     content: '请选择',
+    //   },
+    // ],
     span: 6,
   },
   {
@@ -675,6 +695,37 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
     },
     span: 6,
   },
+  {
+    field: 'isCookFlag',
+    title: '是否做过',
+    titleWidth: 120,
+    titleAlign: 'right',
+    itemRender: {
+      name: 'ASelect',
+      defaultValue: 0,
+      props: {
+        options: [
+          {
+            label: '是',
+            value: 1,
+          },
+          {
+            label: '否',
+            value: 0,
+          },
+        ],
+        filterOption: true,
+      },
+    },
+    rules: [
+      {
+        required: true,
+        content: '请选择',
+      },
+    ],
+    span: 6,
+  },
+
   {
     field: 'foodCategoryCode',
     title: '食材类别',
@@ -747,151 +798,151 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
     },
   },
 ];
-export const tableColumnsConfig: BasicColumn[] = [
-  {
-    title: '美食名称',
-    dataIndex: 'foodName',
-    width: 120,
-    fixed: 'left',
-  },
-  {
-    title: '美食英文名称',
-    dataIndex: 'foodName_en',
-    width: 100,
-  },
-  {
-    title: '美食图片',
-    dataIndex: 'foodAvatar',
-    width: 100,
-  },
-  {
-    title: '省',
-    dataIndex: 'province',
-    width: 80,
-  },
-  {
-    title: '市',
-    dataIndex: 'city',
-    width: 80,
-  },
-  {
-    title: '区',
-    dataIndex: 'district',
-    width: 80,
-  },
-  {
-    title: '地方名称',
-    dataIndex: 'address',
-    width: 80,
-  },
-  {
-    title: '食材类别',
-    dataIndex: 'foodCategoryName',
-    width: 80,
-  },
-  {
-    title: '所属菜系',
-    dataIndex: 'cuisineCategoryName',
-    width: 100,
-  },
-  {
-    title: '口味名称',
-    dataIndex: 'tasteName',
-    width: 100,
-  },
-  {
-    title: '烹饪类型',
-    dataIndex: 'cookingTypeName',
-    width: 100,
-  },
-  {
-    title: '特色/特点',
-    dataIndex: 'featuresName',
-    width: 100,
-  },
-  {
-    title: '标签',
-    dataIndex: 'tags',
-    width: 120,
-  },
-  {
-    title: '备注',
-    dataIndex: 'remark',
-  },
-];
-export const formConfig: FormSchema[] = [
-  {
-    field: 'provinceName',
-    label: '省/市/自治州',
-    labelWidth: 120,
-    defaultValue: 'siChuan',
-    component: 'Select',
-    componentProps: {
-      options: provinceOptions,
-      onChange: (val) => {
-        provinceName.value = val;
-      },
-    },
-    colProps: {
-      span: 6,
-    },
-  },
-  {
-    field: 'foodName',
-    label: '美食名称',
-    labelWidth: 120,
-    defaultValue: '',
-    component: 'Input',
-    colProps: {
-      span: 6,
-    },
-  },
-  {
-    field: 'foodCategoryCode',
-    label: '食材类别',
-    labelWidth: 120,
-    component: 'Select',
-    componentProps: {
-      options: foodCategoryList,
-    },
-    colProps: {
-      span: 6,
-    },
-  },
-  {
-    field: 'cookingTypeCode',
-    label: '烹饪类型',
-    labelWidth: 120,
-    component: 'Select',
-    componentProps: {
-      options: cookingTypeList,
-    },
-    colProps: {
-      span: 6,
-    },
-  },
-  {
-    field: 'cuisineCategoryCode',
-    label: '菜系',
-    labelWidth: 120,
-    component: 'Select',
-    componentProps: {
-      options: cuisineCategoryList,
-    },
-    colProps: {
-      span: 6,
-    },
-  },
-  {
-    field: 'tasteCode',
-    label: '口味',
-    labelWidth: 120,
-    component: 'Select',
-    componentProps: {
-      options: tasteList,
-    },
-    colProps: {
-      span: 6,
-    },
-  },
-];
+// export const tableColumnsConfig: BasicColumn[] = [
+//   {
+//     title: '美食名称',
+//     dataIndex: 'foodName',
+//     width: 120,
+//     fixed: 'left',
+//   },
+//   {
+//     title: '美食英文名称',
+//     dataIndex: 'foodName_en',
+//     width: 100,
+//   },
+//   {
+//     title: '美食图片',
+//     dataIndex: 'foodAvatar',
+//     width: 100,
+//   },
+//   {
+//     title: '省',
+//     dataIndex: 'province',
+//     width: 80,
+//   },
+//   {
+//     title: '市',
+//     dataIndex: 'city',
+//     width: 80,
+//   },
+//   {
+//     title: '区',
+//     dataIndex: 'district',
+//     width: 80,
+//   },
+//   {
+//     title: '地方名称',
+//     dataIndex: 'address',
+//     width: 80,
+//   },
+//   {
+//     title: '食材类别',
+//     dataIndex: 'foodCategoryName',
+//     width: 80,
+//   },
+//   {
+//     title: '所属菜系',
+//     dataIndex: 'cuisineCategoryName',
+//     width: 100,
+//   },
+//   {
+//     title: '口味名称',
+//     dataIndex: 'tasteName',
+//     width: 100,
+//   },
+//   {
+//     title: '烹饪类型',
+//     dataIndex: 'cookingTypeName',
+//     width: 100,
+//   },
+//   {
+//     title: '特色/特点',
+//     dataIndex: 'featuresName',
+//     width: 100,
+//   },
+//   {
+//     title: '标签',
+//     dataIndex: 'tags',
+//     width: 120,
+//   },
+//   {
+//     title: '备注',
+//     dataIndex: 'remark',
+//   },
+// ];
+// export const formConfig: FormSchema[] = [
+//   {
+//     field: 'provinceName',
+//     label: '省/市/自治州',
+//     labelWidth: 120,
+//     defaultValue: 'siChuan',
+//     component: 'Select',
+//     componentProps: {
+//       options: provinceOptions,
+//       onChange: (val) => {
+//         provinceName.value = val;
+//       },
+//     },
+//     colProps: {
+//       span: 6,
+//     },
+//   },
+//   {
+//     field: 'foodName',
+//     label: '美食名称',
+//     labelWidth: 120,
+//     defaultValue: '',
+//     component: 'Input',
+//     colProps: {
+//       span: 6,
+//     },
+//   },
+//   {
+//     field: 'foodCategoryCode',
+//     label: '食材类别',
+//     labelWidth: 120,
+//     component: 'Select',
+//     componentProps: {
+//       options: foodCategoryList,
+//     },
+//     colProps: {
+//       span: 6,
+//     },
+//   },
+//   {
+//     field: 'cookingTypeCode',
+//     label: '烹饪类型',
+//     labelWidth: 120,
+//     component: 'Select',
+//     componentProps: {
+//       options: cookingTypeList,
+//     },
+//     colProps: {
+//       span: 6,
+//     },
+//   },
+//   {
+//     field: 'cuisineCategoryCode',
+//     label: '菜系',
+//     labelWidth: 120,
+//     component: 'Select',
+//     componentProps: {
+//       options: cuisineCategoryList,
+//     },
+//     colProps: {
+//       span: 6,
+//     },
+//   },
+//   {
+//     field: 'tasteCode',
+//     label: '口味',
+//     labelWidth: 120,
+//     component: 'Select',
+//     componentProps: {
+//       options: tasteList,
+//     },
+//     colProps: {
+//       span: 6,
+//     },
+//   },
+// ];

@@ -461,6 +461,7 @@ export const hongKongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '香港',
@@ -509,6 +510,7 @@ export const hongKongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
   {
     province: '香港',
@@ -557,6 +559,7 @@ export const hongKongSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    isCookFlag: 0,
   },
 ];
 console.log('安徽小吃:', hongKongSnacksFoodsList, hongKongSnacksFoodsList.length);

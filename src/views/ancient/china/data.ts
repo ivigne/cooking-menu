@@ -7,8 +7,8 @@
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved.
  */
 // import { useCopyToClipboard } from '/@/hooks/web/useCopyToClipboard';
-import { ancientFoodsList } from './mockData/ancient';
-
+// import { ancientFoodsList } from './mockData/ancient';
+export const ancientFoodsList = [];
 const foodNameList = ancientFoodsList?.map((item) => item.foodName);
 console.log('----------中国古代美食:', foodNameList);
 // console.log('----------所有名字:', foodNames);
