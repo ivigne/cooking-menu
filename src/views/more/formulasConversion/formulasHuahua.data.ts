@@ -33,7 +33,7 @@ ar.map((item, i) => {
   list['itemVal' + i] = i;
   list['itemUnit' + i] = null;
 });
-console.log('配方换算', list);
+console.log('花花配方换算', list);
 export const formulasFoodsLisHuahua = [
   {
     title: '素颜水',

@@ -33,6 +33,6 @@ ar.map((item, i) => {
   list['itemVal' + i] = i;
   list['itemUnit' + i] = null;
 });
-console.log('配方换算', list);
+console.log('隋卞做配方换算', list);
 export const formulasFoodsListSuibian = [];
 console.log(`隋卞做配方共有${formulasFoodsListSuibian.length}个`);
