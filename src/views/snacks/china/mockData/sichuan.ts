@@ -64,6 +64,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -113,6 +116,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -162,6 +168,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -211,6 +220,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -260,6 +272,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -309,6 +324,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -358,6 +376,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -407,6 +428,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -456,6 +480,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -505,6 +532,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -554,6 +584,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -603,6 +636,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -652,6 +688,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -701,6 +740,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -750,6 +792,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -799,6 +844,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -848,6 +896,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -897,6 +948,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -946,6 +1000,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -997,6 +1054,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1048,6 +1108,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1099,6 +1162,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1150,6 +1216,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1199,6 +1268,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1248,6 +1320,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1297,6 +1372,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1346,6 +1424,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1395,6 +1476,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1444,6 +1528,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1493,6 +1580,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1542,6 +1632,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1591,6 +1684,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1640,6 +1736,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1689,6 +1788,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1738,6 +1840,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1789,6 +1894,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1840,6 +1948,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1891,6 +2002,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 鸡豆花
@@ -1948,6 +2062,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
     // 是否已完成烹饪标记，0是否，1是完成
   },
@@ -2004,6 +2121,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
     // 是否已完成烹饪标记，0是否，1是完成
   },
@@ -2039,6 +2159,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2073,6 +2196,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2107,6 +2233,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2141,6 +2270,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2175,6 +2307,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 箐河浑浆豆花
@@ -2231,6 +2366,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
     // 是否已完成烹饪标记，0是否，1是完成
   },
@@ -2287,6 +2425,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
     // 是否已完成烹饪标记，0是否，1是完成
   },
@@ -2346,6 +2487,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
     // 是否已完成烹饪标记，0是否，1是完成
   },
@@ -2405,6 +2549,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
     // 是否已完成烹饪标记，0是否，1是完成
   },
@@ -2462,6 +2609,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
     // 是否已完成烹饪标记，0是否，1是完成
   },
@@ -2519,6 +2669,9 @@ export const siChuanSnacksFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
     // 是否已完成烹饪标记，0是否，1是完成
   },

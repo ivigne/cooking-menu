@@ -39,6 +39,9 @@ export const hechiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 它来自于广西河池大化瑶族自治县，在瑶族史诗《密洛陀古歌》中就有对七百弄鸡这一神鸡的记载。
@@ -75,6 +78,9 @@ export const hechiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 瑶寨五香熏鱼是弄场瑶家传统的腌制鱼，是一种专门用来招待贵客的奇特菜肴。一拿出来，那股带着浓郁的姜、蒜、酒、芬芳的金黄鱼干就呈现在客人眼前。
@@ -111,6 +117,9 @@ export const hechiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

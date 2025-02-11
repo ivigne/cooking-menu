@@ -39,6 +39,9 @@ export const liaoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 采用4个月出栏的小笨鸡，用独特的材料熏制，不使用防腐剂，不使用化学添加剂 ，具有味道鲜美，肉嫩香滑，是不可多得的美味佳肴。被辽阳市政府命名为“辽阳市名牌”。
@@ -74,6 +77,9 @@ export const liaoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

@@ -60,6 +60,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -111,6 +114,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -160,6 +166,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -211,6 +220,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -262,6 +274,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -311,6 +326,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -360,6 +378,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -409,6 +430,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -460,6 +484,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -509,6 +536,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -560,6 +590,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -611,6 +644,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -662,6 +698,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -713,6 +752,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -764,6 +806,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -815,6 +860,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -866,6 +914,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -917,6 +968,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -951,6 +1005,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -985,6 +1042,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1019,6 +1079,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1053,6 +1116,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1087,6 +1153,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 鸡冠饺子
@@ -1142,6 +1211,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
   },
   // 锅底饺子
@@ -1197,6 +1269,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
   },
   // 香菜饺子
@@ -1252,6 +1327,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 标签
   },
   // 萝卜饺子虽然也叫饺子，但其制作原料以及制作方法却与北方水饺大相径庭。北方水饺主要原料为面粉、瘦肉和蔬菜，而萝卜饺子主要原料为大米、黄豆和萝卜。北方水饺多为下水煮熟，而萝卜饺子则非下油锅炸不可，否则就不能成形。所以吃起来的时候，水饺要输萝卜饺子一段香脆。
@@ -1288,6 +1366,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 
@@ -1339,6 +1420,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1390,6 +1474,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1441,6 +1528,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1492,6 +1582,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1543,6 +1636,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1592,6 +1688,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1641,6 +1740,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1690,6 +1792,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1739,6 +1844,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1788,6 +1896,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1837,6 +1948,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1886,6 +2000,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1935,6 +2052,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -1986,6 +2106,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2037,6 +2160,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2088,6 +2214,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2139,6 +2268,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2190,6 +2322,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2241,6 +2376,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2292,6 +2430,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2343,6 +2484,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2394,6 +2538,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2445,6 +2592,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2496,6 +2646,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2547,6 +2700,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2598,6 +2754,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2649,6 +2808,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2700,6 +2862,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2751,6 +2916,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2802,6 +2970,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2853,6 +3024,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2904,6 +3078,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -2955,6 +3132,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3006,6 +3186,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3057,6 +3240,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3108,6 +3294,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3159,6 +3348,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3210,6 +3402,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3261,6 +3456,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3312,6 +3510,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3363,6 +3564,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3414,6 +3618,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3465,6 +3672,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3516,6 +3726,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3567,6 +3780,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3618,6 +3834,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3669,6 +3888,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3720,6 +3942,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3771,6 +3996,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3822,6 +4050,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3873,6 +4104,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3924,6 +4158,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -3975,6 +4212,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4009,6 +4249,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4043,6 +4286,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4077,6 +4323,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4111,6 +4360,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4145,6 +4397,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4179,6 +4434,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4213,6 +4471,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4247,6 +4508,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4281,6 +4545,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4315,6 +4582,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4349,6 +4619,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4383,6 +4656,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4417,6 +4693,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4451,6 +4730,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 皱纱馄饨，出自湖南省长沙市南门口的"双燕"馄饨店。它采用富强粉为原料，精工擀成的皮，薄如纸，软如缎，吃有韧劲。馅心选用新鲜猪腿瘦肉，配以适量肥肉，绞成肉泥，再加一定比例的清水、食盐、味精,使劲搅拌肉至泥，吃透水份。这样制作的馅心酥而不烂，嫩而泡松。包好的馄饨，一经煮熟，外皮起皱，紧裹馅心。因皮薄似轻纱，故有皱纱馄饨之称。其汤选用高汤，配以排冬菜，味道鲜美。
@@ -4486,6 +4768,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4535,6 +4820,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4586,6 +4874,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4637,6 +4928,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4688,6 +4982,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -4739,6 +5036,9 @@ export const dumplingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

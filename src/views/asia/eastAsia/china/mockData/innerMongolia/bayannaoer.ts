@@ -40,6 +40,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -74,6 +77,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -108,6 +114,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // （1）扒肉条：俗称烧猪肉。是农村宴席上不可或缺的一道“硬盘菜”，它的主料是猪带皮五花肉，配料为大葱白段、姜片、大料、花椒、干辣椒、盐、味精、酱油、料酒、鲜汤、水淀粉等。做法是将五花肉放入锅内加调料煮熟捞出，在猪皮上抹糖色，然后放入油锅内炸成红褐色叉出备用。食时，切成宽0.5厘米左右的长形片状，有猪皮一面的向下置入碗中，加上调料、葱，在笼中蒸熟，倒扣入盘或碗内即可食用，食时加醋、蒜等。 [39]
@@ -143,6 +152,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -177,6 +189,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -211,6 +226,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -245,6 +263,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -279,6 +300,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -313,6 +337,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -347,6 +374,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -381,6 +411,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -415,6 +448,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -449,6 +485,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -483,6 +522,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -517,6 +559,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -551,6 +596,9 @@ export const bayannaoerFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

@@ -44,6 +44,9 @@ export const tangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 始创于清光绪年间，因其做工精细，配料考究，开创了烧鸡色、香、味、形“四美合一”之先河，被誉为“唐山名食”，并载入《乐亭县志》。刘美烧鸡选料为家常鸡，肉质优良，其中蛋白质含量高达22%。刘美烧鸡获得“国家农业部优质产品”省市“消费者信得过产品”、“河北省优质产品”、“河北省名牌产品”、“全国质量信得过食品”等诸多殊荣。 [25]
@@ -79,6 +82,9 @@ export const tangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 红烧裙边是河北唐山一道具有代表性的传统名肴。其特点是软滑味，汤浓味鲜，裙边嫩糯。
@@ -114,6 +120,9 @@ export const tangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 万里香烧鸡是一道色香味俱全的名菜，属于河北菜。始建于1944年，位于唐山市路南小山繁商区。是一家集食品的生产、运输、销售为一体综合股份制企业。也是唐山市食品行业的龙头企业。销售网络遍布唐山、秦皇岛、天津等地。深受广大消费者的喜爱。
@@ -149,6 +158,9 @@ export const tangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 义盛永熏鸡是一个河北唐山地方传统小吃。此菜色泽美观，味道浓香，鲜美可口。将白条鸡经过整型，按大小依次摆于锅内，加上陈年煮鸡老汤，对上适量清水，以使汤汁浸没鸡身。然后加上花椒、大料、桂皮、白芷、茴香（装纱布袋内）及葱、姜、蒜、食盐等调料，用量多少视季节和老汤多少而灵活掌握。用大火将锅烧沸，再改中火煮一段时间，然后用小火焖煮至熟烂即可出锅而成。
@@ -184,6 +196,9 @@ export const tangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 酱汁瓦块鱼是唐山市古冶区的特色美食，一道河北省的特色名菜，属于补虚养身食疗药膳食谱之一。此菜对改善症状十分有帮助。酱汁瓦块鱼以鲢鱼为主要材料，烹饪的方法是以“酱”为主，口味属于酸甜味。原料丰富，刀工细腻，口味清鲜，讲究清油抱芡，酱香味浓郁，菜品配以精美的唐山瓷盛器，别具风格。酱汁瓦块鱼，用白糖、醋、酱油、料酒、盐、味精和湿淀粉调酱汁；将鱼块放进干淀粉糊中拌匀，均匀地裹上糊，依次下入油锅炸一下，待鱼炸成表皮浅黄酥脆，捞出放盘中。另起锅烧油，把豆瓣酱、葱末、姜末、蒜末下锅煸炒，炒出香味，烹入兑好的酱汁炒熟，浇在鱼上即可。
@@ -219,6 +234,9 @@ export const tangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 在唐山，山脉不是主体，辽阔的冲积平原才是主要地形。在暖温带半湿润季风型大陆性气候的影响下，平原意味着肥沃的土壤和丰富的地下水，以及畜牧、农耕的发达。在有限的可食用牲畜中，肘子成为各大厨
@@ -254,6 +272,9 @@ export const tangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

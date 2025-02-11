@@ -41,6 +41,9 @@ export const wuhanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 洪山菜薹炒腊肉是一道以腊肉、菜薹为主要原料的菜品。
@@ -76,6 +79,9 @@ export const wuhanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -110,6 +116,9 @@ export const wuhanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 清蒸武昌鱼（英文名：Steamed Wuchang Fish），是湖北省的一道传统名菜。制作时通常选用鲜活的武昌鱼为主料，配以冬菇、冬笋，并用鸡清汤调味而成，口感滑嫩，清香鲜美。
@@ -145,6 +154,9 @@ export const wuhanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -179,6 +191,9 @@ export const wuhanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 黄陂三合是武汉市郊县黄陂民间的传统佳肴，已经流传数百年。三合是鱼丸、肉丸、肉糕三样菜看合而为一的统称。武汉市黄陂区有一句流行语：“鳊鱼肥美菜薹香，黄陂三合图吉庆。”来木兰山旅游，这三样美食都是餐桌上不可或缺的。“黄陂三合”也称“黄陂三鲜”，由鱼圆、肉圆和肉糕组成，制作工艺繁杂。这三样菜合烧杂烩，肉有鱼香，鱼有肉味，色香味美。崇祯年间，李自成率领起义军攻取了黄陂城，捉了县官。当地百姓拿出过节才用的鱼丸肉丸肉糕招待起义军，并将其合烧，一菜三鲜，味道极美，喜爱。此后黄陂三合盛名远扬。
@@ -214,6 +229,9 @@ export const wuhanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

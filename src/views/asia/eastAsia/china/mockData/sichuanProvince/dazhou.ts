@@ -72,6 +72,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 尖椒肥肠
@@ -129,6 +132,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 粉蒸鲶鱼
@@ -186,6 +192,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 江阳酸辣鸡
@@ -243,6 +252,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 大风羊肉
@@ -300,6 +312,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 羊肉格格
@@ -357,6 +372,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 石梯蒸鱼
@@ -414,6 +432,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 麻辣鸡块
@@ -471,6 +492,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 徐鸭子
@@ -528,6 +552,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 干烧岩鲤
@@ -585,6 +612,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 牛肉松
@@ -642,6 +672,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 石锅鱼
@@ -699,6 +732,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 杜仲腰花
@@ -756,6 +792,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 小煎仔鸡
@@ -813,6 +852,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 老腊肉
@@ -870,6 +912,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 水八块
@@ -927,6 +972,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 鱼香茄花
@@ -984,6 +1032,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 油酥竹鼬
@@ -1039,7 +1090,8 @@ export const dazhouFoodsList = [
   //   scripts: 'lampshadedBeefScriptsList',
   //   remark: '',// 备注
   //   tags: null,// 标签
-  // isCookFlag: 0,// 是否已完成烹饪标记，0是否，1是完成
+  // recommendStoreName:'',recommendStoreAddress:'',
+  // isGoTo: 0,isCookFlag: 0,// 是否已完成烹饪标记，0是否，1是完成
   // },
   // 石桥米酒鱼
   {
@@ -1096,6 +1148,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 麻柳蒋氏南瓜鸭
@@ -1153,6 +1208,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 三圣宫七星椒卤味
@@ -1210,6 +1268,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 松菌炖鸡
@@ -1267,6 +1328,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 米豆腐
@@ -1324,6 +1388,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 沸腾鹅肠
@@ -1381,6 +1448,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 素烧阳鱼
@@ -1438,6 +1508,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 功夫牛肉
@@ -1495,6 +1568,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 东柳鱼头
@@ -1552,6 +1628,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 巴山吊锅
@@ -1609,6 +1688,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 糯米油子
@@ -1666,6 +1748,9 @@ export const dazhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

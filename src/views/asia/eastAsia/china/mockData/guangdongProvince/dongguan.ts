@@ -54,6 +54,9 @@ export const dongguanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 塘厦碌鹅是广东省东莞市的传统特色小吃之一，属于粤菜系，该菜品是不折不扣的东莞山乡菜。首先，“碌”这个字就是土生的东莞话，外人不明其意，听到“碌鹅”还以为是 “卤鹅”，实际“碌”是煮的意思。塘厦碌鹅是具有客家风味的东莞菜。将鹅放到调制好的汤里面煮，煮熟后，味道就全部进到了鹅肉里。而骨髓则和白切鸡差不多，肉嫩而骨髓带血。
@@ -89,6 +92,9 @@ export const dongguanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 白沙油鸭是广东省东莞市的一道特色小吃，属于粤菜系，因产自东莞虎门镇白沙村而得名，油鸭在中国北方被称为"板鸭"，相传在明清时期，虎门白沙设立盐埠，官兵多江浙人，善养鸭，喜此地河水纯净，退伍时解甲不归乡，在溪边养鸭，并在江西南安退役者善腊鸭，此地
@@ -124,6 +130,9 @@ export const dongguanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

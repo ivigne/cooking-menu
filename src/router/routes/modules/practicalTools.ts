@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-08-07 17:19:18
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-07-17 15:48:01
+ * @LastEditTime: 2025-02-11 13:23:26
  * @FilePath: /cooking-menu/src/router/routes/modules/practicalTools.ts
  * @Description:
  *
@@ -67,6 +67,14 @@ const tools: AppRouteModule = {
       component: () => import('/@/views/tools/codeGeneration/index.vue'),
       meta: {
         title: t('routes.tools.codeGeneration'),
+      },
+    },
+    {
+      path: 'areaQuery',
+      name: 'AreaQuery',
+      component: () => import('/@/views/tools/areaQuery/index.vue'),
+      meta: {
+        title: t('routes.tools.areaQuery'),
       },
     },
   ],

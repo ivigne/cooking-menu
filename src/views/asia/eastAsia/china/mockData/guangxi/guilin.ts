@@ -48,6 +48,9 @@ export const guilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 阳朔“啤酒鱼”，是阳朔有名的地方特色菜，鱼肉鲜辣可口，无一丝鱼本身的腥味，啤酒和鱼肉的香味可以让人胃口大开。阳朔的啤酒鱼是选用阳朔漓江里鲜活的大鲤鱼，先用桂北山区出产的生茶油烹炸，然后放入桂林产的上等啤酒红焖而成，具有独特的香酥鲜嫩风味。2002年5月阳朔啤酒鱼以外香内嫩，皮黄汁浓，入口唇齿留香在“奇山杯全国迷宗菜交流比赛研讨会”上一举夺得金奖。由此，阳朔啤酒鱼堂堂正正地“游”进了京城。
@@ -83,6 +86,9 @@ export const guilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 灵川狗肉有“天下第一美味”之誉。狗肉肉质鲜美，营养丰富。有滋阴补肾，祛寒健胃等大补之功，以秋初至春末食之最佳。灵川狗肉烹调工艺独特，从选狗、杀狗、切狗烹调到品尝皆有讲究，食后余香满口，通体舒泰，令人百吃不厌，回味无穷。
@@ -118,6 +124,9 @@ export const guilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 桂林的田螺非常特别。首先是大，最大的差不多有乒乓球大小了；其次是它的味道，完全不像螺肉本身的味道。里面的肉并不全是螺肉，而是先把螺肉掏出来，混合猪肉、香菜及其它调味品一起剁碎，再填入螺的空壳里混合汤汁一起烧制。
@@ -153,6 +162,9 @@ export const guilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 全州醋血鸭是桂林全州的一个地方特色美食，采用盛夏上市的子鸭为原料，杀鸭留血、注入酸醋，以嫩姜或苦瓜为配料，将鸭肉先武、再文火焖熟，在出锅前倒入醋血。成品上桌，清香沁人心脾、美味让人难忘。俗话说湘南永州之血鸭，桂北全州之醋血鸭。醋血鸭这道菜看着惊人，吃起来却没什么血腥气，倒是醋香扑鼻，而且鸭肉绵软入味，酸辣鲜香，开胃可口。
@@ -188,6 +200,9 @@ export const guilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 毛秀才炒辣椒是广西桂林的的一个特色菜。传说从前桂林有个姓毛的秀才，因科考落榜而回家种田，经过精心栽培，他种出的西红柿个大饱满，吃起来口感好，渐渐的就在附近村镇小有名气，每到赶集时，人们都愿
@@ -223,6 +238,9 @@ export const guilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 酸炒干鱼仔是一道由干鱼仔、姜、蒜等食材制成的食品。
@@ -258,6 +276,9 @@ export const guilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 干锅鲜栗鸭是以鸭为主料制作的菜品。
@@ -293,6 +314,9 @@ export const guilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

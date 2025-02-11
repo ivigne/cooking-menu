@@ -39,6 +39,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -73,6 +76,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -107,6 +113,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -141,6 +150,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 双味素翅是一道湖南长沙市的传统名菜，属于湘菜系。小菜苞洗净。葱切段。姜切片。将水发金针每10根捆成一把，共40把，用木梳逐把梳成细丝。玉兰片先片成片，再在离片左端1．5厘米处下刀切成细丝，共40片。小菜苞下锅煸炒入味。炒锅放入花生油，烧至三成热时，放入金针过油，取出，再放入垫有竹箅的蒸锅，加入鸡清汤、精盐、味精、胡椒粉上笼蒸约15分钟，取出，摆在盘子一端，勾薄芡盖在上面。将玉翅用鸡清汤、葱段、姜片、精盐、味精焊水入味后捞出，投入五成热的油锅过油，倒入漏勺沥油。锅内加辣椒油、蒜汁、鸡清汤、精盐、味精，稍焖一下，再勾薄英，淋香油，出锅，装放在盘子的另一端。最后将菜苞摆放在玉翅、金针中间即成。
@@ -176,6 +188,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -210,6 +225,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 菁华铺土鸡是湖南宁乡特色传统名菜，属于湘菜系。此菜鸡肉酥烂、酸辣味美。以土鸡，食用油，木耳，小米椒，姜，大葱等制作而成。湖南宁乡特产，菁华铺土鸡。
@@ -245,6 +263,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 酸辣凤翅是一道湖南长沙市的传统名菜，属于湘菜系。先将鸡翅过水，之后放鸡翅、醋、盐、酱油等调料于瓦钵中，大火煮滚后改小火煨。准备鲜红椒、香菇、酸泡菜等切成米粒状，后加入酱油、盐煸炒，再加入鸡翅和原汤，最后用生粉勾芡，淋如香油后即可出锅。
@@ -280,6 +301,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 嗍螺，顾名思义，就是用来嗍着吃的田螺，是一道独具特色的传统风味美食。流行于湖南、江西、广东、福建、广西等地。作为一种独特美食，嗍螺近年来有向全国流传趋势，越来越多的人喜欢上这道考验技巧与肺活量的美食。嗍螺的“嗍”字，本作欶，或作嗽。被民间多误写为“嗦”，即被写成嗦螺。
@@ -315,6 +339,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 宁乡口味蛇是一道以菜花蛇肉为主要食材制作的地方特色湘菜。
@@ -350,6 +377,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 焦盐肘子是一道湖南长沙市的传统名菜，属于湘菜系。酒席上传统大菜，制做十分讲究。其程序是先用卤锅烹制，将锅中的卤汁淋在肘子上如笼蒸熟后切成肉块，再行挂糊和焦炸，最后撒上葱花淋入芝麻油即成。
@@ -385,6 +415,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 排冬菜是用鲜排菜（又名芥菜、鲜雪里蕻）在冬季采收加工而得名。随着湖南人民爱食汤菜的历史习惯，未被破坏叶绿素、呈青绿红、味道新鲜的排冬菜亦应运而生。它可作早餐的豆腐脑汤，馄饨店不可缺少的佐料，也有用作蒸肉的辅料，还由于它具人体特需的营养成分，超过脱水叶类菜，因而长年缺少蔬菜的山地矿区，亦把它视为珍品。该品种是湖南长沙地方传统名菜。
@@ -420,6 +453,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 小炒黑山羊是湖南长沙传统的特色名菜，属于湘菜系。将羊肉切成薄片，放盐、味精、料酒、嫩肉粉、水淀粉上浆，入味后下入八成热油锅至熟，倒入漏勺沥净油。 锅内留少许底油，下入姜米、蒜蓉、红尖椒圈拌炒，放盐、味精、辣酱、辣酱、用生抽炒匀，然后下入羊肉一起合炒，入味后勾水淀粉，淋红油、香油，出锅装入垫有香菜的盘中。
@@ -455,6 +491,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 发丝百叶又名发丝牛百叶，始创于19世纪20年代，是一道湖南名菜。发丝百叶以牛百叶切丝急火爆炒而成。成菜后，色泽白净，形如发丝，质地脆嫩，集咸、鲜、辣、酸于一体。发丝牛百叶是湖南的传统名菜，色泽白净，形如发丝，质地脆嫩，综合了咸、鲜、辣、酸各种味道，口感极为丰富。2018年9月10日，“中国菜”正式发布，“发丝牛百叶“被评为“中国菜”湖南十大经典名菜。
@@ -490,6 +529,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 浏阳蒸菜是一道湖南的传统名吃，属于湘菜。相传起源于明朝，历经500多年发展。浏阳蒸菜诞生于明朝，由迁徒至浏阳河发源地大围山的客家人始创，是一种极具地域特色的风味菜系，荣获“中国地理标志集体商标”。
@@ -525,6 +567,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 乘火麒麟是湖南长沙传统的名菜，属于湘菜系。由传统湘菜糖醋脆皮鱼发展创新而成，它以3斤左右的鳜鱼或鲤鱼为原料，加工成糖醋脆皮鱼，在加工时注意体形，使之象麒麟，置之盆中，浇以烧酒，上席时点燃，鱼周发出蓝色火焰，宛如麒麟喷火，四座皆惊，象征吉祥如意。此菜构思精巧，造型奇特，而且昧鲜色美，酸辣甜脆，常为接待贵宾的压席菜。
@@ -560,6 +605,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 干窝带皮蛇是一道以辣酱、大料、香叶、青红尖椒、蛇等为主要食材制作的湘菜。
@@ -595,6 +643,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 开屏柴把桂鱼是一道湖南长沙市的特色传统名菜，属于湘菜系。由传统菜“柴把鸡”、“柴把鸭”演化而来。看上去似孔雀开屏冷盘，实际上是热菜，整个形状完全突破了热菜不能拼摆的局限，采用象形拼盘制法，以各种不同性质、不同制法、不同形状的成品拼成，造型逼真，栩栩如生。开屏柴把桂鱼颜色多样、花而不乱。有鱼肉的鲜嫩，火腿的咸香，鹑蛋的清嫩，香菇的清香，冬笋的脆嫩，味感丰富，鲜嫩适口。此菜系长沙市百年老店玉楼东酒家特一级烹调师许菊云的创新菜，曾在第二届全国烹饪技术比赛中荣获金牌奖。
@@ -630,6 +681,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 长沙市三兴街的“李合盛餐馆”主厨黄维安按照清真的特点，用湘菜的技法，取牛三种不同部位的原材料，分别采取炒、烧、烩烹调方法，首创名菜发丝牛百叶、红烧牛蹄筋、烩牛脑髓，被誉为“牛中三杰”，使李合盛的清真菜独树一帜，食客如潮。发丝牛百叶以牛肚内壁黑色皱裂部分为料，去黑为白，切细如发丝，加玉兰片丝、红椒丝、米醋一炒，酸辣咸鲜脆。红烧牛蹄筋以牛蹄筋为料，置于垫有竹篾折的大瓦钵中，加姜、葱、桂皮、绍酒、清水，大火烧开，小火慢煨至蹄筋软烂，再下锅煸炒调味，软糯鲜香。烩牛脑髓取牛脑髓清洗后去表膜切片，入沸水中一焯，待变白色捞出沥去水，下入煸香的姜、香菇中，加黄醋、牛清汤一烩，收汁，撒胡椒粉、葱花，淋入芝麻油即成，鲜嫩清香。
@@ -665,6 +719,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 湘江鱼头王是湖南长沙一带的传统名菜，属于湘菜系。湖南把剁椒鱼头叫做鱼头王，鱼头滋味浓香扑鼻，极其诱人。将鱼头一劈为二，但又不劈断，是藕断丝连的那种。鱼头蒸熟了，卧在盆底，浇上各种佐料，成份最多的自然是剁碎了的辣椒。红的是碎椒，绿的是葱末，白的是鱼肉，从色与形上已是相当的诱人了。味当然以辣为主，肉质以嫩至恰到好处为最佳。
@@ -700,6 +757,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 湘都酱板鸭就是酱香酱板鸭，是湖南省湘都食品有限公司在传承清朝御厨秘方的基础上，吸收板鸭、烤鸭、酱鸭的制作工艺之精华，经烤、卤、酱等制作而成；湘都酱香酱板鸭最先面市，堪称酱板鸭的鼻祖，其后市场上陆续推出了香辣酱板鸭、麻辣酱板鸭、常德酱板鸭等多个产品和系列。在2012年11月19日湖南省质监局公布的质量抽检结果中，湘都酱板鸭中的致癌物质无机砷超标3.5倍。产品仍在市场出售，消费者对于无机砷超标事件并不知情。
@@ -735,6 +795,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 是湖南长沙一带的传统名菜，属于湘菜系。将牛百叶放入清水中煮滚，捞出滤干水，切丝。冬笋切成细丝。韭黄切成3厘米长段。红辣椒切细丝，烧热锅，下油，烧至六成熟时，放入冬笋和牛百叶煸炒出香味，加入料酒，放入红椒丝、盐、味精和韭黄炒匀，再加上汤，用生粉水勾芡，下醋、香油翻炒片刻即可。
@@ -770,6 +833,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 花菇无黄蛋，是湖南长沙特色传统名菜，属于湘菜系。30年代曲园酒家以擅作此菜闻名，当时的《长沙指南》在介绍的几道名菜中，就有花菇无黄蛋。此菜早在本世纪30年代即闻名遐迩。把生鸡蛋的下端敲
@@ -805,6 +871,9 @@ export const changshaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

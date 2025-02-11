@@ -60,6 +60,9 @@ export const wuhaiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 乳汁软炸口蘑是一道美食，主要食材有乳汁、口蘑等。
@@ -117,6 +120,9 @@ export const wuhaiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

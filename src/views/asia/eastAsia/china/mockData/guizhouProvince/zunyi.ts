@@ -50,6 +50,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -84,6 +87,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -118,6 +124,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 合马羊肉取料于合马山羊，是黔北颇有名气的特色食品。有着长征文化、盐运文化等历史背景，加之不断发展壮大，也成为仁怀市合马镇地盘上的优势产业和地域品牌。
@@ -153,6 +162,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 乌江豆腐鱼是一道色香味俱全的地方名肴，属于黔菜系。此菜香鲜辣烫，色味俱佳。其鱼肉鲜美清香，豆腐雪白滑嫩，久煮不老，食之无渣，入口即化。乌江位于遵义县最南端，高速公路侧有饮食一条街，店堂栉比，家家户户专营活鱼加工，特殊风味的乌江豆腐鱼闻名省内外。已成为乌江旅游业中独具特色的饮食文化品牌。2018年9月，被评为“中国菜”之贵州十大经典名菜。
@@ -188,6 +200,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 甜酸羊肉始于清代，起源于贵州省遵义市遵义县新舟镇禹门一带，已有200多年历史。
@@ -223,6 +238,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // “乌江鱼”是遵义乌江镇的一个历史悠久、独具特色的饮食品牌，四秀皆宜，闻名遐迩。 “乌江鱼”是用真正的野生鱼（即江中之鲢鱼）精心配料，加以遵义“朝天辣椒”，以火锅方式烹制而成，鲜辣味美，吸引了无数的游客。乌江镇大街上那整片的火锅店、站在路边向过往车辆招徕的女服务员和她们软糯的口音，也成了进入遵义城区必经的一道景观。
@@ -258,6 +276,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 赤水不产熊猫，却盛产竹类。赤水家家户户吃竹、用竹，生产、生活与竹息息相关。赤水人居不可无竹、食更不可无竹，人们于是昵称竹食品为“熊猫菜”，昵称赤水竹饮食为“熊猫餐”，赤水人也就顺理成章变为食竹的“熊猫”。 赤水竹食品原材料十分丰富，在市境内绵延数千里生长，植物类有竹荪、冬笋、绵竹笋、水竹笋、箐竹笋等数十个品种
@@ -293,6 +314,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 醋羊肉是遵义东乡禹门地方的传统风味菜。它是用烫皮全羊、麻糖、麸醋和大干辣椒制成的“黄酱”烹制而成，所以又叫“黄酱羊肉”。
@@ -328,6 +352,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 酸鲊芋丝包括酸鲊土豆丝、酸鲊红薯丝、酸鲊芋头丝,这类原料制作的酸鲊菜以前是配在酸鲊辣椒渣里面。
@@ -363,6 +390,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 罐罐鸡起源于清代末年，因用笔筒形瓦罐盛鸡蒸制而得名。罐罐鸡的选料、用料、制作工艺很讲究，风味别具一格，颇受四方宾客的赞扬。成为遵义地区的名菜肴，也是宴请客人席中常用的座汤菜。罐罐鸡可根据招待不同对象，配以不同的原料。一般只需在砍匀的鸡块中，配入水发墨鱼、柏松的姜块、白胡椒、葱节及食盐少许，然后装入罐内，上笼用猛火蒸几小时即可。
@@ -398,6 +428,9 @@ export const zunyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

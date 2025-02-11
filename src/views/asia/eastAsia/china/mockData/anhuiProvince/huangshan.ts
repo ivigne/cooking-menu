@@ -62,6 +62,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 沙地马蹄鳖
@@ -120,6 +123,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 方腊鱼
@@ -178,6 +184,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 苞芦松
@@ -236,6 +245,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 歙县豆腐脑髓
@@ -294,6 +306,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 黟县香榧
@@ -352,6 +367,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 清蒸石鸡
@@ -410,6 +428,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 黄山炖鸽
@@ -468,6 +489,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 腌鲜鳜鱼
@@ -526,6 +550,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 虎皮毛豆腐
@@ -584,6 +611,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 千层锅
@@ -642,6 +672,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 观音豆腐
@@ -700,6 +733,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 臭鳜鱼
@@ -757,6 +793,9 @@ export const huangshanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

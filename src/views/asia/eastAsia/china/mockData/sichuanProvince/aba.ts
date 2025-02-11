@@ -58,6 +58,9 @@ export const abaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 松潘土火锅
@@ -113,6 +116,9 @@ export const abaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 牦牛酸奶
@@ -168,6 +174,9 @@ export const abaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

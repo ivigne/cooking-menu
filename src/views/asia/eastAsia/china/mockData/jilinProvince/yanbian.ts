@@ -46,6 +46,9 @@ export const yanbianFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 将新鲜牛肉去筋膜、脂油，切成片，加冰醋、朝鲜族酱油、蒜末、洋葱泥、西红柿泥、白糖、胡椒粉、味精、香油拌匀，腌制四个小时，另备海鲜酱酒、辣椒末、白糖、白醋、香菜末，大蒜等调味品分装于小碗、炭火炉放在桌子中央，上放铁箅子，用筷子夹肉片放在箅子上烧烤，蘸调料后吃。
@@ -81,6 +84,9 @@ export const yanbianFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

@@ -40,6 +40,9 @@ export const langfangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 永清胡记烧鸡是一道色香味俱全的名小吃。始于清末，早于北京经营，已有100多年历史，亲传四代，奉承独家中药秘方薰煮，煮至骨，肉相离而形不散之细处，有口味香润、松嫩、细腻之特点。
@@ -75,6 +78,9 @@ export const langfangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 清真八大碗系穆斯林传统的民间宴客形式，指的是八种装在大碗里的炖菜，讲究料厚物重、味纯汤清、用料广泛、技法全面、有素有荤，牛羊肉、鸡、鸭、鱼都入八大碗之列，多采用炖、煮、烩、炸、烧、蒸等
@@ -110,6 +116,9 @@ export const langfangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

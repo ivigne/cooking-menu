@@ -38,6 +38,9 @@ export const xingAnMengFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 蒙古族传统名菜，为招待贵宾或举行重大庆典时的盛宴特制的佳肴。一般选用草原上膘肥、体重40斤左右的绵羊宰杀后，去毛带皮腹内加葱、姜、椒、盐等佐料整体烤制而成。烤完以后，羊形完整，羊跪在方木盘内，色泽金红，羊皮酥脆，羊肉嫩香。
@@ -74,6 +77,9 @@ export const xingAnMengFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

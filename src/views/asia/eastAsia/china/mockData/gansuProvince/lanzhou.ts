@@ -39,6 +39,9 @@ export const lanzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 黄焖羊肉，是西北经典的名菜之一。此菜口味香酥， 肥而不腻。其是清朝末代皇帝的御膳菜肴。羊肉富有营养，具有暖中补气、滋养、御风寒、生肌健力等功效
@@ -75,6 +78,9 @@ export const lanzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -109,6 +115,9 @@ export const lanzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

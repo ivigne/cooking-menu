@@ -46,6 +46,9 @@ export const jingmenFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 京山白花菜为全国农产品地理标志，是湖北珍稀名产蔬菜作物之一。早在2000多年前即为贵族宴宾珍肴，唐太宗李世民品尝后赞其质优、味美，并将它定为每年的贡品。2011年被评为湖北十大名菜，授予金奖产品称号。制品口感脆爽，回味无穷，富含多种维生素、氨基酸、碳水化合物以及人体所需的钙、锌、铁、镁等微量元素。 [
@@ -81,6 +84,9 @@ export const jingmenFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 蟠龙菜选用精瘦肉、肥膘肉、精鱼肉，调以鸡蛋、葱白、生姜、豆粉、食盐、味精等配制而成，色泽洁白，滑爽，吃肉不见肉，吃鱼不见鱼。
@@ -117,6 +123,9 @@ export const jingmenFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 风干鸡又名刘皇叔婆子鸡，是湖北省荆门市沙洋县十里铺镇的传统名吃。这种鸡易保存又不失新鲜，醇香、软嫩，老少皆宜，深受当地老百姓喜爱。相传三国时期，孙权为联合刘备拒曹，将妹妹孙尚香嫁给了刘
@@ -152,6 +161,9 @@ export const jingmenFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 皮条鳝是湖北荆州的传统名菜，属于鄂菜，己有数百年历史。鳝鱼味美，且有药用价值。《名医别录》说它有补五脏、疗虚损的功效。皮条鳝鱼剔除老骨后切成长条，制熟后犹如皮条而得名。又以形如竹节，也叫
@@ -187,6 +199,9 @@ export const jingmenFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

@@ -60,6 +60,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 辣汁泥肠
@@ -115,6 +118,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 东坡豆腐肘
@@ -170,6 +176,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 东坡墨鱼
@@ -225,6 +234,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 东坡香肠
@@ -280,6 +292,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 眉山跷脚牛肉
@@ -335,6 +350,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 雅妹子风酱肉
@@ -390,6 +408,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 仁寿黑龙滩全鱼席
@@ -445,6 +466,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 汪洋镇干巴牛肉
@@ -500,6 +524,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 回锅羊肉
@@ -555,6 +582,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 回锅鱼
@@ -610,6 +640,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 东坡松花蛋
@@ -665,6 +698,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 东坡区的东坡肘子
@@ -720,6 +756,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 东坡肉
@@ -775,6 +814,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 龙眼稣
@@ -830,6 +872,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 洪雅的雅鱼
@@ -885,6 +930,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 汉阳鸡
@@ -940,6 +988,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 中岩烤全羊
@@ -995,6 +1046,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 曹八嬢米豆腐
@@ -1050,6 +1104,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 刘鸡肉
@@ -1105,6 +1162,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // 棒棒鸡
@@ -1160,6 +1220,9 @@ export const meishanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

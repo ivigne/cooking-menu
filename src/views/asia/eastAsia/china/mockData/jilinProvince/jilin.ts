@@ -38,6 +38,9 @@ export const jilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 鸡茸蕨菜是东北美食，颜色鲜亮，白绿交错，味道良好，口感爽滑，是佐餐的良好选择。
@@ -73,6 +76,9 @@ export const jilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 白肉酸菜血肠是满族传统食品，普遍为各族人民所喜爱。又是城乡居民杀年猪之后，宴请亲友的一道主菜。其全称应该是“酸菜炖白肉血肠”。东北地区有一首著名的网络歌曲《东北人都是活雷锋》，最后一句说：“翠花，上酸菜！”这里的酸菜就是指“酸菜炖白肉血肠”。
@@ -108,6 +114,9 @@ export const jilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 荷花田鸡油色、香、味、形俱佳，一道菜两种口味，食之清香爽口，是宴席上的佳品，中医上用以养阴，可治虚劳、咳嗽等症。
@@ -143,6 +152,9 @@ export const jilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 什锦田鸡油是由田鸡油、苹果、香蕉、白梨、桔子、菠萝、红果、京糕为原料制成的一道美食。
@@ -178,6 +190,9 @@ export const jilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 筱筱火勺，又称“叉子火勺”，选细嫩牛肉、大葱、鲜姜、香油和馅，用稍有颗粒的沙子面做皮，出锅的火勺外焦里嫩，香酥可口，闻则香味扑鼻，食之肥而不腻，是吉林传统的地方风味。
@@ -213,6 +228,9 @@ export const jilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 烧灯碗，又称宫廷烧灯碗，是以新鲜猪血和猪肠为原料制作的。血肠制作相对较麻烦，所以一般家庭通常购买加工好的血肠，回家后再烹调，主要用来制作白肉血肠。
@@ -248,6 +266,9 @@ export const jilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 清蒸白鱼属于东北菜系中的吉菜，食用后可调理身体各项机能。选用的一定是活鱼，本位咸鲜，色彩艳丽，鱼肉洁白，细嫩鲜美，汤汁清淡。切记不能与大枣同食。这道菜富含多种营养，包括蛋白质、脂肪、维
@@ -283,6 +304,9 @@ export const jilinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

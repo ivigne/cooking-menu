@@ -38,6 +38,9 @@ export const guyuanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 羊羔头，作为二毛皮和羊羔肉的副产品，已开发成为固原地区非常有名的一种回族风味特色小吃。五香羊羔头一般选用30—35天的小羊羔头，具体做法是将羊羔头洗干净，浸泡一夜，第二天将浸泡好的羊羔头用沸水焯一遍，去掉血沫和杂质，然后加入独家秘制高汤和作料小火慢炖。 [20]
@@ -73,6 +76,9 @@ export const guyuanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 羊杂碎集羊内脏于一锅，形色繁多，肉质各异，味道酸辣兼宜，无腥不腻，汤鲜味美，入口生津，营养丰富，在气候偏冷的北方食用可御冷逐寒。
@@ -109,6 +115,9 @@ export const guyuanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 固原拉皮，采用优质土豆粉制成，薄、光、筋道口感爽滑，佐以特色秘制的汁料。 [19]
@@ -144,6 +153,9 @@ export const guyuanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 荞面油圈，先将荞面用开水冲烫拌匀后，连同面盆放置于80℃水锅中10—15分钟后，取出凉至20℃左右，先搀进黑面粉少许，再加入酵面，用手蘸油做成1—2两的圆饼，中间钻一小孔，入油锅炸熟。 [19]
@@ -179,6 +191,9 @@ export const guyuanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 燕面糅糅，即莜麦面，制作方法：将磨好的面用热开水和成面团，并揉匀后取适量填塞在专门加工燕面糅糅的器具内，挤压成圆的细条状，放在笼屉内用旺火蒸熟，吃时配以韭菜、蒜苗丝、辣椒油、蒜泥、醋汁等。
@@ -214,6 +229,9 @@ export const guyuanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

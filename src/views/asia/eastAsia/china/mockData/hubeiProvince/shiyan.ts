@@ -38,6 +38,9 @@ export const shiyanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 盘鸭是湖北房县闻名的风味名吃，此菜光彩黄亮、味鲜香浓、菜形美观。根据《房县志》记载：鸭出西关数十里泉水湾，绕岸百余家，花柳映带，泉眼数十孔，河水清澈，水生细暇，鸭食易肥，此谓房鸭。其历史
@@ -73,6 +76,9 @@ export const shiyanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 竹溪蒸盆是竹溪民间美食文化的创新，它以独特的烹调方式，将各种原料集于一盆，使它们在色香味上达到竹溪蒸盆高度融合，数百年来经久不衰
@@ -108,6 +114,9 @@ export const shiyanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 蛤蟆咕嘟是郧县一道有名的传统小吃。以玉米面也淀粉为主料，方法简单，美味可口。在西峡县、郧县方言中，蛤蟆咕嘟（荷马古墩儿）是指蝌蚪，由于这种面食做出来就像水里的蝌蚪，所以就叫它蛤蟆咕嘟，
@@ -143,6 +152,9 @@ export const shiyanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

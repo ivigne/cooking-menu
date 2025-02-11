@@ -39,6 +39,9 @@ export const qiannanMiaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -73,6 +76,9 @@ export const qiannanMiaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -107,6 +113,9 @@ export const qiannanMiaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 锦屏腌鱼，贵州省锦屏县特产，中国国家地理标志产品。锦屏腌鱼是苗族、侗族等少数民族在长期生产生活中，形成的将食物以腌制成酸辣味长期贮存食用的独特传统加工技术。锦屏腌鱼，鱼体完整，无内脏，体
@@ -142,6 +151,9 @@ export const qiannanMiaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 镇远陈年道菜是一道色香味俱全的传统名肴，属于黔菜系。已有500多年的生产历史。由于此菜储藏愈久，品质愈佳，味道愈美，因而又称“陈年道菜”。镇远是贵州东部的水陆码头和交通要道，又是许多商品的集散地。随着客商往来，陈年道菜的美名也享誉四方。到了清代，曾为进奉皇室的贡品。1980年被评为黔东南自治州优质产品。
@@ -177,6 +189,9 @@ export const qiannanMiaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 是侗族最具特色的风味食品。贵州省把侗家腌鱼列入少数民族特色旅游产品开发，博得各方宾客的赞扬。
@@ -212,6 +227,9 @@ export const qiannanMiaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

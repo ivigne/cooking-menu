@@ -38,6 +38,9 @@ export const panjinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 碱蓬菜团子是独特的农家风味，主料是肉馅200克、虾胶100克,是先将肉馅、虾胶、碱蓬沫放入调料蛋清向一个方向搅拌使其上劲后加入淀粉拌匀放入6层热油锅里浸炸3分钟即可（在碱蓬缺少的季节，有时也用茼蒿沫代替）。
@@ -73,6 +76,9 @@ export const panjinFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

@@ -46,6 +46,9 @@ export const tielingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 亮中桥干豆腐闻名遐迩，辽宁省昌图县特产，从清朝光绪十四年（1888年）到现在已有一百多年的历史。
@@ -81,6 +84,9 @@ export const tielingFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

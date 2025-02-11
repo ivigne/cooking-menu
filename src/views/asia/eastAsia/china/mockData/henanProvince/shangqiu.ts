@@ -54,6 +54,9 @@ export const shangqiuFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -88,6 +91,9 @@ export const shangqiuFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 五香牛肉：创始于清朝末年，利用宫廷祖传配方，结合现代工艺，集三十多味中药和调味品，选用本地农家饲养的1—3岁的黄牛为原料精制而成，色鲜味嫩，口感清香。
@@ -123,6 +129,9 @@ export const shangqiuFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 北湖糟鱼：距今已有近三百年历史，以睢县北湖野生鱼为原料，经传统工艺精制而成。具有鱼体完整，肉质松软、骨烂如泥、香而不腥、肥而不腻等特点。 [1]
@@ -158,6 +167,9 @@ export const shangqiuFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -192,6 +204,9 @@ export const shangqiuFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -226,6 +241,9 @@ export const shangqiuFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

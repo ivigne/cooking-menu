@@ -38,6 +38,9 @@ export const qianxinanBuyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 舒家辣子鸡是一道菜品，制作方法：将鸡洗净后切成小块，加入料酒、盐拦匀，放入热油中爆炒后，加入已调制好的辣椒、花椒、葱、姜、蒜，小火炒七八分钟左右起锅，即可食用。舒家辣子鸡是1986年开始。
@@ -73,6 +76,9 @@ export const qianxinanBuyiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

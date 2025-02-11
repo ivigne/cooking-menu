@@ -65,6 +65,9 @@ export const sanyaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 安游夜光螺是海南一带的风味名菜，属于海南菜。产自安游近海，新鲜味美。连着螺壳一起用辣椒爆炒，螺肉爽脆重又带有一股韧劲，甚有嚼头。又有白灼的做法，保留了螺肉的自然鲜美，连外地人也能品得出里面的“甜”。
@@ -100,6 +103,9 @@ export const sanyaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 藤桥排骨是一道色香味俱全的传统名菜，属于海南菜。被称三亚美食一绝，名列三亚10大美食之榜。制品红黄敞亮，外脆里香、味美醇香，老少咸宜。由于放蜂蜜腌制，入口酥脆，味鲜微甜，有点象广味叉烧，可是又不象，归正回味无穷。配上一菜一汤，两小我吃上半斤排骨就饱得不可。那排骨的余香，一向如此残留在唇齿之间，久久未消，实在是爽。
@@ -135,6 +141,9 @@ export const sanyaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 槟榔花鸡是一道简单的家常菜，主料是三亚本地农家鸡、槟榔花。
@@ -170,6 +179,9 @@ export const sanyaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 南海鲜鲍是三亚十大名菜之一，主要制作材料有新鲜鲍鱼、葱、姜等。
@@ -205,6 +217,9 @@ export const sanyaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 疍家咸鱼煲是一道美味可口的传统名肴，属于海南菜。三亚十大名菜之之一。疍家渔民常年居于海上，捕到上好的鱼（多以红鱼为主要材料）时，将其放在船只甲板晒制，在海风和海面骄阳的共同作用下，制作出无任何人工添加剂、肉质紧实耐嚼的精品咸鱼干。疍家咸鱼，鱼香浓郁，煲以五花肉，实在是美味无比，佐酒下饭均可称职。
@@ -240,6 +255,9 @@ export const sanyaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 三亚海鲜火锅是海南一带的传统风味名肴，属于海南菜。三亚十大名菜之三。取材三亚本地海鲜，虾、蟹、螺、贝、鱼应有尽有，各取所好。锅底仅入姜片、蒜苗等调味，旨在保留原汁原味，尤其凸显海鲜特有的清甜和营养，辅以各家秘制蘸酱，尤其美味。
@@ -275,6 +293,9 @@ export const sanyaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 海南特色辣味菜．出自三亚市南中国大酒店厨师之手，故以"南大"命名．海南盛产各种花蟹，烹调多以“清蒸”或“姜葱炒”。此菜吸取川湘烹法，结合本地口味，采用辣椒油炸法，成菜焦脆、香辣，余味无穷。
@@ -310,6 +331,9 @@ export const sanyaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // “南山素斋”是天下一绝，它集寺庙素斋之精华，融宫廷素斋和民间素斋之风格，兼纳南北地方风味于一体，运用现代烹饪技艺，形成了独特的南山饮食文化，被海南省定为“国宾接待点”。
@@ -345,6 +369,9 @@ export const sanyaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

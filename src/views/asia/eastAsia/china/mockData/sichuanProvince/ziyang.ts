@@ -58,6 +58,9 @@ export const ziyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   // “乐至烤肉”源远流长，早在三国时期，蜀国将领张飞常常用乐至烤肉作为犒赏三军将士的美食而得名。80年代以来，乐至烤肉在以李久治为首的烤肉宗师的不断创新下，以其香、辣、脆、麻等特色逐渐赢得了群众的喜爱，不断发展壮大，逐步扩展到了成都、重庆、内江、资阳、遂宁等大中城市，形成了一种独特的川中民俗饮食文化。
@@ -113,6 +116,9 @@ export const ziyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '', // 备注
     tags: null, // 标签
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
 ];

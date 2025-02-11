@@ -40,6 +40,9 @@ export const shijiazhuangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 回民马鸿昌夫妇在石家庄开办红顺利小店，经营五香烧鸡，闻名华北。50年代该店广取博采外地扒鸡的烹炸技术，将五香烧鸡改制成扒鸡，取名“马家鸡铺”扒鸡。此种扒鸡现由中山路食品商店扒鸡加工厂根据
@@ -75,6 +78,9 @@ export const shijiazhuangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 金凤扒鸡最早始于1908年，采用独特的制作工艺，用蜂蜜对鸡进行上色炸制，并用中药秘方老汤煮制。具有一定的药理功效和保健作用，上世纪80年代初，马家鸡的经营者们设计了“金凤”作为商标，并在1984年正式注册了金凤扒鸡的商标。
@@ -110,6 +116,9 @@ export const shijiazhuangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 黄瓜宴是河北省石家庄市名闻遐迩的传统名菜，整个宴席全以黄瓜为主料，分为八道冷拼，12个热炒。
@@ -145,6 +154,9 @@ export const shijiazhuangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 雪桥八仙是河北石家庄有一道风格别致的地方传统名肴，属于冀菜系。此菜景中有味，口味纯甜，且具有多种水果的香味。这式菜取材于赵州桥的美丽传说。这则千古佳话，犹在到处传诵。人们品尝“雪桥八仙”这道菜，不仅可以从中得到美美的口味享受，还可以产生不少动人的联想得到精神上的极大愉悦哩。
@@ -180,6 +192,9 @@ export const shijiazhuangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 抓炒全鱼是河北省石家庄市的一道传统名菜，属于冀菜系。该菜品以鲤鱼为主料，辅以盐、葱、辣椒粉、五香粉制作而成。
@@ -215,6 +230,9 @@ export const shijiazhuangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 正定马家卤鸡是河北省石家庄市正定县的特产。
@@ -250,6 +268,9 @@ export const shijiazhuangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 郝家排骨是一道色香味俱全的传统名菜。由河北正定郝家传承祖上排骨烹饪秘方而成。其做法是选用新鲜排骨，搭配各种天然中草料及特殊煮制工艺制作而成，其风味独特，肉质爽滑。
@@ -285,6 +306,9 @@ export const shijiazhuangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

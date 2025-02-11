@@ -41,6 +41,9 @@ export const xiantaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 沔阳粉蒸肉是沔阳三蒸之一，湖北沔阳（今仙桃市）地方传统名菜，属于湖北菜系，是湖北美食中的一朵奇葩，在中国名菜系中占有重要的一席之地。沔阳人民爱吃蒸菜，有"无菜不蒸"的食俗，被称为蒸菜之乡。沔阳粉蒸肉用新鲜猪五花肉为主料，米粉制成。成品色泽粉红，肉质柔嫩，滋味鲜美，肥而不腻。2010年，“沔阳三蒸及其蒸菜技艺”已经被湖北省政府列入为省级非物质文化遗产。
@@ -76,6 +79,9 @@ export const xiantaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 仙桃蒸三元是湖北省沔阳（今仙桃市）的传统名菜之一，具浓郁地方特色。是沔阳民间，婴儿满月，婚丧喜事，生日、祝寿等酒宴上必不可少的主菜。 “仙桃蒸三元”，即蒸肉圆、蒸豆腐圆、蒸珍珠圆（又名素衣圆子，糯米圆子）。如今沔阳人习惯用“沔阳三蒸”欢宴待客，以示喜庆和郑重。有趣的是其中的“蒸珍珠丸子”，美如工艺制品，入口之鲜不能不令客人叫绝。此物系用猪肉和鱼碎末拌鸡蛋液，加粉芡、米粉及佐料制丸上笼蒸熟。入盘时特别洁白剔透，玲珑小巧，犹如粒粒珍珠落入玉盘之中，使人大饱眼福，食之有无穷的美感，食后更使人久久难以忘怀当年陈夫人的美德。
@@ -111,6 +117,9 @@ export const xiantaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // “沔阳三腊”：腊肉、腊鱼、腊鸡，是沔阳（今湖北仙桃）的一大风味，它与“沔阳三蒸”齐名，享誉荆楚，驰名九州，独具特色，堪称沔阳饮食文化中的杰作。沔阳人一提起腊肉炒藜蒿，腊鸡煨火锅，就会口中“泉涌”，咕咕哽咽。 肉、鱼、鸡之所以都冠以“腊”字，是因为这些食品都是在腊月腌制而成的，具有鲜明的时令性。
@@ -146,6 +155,9 @@ export const xiantaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 沙湖豆皮是湖北省沔阳（今仙桃市）的传统食品之一，具浓郁地方特色，因地产沔阳，如今也成为老沔阳豆皮。作为是老沔阳的特色小吃，既可当下酒的菜，又能作主食来饱肚子。其名称也是依据制作时作用材料加以命名。主要的原料用绿豆或红豆（饭豆子）和少量的黄豆再去掺细米，又以早谷细米为佳。经过磨制、摊敷而成。豆类又以选用绿豆为最，故称为绿豆豆饼或统称为豆饼。
@@ -181,6 +193,9 @@ export const xiantaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 沔阳三蒸，是湖北沔阳（今仙桃市）的汉族传统名菜之一，属于湖北菜系。沔阳三蒸是以水产类、禽畜类、蔬菜类为主要原料，以粉蒸为主要技法，清蒸、扣蒸等多种蒸菜技法并用制成的系列菜肴，更有民谚“三蒸九扣十大碗，不上蒸笼不成席”，蒸菜已成为仙桃独特的饮食习俗，具有广泛的群众基础。此菜鲜嫩软糯，原滋原味，清淡，绵软。是湖北美食中的一颗明珠，在中国名菜系中占有重要的一席之地。“清蒸菜最能保证营养不受损失”的提法现在已广为人知，“沔阳三蒸”也由此在“吃要吃的科学”浪潮中重焕青春。颇为荤素搭配营养均衡，粉蒸菜都裹着捣细的米粉，菜的本香配上大米的清香，回味深长。2010年，“沔阳三蒸及其蒸菜技艺”已经被湖北省政府列入为省级非物质文化遗产。2015年在首届沔阳三蒸文化节上，仙桃被授予“中国沔阳三蒸之乡”称号。2018年9月10日，“中国菜”在河南省正式发布，“沔阳三蒸”被评为“中国菜”之湖北十大经典名菜。2020年12月3日，《楚菜标准》正式发布，“沔阳三蒸”作为首批21道菜入选。
@@ -216,6 +231,9 @@ export const xiantaoFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

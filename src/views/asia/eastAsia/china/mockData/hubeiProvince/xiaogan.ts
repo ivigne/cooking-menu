@@ -38,6 +38,9 @@ export const xiaoganFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 汈汊湖醉鱼是湖北省孝感市汉川市汈汊湖的特产。汈汊湖醉鱼是以野生鲭鲩为原料，现代设备和科学工艺真空包装、高温灭菌。皮爽肉脆、香酥可口，色泽红亮、风味独特、食用方便。
@@ -73,6 +76,9 @@ export const xiaoganFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 干拨才鱼筒，鲜嫩适中，味道可口，是湖北省应城市的地方传统名菜。 此菜风味独特，以其刀工之精细，配料适中，讲究火候，味道鲜美而久享盛名.干拔才鱼筒的主要食材为才鱼，置于清水中喂养备用，经过油炸后、加入酱、醋、酱油等调料后爆炒，撒上胡椒粉，葱花后起锅。
@@ -108,6 +114,9 @@ export const xiaoganFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // “安陆翰林鸡”，是楚北安陆市太白酒楼烹制的系列太白菜肴之一，此肴得名，是取李白曾供翰林职之意。其制作系用整鸡首先腌渍入味蒸至七成熟，然后去骨切块，上盘整理成原鸡形。另以蛋黄糕雕刻“翰林鸡”三字，置鸡首前，并以鸡汤、蘑菇入味和以若干小虾球点缀，经复蒸烹制成。可谓制工精细，造形生动，形神兼备，质佳味美。
@@ -143,6 +152,9 @@ export const xiaoganFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 云梦白花菜，湖北省孝感市云梦县特产，全国农产品地理标志。云梦县为府河冲积平原，耕地以沙壤土或壤土为主，该土壤有机质较为丰富，保水保肥力强，土壤肥力高，土壤pH值6.5左右，属偏酸性土壤，适宜种植白花菜。云梦白花菜为白花菜科白花菜属一年生草本植物，叶三出，叶片绿色，花白色，茎秆白色或紫色，茎秆上有绒毛，根系不发达，植株散发出一股特别的清香味。白花菜不宜鲜食，腌制成熟的云梦白花菜成品呈黄褐色、质地爽脆、酸咸可口、带有独特的清香。2018年2月12日，原中华人民共和国农业部正式批准对“云梦白花菜”实施农产品地理标志登记保护。
@@ -178,6 +190,9 @@ export const xiaoganFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 麻花桂鱼是湖北应城民间喜庆宴席中的一道传统名菜，在江汉平原远近相传。应城盛产桂鱼，而麻花又是本地的风味小吃食品，民间每在举办结婚喜庆时，常以鲜活桂鱼以及麻花之类的食品，于女方出嫁时馈赠。麻花桂鱼以鳜鱼（桂鱼）为主要材料。成菜鱼肉清爽，质地软溶。特别是边吃麻花边品鱼，别有一番风味。
@@ -213,6 +228,9 @@ export const xiaoganFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 应城扒肉是一道地方传统名菜，主要原料有蹄膀等。由于色香味俱全，味道鲜美，受到人们的喜爱。位于江汉平原中部的应城市，物产丰富，湖泊广布，地下矿产资源丰富。这里的人特别讲究吃，尤其是享誉遐
@@ -248,6 +266,9 @@ export const xiaoganFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

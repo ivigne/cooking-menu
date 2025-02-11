@@ -38,6 +38,9 @@ export const shaoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 血酱鸭是湖南邵阳、武冈、新宁、城步等地区的一道传统名菜，属于湘菜系，该菜品吃起来香甜、酸辣、嫩脆、鲜美、其佐料易找，炒法简单。在一些地方又被称为“酱血鸭”。
@@ -73,6 +76,9 @@ export const shaoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 武冈卤铜鹅，湖南省武冈市特产，中国国家地理标志产品。武冈铜鹅喂养历史悠久，与宁乡猪、洞庭湘莲一起列为湖南“三宝”。早在清代就以“世之名鹅”之美誉被列为皇家贡品。此次96360精选的武冈卤铜鹅，精
@@ -108,6 +114,9 @@ export const shaoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 栎子豆腐是城步苗族人用栎树果实制作的豆腐，是城步苗族人民款待贵客的“土产美食”。栎子粉还有一道粉和二道粉之分，一道粉质量最佳。
@@ -143,6 +152,9 @@ export const shaoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

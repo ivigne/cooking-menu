@@ -37,6 +37,9 @@ export const qingyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 鳌跳崖是甘肃省镇原县是一种传统特色小吃。是农民在农忙时的一种简易充饥的吃法。将麦面或其它杂面用水调和成稠糊状，用筷子直接夹糊块投入开水锅中煮熟，配上简易的青菜，加入盐、醋、辣子，谓鳌跳崖，或叫圪塔饭。
@@ -72,6 +75,9 @@ export const qingyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 镇原县特色的烧鸡。以鸡肉为主料的菜品。
@@ -107,6 +113,9 @@ export const qingyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

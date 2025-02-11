@@ -38,6 +38,9 @@ export const hengyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 衡东土菜是湖南衡东县一带的地方传统名肴，属于湘菜系。是以本地所产土、畜产品为主、副料，用传统的烹饪方法制作，亦为人们日常食用，具有独特地方性口味菜肴。
@@ -73,6 +76,9 @@ export const hengyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

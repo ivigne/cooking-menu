@@ -46,6 +46,9 @@ export const yongzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -80,6 +83,9 @@ export const yongzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 什锦火锅是一道色香味俱全的名肴，属于津菜系冬令时菜。火锅食材包括各种肉类、海鲜类、蔬菜类、豆制品类、菌菇类、蛋类制品,将其放入煮开的清水或特制的高汤锅底烫熟后食用。有些吃法还会蘸上调味料 一起食用。由于食材、配料、使用方法丰富多彩，故名“什锦火锅”。老少咸宜，至冬之佳品。什锦火锅选料精细、品种多样、色彩缤纷、汤鲜味醇、营养丰富，是家宴不可缺少的一道佳肴。其中大同、上海的“什锦火锅”尤为出名。
@@ -115,6 +121,9 @@ export const yongzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 道州喝螺是选用本地所产铁螺加工烹调而成，具有哺香脆嫩、汤鲜味美等特点，带有浓厚的地方风味。
@@ -150,6 +159,9 @@ export const yongzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

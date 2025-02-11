@@ -1059,7 +1059,7 @@ export const cityList = [
       },
       {
         code: '460300',
-        value: '',
+        value: '三沙市',
       },
       {
         code: '460400',
@@ -1976,3 +1976,7 @@ export const cityList = [
     ],
   },
 ];
+export const cityName = cityList.some((item) => {
+  return item.value;
+});
+console.log('中国-获取所有城市名字', cityName);

@@ -38,6 +38,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 平江炸肉，即油炸面粉坨，外脆内酥，金黄盖色，是平江情席头碗菜。
@@ -73,6 +76,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 巴陵全鱼席是湖南岳阳特色传统名菜，属于湘菜系。岳阳古称巴陵。由12盘至20盘洞庭湖产的银鱼、鳜鱼、鳊鱼、草鱼、青鱼、鲫鱼、水鱼、金鱼、鳝鱼、泥鳅、河鲜等为主料，配以洞庭湖优质特色蔬菜和珍贵茶叶，加工刀法各有变化，烹调方法有20余种；佐以葱、姜、蒜、干椒、胡椒、酱油等20余种；口味多样，在色彩方面注意红、绿、蓝、白、青和谐统一，菜品达2000多个。每桌全鱼席一般由一花拼、八围碟、四热炒、八大菜、一座汤、四点心、四随菜等30个菜点组成，一菜一格，多菜多法，加工精细，讲究滋味，注重营养，使人食鱼不见鱼，知其味不见其形，一鱼一形，一形一味。
@@ -108,6 +114,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 翠竹粉蒸鱼是一道湖南省的特色传统名菜，属于湘菜系。此菜选用新鲜翠竹筒，盛鱼后密封蒸之，既保留了粉蒸鱼的传统风味，又增加了翠竹本身的淡淡清香，菜型别具一格，回味悠长。鮰鱼，又名肥坨黄鳄鱼
@@ -143,6 +152,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 岳阳三蒸是湖南岳阳所特有的一道特色传统名菜，属于湘菜蒸菜。三蒸搭配合理，三种口味，牛肉是家常味，丸子是咸鲜味，南瓜是本味。做法很简单。但创意非常的新颖。把单一的蒸菜组合起来。就成了一道宴会上的大菜。真的非常的有创意。
@@ -178,6 +190,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -212,6 +227,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 蝴蝶飘海，是一道菜肴。1.鱼肉洗净，切·. 8厘米左右段，顺纹路用斜刀法横向片成长·. 8厘米、宽·. 5厘米、厚·. 0.5厘米的薄片，盛入碗中。大白菜心、豆苗洗净，姜切成丝，冬笋切成长·. 6厘米，宽·. 3厘米
@@ -247,6 +265,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 湘北田螺是一道菜品，主料是田螺肉，配料是五花猪肉,调料为精盐、料酒、味精,通过猛火炒制的做法而成。
@@ -282,6 +303,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -316,6 +340,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 洞庭银鱼又称面条鱼，形呈圆条状，长约6.6厘米，通体透明，洁白如银，无鳞无刺，是国内外享有盛名的珍贵鱼种。洞庭银鱼营养价值高，具有滋阴补肾的功效。相传，清雍正、乾隆二帝先后微服游江南时，均在岳阳品尝过此鱼。1918年在巴拿马国际名产会上，洞庭银鱼被列为世界名产之一。
@@ -351,6 +378,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 醋水豆腐是湖南省岳阳市的一道传统特色名菜，属于湘菜系。醋水豆腐与其他豆腐相比，没有石膏豆腐的硬、老，也没有以葡萄糖内脂作为凝固剂的豆腐的涩；醋水豆腐由于以食醋为凝固剂，在家庭中制作豆腐简单、方便、易行，具有一定的推广价值；醋水豆腐质地细嫩，软硬适宜，有弹性，无杂质。
@@ -386,6 +416,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 岳阳王鸽是中国农产品地理标志产品，人工饲养历史超过2000年。胴体皮白，略带黄色，烹调后肉质细腻，皮脆肉嫩，鲜香多汁，略带甜味。“一鸽胜九鸡”，对病后体弱、血虚闭经、头晕神疲、记忆力衰退等有很好的补益作用。
@@ -421,6 +454,9 @@ export const yueyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

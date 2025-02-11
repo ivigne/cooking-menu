@@ -46,6 +46,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -80,6 +83,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -114,6 +120,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -148,6 +157,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -182,6 +194,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -216,6 +231,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -250,6 +268,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -284,6 +305,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -318,6 +342,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -352,6 +379,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -386,6 +416,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -420,6 +453,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -454,6 +490,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 榆树园张记烧鸡是一道美味可口的地方传统小吃，属于豫菜系。为洛阳经营烧鸡的后起之秀。创始人张新忠，其子张铁林于1962年承其父志，经营烧鸡。张记烧鸡现为洛阳名牌烧鸡。主料有丁香、大茴、小
@@ -489,6 +528,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 洛宁蒸肉是河南省洛阳市的一种特色小吃，属于豫菜系；洛宁蒸肉由猪肉片、大葱、粉条（地瓜粉条最好）、面酱、调料、面粉（玉米面粉最佳）搅拌，笼蒸而成、底部有一块圆形面饼是秘制而成。味香色
@@ -524,6 +566,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 连汤肉片是河南省洛阳市的传统小吃之一，属于豫菜系，该菜品也是河南洛阳水席中不可缺少的特色名菜。洛阳人喜欢吃水席，几十道菜，汤汤水水下来，吃得人连呼过瘾。连汤肉片以精瘦肉为主料，莲藕、
@@ -559,6 +604,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 栾川豆腐是由豆、酸菜卤水等食材制成的食品。
@@ -594,6 +642,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 洛阳燕菜又称牡丹燕菜，是河南洛阳独具风格的传统名菜。属豫菜系。主料有白萝卜、海参、 鱿鱼、鸡肉。成品洛阳燕菜只见一朵洁白如玉、色泽夺目的牡丹花，浮于汤面之上，菜香花鲜，赢得贵宾们的拍手叫绝。“洛阳燕菜”又名“假燕菜”、“牡丹燕菜”，是一道具有豫西地方特色的佳肴，历来被列为洛阳水席（“洛阳水席”起源于唐代，有1000多年历史，全席24道菜，有八道冷下酒菜，四道大菜、八道中菜、四道压桌菜。）中的首菜。据说水席有两层含义，一是全部热菜皆有汤；二是所有菜吃完一道再上一道，像流水一样不断地更新。牡丹燕菜是铁定会出场的角色，牡丹燕菜犹如盛唐时期艳装而出的妇人，甫一出场便吸引所有人的目光，一朵色泽夺目娇黄的牡丹花浮于汤面之上，花艳、菜香、汤鲜味美，酸辣香郁、爽滑适口。2018年9月10日，“中国菜”正式发布，“牡丹燕菜“被评为“中国菜”河南十大经典名菜。
@@ -629,6 +680,9 @@ export const luoyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

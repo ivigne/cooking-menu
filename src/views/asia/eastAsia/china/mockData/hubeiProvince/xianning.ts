@@ -39,6 +39,9 @@ export const xianningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 咸宁通城的麦市干子，到现在已经有四百余年的历史了，采取独特的制作工艺，做出百味豆腐干，口感纯美，食盐、鸡精、辣椒油,在保证传统豆制品高营养的同时，运用了特殊的卤制技术，溶色香、味美、辣、脆于一体。其浓郁的农家风味成为湖北著名的特色小吃。
@@ -74,6 +77,9 @@ export const xianningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 咸宁宝塔肉又名大席肉、海参条肉，千百年来是咸安农家宴席上不可缺少的一道名菜。
@@ -109,6 +115,9 @@ export const xianningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 通山腊（xī là 同“腊”）肉是指肉经腌制后再经过柴火烟熏的过程所制成的加工品。腊肉的防腐能力强，能延长保存时间，并增添特有的风味，这是与咸肉的主要区别。腊肉并非因为在腊月所制，而为腊肉，腊月的腊（là）与腊肉的腊（xī）在古文里并非同一个字，亦即，腊月的腊是繁体的腊，而腊肉的腊本来就是腊月的腊的简化字。所以，腊肉之所以称为腊肉，至于为什么现在人们都读là，而不读xī，除了简化字的原因使两个字没有了区别以外，可能确实跟腊肉一般都在腊月里制作以待年夜饭之用有关。
@@ -144,6 +153,9 @@ export const xianningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

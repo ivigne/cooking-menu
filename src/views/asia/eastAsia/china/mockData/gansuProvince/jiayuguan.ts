@@ -46,6 +46,9 @@ export const jiayuguanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 10.嘉峪关烤羊肉,嘉峪关烤羊肉是嘉峪关市的一道传统美食，以其独特的制作工艺和口感著称。制作时将羊肉切成小块，用特制的烤架烤制而成。入口羊肉外酥里嫩，味道鲜美。
@@ -81,6 +84,9 @@ export const jiayuguanFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

@@ -46,6 +46,9 @@ export const dalianFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 海鲜焖子是辽宁省大连市的特色小吃，海鲜焖子由地瓜粉熬制的凉粉配虾段、海螺片等海鲜做成。
@@ -81,6 +84,9 @@ export const dalianFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 炒焖子是由一种用地瓜粉熬制的凉粉炒制的，通常是墨绿色的，并不透明，这是东北特有的一种小吃，主要分布在河南禹州、丹东和大连。
@@ -116,6 +122,9 @@ export const dalianFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 拌蚬子，是一道家常凉拌菜，制作原料主要有蚬子生抽、老酒。
@@ -151,6 +160,9 @@ export const dalianFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

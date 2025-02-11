@@ -47,6 +47,9 @@ export const zhoukouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 邓城猪蹄是一道色香味俱全的传统名肴，属于豫菜系，源于商水县邓城镇。它以清滑爽口，柔韧脱骨，味醇酥嫩，香气浓郁出名，独具风味，吃过后，唇齿留香、回味无穷，奇特的香味会使你产生一种不可抵挡
@@ -84,6 +87,9 @@ export const zhoukouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 太康肘子是享誉中原的风味名吃，用料为上等猪肘，辅以特制名贵材料和独特制作工序，特点“肥而不腻、色泽鲜亮、浓香怡人、酥烂可口。”被誉为“天下美味之大成”而驰名中原。
@@ -119,6 +125,9 @@ export const zhoukouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 孔集卤鸡是河南鹿邑传统的特色名吃，属于豫菜系。此菜滑酥肉烂，烂而不胎，肥而不腻，色鲜味美，醇浓厚，温中益血、补精添髓、促进发育、延缓衰老而闻名于世。一百多年前由太康县麦糠屯姓何名豆的传入孔集。首继人孔昭灼，传孔宪体，孔宪来；孔宪来传孔庆连、孔庆贵。
@@ -154,6 +163,9 @@ export const zhoukouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 商水县固墙热豆腐。在点制过程中不用石膏，全用清浆，豆腐精细、鲜嫩、松软，浇上特制的辣椒汁（主要原料有辣椒、香油、精盐、味精、香椿叶、焦花生、焦芝麻、生姜等），美味可口。
@@ -189,6 +201,9 @@ export const zhoukouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

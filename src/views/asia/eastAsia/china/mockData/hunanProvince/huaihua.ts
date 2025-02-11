@@ -46,6 +46,9 @@ export const huaihuaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 辰溪火炕鱼，色、香、味俱全。火坑鱼不是说要就有的，它受季节和制作的限制。火坑鱼制作考究，工序繁杂，选料严格。它必须是清悠悠的溪水中打捞的活鱼儿。豆角长，小白尖，羊角刺这类属正宗。每条都要保持活蹦乱跳，不大不小，十六个鱼儿十六两老秤恰好一斤。打捞的鲜鱼儿不能过夜，当即开膛，内脏处理后，洒把精盐佐料慢慢一拌，再平摊在糖筛里，放在阴凉处风干。然后涮口大铁锅，锅底盖上一层新谷米，锅中要架个大米筛，再把拌有山椒、木桨子、八角等佐料的香油钵端来，用刷子将钵子里的香油佐料拌匀，置于锅中的大米筛里烤熟。 [
@@ -81,6 +84,9 @@ export const huaihuaFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

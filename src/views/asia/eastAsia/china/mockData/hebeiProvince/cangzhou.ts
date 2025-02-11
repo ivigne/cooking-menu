@@ -41,6 +41,9 @@ export const cangzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -75,6 +78,9 @@ export const cangzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -109,6 +115,9 @@ export const cangzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -143,6 +152,9 @@ export const cangzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -177,6 +189,9 @@ export const cangzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 沧州冬菜是用本地产的一种帮薄、筋细、含糖多的优质大白菜，去掉老帮和绿叶，切成宽约1厘米，长约1.2厘米的小块，晾晒后拌上适量的精盐和蒜泥，装坛压实，牢固封口，经长时间自然发酵而制成。其色泽金黄，气味芳香，落口微甜，咸中略带辣味，且具有较高的营养价值，诚为沧州之特产。
@@ -212,6 +227,9 @@ export const cangzhouFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

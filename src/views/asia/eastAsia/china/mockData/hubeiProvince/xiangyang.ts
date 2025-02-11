@@ -47,6 +47,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -81,6 +84,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 襄阳缠蹄，是湖北省襄阳市的特色小吃。襄阳缠蹄是传统的佳肴。将猪蹄肉用多种香料腌渍数天。后用细麻绳缠紧在通风处吹晾，数日后即可取下煮熟食之。此菜多用于冷盘拼盘，色泽红亮，肉质清香，佐以姜丝米醋，余味幽长，是下酒的好菜。
@@ -116,6 +122,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -150,6 +159,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 糖醋白菜，是以白菜为主要材料制作的药膳，为楚菜系、湖北菜系，口味甜酸适度。
@@ -185,6 +197,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -219,6 +234,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -253,6 +271,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -287,6 +308,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -321,6 +345,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -355,6 +382,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -389,6 +419,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 宜城板鸭，湖北省宜城市特产，中国国家地理标志产品。宜城板鸭选料考究、加工精细，每年农历九月开始制作，到翌年二月二结束，尤以霜风天制作的板鸭品质最佳。用传统方法腊制板鸭、酱板鸭、水板鸭营养丰富，味美可口，含有铜、锌、铁、钙等十多种人体需要的微量元素和营养物质。宜城板鸭具有外形方正、质于板状、宽阔体肥、皮白肉红、质嫩致密、腊香浓郁、味觉回甜等特点，概括地评价为“干、板、酥、烂、香”5个字。2006年07月12日，原国家质检总局批准对“宜城板鸭”实施地理标志产品保护。
@@ -424,6 +457,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -458,6 +494,9 @@ export const xiangyangFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

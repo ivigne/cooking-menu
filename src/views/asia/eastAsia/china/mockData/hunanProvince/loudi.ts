@@ -38,6 +38,9 @@ export const loudiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -72,6 +75,9 @@ export const loudiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 口味蛇，是一道以王锦蛇为主要食材制作的湘菜，口味蛇源于宁乡大成桥。
@@ -107,6 +113,9 @@ export const loudiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 在湄江地区，流行着一种煨鱼的习俗。湄江人把煨鱼视于吉祥的品。每逢新春佳节，或特别的宾客进屋，都要摆上一条香喷喷油滴滴的煨鱼。食用时，大年三十、初一是很讲究的。不论什么人只能在鱼体的腹部
@@ -142,6 +151,9 @@ export const loudiFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

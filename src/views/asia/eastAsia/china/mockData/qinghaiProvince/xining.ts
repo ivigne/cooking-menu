@@ -40,6 +40,9 @@ export const xiningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -74,6 +77,9 @@ export const xiningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   {
@@ -108,6 +114,9 @@ export const xiningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 干板鱼的制法，首先将鱼剖去内脏，洗净之后，按大小顺序，排列在滚烫的石板上或沙滩上晒干，然后捆成一排排平整均匀、状如木板的干鱼捆。
@@ -143,6 +152,9 @@ export const xiningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 里脊肉剁碎，加盐、姜末、花椒少许，调制成丸子，用蛋清涂抹在丸子上，文火炸熟，浇上味精、糖、醋等配好的芡汁，出锅时淋几滴香油。此菜既有肉又不腻，好吃。
@@ -179,6 +191,9 @@ export const xiningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 是当地农村较流行的一种油饼。用青油煎的薄饼。有只加一点酵子的“半死面”和不加酵子的“死面”两种。
@@ -215,6 +230,9 @@ export const xiningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // “甜醅”是青海东北部地区的特色小吃之一，该菜品主要用青稞制作。在高原古城西宁及其周边地区，随处都可以看到这种独特的民间小吃“甜醅”。在甘肃宁夏等地区也存在少量由燕麦制成的甜醅。
@@ -250,6 +268,9 @@ export const xiningFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];

@@ -38,6 +38,9 @@ export const changdeFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 鸭霸王是湖南常德著名的小吃，属于湘菜系。由江南卤腊世家第八代传人采用祖传秘方和传统工艺，结合现代科学配方，配以30多种名贵中草药精心密制而成，是最著特色的名小吃之一。鸭霸王口味独特；鸭霸
@@ -73,6 +76,9 @@ export const changdeFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 北堤麻辣肉是一道以大豆为主要原料的菜品。
@@ -108,6 +114,9 @@ export const changdeFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 位于沅水河畔的常德市，其清真菜肴久负盛誉，闻名遐迩。相传清代乾隆皇帝游江南时，路经常德，进一回民店品尝了厨师烹制的清真菜肴，赞不绝口，当即挥毫赐名该店为\"清真第一春\"。
@@ -143,6 +152,9 @@ export const changdeFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 原汁武陵水鱼是一道色香味俱全的传统名菜，属于湘菜系。原汁武陵水鱼以五花肉为主要材料,烹饪以为主。选用湖南常德县武陵镇一带所产水鱼。此菜酥烂浓香，原汁原味，芡亮汁浓，鲜美可口。
@@ -178,6 +190,9 @@ export const changdeFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
   // 钵子菜又称炖钵炉子菜、炖钵菜、 火锅，是湖南省传统的名菜，属于湘菜系。它和北方的涮锅、四川火锅、砂锅同出一脉，它们的共同特点是用火烧锅，以水（汤）导热，煮（涮）食物。
@@ -213,6 +228,9 @@ export const changdeFoodsList = [
     scripts: 'lampshadedBeefScriptsList',
     remark: '',
     tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
     isCookFlag: 0,
   },
 ];
