@@ -15,9 +15,13 @@
       @checkbox-all="onSelectChange"
     >
       <!-- @form-submit="handleResult" -->
-      <!-- <template #tools_buttons>
-        <Button type="primary" @click="editBomRelationship(0, {})">新增</Button>
-      </template> -->
+      <template #tools_buttons>
+        <Button type="primary" @click="queryToop100()">百强城市路线查询</Button>
+        <Tooltip content="华东-南方路线-第一次打卡的城市集合">
+          <Button type="primary" @click="top100FirstGotoLine()">百强城市路线查询</Button>
+        </Tooltip>
+        <!-- <Button type="primary" @click="editBomRelationship(0, {})">新增</Button> -->
+      </template>
       <template #action="{ row }">
         <TableAction outside :actions="createActions(row)" />
         <!-- <Button type="link" @click="editBomRelationship(1, row)">编辑</Button> -->
@@ -47,6 +51,7 @@
   import { ActionItem, TableAction } from '/@/components/Table';
   import { useI18n } from '/@/hooks/web/useI18n';
   import { router } from '/@/router';
+  import { chinaAreaEastProvinceSouthLineFirst } from '/@/common/chinaEveryAreaData';
   const tableRef = ref<CustomVxeGridInstance>();
   const checkedKeys = ref<(string | number)[]>([]); // 选中的行keys
   const checkedRows = ref<Record<string, any>[]>([]); // 选中的行
@@ -66,7 +71,7 @@
     type: { type: String, default: 'other' },
   });
   const { data, objData, type } = toRefs(props);
-  console.log('props', data.value, objData.value, type);
+  console.log('props', data.value, objData.value);
   objectFlag.value = type.value != 'other' ? true : false;
   // const emit = defineEmits(['filter-province']);
   // watch(province, (val) => {
@@ -115,7 +120,6 @@
           console.log(' form', form);
           const params = { ...form };
           const result = await handleResult(params);
-          console.log('query', result);
           return result;
         },
       },
@@ -196,6 +200,14 @@
       },
     ];
     return actions;
+  };
+  const queryToop100 = () => {
+    const { province, city, district } = tableRef.value?.getProxyInfo()?.form || {};
+
+    console.log('formData', province, city, district);
+  };
+  const top100FirstGotoLine = () => {
+    console.log('top100FirstGotoLine', chinaAreaEastProvinceSouthLineFirst);
   };
   const routerPage = (e, url, row) => {
     console.log(router, row, row?.scripts);

@@ -232,7 +232,7 @@
     setArrBegin.map((item) => {
       arrayData.value.push({
         province: '未知',
-        city: '', // 市
+        city: '未知', // 市
         district: '', // 区
         address: '', // 地方名称
         foodAvatar: '', // 美食图片

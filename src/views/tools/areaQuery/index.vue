@@ -29,17 +29,22 @@
               </ListItemMeta>
             </ListItem>
           </List>
+          <Divider type="vertical" orientation="left" style="width: 100%">省市县处理</Divider>
+          <AmapDistrictQuery />
         </Space>
       </template>
     </Card>
   </PageWrapper>
 </template>
 <script lang="ts" setup>
+  import { PageWrapper } from '/@/components/Page';
   // import { replaceAndSplitStr } from '/@/utils/general';
   import { ref } from 'vue';
-  import { List, Card, Space } from 'ant-design-vue';
+  import { List, Card, Space, Divider } from 'ant-design-vue';
   // import { useCopyToClipboard } from '/@/hooks/web/useCopyToClipboard';
   import { BasicForm, useForm } from '/@/components/Form';
+  import AmapDistrictQuery from '/@/components/AmapDistrictQuery/index.vue';
+
   // const { t } = useI18n();
   const ListItem = List.Item;
   const ListItemMeta = List.Item.Meta;
@@ -53,8 +58,8 @@
     chinaAreaEastProvinceNorthLine,
     chinaAreaWestSouthProvinceSouthLine,
     chinaAreaWestSouthProvinceNorthLine,
-    formSchemas,
-  } from './data';
+  } from '/@/common/chinaEveryAreaData';
+  import { formSchemas } from './data';
 
   //表单
   const [registerForm, { getFieldsValue }] = useForm({
@@ -81,96 +86,65 @@
       chinaAreaWestSouthProvinceSouthLine,
       chinaAreaWestSouthProvinceNorthLine,
     ]);
-    // const cityData = ref<any[]>([cityFirst, citySecond, cityThird]);
+    const cityFirstAndSecond = cityFirst.concat(citySecond);
+    const cityFirstAndSecondAndThird = cityFirstAndSecond.concat(cityThird);
+    const cityData = ref<any>({
+      cityFirst,
+      citySecond,
+      cityThird,
+      cityFirstAndSecond,
+      cityFirstAndSecondAndThird,
+    });
     list.value.map(async (line, i) => {
       // 华东起点南方路线-城市
       // const chinaAreaEastProvinceCitySouthLine = ref<any[]>([]);
-      const line0 = ref<string>(names.value[i] + '路线\n');
-      const line1 = ref<string>(names.value[i] + '路线一线城市: \n');
-      const line2 = ref<string>(names.value[i] + '路线二线城市: \n');
-      const line3 = ref<string>(names.value[i] + '路线三线城市: \n');
-      const line4 = ref<string>(names.value[i] + '路线一二线城市: \n');
-      const line5 = ref<string>(names.value[i] + '路线一二三线城市: \n');
-      const lineLen = ref(0);
-      const line1Len = ref(0);
-      const line2Len = ref(0);
-      const line3Len = ref(0);
-      const line4Len = ref(0);
-      const line5Len = ref(0);
+      const objLine = ref<any>({
+        line0: ref<string>(names.value[i] + '路线一线城市: \n'),
+        line1: ref<string>(names.value[i] + '路线二线城市: \n'),
+        line2: ref<string>(names.value[i] + '路线三线城市: \n'),
+        line3: ref<string>(names.value[i] + '路线一二线城市: \n'),
+        line4: ref<string>(names.value[i] + '路线一二三线城市: \n'),
+        line5: ref<string>(names.value[i] + '路线\n'),
+        lineLen0: ref(0),
+        lineLen1: ref(0),
+        lineLen2: ref(0),
+        lineLen3: ref(0),
+        lineLen4: ref(0),
+        lineLen5: ref(0),
+      });
+
       await line?.map((name) => {
         cityList.filter((item) => {
           if (item.value.includes(name)) {
             const cityNameList = item.children.map((cl) => cl.value) || [];
-            line0.value += name + ': (' + cityNameList?.join(',') + ')\n';
-            // const cityFirstList = item.children.filter((cl) => cityFirst.includes(cl.value));
-            let cityFirstList = cityFirst.filter((x) => cityNameList?.includes(x));
-            line1.value +=
-              name +
-              (item.children?.length > 1 && cityFirstList.length > 0
-                ? '(' + cityFirstList?.join(',') + ')'
-                : '') +
-              '->\n';
-            // const citySecondList = item.children.filter((cl) => citySecond.includes(cl.value));
-            let citySecondList = citySecond.filter((x) => cityNameList?.includes(x));
-            line2.value +=
-              name +
-              (item.children?.length > 1 && citySecondList.length > 0
-                ? '(' + citySecondList?.join(',') + ')'
-                : '') +
-              '->\n';
-            // const cityThirdList = item.children.filter((cl) => cityThird.includes(cl.value));
-            let cityThirdList = cityThird.filter((x) => cityNameList?.includes(x));
-            line3.value +=
-              name +
-              (item.children?.length > 1 && cityThirdList.length > 0
-                ? '(' + cityThirdList?.join(',') + ')'
-                : '') +
-              '->\n';
-            // const cityFirstAndSecondList = item.children.filter(
-            //   (cl) => cityFirst.includes(cl.value) || citySecond.includes(cl.value),
-            // );
-            let cityFirstAndSecondList =
-              cityFirst.concat(citySecond).filter((x) => cityNameList?.includes(x)) || [];
-            line4.value +=
-              name +
-              (item.children?.length > 1 && cityFirstAndSecondList.length > 0
-                ? '(' + cityFirstAndSecondList?.join(',') + ')'
-                : '') +
-              '->\n';
-            // const cityFirstAndSecondAndThirdList = item.children.filter(
-            //   (cl) =>
-            //     cityFirst.includes(cl.value) ||
-            //     citySecond.includes(cl.value) ||
-            //     cityThird.includes(cl.value),
-            // );
-            let cityFirstAndSecondAndThirdList =
-              cityFirst.concat(citySecond, cityThird).filter((x) => cityNameList?.includes(x)) ||
-              [];
-            line5.value +=
-              name +
-              (item.children?.length > 1 && cityFirstAndSecondAndThirdList.length > 0
-                ? '(' + cityFirstAndSecondAndThirdList?.join(',') + ')'
-                : '') +
-              '->\n';
-            lineLen.value += item.children.length;
-            line1Len.value += cityFirstList.length;
-            line2Len.value += citySecondList.length;
-            line3Len.value += cityThirdList.length;
-            line4Len.value += cityFirstAndSecondList.length;
-            line5Len.value += cityFirstAndSecondAndThirdList.length;
+            // objLine.value['line5'] += name + ': (' + cityNameList?.join(',') + ')\n';
+            // objLine.value['lineLen5'] += objLine.value['line5'].length;
+            Object.keys(cityData.value).forEach((key, j) => {
+              // console.log(cityData.value[key], key, j);
+              let cityListFilter = cityData.value[key].filter((x) => cityNameList?.includes(x));
+              objLine.value['line' + j] +=
+                name +
+                (item.children?.length > 1 && cityListFilter.length > 0
+                  ? '(' + cityListFilter?.join(',') + ')'
+                  : '') +
+                '->\n';
+              objLine.value['lineLen' + j] += cityListFilter.length;
+            });
           }
         });
       });
-      // console.log(line1Len.value);
-      // console.log(line1.value, '\n\n\n');
-      // console.log(line2Len.value);
-      // console.log(line2.value, '\n\n\n');
-      // console.log(line3Len.value);
-      // console.log(line3.value, '\n\n\n');
-      // console.log(line4Len.value);
-      // console.log(line4.value, '\n\n\n');
-      console.log(line5Len.value);
-      console.log(line5.value, '\n\n\n');
+      console.log(objLine.value['lineLen0']);
+      console.log(objLine.value['line0'], '\n\n\n');
+      console.log(objLine.value['lineLen1']);
+      console.log(objLine.value['line1'], '\n\n\n');
+      console.log(objLine.value['lineLen2']);
+      console.log(objLine.value['line2'], '\n\n\n');
+      console.log(objLine.value['lineLen3']);
+      console.log(objLine.value['line3'], '\n\n\n');
+      console.log(objLine.value['lineLen4']);
+      console.log(objLine.value['line4'], '\n\n\n');
+      // console.log(objLine.value['lineLen5']);
+      // console.log(objLine.value['line5'], '\n\n\n');
       // console.log(lineLen.value);
       // console.log(line0.value, '\n\n\n');
 
@@ -178,3 +152,4 @@
     });
   };
 </script>
+../../../common/citySort

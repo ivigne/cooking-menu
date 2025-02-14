@@ -34,4 +34,4 @@ import { ref } from 'vue';
   //   tableData.value = chinaTableData[code];
   // };
 </script>
-../../../../common/city
+../../../../common/city ../../../../common/citySort
