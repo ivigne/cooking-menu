@@ -11,6 +11,168 @@
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const tangshanFoodsList = [
+  {
+    province: '河北省',
+    city: '唐山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '芙蓉燕菜',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
+  {
+    province: '河北省',
+    city: '唐山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '糖醋饹馇',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
+  {
+    province: '河北省',
+    city: '唐山市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '水晶鸡片',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hebeiCuisine',
+    cuisineCategoryName: '冀菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
   // 创始于1944年，是唐山驰名的传统食品。是以唐山万里香老字号传统风味为基础，采纳了全国“十大”名鸡之特点，取其之优，经多次调整配料，改进工艺，终于研制成功即不同于原万里香传统风味，又不同于全国“十大”名鸡之风味，其特点是“型似琵琶、色泽粽红、香烂适口、香醇甜嫩、味道纯正”，迄今已有几十年的历史，以其独特的传统风味而驰名。在保持传统风味的基础上，博采众家之长，经几十次反复试验，创出了独具风味的万里香烧鸡。 [24]
   {
     province: '河北省',

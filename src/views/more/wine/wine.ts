@@ -346,7 +346,7 @@ export const wineFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '黄石市',
     district: '',
     address: '',
     foodAvatar: '',

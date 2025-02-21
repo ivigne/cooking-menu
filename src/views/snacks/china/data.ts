@@ -1,3 +1,4 @@
+import { unipFunc } from '/@/utils/general';
 // import { useCopyToClipboard } from '/@/hooks/web/useCopyToClipboard';
 import { anHuiSnacksFoodsList } from './mockData/anhui';
 import { aoMenSnacksFoodsList } from './mockData/aomen';
@@ -31,7 +32,42 @@ import { xinJiangSnacksFoodsList } from './mockData/xinjiang';
 import { yunNanSnacksFoodsList } from './mockData/yunnan';
 import { zheJiangSnacksFoodsList } from './mockData/zhejiang';
 import { othersSnacksFoodsList } from './mockData/others';
+// 中国小吃 数据集-数组形式
+export const chinaSnacksFoodsData = [].concat(
+  anHuiSnacksFoodsList,
+  aoMenSnacksFoodsList,
+  beiJingSnacksFoodsList,
+  chongQingSnacksFoodsList,
+  fuJianSnacksFoodsList,
+  ganSuSnacksFoodsList,
+  guangDongSnacksFoodsList,
+  guangXiSnacksFoodsList,
+  guiZhouSnacksFoodsList,
+  haiNanSnacksFoodsList,
+  heBeiSnacksFoodsList,
+  heiLongJiangSnacksFoodsList,
+  heNanSnacksFoodsList,
+  huBeiSnacksFoodsList,
+  huNanSnacksFoodsList,
+  innerMongoliaSnacksFoodsList,
+  jiangSuSnacksFoodsList,
+  jiangXiSnacksFoodsList,
+  liaoNingSnacksFoodsList,
+  ningXiaSnacksFoodsList,
+  shaanXiSnacksFoodsList,
+  shanDongSnacksFoodsList,
+  shangHaiSnacksFoodsList,
+  shanXiSnacksFoodsList,
+  siChuanSnacksFoodsList,
+  taiWanSnacksFoodsList,
+  tianJinSnacksFoodsList,
+  xinJiangSnacksFoodsList,
+  yunNanSnacksFoodsList,
+  zheJiangSnacksFoodsList,
+  othersSnacksFoodsList,
+);
 
+// 中国小吃 数据集-数组对象形式
 export const chinaSnacksFoodsList = {
   anHui: anHuiSnacksFoodsList,
   aoMen: aoMenSnacksFoodsList,
@@ -66,33 +102,29 @@ export const chinaSnacksFoodsList = {
   zheJiang: zheJiangSnacksFoodsList,
   others: othersSnacksFoodsList,
 };
-
+// 根据省份的菜系数量做排序，数量从小到大
 const chinaSnacksFoodsListName = Object.keys(chinaSnacksFoodsList).sort(
   (a, b) => chinaSnacksFoodsList[a].length - chinaSnacksFoodsList[b].length,
 );
-
+// 获取排序后的数据进行获取长度和菜名的展示
 const foodNames = {};
 chinaSnacksFoodsListName.map((name) => {
-  foodNames[name] = chinaSnacksFoodsList[name]?.map((item) => item.foodName);
-  console.log(name, foodNames[name]);
+  foodNames[name] = chinaSnacksFoodsList[name]?.map((item) => item['foodName']);
+  // console.log(name, foodNames[name], foodNames[name].length);
 });
-const foodNameList = Object.values(foodNames).reduce((prev: any, cur: any) => {
-  return prev && prev.concat(cur);
-});
-console.log('----------中国小吃:', foodNameList);
+// 获取排序后的所有小吃
+export const foodNameList = ref<any>([]);
+foodNameList.value =
+  Object.values(foodNames).reduce((prev: any, cur: any) => {
+    return prev && prev.concat(cur);
+  }) || [];
+console.log('----------中国小吃:', foodNameList.value.length, chinaSnacksFoodsData.length);
 // console.log('----------小吃所有名字:', foodNames);
+console.log('----------------分割线  中国小吃  end--------------');
 
-function unipFunc(arr) {
-  const newArr = [];
-  arr?.forEach((item: never) => {
-    if (arr.indexOf(item) !== arr.lastIndexOf(item) && newArr.indexOf(item) === -1) {
-      newArr.push(item);
-      return newArr;
-    }
-  });
-  console.log('重复菜名菜名：', newArr);
-}
 unipFunc(foodNameList);
+
+// handleNames(chinaSnacksFoodsList);
 
 // useCopyToClipboard(JSON.stringify());
 
@@ -109,7 +141,8 @@ import { spiceFoodsList } from '/@/views/more/spice/index';
 import { sugarFoodsList } from '/@/views/more/sugar/sugar';
 import { teaFoodsList } from '/@/views/more/tea/tea';
 import { wineFoodsList } from '/@/views/more/wine/wine';
-const moreList = [].concat(
+import { essertFoodsList } from '/@/views/more/essert/essert';
+export const moreList = [].concat(
   chutneyFoodsList,
   dessertFoodsList,
   dippingFoodsList,
@@ -123,10 +156,31 @@ const moreList = [].concat(
   sugarFoodsList,
   teaFoodsList,
   wineFoodsList,
+  essertFoodsList,
 );
-const moreFoodNames = moreList.map((item) => item?.foodName);
-console.log('---------moreFoodNames--------');
+export const moreObj = {
+  chutney: chutneyFoodsList,
+  dessert: dessertFoodsList,
+  dipping: dippingFoodsList,
+  flavoring: flavoringFoodsList,
+  drinks: drinksFoodsList,
+  ingredientsTypes: ingredientsTypesFoodsList,
+  kitchenware: kitchenwareList,
+  meatballs: meatballsFoodsList,
+  orphaned: orphanedFoodsList,
+  spice: spiceFoodsList,
+  sugar: sugarFoodsList,
+  tea: teaFoodsList,
+  wine: wineFoodsList,
+  essert: essertFoodsList,
+};
+export const moreFoodNames = moreList.map((item) => item['foodName']);
+
+console.log('---------moreFoodNames--------', moreFoodNames);
 unipFunc(moreFoodNames);
+// handleNames(moreObj);
+console.log('----------------分割线  更多美食  end--------------');
+
 // import { animeFoodsList } from '/@/views/media/anime/data';
 // import { archaeologyFoodsList } from '/@/views/media/archaeology/data';
 // import { gameFoodsList } from '/@/views/media/game/data';
@@ -153,7 +207,12 @@ import { riceFoodsList } from '/@/views/staples/rice/rice';
 import { ricedumplingsFoodsList } from '/@/views/staples/ricedumplings/ricedumplings';
 import { siumaiFoodsList } from '/@/views/staples/siumai/siumai';
 import { soupFoodsList, soupFoodsList1 } from '/@/views/staples/soup/soup';
-const staplesList = [].concat(
+// import { allname } from '/@/views/asia/eastAsia/china/data';
+// import { handleNames } from '/@/utils/general';
+import { ref } from 'vue';
+import { chinaAreaEastProvinceSouthLineFirst } from '/@/common/chinaEveryAreaData';
+// import { groupBy } from '/@/utils/general';
+export const staplesList = [].concat(
   bunFoodsList,
   cakeFoodsList,
   dumplingFoodsList,
@@ -170,6 +229,35 @@ const staplesList = [].concat(
   soupFoodsList,
   soupFoodsList1,
 );
-const staplesFoodNames = staplesList.map((item) => item?.foodName);
-console.log('---------staplesFoodNames--------');
+export const staplesFoodNames = staplesList.map((item) => item['foodName']);
+console.log('---------staplesFoodNames--------', staplesFoodNames);
 unipFunc(staplesFoodNames);
+console.log('----------------分割线  主食  end--------------');
+
+// console.log('---------所有菜谱查重--------');
+// const allList = [].concat(allname, foodNameList.value, moreFoodNames, staplesFoodNames);
+// unipFunc(allList);
+const snacksListByCity = chinaSnacksFoodsData.filter((item) =>
+  chinaAreaEastProvinceSouthLineFirst.includes(item['city']),
+);
+console.log('华东-南方路线-第一次打卡的城市集合-已删减小吃有:', snacksListByCity.length, ' 道菜');
+const moreListByCity = moreList.filter((item) =>
+  chinaAreaEastProvinceSouthLineFirst.includes(item['city']),
+);
+console.log('华东-南方路线-第一次打卡的城市集合-已删减更多有:', moreListByCity.length, ' 道菜');
+const staplesListByCity = staplesList.filter((item) =>
+  chinaAreaEastProvinceSouthLineFirst.includes(item['city']),
+);
+console.log('华东-南方路线-第一次打卡的城市集合-已删减主食有:', staplesListByCity.length, ' 道菜');
+
+const totalListByCity = [].concat(snacksListByCity, moreListByCity, staplesListByCity);
+// const totalObj = groupBy(totalListByCity, 'city');
+console.log(
+  '华东-南方路线-第一次打卡的城市集合-总计有:',
+  totalListByCity.length,
+  '道菜',
+  // totalListByCity,
+  chinaAreaEastProvinceSouthLineFirst.length === 1 &&
+    totalListByCity.map((item) => item['foodName']),
+  // totalObj,
+);

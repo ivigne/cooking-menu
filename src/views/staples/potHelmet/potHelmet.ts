@@ -174,9 +174,9 @@ export const potHelmetFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '海南省',
-    city: '',
-    district: '',
+    province: '陕西省',
+    city: '宝鸡市',
+    district: '岐山县',
     address: '',
     foodAvatar: '',
     foodName: '油锅盔',
@@ -227,8 +227,8 @@ export const potHelmetFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
-    district: '',
+    city: '信阳市',
+    district: '新县',
     address: '',
     foodAvatar: '',
     foodName: '枣锅盔',
@@ -439,8 +439,8 @@ export const potHelmetFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
-    district: '',
+    city: '咸宁市',
+    district: '嘉鱼县',
     address: '',
     foodAvatar: '',
     foodName: '鞋底锅盔',
@@ -975,8 +975,8 @@ export const potHelmetFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
-    district: '',
+    city: '成都市',
+    district: '彭州市',
     address: '',
     foodAvatar: '',
     foodName: '军屯锅盔',
@@ -1347,7 +1347,7 @@ export const potHelmetFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1401,7 +1401,7 @@ export const potHelmetFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',

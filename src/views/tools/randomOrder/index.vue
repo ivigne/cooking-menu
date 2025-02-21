@@ -1,9 +1,9 @@
 <!--
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-08-07 17:22:10
- * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2023-09-06 20:23:20
- * @FilePath: /cooking-menu/src/views/randomOrder/index.vue
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2025-02-18 14:23:35
+ * @FilePath: /cooking-menu/src/views/tools/randomOrder/index.vue
  * @Description: 
  * 
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
@@ -39,6 +39,7 @@
   </PageWrapper>
 </template>
 <script lang="ts" setup>
+  import { PageWrapper } from '/@/components/Page';
   import { ref } from 'vue';
   import { Select, Card, Image, Button, Space } from 'ant-design-vue';
   // import { useI18n } from '/@/hooks/web/useI18n';

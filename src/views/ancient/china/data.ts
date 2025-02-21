@@ -8,21 +8,12 @@
  */
 // import { useCopyToClipboard } from '/@/hooks/web/useCopyToClipboard';
 // import { ancientFoodsList } from './mockData/ancient';
+import { unipFunc } from '/@/untils/general';
 export const ancientFoodsList = [];
-const foodNameList = ancientFoodsList?.map((item) => item.foodName);
+const foodNameList = ancientFoodsList?.map((item) => item['foodName']);
 console.log('----------中国古代美食:', foodNameList);
 // console.log('----------所有名字:', foodNames);
 
-function unipFunc(arr) {
-  const newArr = [];
-  arr?.forEach((item: never) => {
-    if (arr.indexOf(item) !== arr.lastIndexOf(item) && newArr.indexOf(item) === -1) {
-      newArr.push(item);
-      return newArr;
-    }
-  });
-  console.log('重复菜名菜名：', newArr);
-}
 unipFunc(foodNameList);
 
 // useCopyToClipboard(JSON.stringify());

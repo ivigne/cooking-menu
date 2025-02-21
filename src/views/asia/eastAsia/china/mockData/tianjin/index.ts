@@ -836,5 +836,5 @@ export const tianJinFoodsList = [
 console.log(
   '天津天津天津天津天津天津天津天津省有： ',
   tianJinFoodsList.length,
-  tianJinFoodsList.map((item) => item.foodName),
+  // tianJinFoodsList.map((item) => item['foodName']),
 );

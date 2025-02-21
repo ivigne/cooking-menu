@@ -13,7 +13,7 @@
 export const riceFoodsList = [
   {
     province: '安徽省',
-    city: '',
+    city: '黄山市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -982,7 +982,7 @@ export const riceFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '广西省',
+    province: '广西壮族自治区',
     city: '南宁市',
     district: '',
     address: '',
@@ -1629,7 +1629,7 @@ export const riceFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '三亚市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1681,7 +1681,7 @@ export const riceFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '三亚市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1787,7 +1787,7 @@ export const riceFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '三亚市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2057,8 +2057,8 @@ export const riceFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
-    district: '',
+    city: '宜昌市',
+    district: '宜都市',
     address: '',
     foodAvatar: '',
     foodName: '宜都土豆炕饭',
@@ -2123,58 +2123,6 @@ export const riceFoodsList = [
     tasteName: '麻辣',
     menuCategoryCode: '',
     menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '湖南省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '新饭',
-    foodName_en: 'newRice',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hunanCuisine',
-    cuisineCategoryName: '湘菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
     cookingTypeCode: 'multiple',
     cookingTypeName: '腌、晾、烘、蒸、炸、炒',
     featuresName: '薄如纸，色红亮，味麻辣鲜脆',
@@ -2857,7 +2805,7 @@ export const riceFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2911,7 +2859,7 @@ export const riceFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '湛江',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3019,8 +2967,8 @@ export const riceFoodsList = [
   },
   {
     province: '河北省',
-    city: '',
-    district: '',
+    city: '唐山市',
+    district: '丰南区',
     address: '',
     foodAvatar: '',
     foodName: '蚶子米饭',
@@ -3073,7 +3021,7 @@ export const riceFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3127,8 +3075,8 @@ export const riceFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
-    district: '',
+    city: '邵阳市',
+    district: '绥宁县',
     address: '',
     foodAvatar: '',
     foodName: '苗家乌米饭',
@@ -3881,8 +3829,8 @@ export const riceFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
-    district: '',
+    city: '自贡市',
+    district: '富顺县',
     address: '',
     foodAvatar: '',
     foodName: '豆花饭',
@@ -4906,62 +4854,8 @@ export const riceFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '咖喱鸡肉饭',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: '',
-    cuisineCategoryName: '',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',

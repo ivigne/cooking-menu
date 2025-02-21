@@ -121,8 +121,8 @@ export const flatcakeFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '豆沙糍粑',
@@ -445,7 +445,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '贵州省',
-    city: '',
+    city: '贵阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1469,9 +1469,9 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
-    district: '',
-    address: '',
+    city: '孝感市',
+    district: '云梦县',
+    address: '曾店镇',
     foodAvatar: '',
     foodName: '细米粑',
     foodName_en: 'thinRiceCake',
@@ -1521,7 +1521,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1573,7 +1573,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1625,7 +1625,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1677,7 +1677,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1728,8 +1728,8 @@ export const flatcakeFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '湖北省',
-    city: '',
+    province: '四川省',
+    city: '凉山彝族自治州',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1781,7 +1781,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2157,7 +2157,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2683,7 +2683,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2737,7 +2737,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2791,7 +2791,7 @@ export const flatcakeFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '娄底市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4342,8 +4342,8 @@ export const flatcakeFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '贵州省',
+    city: '黔东南苗族侗族自治州',
     district: '',
     address: '',
     foodAvatar: '',

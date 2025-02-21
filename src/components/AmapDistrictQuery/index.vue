@@ -25,19 +25,21 @@
 
 <script setup lang="ts">
   import { ref } from 'vue';
-  import { queryDistricts, districtData } from '/@/common/getMap';
+  import { useMapStore } from '/@/store/modules/map';
+  const mapStore = useMapStore();
+  const districtData = mapStore.getMapInfo;
 
   const loading = ref(false);
 
   const queryDistrictsFn = async () => {
     loading.value = true;
-    await queryDistricts('中国', 2, false);
+    await mapStore.queryDistricts();
     loading.value = false;
   };
 
   // 导出数据
   const exportData = () => {
-    const dataStr = JSON.stringify(districtData.value, null, 2);
+    const dataStr = JSON.stringify(districtData, null, 2);
     const blob = new Blob([dataStr], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');

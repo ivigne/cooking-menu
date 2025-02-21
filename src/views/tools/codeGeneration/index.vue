@@ -77,6 +77,7 @@
   </PageWrapper>
 </template>
 <script lang="ts" setup>
+  import { PageWrapper } from '/@/components/Page';
   import { replaceAndSplitStr } from '/@/utils/general';
   import { ref, Ref, reactive, unref } from 'vue';
   import { List, Card, Button, Space, Input, Form } from 'ant-design-vue';
@@ -165,27 +166,27 @@
     // }
 
     const dataList = fuJianSnacksFoodsList;
-    const data = dataList.filter((item) => reg.test(item.foodName));
-    const data1 = dataList.filter((item) => reg1.test(item.foodName));
-    const data2 = dataList.filter((item) => reg2.test(item.foodName));
-    const data3 = dataList.filter((item) => reg3.test(item.foodName));
-    const data4 = dataList.filter((item) => reg4.test(item.foodName));
-    const data5 = dataList.filter((item) => reg5.test(item.foodName));
-    const data6 = dataList.filter((item) => reg6.test(item.foodName));
-    const data7 = dataList.filter((item) => reg7.test(item.foodName));
-    const data8 = dataList.filter((item) => reg8.test(item.foodName));
-    const data9 = dataList.filter((item) => reg9.test(item.foodName));
-    const data11 = dataList.filter((item) => reg0.test(item.foodName));
-    const data12 = dataList.filter((item) => reg42.test(item.foodName));
-    const data13 = dataList.filter((item) => reg43.test(item.foodName));
-    const data14 = dataList.filter((item) => reg44.test(item.foodName));
-    const data15 = dataList.filter((item) => reg45.test(item.foodName));
-    const data16 = dataList.filter((item) => reg46.test(item.foodName));
-    const data17 = dataList.filter((item) => reg47.test(item.foodName));
-    const data18 = dataList.filter((item) => reg48.test(item.foodName));
-    const data19 = dataList.filter((item) => reg49.test(item.foodName));
-    const data20 = dataList.filter((item) => !reg99.test(item.foodName));
-    // const data100 = dataList.filter((item) => reg100.test(item.foodName));
+    const data = dataList.filter((item) => reg.test(item['foodName']));
+    const data1 = dataList.filter((item) => reg1.test(item['foodName']));
+    const data2 = dataList.filter((item) => reg2.test(item['foodName']));
+    const data3 = dataList.filter((item) => reg3.test(item['foodName']));
+    const data4 = dataList.filter((item) => reg4.test(item['foodName']));
+    const data5 = dataList.filter((item) => reg5.test(item['foodName']));
+    const data6 = dataList.filter((item) => reg6.test(item['foodName']));
+    const data7 = dataList.filter((item) => reg7.test(item['foodName']));
+    const data8 = dataList.filter((item) => reg8.test(item['foodName']));
+    const data9 = dataList.filter((item) => reg9.test(item['foodName']));
+    const data11 = dataList.filter((item) => reg0.test(item['foodName']));
+    const data12 = dataList.filter((item) => reg42.test(item['foodName']));
+    const data13 = dataList.filter((item) => reg43.test(item['foodName']));
+    const data14 = dataList.filter((item) => reg44.test(item['foodName']));
+    const data15 = dataList.filter((item) => reg45.test(item['foodName']));
+    const data16 = dataList.filter((item) => reg46.test(item['foodName']));
+    const data17 = dataList.filter((item) => reg47.test(item['foodName']));
+    const data18 = dataList.filter((item) => reg48.test(item['foodName']));
+    const data19 = dataList.filter((item) => reg49.test(item['foodName']));
+    const data20 = dataList.filter((item) => !reg99.test(item['foodName']));
+    // const data100 = dataList.filter((item) => reg100.test(item['foodName']));
     // const newArr = arrGroup(data100, (item) => item.cuisineCategoryCode);
     console.log('--------------包|包子:', data);
     console.log('--------------饼:', data1);

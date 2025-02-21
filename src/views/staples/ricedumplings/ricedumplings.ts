@@ -13,7 +13,7 @@
 export const ricedumplingsFoodsList = [
   {
     province: '福建省',
-    city: '',
+    city: '泉州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -389,7 +389,7 @@ export const ricedumplingsFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '厦门市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -443,7 +443,7 @@ export const ricedumplingsFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '肇庆市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1197,8 +1197,8 @@ export const ricedumplingsFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '湛江市',
+    district: '雷州市',
     address: '',
     foodAvatar: '',
     foodName: '雷州大粽',
@@ -1234,7 +1234,7 @@ export const ricedumplingsFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '嘉兴市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1326,43 +1326,6 @@ export const ricedumplingsFoodsList = [
     recommendStoreAddress: '',
     isGoTo: 0,
     isCookFlag: 0, // 标签
-  },
-  {
-    province: '湖南省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '换心蛋糯米粽子',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'hunanCuisine',
-    cuisineCategoryName: '湘菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [{ stepDesc: '' }],
-      nutritionalValue: [{ stepDesc: '' }],
-      edibleEffects: [{ stepDesc: '' }],
-      practiceList: [{ way: '1', practiceDesc: '1' }],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
   },
   // 汨罗粽子，湖南省汨罗市特产，中国国家地理标志产品。粽子，古称“角黍”。粽子最早记载于1600年前西晋新平太守周处所写的《风土记》，其云：“仲夏端五，方伯协极。享用角黍，龟鳞顺德。”于是口口
   {
@@ -1627,7 +1590,7 @@ export const ricedumplingsFoodsList = [
   // 糯米粽子
   {
     province: '湖南省', // 省
-    city: '', // 市
+    city: '长沙市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
@@ -1684,7 +1647,7 @@ export const ricedumplingsFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '嘉兴市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2167,8 +2130,8 @@ export const ricedumplingsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '浙江省',
+    city: '嘉兴市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2221,8 +2184,8 @@ export const ricedumplingsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '广东省',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2275,8 +2238,8 @@ export const ricedumplingsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '福建省',
+    city: '泉州市',
     district: '',
     address: '',
     foodAvatar: '',

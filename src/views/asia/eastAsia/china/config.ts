@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-08-25 11:46:22
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2024-06-28 17:38:23
+ * @LastEditTime: 2025-02-20 17:34:32
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/config.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -21,7 +21,7 @@ const huabeiCook =
   '泰式酸辣虾,古早红糖糍杷台,烤牛肉塔可,绝味鱼头,芥沫手剥鸭掌,小罐牛排肉,桃胶珍菌卤味饭,姜公吕望烤鳗鱼';
 
 const huazhongCook =
-  '小炒肉,热干面,黑胡椒西冷牛排,小炒鲜黄牛肉,鸡肉辛拉面4,弹豆千,飘香牛肉饼,金丝川香牛肉饼,江湖味牛肉,香菇焖饼,热炒火爆虾,松茸鼎汤墨鱼元';
+  '小炒肉,热干面,黑胡椒西冷牛排,小炒鲜黄牛肉,鸡肉辛拉面,弹豆千,飘香牛肉饼,金丝川香牛肉饼,江湖味牛肉,香菇焖饼,热炒火爆虾,松茸鼎汤墨鱼元';
 const dongbeiCook =
   '锅包肉,麻辣烫,冷面,奶香芝士玉米粒,水煎蔬菌,脆皮菠萝包,黑鸭翅中,酸汤谷饲肥牛煲,牛油辣和骨汤,冰鲜板健牛排,牛舌佐芥沫黄酱,芥沫海苔冰淇淋';
 

@@ -2230,5 +2230,5 @@ export const shangHaiFoodsList = [
 console.log(
   '上海上海上海上海上海上海上海上海省有： ',
   shangHaiFoodsList.length,
-  shangHaiFoodsList.map((item) => item.foodName),
+  // shangHaiFoodsList.map((item) => item['foodName']),
 );

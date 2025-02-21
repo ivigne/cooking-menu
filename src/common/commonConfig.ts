@@ -657,7 +657,7 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
       name: 'ASelect',
       // defaultValue: 'jiangSu',
       defaultValue: ({ item }) => {
-        console.log('gbuho', objectFlag.value);
+        // console.log('gbuho', objectFlag.value);
         return (item.resetValue = objectFlag.value
           ? {
               label: '江苏省（苏）',

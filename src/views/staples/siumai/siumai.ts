@@ -13,7 +13,7 @@
 export const siumaiFoodsList = [
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -65,7 +65,7 @@ export const siumaiFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -139,7 +139,7 @@ export const siumaiFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '三明市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -304,7 +304,7 @@ export const siumaiFoodsList = [
   // 蟹黄烧麦
   {
     province: '海南省', // 省
-    city: '', // 市
+    city: '海口市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
@@ -362,7 +362,7 @@ export const siumaiFoodsList = [
   // 玻璃烧麦
   {
     province: '四川省', // 省
-    city: '', // 市
+    city: '乐山市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
@@ -473,7 +473,7 @@ export const siumaiFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -527,7 +527,7 @@ export const siumaiFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '常德市',
     district: '',
     address: '',
     foodAvatar: '',

@@ -495,7 +495,7 @@ export const noodleFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '厦门市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -547,8 +547,8 @@ export const noodleFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '宁德市',
+    district: '古田县',
     address: '',
     foodAvatar: '',
     foodName: '盒面',
@@ -599,7 +599,7 @@ export const noodleFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -651,7 +651,7 @@ export const noodleFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -703,8 +703,8 @@ export const noodleFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '宁德市',
+    district: '屏南县',
     address: '',
     foodAvatar: '',
     foodName: '芋头面',
@@ -755,8 +755,8 @@ export const noodleFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '拌面',
@@ -915,7 +915,7 @@ export const noodleFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -969,8 +969,8 @@ export const noodleFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '沙县拌面',
@@ -2425,7 +2425,7 @@ export const noodleFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2857,7 +2857,7 @@ export const noodleFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '梅州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3719,7 +3719,7 @@ export const noodleFoodsList = [
   },
   {
     province: '河北省',
-    city: '',
+    city: '邢台市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3773,8 +3773,8 @@ export const noodleFoodsList = [
   },
   {
     province: '黑龙江省',
-    city: '',
-    district: '',
+    city: '鸡西市',
+    district: '密山市',
     address: '',
     foodAvatar: '',
     foodName: '烤冷面',
@@ -4471,7 +4471,7 @@ export const noodleFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '开封市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4683,8 +4683,8 @@ export const noodleFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
-    district: '',
+    city: '孝感市',
+    district: '云梦县',
     address: '',
     foodAvatar: '',
     foodName: '云梦炒鱼面',
@@ -4735,7 +4735,7 @@ export const noodleFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '襄阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6701,7 +6701,7 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6753,7 +6753,7 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6805,7 +6805,7 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6909,7 +6909,7 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6961,7 +6961,7 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '广元市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7013,8 +7013,8 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
-    district: '',
+    city: '成都市',
+    district: '邛崃市',
     address: '',
     foodAvatar: '',
     foodName: '奶汤面',
@@ -7065,7 +7065,7 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7117,8 +7117,8 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
-    district: '',
+    city: '成都市',
+    district: '崇州市',
     address: '',
     foodAvatar: '',
     foodName: '渣渣面',
@@ -7273,7 +7273,7 @@ export const noodleFoodsList = [
   },
   {
     province: '台湾',
-    city: '',
+    city: '台南市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7325,7 +7325,7 @@ export const noodleFoodsList = [
   },
   {
     province: '台湾',
-    city: '',
+    city: '台北市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7967,7 +7967,7 @@ export const noodleFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -8561,7 +8561,7 @@ export const noodleFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '昆山市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -8615,8 +8615,8 @@ export const noodleFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
-    district: '',
+    city: '徐州市',
+    district: '沛县',
     address: '',
     foodAvatar: '',
     foodName: '沛县广电冷面',
@@ -8669,8 +8669,8 @@ export const noodleFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
-    district: '',
+    city: '徐州市',
+    district: '丰县',
     address: '',
     foodAvatar: '',
     foodName: '长寿面',
@@ -9047,7 +9047,7 @@ export const noodleFoodsList = [
   },
   {
     province: '吉林省',
-    city: '',
+    city: '延边朝鲜族自治州',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11571,7 +11571,7 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '达州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11625,7 +11625,7 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '达州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11678,8 +11678,8 @@ export const noodleFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '四川省',
-    city: '',
+    province: '重庆市',
+    city: '重庆市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -12327,8 +12327,8 @@ export const noodleFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '温州市',
+    district: '文成县',
     address: '',
     foodAvatar: '',
     foodName: '文成拉面',
@@ -12381,8 +12381,8 @@ export const noodleFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '温州市',
+    district: '文成县',
     address: '',
     foodAvatar: '',
     foodName: '浙南鱼面',
@@ -12435,8 +12435,8 @@ export const noodleFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '温州市',
+    district: '文成县',
     address: '',
     foodAvatar: '',
     foodName: '蟹粉阳春面',
@@ -12489,7 +12489,7 @@ export const noodleFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -12958,7 +12958,7 @@ export const noodleFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '洛阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -13086,8 +13086,8 @@ export const noodleFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '四川省',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -13140,8 +13140,8 @@ export const noodleFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '广西壮族自治区',
+    city: '南宁市',
     district: '',
     address: '',
     foodAvatar: '',

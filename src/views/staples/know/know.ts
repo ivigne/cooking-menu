@@ -2173,7 +2173,7 @@ export const knowFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2225,7 +2225,7 @@ export const knowFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '梅州市',
     district: '',
     address: '',
     foodAvatar: '',

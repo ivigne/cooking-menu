@@ -5,6 +5,114 @@
 // import { lampshadedBeefScriptsList } from './yaanFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const yaanFoodsList = [
+  {
+    province: '四川省',
+    city: '雅安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '刘公雅鱼',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryName: '川菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
+  {
+    province: '四川省',
+    city: '雅安市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '雅安雅鱼全席宴',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryName: '川菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
   // 椒麻鸡
   // 椒麻鸡精选冠大而红、性烈好斗、毛色光亮、肉质鲜美的二郎山跑山鸡为主料，配以上等花椒、糖、酱油、盐、辣椒油、天然香料等炒制而成的秘制调料，具有肉质鲜美、皮薄脆嫩，麻辣鲜香、滋味甘甜、蛋白质含量高等特点。 [21]
   {

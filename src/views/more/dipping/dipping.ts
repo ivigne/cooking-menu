@@ -9,8 +9,8 @@
 export const dippingFoodsList = [
   {
     province: '云南省',
-    city: '',
-    district: '',
+    city: '保山市',
+    district: '腾冲市',
     address: '',
     foodAvatar: '',
     foodName: '煳辣子蘸水',
@@ -46,7 +46,7 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
+    city: '昆明市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -83,7 +83,7 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
+    city: '德宏傣族景颇族自治州',
     district: '',
     address: '',
     foodAvatar: '',
@@ -120,7 +120,7 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
+    city: '昆明市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -157,8 +157,8 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
-    district: '',
+    city: '普洱市',
+    district: '哈尼族彝族自治县',
     address: '',
     foodAvatar: '',
     foodName: '哈尼蘸水',
@@ -194,7 +194,7 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
+    city: '德宏傣族景颇族自治州',
     district: '',
     address: '',
     foodAvatar: '',
@@ -231,8 +231,8 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
-    district: '',
+    city: '大理白族自治州',
+    district: '大理市',
     address: '',
     foodAvatar: '',
     foodName: '梅子醋蘸水',
@@ -268,7 +268,7 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
+    city: '德宏傣族景颇族自治州',
     district: '',
     address: '',
     foodAvatar: '',
@@ -305,7 +305,7 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
+    city: '德宏傣族景颇族自治州',
     district: '',
     address: '',
     foodAvatar: '',
@@ -342,8 +342,8 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
-    district: '',
+    city: '德宏傣族景颇族自治州',
+    district: '芒市',
     address: '',
     foodAvatar: '',
     foodName: '巴撒（鱼撒）',
@@ -379,7 +379,7 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
+    city: '德宏傣族景颇族自治州',
     district: '',
     address: '',
     foodAvatar: '',
@@ -416,7 +416,7 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
+    city: '德宏傣族景颇族自治州',
     district: '',
     address: '',
     foodAvatar: '',
@@ -453,8 +453,8 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
-    district: '',
+    city: '普洱市',
+    district: '江城哈尼族彝族自治县',
     address: '',
     foodAvatar: '',
     foodName: '辣眯——树番茄蘸水',
@@ -490,7 +490,7 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
+    city: '昆明市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -527,8 +527,8 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
-    district: '',
+    city: '红河哈尼族彝族自治州',
+    district: '河口瑶族自治县',
     address: '',
     foodAvatar: '',
     foodName: '百香果蘸水',
@@ -564,8 +564,8 @@ export const dippingFoodsList = [
   },
   {
     province: '云南省',
-    city: '',
-    district: '',
+    city: '昆明市',
+    district: '宜良县',
     address: '',
     foodAvatar: '',
     foodName: '烤鸭蘸水',

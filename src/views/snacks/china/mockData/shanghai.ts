@@ -478,4 +478,4 @@ export const shangHaiSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('上海小吃:', shangHaiSnacksFoodsList, shangHaiSnacksFoodsList.length);
+// console.log('上海小吃:', shangHaiSnacksFoodsList, shangHaiSnacksFoodsList.length);

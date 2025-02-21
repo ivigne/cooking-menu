@@ -13,7 +13,7 @@
 export const meatballsFoodsList = [
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -281,7 +281,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福清市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -335,8 +335,8 @@ export const meatballsFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '真心豆腐丸',
@@ -389,7 +389,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '宁德市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -982,8 +982,8 @@ export const meatballsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '广西省',
-    city: '',
+    province: '广东省',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1088,9 +1088,9 @@ export const meatballsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '河南省',
-    city: '',
-    district: '',
+    province: '河北省',
+    city: '保定市',
+    district: '定州市',
     address: '',
     foodAvatar: '',
     foodName: '盐煎丸子',
@@ -2655,7 +2655,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '惠州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2709,7 +2709,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2763,7 +2763,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2817,7 +2817,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2871,7 +2871,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '汕尾市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2925,7 +2925,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3033,7 +3033,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3357,8 +3357,8 @@ export const meatballsFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
-    district: '',
+    city: '邵阳市',
+    district: '隆回县',
     address: '',
     foodAvatar: '',
     foodName: '猪血丸子',
@@ -3518,8 +3518,8 @@ export const meatballsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '江苏省',
-    city: '',
+    province: '湖北省',
+    city: '随州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3573,7 +3573,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '南京市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4004,8 +4004,8 @@ export const meatballsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '江西省',
-    city: '',
+    province: '江苏省',
+    city: '扬州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4058,9 +4058,9 @@ export const meatballsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '江西省',
-    city: '',
-    district: '',
+    province: '福建省',
+    city: '龙岩市',
+    district: '长汀县',
     address: '',
     foodAvatar: '',
     foodName: '珍珠肉丸',
@@ -4113,8 +4113,8 @@ export const meatballsFoodsList = [
   },
   {
     province: '吉林省',
-    city: '',
-    district: '',
+    city: '长春市',
+    district: '双阳区',
     address: '',
     foodAvatar: '',
     foodName: '冰霜丸子',
@@ -4167,8 +4167,8 @@ export const meatballsFoodsList = [
   },
   {
     province: '吉林省',
-    city: '',
-    district: '',
+    city: '长春市',
+    district: '榆树市',
     address: '',
     foodAvatar: '',
     foodName: '香酥丸子',
@@ -4491,8 +4491,8 @@ export const meatballsFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
-    district: '',
+    city: '烟台市',
+    district: '招远市',
     address: '',
     foodAvatar: '',
     foodName: '山东蒸丸-招远蒸丸',
@@ -4545,7 +4545,7 @@ export const meatballsFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '济南市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4599,8 +4599,8 @@ export const meatballsFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
-    district: '',
+    city: '烟台市',
+    district: '招远市',
     address: '',
     foodAvatar: '',
     foodName: '招远蒸丸',
@@ -4653,8 +4653,8 @@ export const meatballsFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
-    district: '',
+    city: '济南市',
+    district: '历城区',
     address: '',
     foodAvatar: '',
     foodName: '焦熘豆腐丸子',
@@ -4867,8 +4867,8 @@ export const meatballsFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
-    district: '',
+    city: '泸州市',
+    district: '泸县',
     address: '',
     foodAvatar: '',
     foodName: '窖沙珍珠丸',
@@ -4957,8 +4957,8 @@ export const meatballsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '河南省',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5011,8 +5011,8 @@ export const meatballsFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '福建省',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',

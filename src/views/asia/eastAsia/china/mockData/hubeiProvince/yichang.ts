@@ -8,6 +8,60 @@
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const yichangFoodsList = [
+  {
+    province: '湖北省',
+    city: '宜昌市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '八宝海参',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
   // 鱼腥草，又名节节根、节儿根，多年生草本植物，因茎叶有鱼腥味而得名，全草可入中药。宜昌市境内均有生长，多为野生，还有人工载植。一年四季都有上市（春季最多），以茎肥嫩者为佳。配姜、蒜泥、酱油、醋、葱段、味精、麻油等即成，此菜脆嫩、清香、爽口，有清热、解毒、消炎之功效。
   {
     province: '湖北省',

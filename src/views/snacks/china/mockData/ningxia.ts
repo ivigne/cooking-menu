@@ -174,4 +174,4 @@ export const ningXiaSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('宁夏小吃:', ningXiaSnacksFoodsList, ningXiaSnacksFoodsList.length);
+// console.log('宁夏小吃:', ningXiaSnacksFoodsList, ningXiaSnacksFoodsList.length);

@@ -69,6 +69,7 @@
   </PageWrapper>
 </template>
 <script lang="ts" setup>
+  import { PageWrapper } from '/@/components/Page';
   import { replaceAndSplitStr, joinStr } from '/@/utils/general';
   import { ref, Ref, reactive, unref } from 'vue';
   import { List, Card, Button, Space, Input, Form } from 'ant-design-vue';

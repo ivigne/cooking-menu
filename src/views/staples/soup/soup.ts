@@ -125,8 +125,8 @@ export const soupFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '宁德市',
+    district: '屏南县',
     address: '',
     foodAvatar: '',
     foodName: '特色鸭草滋补汤',
@@ -177,8 +177,8 @@ export const soupFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '宁德市',
+    district: '古田县',
     address: '',
     foodAvatar: '',
     foodName: '平湖鱼汤',
@@ -229,7 +229,7 @@ export const soupFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '龙岩市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -443,7 +443,7 @@ export const soupFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '梅州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -549,7 +549,7 @@ export const soupFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '开封市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -763,7 +763,7 @@ export const soupFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -977,7 +977,7 @@ export const soupFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1091,58 +1091,6 @@ export const soupFoodsList = [
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'jiangsuCuisine',
     cuisineCategoryName: '江苏菜、苏菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '陕西省',
-    city: '西安市',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '肉丸胡辣汤',
-    foodName_en: 'hoisinSoup',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'shaanxiCuisine',
-    cuisineCategoryName: '陕西菜、陕菜、秦菜',
     tasteCode: 'spicy',
     tasteName: '麻辣',
     cookingTypeCode: 'multiple',
@@ -2369,7 +2317,7 @@ export const soupFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '龙岩市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2423,7 +2371,7 @@ export const soupFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '龙岩市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2477,7 +2425,7 @@ export const soupFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2531,11 +2479,11 @@ export const soupFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '南平市',
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '龙风汤',
+    foodName: '龙凤汤',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -3989,7 +3937,7 @@ export const soupFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '梅州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4043,7 +3991,7 @@ export const soupFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4097,7 +4045,7 @@ export const soupFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4151,7 +4099,7 @@ export const soupFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '湛江市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4205,7 +4153,7 @@ export const soupFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4259,7 +4207,7 @@ export const soupFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4313,7 +4261,7 @@ export const soupFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5501,7 +5449,7 @@ export const soupFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5555,7 +5503,7 @@ export const soupFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5609,7 +5557,7 @@ export const soupFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5987,7 +5935,7 @@ export const soupFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6041,7 +5989,7 @@ export const soupFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6095,8 +6043,8 @@ export const soupFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
-    district: '',
+    city: '十堰市',
+    district: '郧阳区',
     address: '',
     foodAvatar: '',
     foodName: '郧阳三合汤',
@@ -6149,7 +6097,7 @@ export const soupFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6203,7 +6151,7 @@ export const soupFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6635,7 +6583,7 @@ export const soupFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '徐州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6689,7 +6637,7 @@ export const soupFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6743,7 +6691,7 @@ export const soupFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7229,7 +7177,7 @@ export const soupFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '宜春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7283,7 +7231,7 @@ export const soupFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '宜春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7337,7 +7285,7 @@ export const soupFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '南昌市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7391,7 +7339,7 @@ export const soupFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '宜春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7445,7 +7393,7 @@ export const soupFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '宜春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7499,7 +7447,7 @@ export const soupFoodsList = [
   },
   {
     province: '吉林省',
-    city: '',
+    city: '长春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7553,7 +7501,7 @@ export const soupFoodsList = [
   },
   {
     province: '吉林省',
-    city: '',
+    city: '长春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7607,7 +7555,7 @@ export const soupFoodsList = [
   },
   {
     province: '吉林省',
-    city: '',
+    city: '长春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7661,7 +7609,7 @@ export const soupFoodsList = [
   },
   {
     province: '吉林省',
-    city: '',
+    city: '长春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -8525,7 +8473,7 @@ export const soupFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '青岛市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -8579,7 +8527,7 @@ export const soupFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '泰安市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -8633,7 +8581,7 @@ export const soupFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '泰安市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -8687,7 +8635,7 @@ export const soupFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '日照市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -9645,61 +9593,7 @@ export const soupFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '烩菜如酸辣汤',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'sichuanCuisine',
-    cuisineCategoryName: '川菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -9752,8 +9646,8 @@ export const soupFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '四川省',
-    city: '',
+    province: '重庆市',
+    city: '重庆市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -10239,7 +10133,7 @@ export const soupFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '宁波市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -10295,7 +10189,7 @@ export const soupFoodsList = [
 export const soupFoodsList1 = [
   {
     province: '吉林省',
-    city: '',
+    city: '长春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -10517,7 +10411,7 @@ export const soupFoodsList1 = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '湛江市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -10630,7 +10524,7 @@ export const soupFoodsList1 = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '泰州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -10778,7 +10672,7 @@ export const soupFoodsList1 = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '泰安市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -10815,7 +10709,7 @@ export const soupFoodsList1 = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '威海市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11111,7 +11005,7 @@ export const soupFoodsList1 = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '台州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11316,8 +11210,8 @@ export const soupFoodsList1 = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '浙江省',
+    city: '台州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11370,8 +11264,8 @@ export const soupFoodsList1 = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '浙江省',
+    city: '台州市',
     district: '',
     address: '',
     foodAvatar: '',

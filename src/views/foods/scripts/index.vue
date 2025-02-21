@@ -1,8 +1,8 @@
 <!--
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-10-13 12:04:32
- * @LastEditors: vigne 1186963387@qq.com
- * @LastEditTime: 2023-06-29 18:54:10
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2025-02-18 14:23:33
  * @FilePath: /cooking-menu/src/views/foods/scripts/index.vue
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -32,6 +32,7 @@
   };
 </script>
 <script lang="ts" setup>
+  import { PageWrapper } from '/@/components/Page';
   import { ref, unref } from 'vue';
   import dayjs from 'dayjs';
   import { tableColumnsConfig } from './data';
@@ -50,7 +51,7 @@
   const printContent = ref<ElRef>(null);
   // const loadingRef = ref(false); // 页面Loading
   const checkedKeys = ref<(string | number)[]>([]); // 选中的行
-  console.log('tableData', t);
+  console.log('-----tableData', t);
   const tableData = ref<any>([]);
   tableData.value = JSON.parse(localStorage.getItem('prevRecordData') || '') || [];
 

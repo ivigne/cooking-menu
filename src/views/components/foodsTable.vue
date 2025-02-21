@@ -39,6 +39,7 @@
   import { PageWrapper } from '/@/components/Page';
   // import { BasicTable, useTable } from '/@/components/Table';
   import { ref, toRefs, reactive, onMounted } from 'vue';
+  import { Button, Tooltip } from 'ant-design-vue';
   import {
     // formConfig,
     // tableColumnsConfig,
@@ -60,18 +61,21 @@
   const { t } = useI18n();
   const { createMessage } = useMessage();
   const props = defineProps({
+    //数组对象数据合集，针对于小吃，主食这类页面
     data: {
       type: [Array, Object],
       default: () => [],
     },
+    // 对象数据合集
     objData: {
       type: Object as PropType<Recordable>,
       default: () => ({}),
     },
+    // 类型，type为“other”，意指“小吃，主食，更多美食”这类，默认“other”
     type: { type: String, default: 'other' },
   });
   const { data, objData, type } = toRefs(props);
-  console.log('props', data.value, objData.value);
+  console.log('---------props', data.value, objData.value);
   objectFlag.value = type.value != 'other' ? true : false;
   // const emit = defineEmits(['filter-province']);
   // watch(province, (val) => {
@@ -137,7 +141,6 @@
     } = params;
     const result = ref<Recordable[]>([]);
     // 根据省过滤数据
-
     if (type.value != 'other') {
       if (!province) return createMessage.warning('请选择省市区');
       result.value = objData.value[province?.value];
@@ -148,7 +151,7 @@
     }
     // 根据食物名称过滤数据
     if (foodName && foodName.length > 0) {
-      result.value = result.value?.filter((item) => item?.foodName.includes(foodName));
+      result.value = result.value?.filter((item) => item['foodName'].includes(foodName));
     }
     // 根据“是否已烹饪”过滤数据
     if (isCookFlag && isCookFlag.length > 0) {

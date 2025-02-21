@@ -901,4 +901,4 @@ export const shanXiSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('山西小吃:', shanXiSnacksFoodsList, shanXiSnacksFoodsList.length);
+// console.log('山西小吃:', shanXiSnacksFoodsList, shanXiSnacksFoodsList.length);

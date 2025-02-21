@@ -30,6 +30,18 @@
  * 进餐时，在面条上放些韭菜、豆芽、浇上卤料，再配上胡椒粉 、油炸蒜丁、油炸扁鱼丝、香菜等佐料。吃卤面最好是趁热。
  * 炸脆的蒜丁有一种特别的香味，但泡久了会发苦，所以“食速”一定要快。吃卤面一般搭配的料有：卤大肠，卤肺片，卤肉，炸肉，笋片，鸭血，油条，五香等等。
  * 在漳州市内比较出名的是：阿芬卤面，卤面海，洋老洲卤面。
+ * 品牌
+ * 依海肉燕：福州最富盛名的小吃老铺之一，至今已有一百多年的悠久历史。2004 年 12 月，“依海牌” 被福州市工商局评定为 “福州市知名商标”。
+ * 同利肉燕：福州的老字号品牌，其肉燕制作工艺传承已久，在福州乃至全国都有较高的知名度，是很多人品尝肉燕的首选品牌。
+ * 里小笼：有肉燕相关产品在阿里巴巴等平台销售，产品有 D 款肉燕 500 克装袋、H 款肉燕 250 克 * 2 盒等不同规格。
+ * 郑森记：推出了鲜笋肉燕等产品，在火锅食材等领域有一定市场。
+ * 配方
+ * 燕皮配方：主要原料为猪后腿瘦肉、地瓜粉。将猪后腿瘦肉剔净筋、膜、油，按肌肉结构剖开切块，放在专用的荔枝树头木墩上，用木槌捶打成肉泥，随即洒上地瓜粉，边洒边拍打均匀，边碾压直至厚薄均匀成纸状薄片的燕坯，晾干切裁即可。
+ * 肉馅配方：以常见配方为例，准备前腿肉 400 克、虾仁 100 克、鸡蛋 1 个、荸荠 5 个、小葱 2 根、老抽 5 克、生抽 10 克、味精 2 克、白糖 10 克、盐 5 克。把猪肉和虾仁放到绞肉机打碎后，打入鸡蛋，加入切碎的荸荠以及调料顺时针搅拌均匀，最后加入葱花。
+ * 供应商
+ * 福鼎市鼎盟食品有限公司：为里小笼肉燕的生产厂家。
+ * 闽侯县祥谦祥鸿肉燕加工店：位于福建省福州市闽侯县祥谦镇，经营范围包括肉燕、燕皮加工销售。
+ * 福建郑森记食品有限公司：提供郑森记品牌的肉燕及相关产品。
  */
 // import { lampshadedBeefScriptsList } from './shaxianFoodScriptContent/lampshadedBeef';
 export const fuJianSnacksFoodsList = [
@@ -87,7 +99,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -139,8 +151,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '永安市',
     address: '',
     foodAvatar: '',
     foodName: '永安粿条',
@@ -191,7 +203,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '泉州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -243,7 +255,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -295,7 +307,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -347,7 +359,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '泉州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -399,7 +411,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -451,7 +463,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '泉州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -503,7 +515,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -555,7 +567,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '宁德市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -607,7 +619,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '宁德市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -659,7 +671,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '龙岩市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -711,7 +723,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '三明市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -763,7 +775,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '厦门市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -815,7 +827,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -867,7 +879,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -919,7 +931,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -971,7 +983,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1023,7 +1035,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1075,7 +1087,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1127,7 +1139,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3771,7 +3783,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3825,7 +3837,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3879,7 +3891,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '泉州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3933,7 +3945,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '三明市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3987,7 +3999,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '泉州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4041,7 +4053,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '南平市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4095,8 +4107,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '南平市',
+    district: '延平区',
     address: '',
     foodAvatar: '',
     foodName: '炸雪薯',
@@ -4149,8 +4161,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '禧果',
@@ -4203,8 +4215,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '米冻皮',
@@ -4257,7 +4269,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4311,7 +4323,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4365,7 +4377,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4419,7 +4431,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '南平市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4473,7 +4485,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4527,7 +4539,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4581,7 +4593,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4635,7 +4647,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4689,7 +4701,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '厦门市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4743,7 +4755,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4797,7 +4809,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4851,7 +4863,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '龙岩市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4905,7 +4917,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4959,7 +4971,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '南平市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5013,8 +5025,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '龙岩市',
+    district: '新罗区',
     address: '',
     foodAvatar: '',
     foodName: '高粱粟',
@@ -5067,8 +5079,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '沙县扁肉',
@@ -5119,8 +5131,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '福建金包银',
@@ -5171,64 +5183,12 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
     foodName: '炖罐',
     foodName_en: 'stewedJars',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '砂锅',
-    foodName_en: 'casseroles',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'fuJianCuisine',
@@ -5329,8 +5289,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '龙岩市',
+    district: '新罗区',
     address: '',
     foodAvatar: '',
     foodName: '酿芋子',
@@ -5383,8 +5343,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '龙岩市',
+    district: '新罗区',
     address: '',
     foodAvatar: '',
     foodName: '白头翁饧',
@@ -5437,8 +5397,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '龙岩市',
+    district: '新罗区',
     address: '',
     foodAvatar: '',
     foodName: '苎叶饧',
@@ -5491,7 +5451,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5545,277 +5505,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '鸭爪草',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '鸡爪草',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '炒马兰草',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '香椿芽',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '野苋菜',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5869,61 +5559,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '冬瓜煲',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5977,8 +5613,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '龙岩市',
+    district: '新罗区',
     address: '',
     foodAvatar: '',
     foodName: '南瓜饧',
@@ -6031,115 +5667,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '狗爪豆',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '罗汉豆',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6193,7 +5721,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6247,7 +5775,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '龙岩市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6301,8 +5829,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '龙岩市',
+    district: '新罗区',
     address: '',
     foodAvatar: '',
     foodName: '麦子饧',
@@ -6355,8 +5883,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '龙岩市',
+    district: '新罗区',
     address: '',
     foodAvatar: '',
     foodName: '拳头粟饧',
@@ -6409,7 +5937,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '龙岩市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6463,8 +5991,8 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '南平市',
+    district: '延平区',
     address: '',
     foodAvatar: '',
     foodName: '烧大块',
@@ -6517,709 +6045,7 @@ export const fuJianSnacksFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '八卦宴',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '文公菜',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '幔亭宴',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '蛇宴',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '茶宴',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '涮兔肉',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '熏鹅',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '鲤干',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '冬笋炒底',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '菊花鱼',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '双钱蛋茹',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '茄汁鸡肉',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '建瓯板鸭',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'fuJianCuisine',
-    cuisineCategoryName: '闽菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '福建省',
-    city: '',
+    city: '三明市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7272,4 +6098,8 @@ export const fuJianSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('福建小吃:', fuJianSnacksFoodsList, fuJianSnacksFoodsList.length);
+// console.log(
+//   '福建小吃111:',
+//   // fuJianSnacksFoodsList,
+//   fuJianSnacksFoodsList.length,
+// );

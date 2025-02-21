@@ -1,8 +1,8 @@
 import { ref } from 'vue';
-import { cityList } from '../../../common/citySort';
 import { FormSchema } from '/@/components/Form/src/types/form';
 import { areaOptions, chinaAreaProvince, cityLevelOptions } from '/@/common/chinaEveryAreaData';
-
+import { useMapStore } from '/@/store/modules/map';
+const mapStore = useMapStore();
 export const provinceOptions = ref<any[]>([]);
 export const formSchemas: () => FormSchema[] = () => [
   {
@@ -16,7 +16,7 @@ export const formSchemas: () => FormSchema[] = () => [
         onChange: (value: string) => {
           chinaAreaProvince[value].map((name) => {
             formModel.province = null;
-            provinceOptions.value = cityList.filter((item) => item.value === name);
+            provinceOptions.value = mapStore.districtDataMain.filter((item) => item.name === name);
             console.log(name, provinceOptions.value);
           });
         },

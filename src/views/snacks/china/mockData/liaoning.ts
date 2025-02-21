@@ -740,4 +740,4 @@ export const liaoNingSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('辽宁小吃:', liaoNingSnacksFoodsList, liaoNingSnacksFoodsList.length);
+// console.log('辽宁小吃:', liaoNingSnacksFoodsList, liaoNingSnacksFoodsList.length);

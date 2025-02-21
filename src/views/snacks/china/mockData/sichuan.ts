@@ -19,7 +19,7 @@
 export const siChuanSnacksFoodsList = [
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -71,7 +71,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '自贡市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -123,7 +123,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -175,7 +175,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -227,7 +227,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -279,7 +279,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -331,7 +331,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -383,7 +383,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -435,7 +435,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -487,7 +487,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -539,7 +539,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -591,7 +591,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1847,7 +1847,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '乐山市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1900,9 +1900,9 @@ export const siChuanSnacksFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '四川省',
-    city: '',
-    district: '',
+    province: '重庆市',
+    city: '重庆市',
+    district: '涪陵区',
     address: '',
     foodAvatar: '',
     foodName: '涪陵油醪糟',
@@ -1955,7 +1955,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '达州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2129,7 +2129,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2166,7 +2166,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2203,7 +2203,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2240,7 +2240,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2277,7 +2277,7 @@ export const siChuanSnacksFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2676,4 +2676,4 @@ export const siChuanSnacksFoodsList = [
     // 是否已完成烹饪标记，0是否，1是完成
   },
 ];
-console.log('四川小吃:', siChuanSnacksFoodsList, siChuanSnacksFoodsList.length);
+// console.log('四川小吃:', siChuanSnacksFoodsList, siChuanSnacksFoodsList.length);

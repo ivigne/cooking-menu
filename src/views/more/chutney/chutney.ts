@@ -347,7 +347,7 @@ export const chutneyFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '泸州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1228,7 +1228,7 @@ export const chutneyFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1577,7 +1577,7 @@ export const chutneyFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '临沂市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1671,9 +1671,9 @@ export const chutneyFoodsList = [
     isCookFlag: 0, // 是否已完成烹饪标记，0是否，1是完成
   },
   {
-    province: '四川省',
-    city: '',
-    district: '',
+    province: '重庆市',
+    city: '重庆市',
+    district: '永川区',
     address: '',
     foodAvatar: '',
     foodName: '永川豆豉',
@@ -2213,9 +2213,9 @@ export const chutneyFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '四川省',
-    city: '',
-    district: '',
+    province: '重庆市',
+    city: '重庆市',
+    district: '涪陵区',
     address: '',
     foodAvatar: '',
     foodName: '涪陵榨菜',
@@ -2288,8 +2288,8 @@ export const chutneyFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '宁波市',
+    district: '余姚市',
     address: '',
     foodAvatar: '',
     foodName: '浙江榨菜',
@@ -2325,8 +2325,8 @@ export const chutneyFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '嘉兴市',
+    district: '海宁市',
     address: '',
     foodAvatar: '',
     foodName: '海宁斜桥榨菜',
@@ -2436,8 +2436,8 @@ export const chutneyFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '湖州市',
+    district: '南浔区',
     address: '',
     foodAvatar: '',
     foodName: '南浔香大头菜',
@@ -3468,9 +3468,9 @@ export const chutneyFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '四川省',
-    city: '',
-    district: '',
+    province: '重庆市',
+    city: '重庆市',
+    district: '忠县',
     address: '',
     foodAvatar: '',
     foodName: '忠县豆腐乳',
@@ -3688,7 +3688,7 @@ export const chutneyFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',

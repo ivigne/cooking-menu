@@ -24,7 +24,7 @@
 export const heiLongJiangSnacksFoodsList = [
   {
     province: '黑龙江省',
-    city: '',
+    city: '哈尔滨市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -76,7 +76,7 @@ export const heiLongJiangSnacksFoodsList = [
   },
   {
     province: '黑龙江省',
-    city: '',
+    city: '哈尔滨市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -180,7 +180,7 @@ export const heiLongJiangSnacksFoodsList = [
   },
   {
     province: '黑龙江省',
-    city: '',
+    city: '齐齐哈尔市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -286,7 +286,7 @@ export const heiLongJiangSnacksFoodsList = [
   },
   {
     province: '黑龙江省',
-    city: '',
+    city: '哈尔滨市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -339,4 +339,4 @@ export const heiLongJiangSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('黑龙江小吃:', heiLongJiangSnacksFoodsList, heiLongJiangSnacksFoodsList.length);
+// console.log('黑龙江小吃:', heiLongJiangSnacksFoodsList, heiLongJiangSnacksFoodsList.length);

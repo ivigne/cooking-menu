@@ -6,6 +6,60 @@
 // import { lampshadedBeefScriptsList } from './panzhihuaFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const panzhihuaFoodsList = [
+  {
+    province: '四川省',
+    city: '攀枝花市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '盐边牛肉',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'sichuanCuisine',
+    cuisineCategoryName: '川菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
   // 盐边油底肉
   // 盐边油底肉，四川省盐边县特产，中国国家地理标志产品。远古，居住在“笮都夷”的笮人，为在炎热的夏季防止猪肉腐烂变质，研制盐边油底肉；盐边油底肉因绿色无污染，色泽鲜明、醇香浓郁、口感滋糯，粑而不酥、肥而不腻、软而不绵、开胃健脾，具有独特而浓郁的原始肉香。2012年12月26日，原国家质检总局批准对“盐边
   {

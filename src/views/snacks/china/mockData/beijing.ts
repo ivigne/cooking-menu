@@ -989,4 +989,4 @@ export const beiJingSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('北京小吃:', beiJingSnacksFoodsList, beiJingSnacksFoodsList.length);
+// console.log('北京小吃:', beiJingSnacksFoodsList, beiJingSnacksFoodsList.length);

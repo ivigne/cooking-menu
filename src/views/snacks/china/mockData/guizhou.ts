@@ -95,7 +95,7 @@ export const guiZhouSnacksFoodsList = [
   },
   {
     province: '贵州省',
-    city: '',
+    city: '贵阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -147,7 +147,7 @@ export const guiZhouSnacksFoodsList = [
   },
   {
     province: '贵州省',
-    city: '',
+    city: '贵阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2216,4 +2216,4 @@ export const guiZhouSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('贵州小吃:', guiZhouSnacksFoodsList, guiZhouSnacksFoodsList.length);
+// console.log('贵州小吃:', guiZhouSnacksFoodsList, guiZhouSnacksFoodsList.length);

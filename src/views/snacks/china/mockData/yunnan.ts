@@ -133,8 +133,8 @@ export const yunNanSnacksFoodsList = [
   // 气锅鸡
   {
     province: '云南省', // 省
-    city: '', // 市
-    district: '', // 区
+    city: '曲靖市', // 市
+    district: '红河哈尼族彝族自治州', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '气锅鸡', // 美食名称
@@ -1255,4 +1255,4 @@ export const yunNanSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('云南小吃:', yunNanSnacksFoodsList, yunNanSnacksFoodsList.length);
+// console.log('云南小吃:', yunNanSnacksFoodsList, yunNanSnacksFoodsList.length);

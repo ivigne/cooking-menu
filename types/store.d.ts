@@ -46,3 +46,22 @@ export interface BeforeMiniState {
   menuMode?: MenuModeEnum;
   menuType?: MenuTypeEnum;
 }
+export interface DistrictItem {
+  adcode: string;
+  center: string;
+  citycode: string[];
+  level: string;
+  name: string;
+  districts: DistrictItem[];
+  // label: string;
+  //   value: string;
+  //   children?: DistrictItem[];
+}
+// export interface DistrictDataMain {
+//   adcode: string;
+//   center: string;
+//   citycode: string[];
+//   districts: DistrictDataMain[];
+//   level: string;
+//   name: string;
+// }

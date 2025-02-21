@@ -121,7 +121,7 @@ export const pastryFoodsList = [
   },
   {
     province: '安徽省',
-    city: '',
+    city: '阜阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -875,7 +875,7 @@ export const pastryFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '濮阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -929,7 +929,7 @@ export const pastryFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1193,7 +1193,7 @@ export const pastryFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '徐州市',
     district: '',
     address: '',
     foodAvatar: '',

@@ -638,58 +638,6 @@ export const tianJinSnacksFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '烤鸭',
-    foodName_en: 'roastDuck',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: 'tianJinCuisine',
-    cuisineCategoryName: '天津菜',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '天津',
-    city: '天津市',
-    district: '',
-    address: '',
-    foodAvatar: '',
     foodName: '糖炒栗子',
     foodName_en: 'sugarFriedChestnuts',
     foodCategoryCode: 'beef',
@@ -1071,4 +1019,4 @@ export const tianJinSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('天津小吃:', tianJinSnacksFoodsList, tianJinSnacksFoodsList.length);
+// console.log('天津小吃:', tianJinSnacksFoodsList, tianJinSnacksFoodsList.length);

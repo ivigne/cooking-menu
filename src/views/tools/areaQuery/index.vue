@@ -49,7 +49,9 @@
   const ListItem = List.Item;
   const ListItemMeta = List.Item.Meta;
   const arrayData = ref('');
-  import { cityList } from '/@/common/city';
+  // import { cityList } from '/@/common/city';
+  import { useMapStore } from '/@/store/modules/map';
+  const mapStore = useMapStore();
   import {
     cityFirst,
     citySecond,
@@ -114,9 +116,9 @@
       });
 
       await line?.map((name) => {
-        cityList.filter((item) => {
-          if (item.value.includes(name)) {
-            const cityNameList = item.children.map((cl) => cl.value) || [];
+        mapStore.districtDataMain.filter((item) => {
+          if (item.name.includes(name)) {
+            const cityNameList = item.districts.map((cl) => cl.name) || [];
             // objLine.value['line5'] += name + ': (' + cityNameList?.join(',') + ')\n';
             // objLine.value['lineLen5'] += objLine.value['line5'].length;
             Object.keys(cityData.value).forEach((key, j) => {
@@ -124,7 +126,7 @@
               let cityListFilter = cityData.value[key].filter((x) => cityNameList?.includes(x));
               objLine.value['line' + j] +=
                 name +
-                (item.children?.length > 1 && cityListFilter.length > 0
+                (item.districts?.length > 1 && cityListFilter.length > 0
                   ? '(' + cityListFilter?.join(',') + ')'
                   : '') +
                 '->\n';
@@ -152,4 +154,3 @@
     });
   };
 </script>
-../../../common/citySort

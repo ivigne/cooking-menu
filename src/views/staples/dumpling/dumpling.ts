@@ -121,8 +121,8 @@ export const dumplingFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '玉饺',
@@ -173,8 +173,8 @@ export const dumplingFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '夏茂芋饺',
@@ -227,8 +227,8 @@ export const dumplingFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '龙岩市',
+    district: '长汀县',
     address: '',
     foodAvatar: '',
     foodName: '芋子饺',
@@ -281,8 +281,8 @@ export const dumplingFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '沙县蒸饺',
@@ -333,8 +333,8 @@ export const dumplingFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '芋饺',
@@ -385,8 +385,8 @@ export const dumplingFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '三明市',
+    district: '沙县',
     address: '',
     foodAvatar: '',
     foodName: '沙县锅贴',
@@ -491,7 +491,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1161,7 +1161,7 @@ export const dumplingFoodsList = [
   // 鸡冠饺子
   {
     province: '湖北省', // 省
-    city: '', // 市
+    city: '武汉市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
@@ -1219,7 +1219,7 @@ export const dumplingFoodsList = [
   // 锅底饺子
   {
     province: '湖北省', // 省
-    city: '', // 市
+    city: '武汉市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
@@ -1277,7 +1277,7 @@ export const dumplingFoodsList = [
   // 香菜饺子
   {
     province: '湖北省', // 省
-    city: '', // 市
+    city: '武汉市', // 市
     district: '', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
@@ -1375,7 +1375,7 @@ export const dumplingFoodsList = [
   ,
   {
     province: '河南省',
-    city: '',
+    city: '开封市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1431,7 +1431,7 @@ export const dumplingFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '锅贴',
+    foodName: '开封锅贴',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
@@ -1589,7 +1589,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1643,7 +1643,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1955,12 +1955,12 @@ export const dumplingFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '青岛市',
     district: '',
     address: '',
     foodAvatar: '',
     foodName: '青岛锅贴',
-    foodName_en: 'qingdaoPotStickers',
+    foodName_en: 'potStickers',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',
     cuisineCategoryCode: 'shangdongCuisine',
@@ -2007,7 +2007,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2167,7 +2167,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2221,7 +2221,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2383,7 +2383,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2437,7 +2437,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2491,7 +2491,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2545,7 +2545,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3679,7 +3679,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '赣州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3895,7 +3895,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '淄博市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4256,7 +4256,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4626,7 +4626,7 @@ export const dumplingFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '温州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4826,8 +4826,8 @@ export const dumplingFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '广东省',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4880,8 +4880,8 @@ export const dumplingFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '广东省',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -4934,62 +4934,8 @@ export const dumplingFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '原生态野菜水煎饺',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: '',
-    cuisineCategoryName: '',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '未知',
-    city: '',
+    province: '江苏省',
+    city: '淮安市',
     district: '',
     address: '',
     foodAvatar: '',

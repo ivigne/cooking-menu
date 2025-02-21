@@ -5,6 +5,60 @@
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const shiyanFoodsList = [
+  {
+    province: '湖北省',
+    city: '十堰市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '武当猴头',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hubeiCuisine',
+    cuisineCategoryName: '楚菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
   // 神仙豆腐是湖北郧西、陕西佛坪、河南淅川、江西、广西桂林、湖南、贵州、安徽六安等地流行的一道特色传统小吃。该小吃以短枝六道木娕叶、臭黄金子凉粉等食材制成，色泽淡雅、清香味浓，口感滑溜舒适，
   {
     province: '湖北省',

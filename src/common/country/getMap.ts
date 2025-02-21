@@ -12,14 +12,14 @@ interface DistrictItem {
 // 352ccea64943e74f69bdc4597aff13ef  || 497e8ce890613e86af0ef296b41b8030 可用
 const AMAP_KEY = '352ccea64943e74f69bdc4597aff13ef'; // 您的高德Web服务API密钥,需要替换成您的密钥
 const loading = ref(false);
-export const districtDataMain = ref<any[]>([]);
-export const districtData = ref<DistrictItem[]>([]);
-
+export const districtDataMain = ref<any[]>([]); //主要中国城市
+export const districtData = ref<DistrictItem[]>([]); //获取中国所有行政区数据
+const prefixUrl = 'https://restapi.amap.com/v3/config/district';
 // 递归获取下级行政区
 export const getSubDistricts = async (adcode: string): Promise<DistrictItem[]> => {
   try {
     const { data } = await axios.get(
-      `https://restapi.amap.com/v3/config/district?keywords=${adcode}&subdistrict=1&key=${AMAP_KEY}`,
+      `${prefixUrl}?keywords=${adcode}&subdistrict=1&key=${AMAP_KEY}`,
     );
     if (data.status === '1' && data.districts?.[0]?.districts) {
       const children = await Promise.all(
@@ -45,11 +45,11 @@ export const getSubDistricts = async (adcode: string): Promise<DistrictItem[]> =
   }
 };
 // 获取所有行政区数据
-export const queryDistricts = async (country = '中国', subdistrict = 2, isAll = false) => {
+export const queryDistrictsFn = async (country = '中国', subdistrict = 2, isAll = false) => {
   loading.value = true;
   try {
     const { data } = await axios.get(
-      `https://restapi.amap.com/v3/config/district?keywords=${country}&subdistrict=${subdistrict}&key=${AMAP_KEY}`,
+      `${prefixUrl}?keywords=${country}&subdistrict=${subdistrict}&key=${AMAP_KEY}`,
     );
     districtDataMain.value = data.districts?.[0]?.districts || [];
     console.log('data', data, districtDataMain.value);
@@ -68,3 +68,4 @@ export const queryDistricts = async (country = '中国', subdistrict = 2, isAll 
     loading.value = false;
   }
 };
+// await queryDistricts('中国', 2, false);

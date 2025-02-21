@@ -5,6 +5,60 @@
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const xiangtanFoodsList = [
+  {
+    province: '湖南省',
+    city: '湘潭市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '油辣冬笋尖',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
   // 湘潭、湘乡、韶山都有熏制腊菜的习惯。制法一般是冬至后取鲜肉切成条块，用盐腌渍两三天，晾干，以糠壳、瘪谷、木屑、花生壳等烟火熏烤，成腊黄色即成。因以农历十二月（腊月）熏制的最好，故称冬腊肉，味香可口，且不像鲜肉油腻。
   {
     province: '湖南省',

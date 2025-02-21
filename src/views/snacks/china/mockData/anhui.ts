@@ -12,8 +12,8 @@
 export const anHuiSnacksFoodsList = [
   {
     province: '安徽省',
-    city: '',
-    district: '',
+    city: '淮南市',
+    district: '寿县',
     address: '',
     foodAvatar: '',
     foodName: '大救驾',
@@ -64,7 +64,7 @@ export const anHuiSnacksFoodsList = [
   },
   {
     province: '安徽省',
-    city: '',
+    city: '阜阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -116,7 +116,7 @@ export const anHuiSnacksFoodsList = [
   },
   {
     province: '安徽省',
-    city: '',
+    city: '宿州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -600,4 +600,8 @@ export const anHuiSnacksFoodsList = [
   },
 ];
 
-console.log('安徽小吃:', anHuiSnacksFoodsList, anHuiSnacksFoodsList.length);
+// console.log(
+//   '安徽小吃:',
+//   anHuiSnacksFoodsList.map((item) => item['foodName']),
+//   anHuiSnacksFoodsList.length,
+// );

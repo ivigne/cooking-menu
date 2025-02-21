@@ -15,7 +15,7 @@
 export const haiNanSnacksFoodsList = [
   {
     province: '海南省',
-    city: '',
+    city: '海口市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -67,7 +67,7 @@ export const haiNanSnacksFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '儋州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -119,7 +119,7 @@ export const haiNanSnacksFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '文昌市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -171,7 +171,7 @@ export const haiNanSnacksFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '海口市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -223,7 +223,7 @@ export const haiNanSnacksFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '海口市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -275,7 +275,7 @@ export const haiNanSnacksFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '万宁市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -434,4 +434,4 @@ export const haiNanSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('海南小吃:', haiNanSnacksFoodsList, haiNanSnacksFoodsList.length);
+// console.log('海南小吃:', haiNanSnacksFoodsList, haiNanSnacksFoodsList.length);

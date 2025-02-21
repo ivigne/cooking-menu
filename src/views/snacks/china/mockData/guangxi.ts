@@ -39,8 +39,8 @@
 // import { lampshadedBeefScriptsList } from './guangXiFoodScriptContent/lampshadedBeef';
 export const guangXiSnacksFoodsList = [
   {
-    province: '广西省',
-    city: '',
+    province: '广西壮族自治区',
+    city: '桂平市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -91,8 +91,8 @@ export const guangXiSnacksFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '广西省',
-    city: '',
+    province: '广西壮族自治区',
+    city: '百色市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -143,8 +143,8 @@ export const guangXiSnacksFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '广西省',
-    city: '',
+    province: '广西壮族自治区',
+    city: '南宁市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1977,4 +1977,4 @@ export const guangXiSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('广西小吃:', guangXiSnacksFoodsList, guangXiSnacksFoodsList.length);
+// console.log('广西小吃:', guangXiSnacksFoodsList, guangXiSnacksFoodsList.length);

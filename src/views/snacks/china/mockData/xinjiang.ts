@@ -862,4 +862,4 @@ export const xinJiangSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('新疆小吃:', xinJiangSnacksFoodsList, xinJiangSnacksFoodsList.length);
+// console.log('新疆小吃:', xinJiangSnacksFoodsList, xinJiangSnacksFoodsList.length);

@@ -1,3 +1,4 @@
+// 各城市数据、路线数据
 import { ref } from 'vue';
 // import { cityList } from '/@/common/city';
 /**
@@ -53,7 +54,7 @@ export const jiangsuCity = [
   '徐州市',
   '泰州市',
 ];
-// 华东-南方路线-第一次打卡的城市集合
+// 华东-南方路线-第一次打卡的城市集合-未删减版
 export const chinaAreaEastProvinceSouthLineFirstPlan = [
   '上海市',
   '杭州市',
@@ -105,7 +106,7 @@ export const chinaAreaEastProvinceSouthLineFirstPlan = [
   '泰州市',
   '上海市',
 ];
-// 华东-南方路线-第一次打卡的城市集合
+// 华东-南方路线-第一次打卡的城市集合-已删减
 export const chinaAreaEastProvinceSouthLineFirst = [
   '上海市',
   '杭州市',
@@ -135,7 +136,7 @@ export const chinaAreaEastProvinceSouthLineFirst = [
   '南京市',
   '苏州市',
   '徐州市',
-  '上海市',
+  // '上海市',
 ];
 
 // 国内各省排序,人口从多','少

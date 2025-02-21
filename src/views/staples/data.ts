@@ -6,6 +6,8 @@ import {
   cuisineCategoryList,
   tasteList,
 } from '/@/common/commonConfig';
+import { staples } from './handle';
+console.log(staples);
 export const tableColumnsConfig: BasicColumn[] = [
   {
     title: '省',

@@ -2019,4 +2019,4 @@ export const innerMongoliaSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('内蒙古小吃:', innerMongoliaSnacksFoodsList, innerMongoliaSnacksFoodsList.length);
+// console.log('内蒙古小吃:', innerMongoliaSnacksFoodsList, innerMongoliaSnacksFoodsList.length);

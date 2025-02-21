@@ -1,7 +1,7 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-10-16 18:05:18
- * @FilePath: /cooking-menu/src/views/snacks/china/mockData/shaanxi.ts
+ * @FilePath: /cooking-menu/src/views/snacks/china/mockData/shaanXi.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
@@ -1288,4 +1288,4 @@ export const shaanXiSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('陕西小吃:', shaanXiSnacksFoodsList, shaanXiSnacksFoodsList.length);
+// console.log('陕西小吃:', shaanXiSnacksFoodsList, shaanXiSnacksFoodsList.length);

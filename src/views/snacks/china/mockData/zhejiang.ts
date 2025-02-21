@@ -770,7 +770,7 @@ export const zheJiangSnacksFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '宁波市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -824,8 +824,8 @@ export const zheJiangSnacksFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '温州市',
+    district: '瑞安市莘塍镇',
     address: '',
     foodAvatar: '',
     foodName: '莘塍豆腐干',
@@ -878,7 +878,7 @@ export const zheJiangSnacksFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '宁波市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -932,7 +932,7 @@ export const zheJiangSnacksFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '温州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -985,4 +985,4 @@ export const zheJiangSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('浙江小吃:', zheJiangSnacksFoodsList, zheJiangSnacksFoodsList.length);
+// console.log('浙江小吃:', zheJiangSnacksFoodsList, zheJiangSnacksFoodsList.length);

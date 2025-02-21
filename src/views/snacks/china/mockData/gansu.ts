@@ -2943,4 +2943,4 @@ export const ganSuSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('甘肃小吃:', ganSuSnacksFoodsList, ganSuSnacksFoodsList.length);
+// console.log('甘肃小吃:', ganSuSnacksFoodsList, ganSuSnacksFoodsList.length);

@@ -217,7 +217,7 @@ export const jiangSuSnacksFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '扬州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -269,7 +269,7 @@ export const jiangSuSnacksFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -321,7 +321,7 @@ export const jiangSuSnacksFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -373,7 +373,7 @@ export const jiangSuSnacksFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '盐城市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -425,7 +425,7 @@ export const jiangSuSnacksFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '盐城市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1985,7 +1985,7 @@ export const jiangSuSnacksFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '徐州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3247,7 +3247,7 @@ export const jiangSuSnacksFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3301,7 +3301,7 @@ export const jiangSuSnacksFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3355,7 +3355,7 @@ export const jiangSuSnacksFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '无锡市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3482,4 +3482,4 @@ export const jiangSuSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('江苏小吃:', jiangSuSnacksFoodsList, jiangSuSnacksFoodsList.length);
+// console.log('江苏小吃:', jiangSuSnacksFoodsList, jiangSuSnacksFoodsList.length);

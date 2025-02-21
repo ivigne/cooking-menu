@@ -35,4 +35,4 @@ export const guangXiFoodsList = [].concat(
   laibinFoodsList,
 );
 
-console.log('广西省有： ' + guangXiFoodsList.length + ' 道菜');
+console.log('广西壮族自治区有： ' + guangXiFoodsList.length + ' 道菜');

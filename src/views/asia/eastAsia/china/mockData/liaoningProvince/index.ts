@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-09-27 12:04:08
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-11-17 10:13:15
+ * @LastEditTime: 2025-02-20 15:30:02
  * @FilePath: /cooking-menu/src/views/asia/eastAsia/china/mockData/liaoningProvince/index.ts
  * @Description: 这是默认设置,请设置`customMade`,打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -41,5 +41,5 @@ export const liaoNingFoodsList = [].concat(
 console.log(
   '辽宁辽宁辽宁辽宁辽宁辽宁辽宁辽宁省有： ',
   liaoNingFoodsList.length,
-  liaoNingFoodsList.map((item) => item.foodName),
+  // liaoNingFoodsList.map((item) => item['foodName']),
 );

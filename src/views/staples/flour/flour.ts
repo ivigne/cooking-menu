@@ -67,7 +67,7 @@ export const flourFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -119,7 +119,7 @@ export const flourFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -171,7 +171,7 @@ export const flourFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -223,7 +223,7 @@ export const flourFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '漳州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -275,7 +275,7 @@ export const flourFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '厦门市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -543,7 +543,7 @@ export const flourFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '莆田市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1083,7 +1083,7 @@ export const flourFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1135,7 +1135,7 @@ export const flourFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '佛山市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1187,8 +1187,8 @@ export const flourFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '茂名市',
+    district: '高州市',
     address: '',
     foodAvatar: '',
     foodName: '高州捞粉',
@@ -1239,8 +1239,8 @@ export const flourFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '茂名市',
+    district: '高州市',
     address: '',
     foodAvatar: '',
     foodName: '高州根子牛腩粉',
@@ -2154,8 +2154,8 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '广西省',
-    city: '',
+    province: '广西壮族自治区',
+    city: '柳州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2206,8 +2206,8 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '广西省',
-    city: '',
+    province: '广西壮族自治区',
+    city: '玉林市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2258,9 +2258,9 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '广西省',
-    city: '',
-    district: '',
+    province: '广西壮族自治区',
+    city: '桂平市',
+    district: '罗秀镇',
     address: '',
     foodAvatar: '',
     foodName: '罗秀米粉',
@@ -5497,7 +5497,7 @@ export const flourFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '海口市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5549,7 +5549,7 @@ export const flourFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '海口市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5601,8 +5601,8 @@ export const flourFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
-    district: '',
+    city: '文昌市',
+    district: '抱罗镇',
     address: '',
     foodAvatar: '',
     foodName: '抱罗粉',
@@ -5653,8 +5653,8 @@ export const flourFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
-    district: '',
+    city: '万宁市',
+    district: '后安镇',
     address: '',
     foodAvatar: '',
     foodName: '后安粉',
@@ -5813,7 +5813,7 @@ export const flourFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '陵水黎族自治县',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6081,7 +6081,7 @@ export const flourFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6453,7 +6453,7 @@ export const flourFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6505,7 +6505,7 @@ export const flourFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6557,7 +6557,7 @@ export const flourFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6609,7 +6609,7 @@ export const flourFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '南充市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6765,7 +6765,7 @@ export const flourFoodsList = [
   },
   {
     province: '台湾',
-    city: '',
+    city: '台中市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6871,7 +6871,7 @@ export const flourFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '梅州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6925,7 +6925,7 @@ export const flourFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6979,7 +6979,7 @@ export const flourFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7033,7 +7033,7 @@ export const flourFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7573,8 +7573,8 @@ export const flourFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
-    district: '',
+    city: '郴州市',
+    district: '栖凤渡镇',
     address: '',
     foodAvatar: '',
     foodName: '栖凤渡鱼粉',
@@ -7627,7 +7627,7 @@ export const flourFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '湘西土家族苗族自治州',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7681,7 +7681,7 @@ export const flourFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7735,7 +7735,7 @@ export const flourFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '衡阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7789,7 +7789,7 @@ export const flourFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '邵阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -7843,7 +7843,7 @@ export const flourFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -9247,7 +9247,7 @@ export const flourFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '南昌市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11173,7 +11173,7 @@ export const flourFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '温州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11227,7 +11227,7 @@ export const flourFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '绵阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11264,7 +11264,7 @@ export const flourFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '绵阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11301,7 +11301,7 @@ export const flourFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11337,8 +11337,8 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '广东省',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11391,8 +11391,8 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '广东省',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11445,8 +11445,8 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '广东省',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11499,8 +11499,8 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '广西壮族自治区',
+    city: '南宁市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11553,8 +11553,8 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '吉林省',
+    city: '长春市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11607,8 +11607,8 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '贵州省',
+    city: '贵阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11661,8 +11661,8 @@ export const flourFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
+    province: '四川省',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',

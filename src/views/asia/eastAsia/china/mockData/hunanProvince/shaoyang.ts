@@ -5,6 +5,60 @@
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const shaoyangFoodsList = [
+  {
+    province: '湖南省',
+    city: '邵阳市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '城步南山手工酸奶',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
   // 武冈卤豆腐，湖南省武冈市特产，中国国家地理标志产品。武冈卤豆腐是富有浓郁地方特色的传统卤制产品，它选用武冈特有的优质豆腐为主要原料，加入以大茴、小茴、桂皮等二十几味地道中草药制作的卤
   {
     province: '湖南省',

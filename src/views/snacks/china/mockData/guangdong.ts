@@ -166,7 +166,7 @@
 export const guangDongSnacksFoodsList = [
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -270,7 +270,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '中山市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -322,8 +322,8 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '佛山市',
+    district: '顺德区',
     address: '',
     foodAvatar: '',
     foodName: '龙江煎堆',
@@ -374,7 +374,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -478,8 +478,8 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '茂名市',
+    district: '高州市',
     address: '',
     foodAvatar: '',
     foodName: '善莲蓬',
@@ -530,8 +530,8 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '茂名市',
+    district: '高州市',
     address: '',
     foodAvatar: '',
     foodName: '高州盐焗鸡',
@@ -582,8 +582,8 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '茂名市',
+    district: '电白区',
     address: '',
     foodAvatar: '',
     foodName: '东岸豆饼角',
@@ -634,7 +634,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '湛江市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -686,8 +686,8 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '茂名市',
+    district: '化州市',
     address: '',
     foodAvatar: '',
     foodName: '化橘红',
@@ -790,8 +790,8 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '茂名市',
+    district: '电白区',
     address: '',
     foodAvatar: '',
     foodName: '电城鱼炸',
@@ -5160,7 +5160,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5212,7 +5212,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '河源市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5264,7 +5264,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '肇庆市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5316,7 +5316,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5908,7 +5908,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '揭阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5962,7 +5962,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6016,7 +6016,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6070,7 +6070,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '揭阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6124,7 +6124,7 @@ export const guangDongSnacksFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6177,4 +6177,4 @@ export const guangDongSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('广东小吃:', guangDongSnacksFoodsList, guangDongSnacksFoodsList.length);
+// console.log('广东小吃:', guangDongSnacksFoodsList, guangDongSnacksFoodsList.length);

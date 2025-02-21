@@ -102,7 +102,7 @@
 export const heNanSnacksFoodsList = [
   {
     province: '河南省',
-    city: '',
+    city: '开封市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -154,7 +154,7 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '开封市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -206,7 +206,7 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '新乡市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -258,7 +258,7 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '新乡市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -310,7 +310,7 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -362,8 +362,8 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
-    district: '',
+    city: '开封市',
+    district: '鼓楼区',
     address: '',
     foodAvatar: '',
     foodName: '黄焖鱼',
@@ -414,7 +414,7 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -518,7 +518,7 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '开封市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3054,7 +3054,7 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '开封市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3108,7 +3108,7 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '荥阳市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3528,7 +3528,7 @@ export const heNanSnacksFoodsList = [
   },
   {
     province: '河南省',
-    city: '',
+    city: '郑州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3581,4 +3581,4 @@ export const heNanSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('安徽小吃:', heNanSnacksFoodsList, heNanSnacksFoodsList.length);
+// console.log('河南小吃:', heNanSnacksFoodsList, heNanSnacksFoodsList.length);

@@ -1642,7 +1642,7 @@ export const heBeiSnacksFoodsList = [
   },
   {
     province: '河北省',
-    city: '',
+    city: '石家庄市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1696,7 +1696,7 @@ export const heBeiSnacksFoodsList = [
   },
   {
     province: '河北省',
-    city: '',
+    city: '石家庄市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1911,4 +1911,4 @@ export const heBeiSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('河北小吃:', heBeiSnacksFoodsList, heBeiSnacksFoodsList.length);
+// console.log('河北小吃:', heBeiSnacksFoodsList, heBeiSnacksFoodsList.length);

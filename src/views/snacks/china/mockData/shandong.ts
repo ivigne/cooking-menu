@@ -7,7 +7,7 @@
 export const shanDongSnacksFoodsList = [
   {
     province: '山东省',
-    city: '',
+    city: '临沂市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -59,7 +59,7 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '临沂市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -163,7 +163,7 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '淄博市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -267,7 +267,7 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '聊城市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -371,8 +371,8 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
-    district: '',
+    city: '济南市',
+    district: '商河县',
     address: '',
     foodAvatar: '',
     foodName: '商河老豆腐',
@@ -423,7 +423,7 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '淮坊市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -475,7 +475,7 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '淮坊市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -527,7 +527,7 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '济南市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -579,7 +579,7 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '枣庄市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1046,7 +1046,7 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '济南市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1100,7 +1100,7 @@ export const shanDongSnacksFoodsList = [
   },
   {
     province: '山东省',
-    city: '',
+    city: '青岛市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1190,4 +1190,4 @@ export const shanDongSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('山东小吃:', shanDongSnacksFoodsList, shanDongSnacksFoodsList.length);
+// console.log('山东小吃:', shanDongSnacksFoodsList, shanDongSnacksFoodsList.length);

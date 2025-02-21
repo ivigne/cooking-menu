@@ -13,7 +13,7 @@
 export const gruelFoodsList = [
   {
     province: '安徽省',
-    city: '',
+    city: '合肥市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -65,7 +65,7 @@ export const gruelFoodsList = [
   },
   {
     province: '安徽省',
-    city: '',
+    city: '合肥市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -441,7 +441,7 @@ export const gruelFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -493,7 +493,7 @@ export const gruelFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '茂名市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1895,7 +1895,7 @@ export const gruelFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2105,7 +2105,7 @@ export const gruelFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2429,8 +2429,8 @@ export const gruelFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
-    district: '',
+    city: '徐州市',
+    district: '沛县',
     address: '',
     foodAvatar: '',
     foodName: '热粥',

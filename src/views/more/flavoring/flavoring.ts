@@ -506,7 +506,7 @@ export const flavoringFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '文昌市',
     district: '',
     address: '',
     foodAvatar: '',

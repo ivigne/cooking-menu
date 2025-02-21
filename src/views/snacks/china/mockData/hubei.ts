@@ -93,7 +93,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -197,7 +197,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '孝感市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -249,7 +249,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -301,7 +301,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -353,7 +353,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -405,7 +405,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '黄冈市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -457,7 +457,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -509,7 +509,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -561,7 +561,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '武汉市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -613,7 +613,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '黄冈市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2823,7 +2823,7 @@ export const huBeiSnacksFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '荆州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2876,4 +2876,4 @@ export const huBeiSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('湖北小吃:', huBeiSnacksFoodsList, huBeiSnacksFoodsList.length);
+// console.log('湖北小吃:', huBeiSnacksFoodsList, huBeiSnacksFoodsList.length);

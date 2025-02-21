@@ -1,7 +1,7 @@
 /*
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-11-17 10:02:21
- * @FilePath: /cooking-menu/src/views/snacks/china/mockData/jiangXi.ts
+ * @FilePath: /cooking-menu/src/views/snacks/china/mockData/jiangxi.ts
  * @Description:
  *
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
@@ -266,7 +266,7 @@ export const jiangXiSnacksFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '南昌市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -320,7 +320,7 @@ export const jiangXiSnacksFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '南昌市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -374,7 +374,7 @@ export const jiangXiSnacksFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '南昌市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -428,7 +428,7 @@ export const jiangXiSnacksFoodsList = [
   },
   {
     province: '江西省',
-    city: '',
+    city: '南昌市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -518,4 +518,4 @@ export const jiangXiSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('江西小吃:', jiangXiSnacksFoodsList, jiangXiSnacksFoodsList.length);
+// console.log('江西小吃:', jiangXiSnacksFoodsList, jiangXiSnacksFoodsList.length);

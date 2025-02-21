@@ -116,4 +116,4 @@ export const chongQingSnacksFoodsList = [
     isCookFlag: 0,
   },
 ];
-console.log('重庆小吃:', chongQingSnacksFoodsList, chongQingSnacksFoodsList.length);
+// console.log('重庆小吃:', chongQingSnacksFoodsList, chongQingSnacksFoodsList.length);

@@ -6,6 +6,60 @@
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const xianningFoodsList = [
+  {
+    province: '湖北省',
+    city: '咸宁市',
+    district: '嘉鱼县',
+    address: '',
+    foodAvatar: '',
+    foodName: '粉蒸鸭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: '',
+    cuisineCategoryName: '',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
   // 包砣，外形类似于汤圆。又叫薯粉砣，是用薯粉或薯粉和芋头揉成外皮，用油炸豆干，竹笋、腊肉、大蒜等各种原料做馅，包成团圆状，和饺子一样煮法，也可煎可炸。小包砣就用精肉馅包，形似汤圆。不论大、小包砣，色、乡、味独特。轻咬一口，一股清香便喷薄而出，沁人心脾。凡是到过通山的客人，往往少不了品尝通山包砣。通山“包砣”主要分两种，一种是纯薯粉调制；另一种是薯粉加芋头调制。纯薯粉调制的“包砣”，皮硬、脆，弹性相对较差；薯粉加芋头调制的“包砣”，皮软有弹性。
   {
     province: '湖北省',

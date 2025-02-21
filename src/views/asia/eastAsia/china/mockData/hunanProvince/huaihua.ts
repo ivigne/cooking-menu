@@ -13,6 +13,60 @@
 // import { lampshadedBeefScriptsList } from './templateFoodScriptContent/lampshadedBeef';
 export const foodsStr = '';
 export const huaihuaFoodsList = [
+  {
+    province: '湖南省',
+    city: '怀化市',
+    district: '',
+    address: '',
+    foodAvatar: '',
+    foodName: '芷江鸭',
+    foodName_en: '',
+    foodCategoryCode: 'beef',
+    foodCategoryName: '牛肉',
+    cuisineCategoryCode: 'hunanCuisine',
+    cuisineCategoryName: '湘菜',
+    tasteCode: 'spicy',
+    tasteName: '麻辣',
+    menuCategoryCode: '',
+    menuCategoryName: '',
+    cookingTypeCode: 'multiple',
+    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
+    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
+    detail: {
+      introduction: '',
+      storyBackground: '',
+      ingredients: '',
+      productionProcess: [
+        {
+          stepDesc: '',
+        },
+      ],
+      nutritionalValue: [
+        {
+          stepDesc: '',
+        },
+      ],
+      edibleEffects: [
+        {
+          stepDesc: '',
+        },
+      ],
+      practiceList: [
+        {
+          way: '1',
+          practiceDesc: '1',
+        },
+      ],
+    },
+    shootingStatus: 0,
+    scripts: 'lampshadedBeefScriptsList',
+    remark: '',
+    tags: null,
+    recommendStoreName: '',
+    recommendStoreAddress: '',
+    isGoTo: 0,
+    isCookFlag: 0,
+  },
   // 芷江侗族自治县历来盛产水鸭，村民家家饲养。不仅产鸭，且在食鸭文化上独具匠心。所谓仔鸭，顾名思义，是鸭崽的意思。芷江黄焖仔鸭用料，多数出生二月左右的仔鸭，这种鸭绒毛刚丰，体重1公斤上下，有肉嫩、骨脆、少脂肪的特点，加上烹调容易入味。传说，战国时期，楚国三闾大夫屈原流放于沅水流域，停留在古黔中郡地（今芷江的小河口）时，渔民们用仔鸭款待屈原大夫，并在鸭肴中添放了本地特产的一种香料芷草，很合屈原的口味，为追述这场经历，便把这一原委写进了他的名诗《湘夫人》中：“沅有芷兮澧有兰。”由于鸭肴放了芷草，人们便将仔鸭说成芷鸭。 [13]
   {
     province: '湖南省',

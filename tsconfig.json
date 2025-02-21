@@ -39,6 +39,6 @@
     "build/**/*.d.ts",
     "mock/**/*.ts",
     "vite.config.ts"
-  ],
+, "src/common/country/1.md"  ],
   "exclude": ["node_modules", "tests/server/**/*.ts", "dist", "**/*.js"]
 }

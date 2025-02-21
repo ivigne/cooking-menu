@@ -281,9 +281,9 @@ export const dessertFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
-    address: '',
+    city: '南平市',
+    district: '延平区',
+    address: '峡阳镇',
     foodAvatar: '',
     foodName: '峡阳木樨糕',
     foodName_en: '',
@@ -335,7 +335,7 @@ export const dessertFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -389,7 +389,7 @@ export const dessertFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -443,7 +443,7 @@ export const dessertFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
+    city: '福州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -1361,7 +1361,7 @@ export const dessertFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
+    city: '潮州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2169,7 +2169,7 @@ export const dessertFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '三亚市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -2221,7 +2221,7 @@ export const dessertFoodsList = [
   },
   {
     province: '海南省',
-    city: '',
+    city: '三亚市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3513,7 +3513,7 @@ export const dessertFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3877,7 +3877,7 @@ export const dessertFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -3929,8 +3929,8 @@ export const dessertFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
-    district: '',
+    city: '遂宁市',
+    district: '蓬溪县',
     address: '',
     foodAvatar: '',
     foodName: '蓬溪熨斗糕',
@@ -4345,8 +4345,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '台州市',
+    district: '临海市',
     address: '',
     foodAvatar: '',
     foodName: '重阳栗糕',
@@ -4505,8 +4505,8 @@ export const dessertFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '广州市',
+    district: '白云区',
     address: '',
     foodAvatar: '',
     foodName: '萝卜糕',
@@ -4559,8 +4559,8 @@ export const dessertFoodsList = [
   },
   {
     province: '广东省',
-    city: '',
-    district: '',
+    city: '广州市',
+    district: '白云区',
     address: '',
     foodAvatar: '',
     foodName: '马蹄糕',
@@ -4721,7 +4721,7 @@ export const dessertFoodsList = [
   },
   {
     province: '湖北省',
-    city: '',
+    city: '荆州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5099,7 +5099,7 @@ export const dessertFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -5153,7 +5153,7 @@ export const dessertFoodsList = [
   },
   {
     province: '湖南省',
-    city: '',
+    city: '长沙市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6017,7 +6017,7 @@ export const dessertFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -6071,7 +6071,7 @@ export const dessertFoodsList = [
   },
   {
     province: '江苏省',
-    city: '',
+    city: '苏州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -8701,8 +8701,8 @@ export const dessertFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
-    district: '',
+    city: '宜宾市',
+    district: '宜宾县',
     address: '',
     foodAvatar: '',
     foodName: '泥溪芝麻糕',
@@ -8755,8 +8755,8 @@ export const dessertFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
-    district: '',
+    city: '成都市',
+    district: '宜宾县',
     address: '',
     foodAvatar: '',
     foodName: '白糕',
@@ -8809,7 +8809,7 @@ export const dessertFoodsList = [
   },
   {
     province: '四川省',
-    city: '',
+    city: '成都市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -9188,8 +9188,8 @@ export const dessertFoodsList = [
   // 酸角糕
   {
     province: '云南省', // 省
-    city: '', // 市
-    district: '', // 区
+    city: '昆明市', // 市
+    district: '官渡区', // 区
     address: '', // 地方名称
     foodAvatar: '', // 美食图片
     foodName: '酸角糕', // 美食名称
@@ -10595,7 +10595,7 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
+    city: '温州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -10649,8 +10649,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '嘉兴市',
+    district: '海宁市',
     address: '',
     foodAvatar: '',
     foodName: '定胜糕',
@@ -10703,8 +10703,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '杭州市',
+    district: '西湖区',
     address: '',
     foodAvatar: '',
     foodName: '松子糕',
@@ -10757,8 +10757,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '杭州市',
+    district: '西湖区',
     address: '',
     foodAvatar: '',
     foodName: '桂花炒米糕',
@@ -10811,8 +10811,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '杭州市',
+    district: '西湖区',
     address: '',
     foodAvatar: '',
     foodName: '桂花香糕',
@@ -10865,8 +10865,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '杭州市',
+    district: '西湖区',
     address: '',
     foodAvatar: '',
     foodName: '水晶银菊糕',
@@ -10919,8 +10919,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '杭州市',
+    district: '西湖区',
     address: '',
     foodAvatar: '',
     foodName: '活油豆沙蒸蛋糕',
@@ -10973,8 +10973,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '乐清市',
+    district: '虹桥镇',
     address: '',
     foodAvatar: '',
     foodName: '虹桥绿豆糕',
@@ -11027,8 +11027,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '杭州市',
+    district: '西湖区',
     address: '',
     foodAvatar: '',
     foodName: '蜜仁糕',
@@ -11081,8 +11081,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '绍兴市',
+    district: '诸暨市',
     address: '',
     foodAvatar: '',
     foodName: '香糕',
@@ -11135,8 +11135,8 @@ export const dessertFoodsList = [
   },
   {
     province: '浙江省',
-    city: '',
-    district: '',
+    city: '绍兴市',
+    district: '诸暨市',
     address: '',
     foodAvatar: '',
     foodName: '鸡骨香糕',
@@ -11188,62 +11188,8 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '广式萝卜糕',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: '',
-    cuisineCategoryName: '',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '未知',
-    city: '',
+    province: '广东省',
+    city: '广州市',
     district: '',
     address: '',
     foodAvatar: '',
@@ -11296,9 +11242,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '广东省',
+    city: '广州市',
+    district: '白云区',
     address: '',
     foodAvatar: '',
     foodName: '广式马蹄糕',
@@ -11350,63 +11296,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
-    address: '',
-    foodAvatar: '',
-    foodName: '印尼椰汁七层糕',
-    foodName_en: '',
-    foodCategoryCode: 'beef',
-    foodCategoryName: '牛肉',
-    cuisineCategoryCode: '',
-    cuisineCategoryName: '',
-    tasteCode: 'spicy',
-    tasteName: '麻辣',
-    menuCategoryCode: '',
-    menuCategoryName: '',
-    cookingTypeCode: 'multiple',
-    cookingTypeName: '腌、晾、烘、蒸、炸、炒',
-    featuresName: '薄如纸，色红亮，味麻辣鲜脆',
-    detail: {
-      introduction: '',
-      storyBackground: '',
-      ingredients: '',
-      productionProcess: [
-        {
-          stepDesc: '',
-        },
-      ],
-      nutritionalValue: [
-        {
-          stepDesc: '',
-        },
-      ],
-      edibleEffects: [
-        {
-          stepDesc: '',
-        },
-      ],
-      practiceList: [
-        {
-          way: '1',
-          practiceDesc: '1',
-        },
-      ],
-    },
-    shootingStatus: 0,
-    scripts: 'lampshadedBeefScriptsList',
-    remark: '',
-    tags: null,
-    recommendStoreName: '',
-    recommendStoreAddress: '',
-    isGoTo: 0,
-    isCookFlag: 0,
-  },
-  {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '四川省',
+    city: '宜宾市',
+    district: '宜宾县',
     address: '',
     foodAvatar: '',
     foodName: '川南凉糕',
@@ -11458,9 +11350,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '广东省',
+    city: '广州市',
+    district: '白云区',
     address: '',
     foodAvatar: '',
     foodName: '三层桂花椰汁糕',
@@ -11512,9 +11404,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '广东省',
+    city: '广州市',
+    district: '白云区',
     address: '',
     foodAvatar: '',
     foodName: '奥利奥麦芬蛋糕',
@@ -11566,9 +11458,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '云南省',
+    city: '昆明市',
+    district: '官渡区',
     address: '',
     foodAvatar: '',
     foodName: '咖啡糯米糕',
@@ -11620,9 +11512,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '广东省',
+    city: '广州市',
+    district: '白云区',
     address: '',
     foodAvatar: '',
     foodName: '马蹄千层糕',
@@ -11674,9 +11566,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '北京市',
+    city: '北京市',
+    district: '东城区',
     address: '',
     foodAvatar: '',
     foodName: '山楂糕',
@@ -11728,9 +11620,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '广东省',
+    city: '广州市',
+    district: '白云区',
     address: '',
     foodAvatar: '',
     foodName: '南瓜凉糕',
@@ -11782,9 +11674,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '广东省',
+    city: '广州市',
+    district: '白云区',
     address: '',
     foodAvatar: '',
     foodName: '南瓜紫薯糕',
@@ -11836,9 +11728,9 @@ export const dessertFoodsList = [
     isCookFlag: 0,
   },
   {
-    province: '未知',
-    city: '',
-    district: '',
+    province: '江苏省',
+    city: '苏州市',
+    district: '姑苏区',
     address: '',
     foodAvatar: '',
     foodName: '三色重阳糕',
@@ -11891,8 +11783,8 @@ export const dessertFoodsList = [
   },
   {
     province: '福建省',
-    city: '',
-    district: '',
+    city: '南平市',
+    district: '峡阳镇',
     address: '',
     foodAvatar: '',
     foodName: '峡阳桂花糕',
