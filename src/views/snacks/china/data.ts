@@ -127,54 +127,7 @@ unipFunc(foodNameList);
 // handleNames(chinaSnacksFoodsList);
 
 // useCopyToClipboard(JSON.stringify());
-
-import { chutneyFoodsList } from '/@/views/more/chutney/chutney';
-import { dessertFoodsList } from '/@/views/more/dessert/dessert';
-import { dippingFoodsList } from '/@/views/more/dipping/dipping';
-import { flavoringFoodsList } from '/@/views/more/flavoring/flavoring';
-import { drinksFoodsList } from '/@/views/more/drinks/drinks';
-import { ingredientsTypesFoodsList } from '/@/views/more/ingredientsTypes/ingredientsTypes';
-import { kitchenwareList } from '/@/views/more/kitchenware/index';
-import { meatballsFoodsList } from '/@/views/more/meatballs/meatballs';
-import { orphanedFoodsList } from '/@/views/more/orphaned/index';
-import { spiceFoodsList } from '/@/views/more/spice/index';
-import { sugarFoodsList } from '/@/views/more/sugar/sugar';
-import { teaFoodsList } from '/@/views/more/tea/tea';
-import { wineFoodsList } from '/@/views/more/wine/wine';
-import { essertFoodsList } from '/@/views/more/essert/essert';
-export const moreList = [].concat(
-  chutneyFoodsList,
-  dessertFoodsList,
-  dippingFoodsList,
-  flavoringFoodsList,
-  drinksFoodsList,
-  ingredientsTypesFoodsList,
-  kitchenwareList,
-  meatballsFoodsList,
-  orphanedFoodsList,
-  spiceFoodsList,
-  sugarFoodsList,
-  teaFoodsList,
-  wineFoodsList,
-  essertFoodsList,
-);
-export const moreObj = {
-  chutney: chutneyFoodsList,
-  dessert: dessertFoodsList,
-  dipping: dippingFoodsList,
-  flavoring: flavoringFoodsList,
-  drinks: drinksFoodsList,
-  ingredientsTypes: ingredientsTypesFoodsList,
-  kitchenware: kitchenwareList,
-  meatballs: meatballsFoodsList,
-  orphaned: orphanedFoodsList,
-  spice: spiceFoodsList,
-  sugar: sugarFoodsList,
-  tea: teaFoodsList,
-  wine: wineFoodsList,
-  essert: essertFoodsList,
-};
-export const moreFoodNames = moreList.map((item) => item['foodName']);
+import { moreFoodNames, moreList } from '/@/views/more/totalData';
 
 console.log('---------moreFoodNames--------', moreFoodNames);
 unipFunc(moreFoodNames);
@@ -193,43 +146,13 @@ console.log('----------------分割线  更多美食  end--------------');
 //   movieFoodsList,
 //   tvFoodsList,
 // );
-import { bunFoodsList } from '/@/views/staples/bun/bun';
-import { cakeFoodsList } from '/@/views/staples/cake/cake';
-import { dumplingFoodsList } from '/@/views/staples/dumpling/dumpling';
-import { flatcakeFoodsList } from '/@/views/staples/flatcake/flatcake';
-import { flourFoodsList } from '/@/views/staples/flour/flour';
-import { gruelFoodsList } from '/@/views/staples/gruel/gruel';
-import { knowFoodsList } from '/@/views/staples/know/know';
-import { noodleFoodsList } from '/@/views/staples/noodle/noodle';
-import { pastryFoodsList } from '/@/views/staples/pastry/pastry';
-import { potHelmetFoodsList } from '/@/views/staples/potHelmet/potHelmet';
-import { riceFoodsList } from '/@/views/staples/rice/rice';
-import { ricedumplingsFoodsList } from '/@/views/staples/ricedumplings/ricedumplings';
-import { siumaiFoodsList } from '/@/views/staples/siumai/siumai';
-import { soupFoodsList, soupFoodsList1 } from '/@/views/staples/soup/soup';
 // import { allname } from '/@/views/asia/eastAsia/china/data';
 // import { handleNames } from '/@/utils/general';
 import { ref } from 'vue';
 import { chinaAreaEastProvinceSouthLineFirst } from '/@/common/chinaEveryAreaData';
+import { staplesFoodNames, staplesList } from '/@/views/staples/totalData';
 // import { groupBy } from '/@/utils/general';
-export const staplesList = [].concat(
-  bunFoodsList,
-  cakeFoodsList,
-  dumplingFoodsList,
-  flatcakeFoodsList,
-  flourFoodsList,
-  gruelFoodsList,
-  knowFoodsList,
-  noodleFoodsList,
-  pastryFoodsList,
-  potHelmetFoodsList,
-  riceFoodsList,
-  ricedumplingsFoodsList,
-  siumaiFoodsList,
-  soupFoodsList,
-  soupFoodsList1,
-);
-export const staplesFoodNames = staplesList.map((item) => item['foodName']);
+
 console.log('---------staplesFoodNames--------', staplesFoodNames);
 unipFunc(staplesFoodNames);
 console.log('----------------分割线  主食  end--------------');

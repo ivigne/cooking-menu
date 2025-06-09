@@ -31,6 +31,10 @@
           </List>
           <Divider type="vertical" orientation="left" style="width: 100%">省市县处理</Divider>
           <AmapDistrictQuery />
+          <Divider type="vertical" orientation="left" style="width: 100%"
+            >各省市城市菜的数量排名</Divider
+          >
+          <Button @click="sortCookByCity">城市菜品数量排名</Button>
         </Space>
       </template>
     </Card>
@@ -44,7 +48,12 @@
   // import { useCopyToClipboard } from '/@/hooks/web/useCopyToClipboard';
   import { BasicForm, useForm } from '/@/components/Form';
   import AmapDistrictQuery from '/@/components/AmapDistrictQuery/index.vue';
-
+  // import { fffoodsList } from '/@/views/asia/eastAsia/china/data';
+  // import { chinaSnacksFoodsData } from '/@/views/snacks/china/data';
+  // import { chinaSnacksFoodsData } from '/@/views/snacks/china/data';
+  // import { chinaSnacksFoodsData } from '/@/views/snacks/china/data';
+  // import { chinaSnacksFoodsData } from '/@/views/snacks/china/data';
+  // import { chinaSnacksFoodsData } from '/@/views/snacks/china/data';
   // const { t } = useI18n();
   const ListItem = List.Item;
   const ListItemMeta = List.Item.Meta;
@@ -152,5 +161,8 @@
 
       return Promise.resolve();
     });
+  };
+  const sortCookByCity = async () => {
+    // const foodsList = ref<any[]>([]);
   };
 </script>

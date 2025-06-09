@@ -3130,7 +3130,7 @@ export const othersSnacksFoodsList = [
   {
     province: '广东省',
     city: '佛山市',
-    district: '顺德市',
+    district: '顺德区',
     address: '',
     foodAvatar: '',
     foodName: '姜撞奶',
@@ -3292,7 +3292,7 @@ export const othersSnacksFoodsList = [
   {
     province: '广东省',
     city: '佛山市',
-    district: '顺德市',
+    district: '顺德区',
     address: '',
     foodAvatar: '',
     foodName: '姜汁椰奶',
@@ -3508,7 +3508,7 @@ export const othersSnacksFoodsList = [
   {
     province: '广东省',
     city: '佛山市',
-    district: '顺德市',
+    district: '顺德区',
     address: '',
     foodAvatar: '',
     foodName: '姜汁炖奶',
