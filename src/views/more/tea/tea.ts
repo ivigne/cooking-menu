@@ -1257,7 +1257,7 @@ export const teaFoodsList = [
     district: '',
     address: '',
     foodAvatar: '',
-    foodName: '阆中油茶',
+    foodName: '阆中油茶/四川油茶',
     foodName_en: '',
     foodCategoryCode: 'beef',
     foodCategoryName: '牛肉',

@@ -151,7 +151,7 @@ console.log('----------------分割线  更多美食  end--------------');
 import { ref } from 'vue';
 import { chinaAreaEastProvinceSouthLineFirst } from '/@/common/chinaEveryAreaData';
 import { staplesFoodNames, staplesList } from '/@/views/staples/totalData';
-// import { groupBy } from '/@/utils/general';
+import { groupBy } from '/@/utils/general';
 
 console.log('---------staplesFoodNames--------', staplesFoodNames);
 unipFunc(staplesFoodNames);
@@ -160,27 +160,27 @@ console.log('----------------分割线  主食  end--------------');
 // console.log('---------所有菜谱查重--------');
 // const allList = [].concat(allname, foodNameList.value, moreFoodNames, staplesFoodNames);
 // unipFunc(allList);
-const snacksListByCity = chinaSnacksFoodsData.filter((item) =>
+export const snacksListByCity = chinaSnacksFoodsData.filter((item) =>
   chinaAreaEastProvinceSouthLineFirst.includes(item['city']),
 );
 console.log('华东-南方路线-第一次打卡的城市集合-已删减小吃有:', snacksListByCity.length, ' 道菜');
-const moreListByCity = moreList.filter((item) =>
+export const moreListByCity = moreList.filter((item) =>
   chinaAreaEastProvinceSouthLineFirst.includes(item['city']),
 );
 console.log('华东-南方路线-第一次打卡的城市集合-已删减更多有:', moreListByCity.length, ' 道菜');
-const staplesListByCity = staplesList.filter((item) =>
+export const staplesListByCity = staplesList.filter((item) =>
   chinaAreaEastProvinceSouthLineFirst.includes(item['city']),
 );
 console.log('华东-南方路线-第一次打卡的城市集合-已删减主食有:', staplesListByCity.length, ' 道菜');
 
-const totalListByCity = [].concat(snacksListByCity, moreListByCity, staplesListByCity);
-// const totalObj = groupBy(totalListByCity, 'city');
+export const totalListByCity = [].concat(snacksListByCity, moreListByCity, staplesListByCity);
+export const totalObj = groupBy(totalListByCity);
 console.log(
   '华东-南方路线-第一次打卡的城市集合-总计有:',
   totalListByCity.length,
   '道菜',
   // totalListByCity,
-  chinaAreaEastProvinceSouthLineFirst.length === 1 &&
-    totalListByCity.map((item) => item['foodName']),
-  // totalObj,
+  // chinaAreaEastProvinceSouthLineFirst.length === 1 &&
+  //   totalListByCity.map((item) => item['foodName']),
+  totalObj,
 );

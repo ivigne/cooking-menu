@@ -11,6 +11,80 @@
  */
 import { ref } from 'vue';
 import pinyin from 'pinyin';
+
+type Order = 'asc' | 'desc';
+type GroupedResult<T> = Record<string, T[]>;
+
+interface SortOption<T> {
+  key: keyof T;
+  order?: Order;
+  compareFn?: (a: T, b: T) => number;
+}
+
+/**
+ * 将数组对象按照指定属性分组并排序
+ * @param arr 要分组的数组
+ * @param groupByKey 分组的属性名
+ * @param sortOptions 排序配置，可以是一个属性名，或一个排序配置对象，或一个排序函数
+ * @returns 分组后的对象
+ */
+export function groupAndSortArray<T>(
+  arr: T[],
+  groupByKey: keyof T,
+  sortOptions?: keyof T | SortOption<T> | ((a: T, b: T) => number),
+): GroupedResult<T> {
+  if (!Array.isArray(arr) || !arr.length) return {};
+
+  // 默认排序函数
+  const getDefaultCompareFn = (key: keyof T, order: Order = 'asc') => {
+    return (a: T, b: T) => {
+      const valueA = a[key];
+      const valueB = b[key];
+
+      if (valueA === valueB) return 0;
+      if (valueA == null) return order === 'asc' ? -1 : 1;
+      if (valueB == null) return order === 'asc' ? 1 : -1;
+
+      return order === 'asc'
+        ? String(valueA).localeCompare(String(valueB))
+        : String(valueB).localeCompare(String(valueA));
+    };
+  };
+
+  // 解析排序配置
+  let compareFn: (a: T, b: T) => number;
+
+  if (!sortOptions) {
+    // 默认按分组键升序排序
+    compareFn = getDefaultCompareFn(groupByKey);
+  } else if (typeof sortOptions === 'function') {
+    // 自定义排序函数
+    compareFn = sortOptions;
+  } else if (typeof sortOptions === 'object' && sortOptions !== null) {
+    // 排序配置对象
+    const { key, order = 'asc', compareFn: customCompareFn } = sortOptions as SortOption<T>;
+    compareFn = customCompareFn || getDefaultCompareFn(key, order);
+  } else {
+    // 简写形式：直接传排序键名
+    compareFn = getDefaultCompareFn(sortOptions as keyof T);
+  }
+
+  // 先排序再分组
+  const sortedArray = [...arr].sort(compareFn);
+
+  // 分组
+  const result: GroupedResult<T> = {};
+
+  for (const item of sortedArray) {
+    const groupKey = String(item[groupByKey] ?? '');
+    if (!result[groupKey]) {
+      result[groupKey] = [];
+    }
+    result[groupKey].push(item);
+  }
+
+  return result;
+}
 // 提取对象里子项为"数组对象中的某项为**的数据的XX，并返回一个数组"
 export const handleNames = async (
   list: any,
@@ -53,13 +127,15 @@ export const handleName = (
 // 数组对象进行分组
 export const groupBy = async (arr: any, property = 'province') => {
   const result = await arr.reduce(function (cur, obj) {
-    const key = hanziToPinyin(obj[property]);
+    // console.log('obj', cur, obj);
+    const key = hanziToPinyin(obj[property]).replace(/shi/g, '').replace(/sheng/g, '');
     if (!cur[key]) {
       cur[key] = [];
     }
     cur[key].push(obj);
     return cur;
   }, {});
+  console.log('result数组对象进行分组', result);
   return result;
 };
 // 数组对象进行分组-方法二

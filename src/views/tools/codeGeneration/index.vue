@@ -6,14 +6,6 @@
  * 
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
 -->
-<!--
- * @Author: vigne 1186963387@qq.com
- * @Date: 2023-11-08 16:10:23
- * @FilePath: /cooking-menu/src/views/tools/codeGeneration/index.vue
- * @Description: 
- * 
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
--->
 <template>
   <PageWrapper contentFullHeight fixedHeight>
     <Card hoverable>

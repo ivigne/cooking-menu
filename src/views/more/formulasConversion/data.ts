@@ -2,11 +2,11 @@
  * 主食-配方换算
  */
 import { FormSchema } from '/@/components/Form';
-import { formulasFoodsListNormal } from './formulas.data';
-import { formulasFoodsListDipping } from './formulasDipping.data';
-import { formulasFoodsListMarinade } from './formulasMarinade.data';
-import { formulasFoodsListSuibian } from './formulasSuibian.data';
-import { formulasFoodsLisHuahua } from './formulasHuahua.data';
+import { formulasFoodsListNormal } from './mockData/formulas.data';
+import { formulasFoodsListDipping } from './mockData/formulasDipping.data';
+import { formulasFoodsListMarinade } from './mockData/formulasMarinade.data';
+import { formulasFoodsListSuibian } from './mockData/formulasSuibian.data';
+import { formulasFoodsLisHuahua } from './mockData/formulasHuahua.data';
 export const formulasFoods = {
   normal: formulasFoodsListNormal,
   dipping: formulasFoodsListDipping,
@@ -44,12 +44,18 @@ export const schemas: FormSchema[] = [
         // optionFilterProp: 'label',
       };
     },
+    colProps: {
+      span: 6,
+    },
   },
   {
     field: 'formulasName',
     label: '配方名称：',
     component: 'Input',
     defaultValue: '辣',
+    colProps: {
+      span: 6,
+    },
   },
 ];
 

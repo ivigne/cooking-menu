@@ -1,4 +1,4 @@
-import { bunFoodsList } from '/@/views/staples/bun/bun';
+// import { bunFoodsList } from '/@/views/staples/bun/bun';
 import { cakeFoodsList } from '/@/views/staples/cake/cake';
 import { dumplingFoodsList } from '/@/views/staples/dumpling/dumpling';
 import { flatcakeFoodsList } from '/@/views/staples/flatcake/flatcake';
@@ -50,4 +50,4 @@ export const staplesObj = {
   soup1: soupFoodsList1,
 };
 
-export const staplesFoodNames = staplesList.map((item) => item['foodName']);
+export const staplesFoodNames = staplesList?.map((item) => item['foodName']);

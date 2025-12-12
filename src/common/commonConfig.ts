@@ -201,6 +201,14 @@ export const cuisineCategoryList = [
   },
 ];
 // 口味-集合
+// 味型	核心风味	关键原料
+// 麻辣	麻 + 辣	辣椒 + 花椒
+// 香辣	香 > 辣	辣椒 + 多种香料
+// 酸辣	酸 + 辣	辣椒 + 醋/泡菜
+// 鲜辣	鲜 + 辣	新鲜辣椒
+// 糊辣	焦香 + 辣	炸至棕红的辣椒/花椒
+// 糟辣	发酵酸 + 辣	糟辣椒（贵州）
+// 炝辣	热油焦香 + 辣	热油 + 辣椒面
 export const tasteList = [
   {
     label: '酸甜',
@@ -656,21 +664,23 @@ export const formConfigVxe: CustomVxeFormItemProps[] = [
       // name: 'AApiSelect',
       name: 'ASelect',
       // defaultValue: 'jiangSu',
-      defaultValue: ({ item }) => {
-        // console.log('gbuho', objectFlag.value);
-        return (item.resetValue = objectFlag.value
+      // defaultValue: ({ item }) => {
+      //   // console.log('gbuho', objectFlag.value);
+      //   return (item.resetValue = objectFlag.value
+      //     ? {
+      //         label: '江苏省（苏）',
+      //         value: 'jiangSu',
+      //       }
+      //     : '');
+      // },
+      defaultValue: computed(() =>
+        objectFlag.value
           ? {
               label: '江苏省（苏）',
               value: 'jiangSu',
             }
-          : '');
-      },
-      // computed(() => objectFlag.value
-      //   ? {
-      //     label: '江苏省（苏）',
-      //     value: 'jiangSu',
-      //   }
-      //   : null),
+          : null,
+      ),
       props: {
         options: computed(() => provinceOptions),
         optionFilterProp: 'label',

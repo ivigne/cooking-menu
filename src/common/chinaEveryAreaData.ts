@@ -108,14 +108,14 @@ export const chinaAreaEastProvinceSouthLineFirstPlan = [
 ];
 // 华东-南方路线-第一次打卡的城市集合-已删减
 export const chinaAreaEastProvinceSouthLineFirst = [
-  '上海市',
+  // '上海市',
   '杭州市',
   '宁波市',
   '泉州市',
   '福州市',
   '漳州市',
-  '台北市',
-  '高雄市',
+  // '台北市',
+  // '高雄市',
   '广州市',
   '佛山市',
   '湛江市',
@@ -411,6 +411,9 @@ export const cityThird = [
   '信阳市',
   '台州市',
 ];
+export const cityFirstAndSecond = cityFirst.concat(citySecond);
+export const cityFirstAndSecondAndThird = cityFirstAndSecond.concat(cityThird);
+
 // 地区下拉
 export const areaOptions = [
   {
@@ -572,3 +575,84 @@ export const cityLevelOptions = ref([
     children: cityThird,
   },
 ]);
+
+// 华东-华南-西南-华中-华东(40)
+//  华东-南方路线一二线城市: 40 个
+export const chinaAreaEastProvinceSouthLine12 = [
+  '杭州市',
+  '宁波市',
+  '厦门市',
+  '福州市',
+  '宁德市',
+  '泉州市',
+  '漳州市',
+  '深圳市',
+  '广州市',
+  '东莞市',
+  '佛山市',
+  '珠海市',
+  '惠州市',
+  '中山市',
+  '湛江市',
+  '海口市',
+  '三亚市',
+  '南宁市',
+  '桂林市',
+  '柳州市',
+  '贵州省',
+  '昆明市',
+  // '西藏自治区',
+  '成都市',
+  '重庆市',
+  '武汉市',
+  '宜昌市',
+  '襄阳市',
+  '荆州市',
+  '长沙市',
+  '岳阳市',
+  '南昌市',
+  '九江市',
+  '赣州市',
+  '合肥市',
+  '芜湖市',
+  '南京市',
+  '无锡市',
+  '苏州市',
+  '常州市',
+  // '南通市',
+  // '盐城市',
+  '徐州市',
+  // '泰州市',
+];
+
+//  华东-北方路线一二三线城市: 2X 个，新增了想去的开封
+export const chinaAreaEastProvinceNorthLine123 = [
+  '青岛市',
+  '济南市',
+  '烟台市',
+  '威海市',
+  '石家庄市',
+  '保定市',
+  '天津市',
+  '北京市',
+  '大连市',
+  '沈阳市',
+  '长春市',
+  '哈尔滨市',
+  '呼和浩特市',
+  '兰州市',
+  '乌鲁木齐市',
+  '西宁市',
+  '银川市',
+  '西安市',
+  '榆林市',
+  '太原市',
+  '郑州市',
+  '洛阳市',
+  // '商丘市',
+  // '南阳市',
+  // '新乡市',
+  '许昌市',
+  // '信阳市',
+  '开封市',
+];

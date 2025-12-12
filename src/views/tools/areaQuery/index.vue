@@ -35,6 +35,8 @@
             >各省市城市菜的数量排名</Divider
           >
           <Button @click="sortCookByCity">城市菜品数量排名</Button>
+          <h2>华东-南方路线-第一次打卡的城市集合-总计有:</h2>
+          <FoodsTable :objData="totalListByCity" />
         </Space>
       </template>
     </Card>
@@ -48,6 +50,7 @@
   // import { useCopyToClipboard } from '/@/hooks/web/useCopyToClipboard';
   import { BasicForm, useForm } from '/@/components/Form';
   import AmapDistrictQuery from '/@/components/AmapDistrictQuery/index.vue';
+  import FoodsTable from '/@/views/components/foodsTable.vue';
   // import { fffoodsList } from '/@/views/asia/eastAsia/china/data';
   // import { chinaSnacksFoodsData } from '/@/views/snacks/china/data';
   // import { chinaSnacksFoodsData } from '/@/views/snacks/china/data';
@@ -65,13 +68,15 @@
     cityFirst,
     citySecond,
     cityThird,
+    cityFirstAndSecond,
+    cityFirstAndSecondAndThird,
     chinaAreaEastProvinceSouthLine,
     chinaAreaEastProvinceNorthLine,
     chinaAreaWestSouthProvinceSouthLine,
     chinaAreaWestSouthProvinceNorthLine,
   } from '/@/common/chinaEveryAreaData';
   import { formSchemas } from './data';
-
+  import { totalListByCity } from '/@/views/snacks/china/data';
   //表单
   const [registerForm, { getFieldsValue }] = useForm({
     schemas: formSchemas(),
@@ -97,8 +102,6 @@
       chinaAreaWestSouthProvinceSouthLine,
       chinaAreaWestSouthProvinceNorthLine,
     ]);
-    const cityFirstAndSecond = cityFirst.concat(citySecond);
-    const cityFirstAndSecondAndThird = cityFirstAndSecond.concat(cityThird);
     const cityData = ref<any>({
       cityFirst,
       citySecond,
@@ -164,5 +167,9 @@
   };
   const sortCookByCity = async () => {
     // const foodsList = ref<any[]>([]);
+    const cityName = getFieldsValue().cityName;
+    if (!cityName) {
+      return;
+    }
   };
 </script>

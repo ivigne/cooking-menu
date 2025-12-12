@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2023-08-07 17:19:18
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2025-02-11 13:23:26
+ * @LastEditTime: 2025-08-06 09:22:02
  * @FilePath: /cooking-menu/src/router/routes/modules/practicalTools.ts
  * @Description:
  *
@@ -75,6 +75,22 @@ const tools: AppRouteModule = {
       component: () => import('/@/views/tools/areaQuery/index.vue'),
       meta: {
         title: t('routes.tools.areaQuery'),
+      },
+    },
+    {
+      path: 'capitaCalc',
+      name: 'CapitaCalc',
+      component: () => import('/@/views/tools/capitaCalc/index.vue'),
+      meta: {
+        title: t('routes.tools.capitaCalc'),
+      },
+    },
+    {
+      path: 'nutritionCalc',
+      name: 'NutritionCalc',
+      component: () => import('/@/views/tools/nutritionCalc/index.vue'),
+      meta: {
+        title: t('routes.tools.nutritionCalc'),
       },
     },
   ],

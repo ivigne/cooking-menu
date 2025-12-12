@@ -1,7 +1,7 @@
 import ResizeObserver from 'resize-observer-polyfill';
 
 const isServer = typeof window === 'undefined';
-
+// 浏览器缩放
 /* istanbul ignore next */
 function resizeHandler(entries: any[]) {
   for (const entry of entries) {

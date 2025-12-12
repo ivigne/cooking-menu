@@ -3,11 +3,11 @@ const toString = Object.prototype.toString;
 export function is(val: unknown, type: string) {
   return toString.call(val) === `[object ${type}]`;
 }
-
+// 是否为undefined
 export function isDef<T = unknown>(val?: T): val is T {
   return typeof val !== 'undefined';
 }
-
+// 是否为非undefined
 export function isUnDef<T = unknown>(val?: T): val is T {
   return !isDef(val);
 }

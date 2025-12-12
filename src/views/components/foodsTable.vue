@@ -75,7 +75,7 @@
     type: { type: String, default: 'other' },
   });
   const { data, objData, type } = toRefs(props);
-  console.log('---------props', data.value, objData.value);
+  console.log('---------props', data.value, objData.value, type.value);
   objectFlag.value = type.value != 'other' ? true : false;
   // const emit = defineEmits(['filter-province']);
   // watch(province, (val) => {

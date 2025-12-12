@@ -2,7 +2,7 @@
  * @Author: vigne 1186963387@qq.com
  * @Date: 2022-10-01 10:44:38
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2025-02-11 13:23:19
+ * @LastEditTime: 2025-08-06 09:21:33
  * @FilePath: /cooking-menu/src/locales/lang/zh-CN/routes/tools.ts
  * @Description:
  *
@@ -14,4 +14,6 @@ export default {
   processData: '数据处理',
   codeGeneration: '代码生成',
   areaQuery: '区域查询',
+  capitaCalc: '家庭开销计算器',
+  nutritionCalc: '人体营养换算',
 };
